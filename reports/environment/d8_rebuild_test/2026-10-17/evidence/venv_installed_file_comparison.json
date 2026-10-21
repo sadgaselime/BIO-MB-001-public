@@ -1,0 +1,117 @@
+{
+ "biomarker-project": {
+  "status": "only_in_original"
+ },
+ "certifi": {
+  "hashed_files_compared": 11,
+  "identical": true,
+  "only_original": 0,
+  "only_rebuilt": 0,
+  "rebuilt_files_failing_own_RECORD": 0
+ },
+ "charset-normalizer": {
+  "hashed_files_compared": 20,
+  "identical": true,
+  "only_original": 0,
+  "only_rebuilt": 0,
+  "rebuilt_files_failing_own_RECORD": 0
+ },
+ "idna": {
+  "hashed_files_compared": 15,
+  "identical": true,
+  "only_original": 0,
+  "only_rebuilt": 0,
+  "rebuilt_files_failing_own_RECORD": 0
+ },
+ "iniconfig": {
+  "hashed_files_compared": 9,
+  "identical": true,
+  "only_original": 0,
+  "only_rebuilt": 0,
+  "rebuilt_files_failing_own_RECORD": 0
+ },
+ "numpy": {
+  "hashed_files_compared": 922,
+  "identical": true,
+  "only_original": 0,
+  "only_rebuilt": 0,
+  "rebuilt_files_failing_own_RECORD": 0
+ },
+ "packaging": {
+  "hashed_files_compared": 28,
+  "identical": true,
+  "only_original": 0,
+  "only_rebuilt": 0,
+  "rebuilt_files_failing_own_RECORD": 0
+ },
+ "pandas": {
+  "hashed_files_compared": 1520,
+  "identical": true,
+  "only_original": 0,
+  "only_rebuilt": 0,
+  "rebuilt_files_failing_own_RECORD": 0
+ },
+ "pip": {
+  "hashed_files_compared": 475,
+  "identical": true,
+  "only_original": 0,
+  "only_rebuilt": 0,
+  "rebuilt_files_failing_own_RECORD": 0
+ },
+ "pluggy": {
+  "hashed_files_compared": 13,
+  "identical": true,
+  "only_original": 0,
+  "only_rebuilt": 0,
+  "rebuilt_files_failing_own_RECORD": 0
+ },
+ "pygments": {
+  "hashed_files_compared": 348,
+  "identical": true,
+  "only_original": 0,
+  "only_rebuilt": 0,
+  "rebuilt_files_failing_own_RECORD": 0
+ },
+ "pytest": {
+  "hashed_files_compared": 88,
+  "identical": true,
+  "only_original": 0,
+  "only_rebuilt": 0,
+  "rebuilt_files_failing_own_RECORD": 0
+ },
+ "python-dateutil": {
+  "hashed_files_compared": 24,
+  "identical": true,
+  "only_original": 0,
+  "only_rebuilt": 0,
+  "rebuilt_files_failing_own_RECORD": 0
+ },
+ "pyyaml": {
+  "hashed_files_compared": 23,
+  "identical": true,
+  "only_original": 0,
+  "only_rebuilt": 0,
+  "rebuilt_files_failing_own_RECORD": 0
+ },
+ "requests": {
+  "hashed_files_compared": 25,
+  "identical": true,
+  "only_original": 0,
+  "only_rebuilt": 0,
+  "rebuilt_files_failing_own_RECORD": 0
+ },
+ "six": {
+  "hashed_files_compared": 5,
+  "identical": true,
+  "only_original": 0,
+  "only_rebuilt": 0,
+  "rebuilt_files_failing_own_RECORD": 0
+ },
+ "urllib3": {
+  "hashed_files_compared": 41,
+  "identical": true,
+  "only_original": 0,
+  "only_rebuilt": 0,
+  "rebuilt_files_failing_own_RECORD": 0
+ }
+}

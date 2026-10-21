@@ -1,0 +1,3 @@
+sources=reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md; reports/phase3b/v7/DECISIONS_REQUIRED_BEFORE_SAP_APPROVAL.md
+copied_utc=2026-10-17T15:14:40Z
+purpose=pre-edit copies before E1-E8 (D1 pin definition, D2 real-data computation rule, D3 D8 scope; approved 2026-10-17)

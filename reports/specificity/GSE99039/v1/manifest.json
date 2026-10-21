@@ -1,0 +1,169 @@
+{
+  "command": ".venv/bin/python -I scripts/specificity_gse99039.py --version v1",
+  "created_utc": "2026-10-20T14:35:55Z",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "GENETIC_UNAFFECTED__coverage.json": "fcf8f8b3330930fc985ed8b0cc6dd20fdd215d289390c047084dc7e85196346c",
+      "GENETIC_UNAFFECTED__identifiability.json": "33c379b61de2cfbf8fece2ae29eb538aaa499c958ad1d4b89f52589857741a2d",
+      "GENETIC_UNAFFECTED__measurability.tsv": "c88f1abe123c37528e17ab17dc934b38382c3f60bd39fcd304bc0da17f328c88",
+      "GENETIC_UNAFFECTED__per_gene.tsv": "4466709e9d7fe7d144a2c9cac4e56f7be66d6a7d4ce2b799aa18a4ab98168d5a",
+      "GENETIC_UNAFFECTED__samples.tsv": "dbfd541a1f697a26797e6293c1c20ed182ca64377623b5d47809e7e5cc1e297a",
+      "GENETIC_UNAFFECTED__score_W1.tsv": "4d78929a2a3c621324a79c0fded2cc6efc9fc36f457abef14e02756b89c3e6c1",
+      "GPD_S15__coverage.json": "fcf8f8b3330930fc985ed8b0cc6dd20fdd215d289390c047084dc7e85196346c",
+      "GPD_S15__identifiability.json": "db594dcee5195d446ba3d72d51ca3c53133006fccac8269db57f8d3841028ee1",
+      "GPD_S15__measurability.tsv": "c88f1abe123c37528e17ab17dc934b38382c3f60bd39fcd304bc0da17f328c88",
+      "GPD_S15__per_gene.tsv": "159fa85694dfe30e6bf0396027d11642da37b835f76e5fcf45a3518e3ce5774f",
+      "GPD_S15__samples.tsv": "8fa3cb36a38b55d7f8a3a11f0e08bc2c7567f54b2b5b7333310d64b6ffd859ea",
+      "GPD_S15__score_W1.tsv": "d287e5e5cc33f42dded7e91a75fff9da5da103be7d87c8b0d6f970d3b0b868be",
+      "GPD__coverage.json": "fcf8f8b3330930fc985ed8b0cc6dd20fdd215d289390c047084dc7e85196346c",
+      "GPD__identifiability.json": "45c1cbec661b59ce5acd9cd5bb1285efb6966c0c8be63616899a0a9c08ff87af",
+      "GPD__measurability.tsv": "c88f1abe123c37528e17ab17dc934b38382c3f60bd39fcd304bc0da17f328c88",
+      "GPD__per_gene.tsv": "2881919eefdba72c8aa7294016f9aa3b1742e6f48fbd51a362a4a6c508d53ad2",
+      "GPD__samples.tsv": "a99339e7244c6e4974a792cbc96884b602d7acf60b0673f1fd69efe003fa21a6",
+      "GPD__score_W1.tsv": "55bce772a34d9f8f31d8b8c24c977f1889da7e75a7b72e07fb198b03b0be08e0",
+      "IPD_S15__coverage.json": "fcf8f8b3330930fc985ed8b0cc6dd20fdd215d289390c047084dc7e85196346c",
+      "IPD_S15__identifiability.json": "e3e5c66e9a1e03e4af262b2241cac6fc0ec390af84ba515aa976d6891e773ab0",
+      "IPD_S15__measurability.tsv": "c88f1abe123c37528e17ab17dc934b38382c3f60bd39fcd304bc0da17f328c88",
+      "IPD_S15__per_gene.tsv": "e42d26e36449e94e11ba632f364f3cef5c5e7f5a5debc1a27b5e4a9378edfa46",
+      "IPD_S15__samples.tsv": "1eceb99e0b77b1219b3930efb1ec9074594c8e1ae77a0cc6fe34e0b538259a21",
+      "IPD_S15__score_W1.tsv": "77462318316135ed99c9868cce88877d847960ae79637de329c7a89b58d41735",
+      "IPD__coverage.json": "fcf8f8b3330930fc985ed8b0cc6dd20fdd215d289390c047084dc7e85196346c",
+      "IPD__identifiability.json": "43b6aa388fcc06440825c5e9ceeded401c738e95af03a85baca0bbad2ef0bc64",
+      "IPD__measurability.tsv": "c88f1abe123c37528e17ab17dc934b38382c3f60bd39fcd304bc0da17f328c88",
+      "IPD__per_gene.tsv": "d12dd02ce6e42160e5c9ca90b645d3d53b10933894520cffb461241bb5e28794",
+      "IPD__samples.tsv": "ea46cc433345492b21438ea74f4b451928535f4d9676940a93a6d81b950e53cf",
+      "IPD__score_W1.tsv": "09db958ead3701d8a54fc2d72d50b45b1b3cfda01eceb195ab893dbb056ccc0f",
+      "specificity_summary.json": "f98213900348932ce5714af5d27d96c33ff08fcfe724034e746f902543676aa3"
+    },
+    "runs_compared": 2
+  },
+  "equivalence": null,
+  "identity": {
+    "aggregate_sha256": "3ee5784cefcd70ae8befc6cdd89ff05bb7c66d1576c70c7a603d18a79241f547",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "1498fa48e9cfe38ee5a3e52416460a179e31105d4d5be111a4ec025ed16180d5",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 105,
+    "record_file": "code_identity.json",
+    "record_sha256": "e58f4e0d615b9b5bcc86b5c8d587bb94fd09a374ecd5e4072b19a778a10f12d0"
+  },
+  "identity_verification": {
+    "environment_modules": 410,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/specificity_gse99039.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "scripts/discovery_fit_gse63060.py": "36533e4d775027e75afc4bce5d49dc330d4097ac1bb5057f3096ba6b64e48da7",
+        "scripts/validation_gse63061.py": "465fed18b3374094c8835184db5fb1f4f2a79742e69ded0582716546507b0d7b",
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea",
+        "src/biomarker_project/differential_expression.py": "3525cdefd3274e19e0d8a5bc9f937bca6c817c4f5933b87dac2df4c75612925a",
+        "src/biomarker_project/expression_adjudication.py": "266f14367cdd295e4f51e95569636ca4fdf8e12ec27f67685c3e7328db597e82",
+        "src/biomarker_project/limma_backend.py": "0031b76cda1129e7cd35a2b7357f2c8b0fd9788ecdea590766cfa872352e7350"
+      },
+      "executed_files": 7,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 7,
+    "status": "PASS",
+    "verified_utc": "2026-10-20T14:35:55Z"
+  },
+  "inputs": {
+    "data/raw/GSE99039/GSE99039_series_matrix.txt.gz": "197b7272a8a5040c2843cbefd44f8bd43e9b7820562732d5b1ffd30841bfcb50",
+    "exclusion_list_sha256": "1551ab37d2ade028e16907aa6917821db006e8b43c9df010a63e41b8547e6b82",
+    "reports/annotation_audit/gpl570_option_a/v2/probe_set_classification.tsv": "9e5f23fa8b10b3e120b518873905b79e5f338ca07ec83357e173d3a2ddea8d9c",
+    "reports/duplicate_review/GSE99039/c1_v1": "06f811b26a200cd4198e89180207f28d586e56a8e4d09e5e5e0eb07206539176",
+    "reports/eligibility/GSE99039/v1": "16467d8596ea202420500dcddb0d74175e2a2040536b6bb8688a8fc3ea81f748",
+    "reports/lock/GSE63060/v1": "45ba91d0e44dcee9924d27f6c3dc0fbd20ac37ec502c85d14e39c62d20c612df",
+    "reports/qc_stage_a/GSE99039/v1": "c47e6f7a3d0f3fde3a897b38126879a98034bbabed96c0e92b92710c61fdeab0",
+    "reports/qc_stage_b/GSE99039/v1": "548db75f54c11e09a5e7d405d0781fd25b63d2c25c341f7d356708f2df69fc2c",
+    "sap_sha256": "fef04a449e366f48a41a4d1a856deda8cf91542e0d6395ae653011eebcbbd454"
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-20T14:35:55Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "v1",
+    "run_id": "403de65ba28a",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-20T14:21:41Z"
+  },
+  "output_sha256": {
+    "GENETIC_UNAFFECTED__coverage.json": "fcf8f8b3330930fc985ed8b0cc6dd20fdd215d289390c047084dc7e85196346c",
+    "GENETIC_UNAFFECTED__identifiability.json": "33c379b61de2cfbf8fece2ae29eb538aaa499c958ad1d4b89f52589857741a2d",
+    "GENETIC_UNAFFECTED__measurability.tsv": "c88f1abe123c37528e17ab17dc934b38382c3f60bd39fcd304bc0da17f328c88",
+    "GENETIC_UNAFFECTED__per_gene.tsv": "4466709e9d7fe7d144a2c9cac4e56f7be66d6a7d4ce2b799aa18a4ab98168d5a",
+    "GENETIC_UNAFFECTED__samples.tsv": "dbfd541a1f697a26797e6293c1c20ed182ca64377623b5d47809e7e5cc1e297a",
+    "GENETIC_UNAFFECTED__score_W1.tsv": "4d78929a2a3c621324a79c0fded2cc6efc9fc36f457abef14e02756b89c3e6c1",
+    "GPD_S15__coverage.json": "fcf8f8b3330930fc985ed8b0cc6dd20fdd215d289390c047084dc7e85196346c",
+    "GPD_S15__identifiability.json": "db594dcee5195d446ba3d72d51ca3c53133006fccac8269db57f8d3841028ee1",
+    "GPD_S15__measurability.tsv": "c88f1abe123c37528e17ab17dc934b38382c3f60bd39fcd304bc0da17f328c88",
+    "GPD_S15__per_gene.tsv": "159fa85694dfe30e6bf0396027d11642da37b835f76e5fcf45a3518e3ce5774f",
+    "GPD_S15__samples.tsv": "8fa3cb36a38b55d7f8a3a11f0e08bc2c7567f54b2b5b7333310d64b6ffd859ea",
+    "GPD_S15__score_W1.tsv": "d287e5e5cc33f42dded7e91a75fff9da5da103be7d87c8b0d6f970d3b0b868be",
+    "GPD__coverage.json": "fcf8f8b3330930fc985ed8b0cc6dd20fdd215d289390c047084dc7e85196346c",
+    "GPD__identifiability.json": "45c1cbec661b59ce5acd9cd5bb1285efb6966c0c8be63616899a0a9c08ff87af",
+    "GPD__measurability.tsv": "c88f1abe123c37528e17ab17dc934b38382c3f60bd39fcd304bc0da17f328c88",
+    "GPD__per_gene.tsv": "2881919eefdba72c8aa7294016f9aa3b1742e6f48fbd51a362a4a6c508d53ad2",
+    "GPD__samples.tsv": "a99339e7244c6e4974a792cbc96884b602d7acf60b0673f1fd69efe003fa21a6",
+    "GPD__score_W1.tsv": "55bce772a34d9f8f31d8b8c24c977f1889da7e75a7b72e07fb198b03b0be08e0",
+    "IPD_S15__coverage.json": "fcf8f8b3330930fc985ed8b0cc6dd20fdd215d289390c047084dc7e85196346c",
+    "IPD_S15__identifiability.json": "e3e5c66e9a1e03e4af262b2241cac6fc0ec390af84ba515aa976d6891e773ab0",
+    "IPD_S15__measurability.tsv": "c88f1abe123c37528e17ab17dc934b38382c3f60bd39fcd304bc0da17f328c88",
+    "IPD_S15__per_gene.tsv": "e42d26e36449e94e11ba632f364f3cef5c5e7f5a5debc1a27b5e4a9378edfa46",
+    "IPD_S15__samples.tsv": "1eceb99e0b77b1219b3930efb1ec9074594c8e1ae77a0cc6fe34e0b538259a21",
+    "IPD_S15__score_W1.tsv": "77462318316135ed99c9868cce88877d847960ae79637de329c7a89b58d41735",
+    "IPD__coverage.json": "fcf8f8b3330930fc985ed8b0cc6dd20fdd215d289390c047084dc7e85196346c",
+    "IPD__identifiability.json": "43b6aa388fcc06440825c5e9ceeded401c738e95af03a85baca0bbad2ef0bc64",
+    "IPD__measurability.tsv": "c88f1abe123c37528e17ab17dc934b38382c3f60bd39fcd304bc0da17f328c88",
+    "IPD__per_gene.tsv": "d12dd02ce6e42160e5c9ca90b645d3d53b10933894520cffb461241bb5e28794",
+    "IPD__samples.tsv": "ea46cc433345492b21438ea74f4b451928535f4d9676940a93a6d81b950e53cf",
+    "IPD__score_W1.tsv": "09db958ead3701d8a54fc2d72d50b45b1b3cfda01eceb195ab893dbb056ccc0f",
+    "code_identity.json": "e58f4e0d615b9b5bcc86b5c8d587bb94fd09a374ecd5e4072b19a778a10f12d0",
+    "specificity_summary.json": "f98213900348932ce5714af5d27d96c33ff08fcfe724034e746f902543676aa3"
+  },
+  "r_environment": {
+    "found_BiocManager": "1.30.27",
+    "found_R": "4.6.1",
+    "found_bioc": "3.23",
+    "found_limma": "3.68.5",
+    "found_renv": "1.3.1",
+    "found_statmod": "1.5.2",
+    "pinned_BiocManager": "1.30.27",
+    "pinned_R": "4.6.1",
+    "pinned_bioc": "3.23",
+    "pinned_limma": "3.68.5",
+    "pinned_renv": "1.3.1",
+    "pinned_statmod": "1.5.2"
+  },
+  "status": "Tier B step 13: specificity of the locked GSE63060 signature in GSE99039 (D13). The SAP remains a proposed draft (not approved, not frozen).",
+  "validation": [
+    {
+      "check": "specificity sets equal the approved list (IPD 197, GPD 40, GU 22, CONTROL 229)",
+      "pass": true
+    },
+    {
+      "check": "signature has 200 locked genes",
+      "pass": true
+    }
+  ]
+}

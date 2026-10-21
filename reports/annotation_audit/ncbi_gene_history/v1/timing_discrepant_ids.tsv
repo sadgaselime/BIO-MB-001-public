@@ -1,0 +1,18 @@
+entrez_id	history_successor	discontinue_date	date_vs_cutoff	successor_in_baseline	affected_packages
+3653	104472715	20260527	after_cutoff	yes	illuminaHumanv4;hgu133plus2;lumi HT-12 v4 R2
+6914	-	20260523	after_cutoff		
+645261	117751736	20260324	after_cutoff	yes	hgu133plus2;lumi HT-12 v4 R2
+105377447	107986315	20260320	after_cutoff	yes	
+105379065	117751736	20260324	after_cutoff	yes	
+107986635	105377950	20260319	after_cutoff	yes	
+107986636	105377950	20260319	after_cutoff	yes	
+107986673	4301	20260318	on_or_before_cutoff	yes	
+124900389	339260	20260319	after_cutoff	yes	
+124900671	26234	20260325	after_cutoff	yes	
+124901281	8418	20260731	after_cutoff	yes	
+124901283	8418	20260731	after_cutoff	yes	
+124902122	105375980	20260417	after_cutoff	yes	
+124903827	440556	20260523	after_cutoff	yes	
+124904106	-	20260522	after_cutoff		
+124904164	105378685	20260401	after_cutoff	yes	
+128966744	150763	20260915	after_cutoff	yes	

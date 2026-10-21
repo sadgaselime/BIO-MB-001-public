@@ -1,0 +1,100 @@
+{
+  "purpose": "Counts for candidate Option A (GPL570). Not an approved mapping policy.",
+  "cutoff_inclusive": "20260318",
+  "sources": {
+    "tarball": {
+      "path": "/Users/sadgasalim/Documents/BIO-MB-001/reference/bioconductor_3.23/hgu133plus2.db_3.13.0.tar.gz",
+      "bytes": 2240377,
+      "md5": "459fcf4880a9eaa25b373c5635fede3d",
+      "sha256": "ddde58e777a8341536a664c7d4be874a2f395f8aaa019c1f738462a8ce74cc44",
+      "manifest": "reference/bioconductor_3.23/download_manifest.json"
+    },
+    "v1_table": {
+      "path": "reports/annotation_audit/ncbi_gene_history/v1/gene_history_reconciliation.tsv",
+      "bytes": 3175922,
+      "md5": "f3c6d0b3fce50bf0aba4ad1340500ce6",
+      "sha256": "42451a70752436a65c9caeab076317c0cf5523b13410003cc29f52df3f24f8f2"
+    },
+    "v1_input_id_sha256": "a9d272afdfa76cebb6172016707ffbf4b832aec4ac92b5dcf2fa3d10212f6739"
+  },
+  "counts": {
+    "probe_sets_total": 54675,
+    "classes": {
+      "eligible_direct": 43086,
+      "eligible_via_history_replacement": 25,
+      "multiple_mappings_excluded": 1562,
+      "no_assignment_in_package": 9964,
+      "no_eligible_assignment_discontinued": 38
+    },
+    "probe_sets_with_one_eligible_gene": 43111,
+    "probe_level": {
+      "replaced_under_cutoff": 25,
+      "discontinued_no_replacement": 38,
+      "collision_successor_already_directly_mapped": 16
+    },
+    "gene_level": {
+      "package_entrez_ids": 22251,
+      "replaced_under_cutoff": 20,
+      "discontinued_no_replacement": 32,
+      "collision_successor_already_directly_mapped": 12,
+      "distinct_option_a_genes": 20820,
+      "v1_replaced_genes_only_in_multi_gene_probe_sets": 16,
+      "v1_discontinued_genes_only_in_multi_gene_probe_sets": 16
+    },
+    "accession_route_comparison": {
+      "single_gene_probe_sets": 43149,
+      "route_gives_exactly_one_gene": 23332,
+      "same_as_package_gene": 23314,
+      "different_gene": 18,
+      "route_ambiguous_more_than_one_gene": 1,
+      "no_accession_route": 19816,
+      "level": "probe set",
+      "gene_level_disagreements": "not computed (source not retained)"
+    }
+  },
+  "validation": {
+    "status": "OK",
+    "checks": [
+      {
+        "check": "each probe set classified exactly once",
+        "status": "OK"
+      },
+      {
+        "check": "probe sets = single + multiple + none",
+        "status": "OK"
+      },
+      {
+        "check": "single-gene probe sets match 2026-10-12 figure (43,149)",
+        "status": "OK"
+      },
+      {
+        "check": "is_multiple flag consistent with gene count",
+        "status": "OK"
+      },
+      {
+        "check": "no unresolved classes",
+        "status": "OK"
+      },
+      {
+        "check": "v1 View A replaced genes (36) = in single-gene probe sets + only in multi-gene probe sets",
+        "status": "OK"
+      },
+      {
+        "check": "v1 View A discontinued genes (48) = in single-gene probe sets + only in multi-gene probe sets",
+        "status": "OK"
+      },
+      {
+        "check": "no mapping inferred for non-eligible probe sets",
+        "status": "OK"
+      }
+    ]
+  },
+  "determinism": {
+    "runs_compared": 2,
+    "identical": true,
+    "output_sha256": {
+      "probe_set_classification.tsv": "9e5f23fa8b10b3e120b518873905b79e5f338ca07ec83357e173d3a2ddea8d9c"
+    }
+  },
+  "command": "python scripts/annotation_gpl570_option_a_counts.py --version v1"
+}

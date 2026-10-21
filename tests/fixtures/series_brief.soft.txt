@@ -1,0 +1,16 @@
+^SERIES = GSE1000001
+!Series_title = Synthetic test series
+!Series_geo_accession = GSE1000001
+!Series_status = Public on Jan 01 2020
+!Series_submission_date = Jan 01 2020
+!Series_last_update_date = Jan 02 2020
+!Series_summary = Synthetic fixture for offline unit tests.
+!Series_overall_design = Five synthetic samples.
+!Series_type = Expression profiling by array
+!Series_platform_id = GPL9999999
+!Series_sample_id = GSM900001
+!Series_sample_id = GSM900002
+!Series_sample_id = GSM900003
+!Series_sample_id = GSM900004
+!Series_sample_id = GSM900005
+!Series_relation = SubSeries of: GSE1000000

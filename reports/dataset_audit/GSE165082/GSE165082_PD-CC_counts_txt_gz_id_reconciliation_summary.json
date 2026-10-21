@@ -1,0 +1,59 @@
+{
+  "left_label": "expression",
+  "right_label": "phenotype",
+  "key_description": "expression column/sample ID == GEO title",
+  "n_left_ids": 26,
+  "n_right_records": 26,
+  "n_matched": 26,
+  "matched": [
+    "011_PD",
+    "012_PD",
+    "015_PD",
+    "016_PD",
+    "021_CC",
+    "022_PD",
+    "023_CC",
+    "024_PD",
+    "025_CC",
+    "026_CC",
+    "027_CC",
+    "028_PD",
+    "029_CC",
+    "030_CC",
+    "031_PD",
+    "036_CC",
+    "038_CC",
+    "039_CC",
+    "040_CC",
+    "041_CC",
+    "043_CC",
+    "045_PD",
+    "047_CC",
+    "049_PD",
+    "050_PD",
+    "051_PD"
+  ],
+  "left_only": [],
+  "right_only": [],
+  "duplicate_left_ids": {},
+  "duplicate_right_ids": {},
+  "normalization_changes": [],
+  "right_records_without_key": [],
+  "missing_diagnosis": [],
+  "ambiguous_diagnosis": [],
+  "unmapped_diagnosis": [],
+  "group_counts_all_records": {
+    "HC": 14,
+    "PD": 12
+  },
+  "group_counts_matched": {
+    "HC": 14,
+    "PD": 12
+  },
+  "raw_label_counts_all_records": {
+    "Control": 14,
+    "PD": 12
+  },
+  "near_miss_hints": [],
+  "exact_one_to_one": true
+}

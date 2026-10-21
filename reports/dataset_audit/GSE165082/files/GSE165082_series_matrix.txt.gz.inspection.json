@@ -1,0 +1,417 @@
+{
+  "path": "data/raw/GSE165082/GSE165082_series_matrix.txt.gz",
+  "file_name": "GSE165082_series_matrix.txt.gz",
+  "status": "INSPECTED_WITH_LIMITATIONS",
+  "format": "geo_series_matrix",
+  "compression": "gzip",
+  "size_bytes": 4034,
+  "n_rows": 0,
+  "n_columns": 27,
+  "delimiter": "\t",
+  "header_line_number": 75,
+  "feature_id_column": "ID_REF",
+  "annotation_columns": [],
+  "sample_columns": [
+    {
+      "column": "GSM5025809",
+      "column_index": 1,
+      "sample_id": "GSM5025809",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025810",
+      "column_index": 2,
+      "sample_id": "GSM5025810",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025811",
+      "column_index": 3,
+      "sample_id": "GSM5025811",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025812",
+      "column_index": 4,
+      "sample_id": "GSM5025812",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025813",
+      "column_index": 5,
+      "sample_id": "GSM5025813",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025814",
+      "column_index": 6,
+      "sample_id": "GSM5025814",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025815",
+      "column_index": 7,
+      "sample_id": "GSM5025815",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025816",
+      "column_index": 8,
+      "sample_id": "GSM5025816",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025817",
+      "column_index": 9,
+      "sample_id": "GSM5025817",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025818",
+      "column_index": 10,
+      "sample_id": "GSM5025818",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025819",
+      "column_index": 11,
+      "sample_id": "GSM5025819",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025820",
+      "column_index": 12,
+      "sample_id": "GSM5025820",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025821",
+      "column_index": 13,
+      "sample_id": "GSM5025821",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025822",
+      "column_index": 14,
+      "sample_id": "GSM5025822",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025823",
+      "column_index": 15,
+      "sample_id": "GSM5025823",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025824",
+      "column_index": 16,
+      "sample_id": "GSM5025824",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025825",
+      "column_index": 17,
+      "sample_id": "GSM5025825",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025826",
+      "column_index": 18,
+      "sample_id": "GSM5025826",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025827",
+      "column_index": 19,
+      "sample_id": "GSM5025827",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025828",
+      "column_index": 20,
+      "sample_id": "GSM5025828",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025829",
+      "column_index": 21,
+      "sample_id": "GSM5025829",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025830",
+      "column_index": 22,
+      "sample_id": "GSM5025830",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025831",
+      "column_index": 23,
+      "sample_id": "GSM5025831",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025832",
+      "column_index": 24,
+      "sample_id": "GSM5025832",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025833",
+      "column_index": 25,
+      "sample_id": "GSM5025833",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM5025834",
+      "column_index": 26,
+      "sample_id": "GSM5025834",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    }
+  ],
+  "candidate_sample_ids": [
+    "GSM5025809",
+    "GSM5025810",
+    "GSM5025811",
+    "GSM5025812",
+    "GSM5025813",
+    "GSM5025814",
+    "GSM5025815",
+    "GSM5025816",
+    "GSM5025817",
+    "GSM5025818",
+    "GSM5025819",
+    "GSM5025820",
+    "GSM5025821",
+    "GSM5025822",
+    "GSM5025823",
+    "GSM5025824",
+    "GSM5025825",
+    "GSM5025826",
+    "GSM5025827",
+    "GSM5025828",
+    "GSM5025829",
+    "GSM5025830",
+    "GSM5025831",
+    "GSM5025832",
+    "GSM5025833",
+    "GSM5025834"
+  ],
+  "measurement_types": {
+    "value": 26
+  },
+  "duplicate_column_headers": [],
+  "empty_header_sample_columns": [],
+  "duplicate_sample_ids": [],
+  "n_unique_feature_ids": null,
+  "duplicate_feature_ids": {},
+  "missing_feature_ids": null,
+  "missing_values": {},
+  "value_summary": {},
+  "metadata": {
+    "series": {
+      "Series_title": [
+        "DNA methylation and expression profiles of whole blood in Parkinson\u2019s disease (RNA-Seq)"
+      ],
+      "Series_geo_accession": [
+        "GSE165082"
+      ],
+      "Series_status": [
+        "Public on Mar 11 2021"
+      ],
+      "Series_submission_date": [
+        "Jan 19 2021"
+      ],
+      "Series_last_update_date": [
+        "May 14 2021"
+      ],
+      "Series_pubmed_id": [
+        "33981329"
+      ],
+      "Series_summary": [
+        "Parkinson\u2019s disease (PD) is the second most common age-related neurodegenerative disease. It is presently only accurately diagnosed at an advanced stage by a series of motor deficits, which are predated by a litany of non-motor symptoms manifesting over years or decades. Aberrant epigenetic modifications exist across a range of diseases and are non-invasively detectable in blood as potential markers of disease. We performed comparative analyses of the methylome and transcriptome in blood from PD patients and matched controls. Our aim was to characterize DNA methylation and gene expression patterns in whole blood from PD patients as a foundational step toward the future goal of identifying molecular markers that could predict, accurately diagnose, or track progression of PD. We found that differentially expressed genes (DEGs) were involved in the processes of transcription and mitochondrial function and that PD methylation profiles were readily distinguishable from healthy controls, even in whole blood DNA samples. Differentially methylated regions (DMRs) were functionally varied, including near transcription factor NFYA, receptor tyrosine kinase DDR1, ubiquitin ligase RNF5, acetyltransferase AGPAT1, and vault RNA VTRNA2-1. Expression quantitative trait methylation (eQTM) sites were found at long non-coding RNA PAX8-AS1 and transcription regulator ZFP57, among others. Functional epigenetic modules (FEM) were highlighted by IL18R1, PTPRC, and ITGB2. We identified patterns of altered disease-specific DNA methylation and associated gene expression in whole blood. Our combined analyses extended what we learned from the DEG or DMR results alone. These studies provide a foundation to support characterization of larger sample cohorts, with the goal of building a thorough, accurate and non-invasive molecular PD biomarker."
+      ],
+      "Series_overall_design": [
+        "Parkinson's disease (PD) and control subjects where analyzed for changes in gene expression and DNA methylation. Each group contained 15 age-matched subjects. Two blood samples were taken from each subject. One sample was used for isolation of total RNA and the other was used for extraction of DNA. The PD group was compared to controls for each data type and correlations between data types were assessed."
+      ],
+      "Series_type": [
+        "Expression profiling by high throughput sequencing"
+      ],
+      "Series_contributor": [
+        "Adrienne,R,Henderson",
+        "Qi,,Wang",
+        "Bessie,,Meechoovet",
+        "Ashley,L,Siniard",
+        "Marcus,,Naymik",
+        "Matthew,,DeBoth",
+        "Matthew,J,Huentelman",
+        "Richard,J,Caselli",
+        "Erika,,Driver-Dunckley",
+        "Travis,,Dunckley"
+      ],
+      "Series_sample_id": [
+        "GSM5025809 GSM5025810 GSM5025811 GSM5025812 GSM5025813 GSM5025814 GSM5025815 GSM5025816 GSM5025817 GSM5025818 GSM5025819 GSM5025820 GSM5025821 GSM5025822 GSM5025823 GSM5025824 GSM5025825 GSM5025826 GSM5025827 GSM5025828 GSM5025829 GSM5025830 GSM5025831 GSM5025832 GSM5025833 GSM5025834 "
+      ],
+      "Series_supplementary_file": [
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE165nnn/GSE165082/suppl/GSE165082_PD-CC.counts.txt.gz"
+      ],
+      "Series_platform_id": [
+        "GPL11154"
+      ],
+      "Series_platform_taxid": [
+        "9606"
+      ],
+      "Series_sample_taxid": [
+        "9606"
+      ],
+      "Series_relation": [
+        "SubSeries of: GSE165083",
+        "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA693202",
+        "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP302340"
+      ]
+    },
+    "omitted_contact_fields": [
+      "Series_contact_address",
+      "Series_contact_city",
+      "Series_contact_country",
+      "Series_contact_institute",
+      "Series_contact_name",
+      "Series_contact_state",
+      "Series_contact_zip/postal_code"
+    ],
+    "sample_fields": [
+      "Sample_channel_count",
+      "Sample_characteristics_ch1",
+      "Sample_contact_address",
+      "Sample_contact_city",
+      "Sample_contact_country",
+      "Sample_contact_institute",
+      "Sample_contact_name",
+      "Sample_contact_state",
+      "Sample_contact_zip/postal_code",
+      "Sample_data_processing",
+      "Sample_data_row_count",
+      "Sample_extract_protocol_ch1",
+      "Sample_geo_accession",
+      "Sample_growth_protocol_ch1",
+      "Sample_instrument_model",
+      "Sample_last_update_date",
+      "Sample_library_selection",
+      "Sample_library_source",
+      "Sample_library_strategy",
+      "Sample_molecule_ch1",
+      "Sample_organism_ch1",
+      "Sample_platform_id",
+      "Sample_relation",
+      "Sample_source_name_ch1",
+      "Sample_status",
+      "Sample_submission_date",
+      "Sample_supplementary_file_1",
+      "Sample_taxid_ch1",
+      "Sample_title",
+      "Sample_treatment_protocol_ch1",
+      "Sample_type"
+    ],
+    "sample_geo_accession": [
+      "GSM5025809",
+      "GSM5025810",
+      "GSM5025811",
+      "GSM5025812",
+      "GSM5025813",
+      "GSM5025814",
+      "GSM5025815",
+      "GSM5025816",
+      "GSM5025817",
+      "GSM5025818",
+      "GSM5025819",
+      "GSM5025820",
+      "GSM5025821",
+      "GSM5025822",
+      "GSM5025823",
+      "GSM5025824",
+      "GSM5025825",
+      "GSM5025826",
+      "GSM5025827",
+      "GSM5025828",
+      "GSM5025829",
+      "GSM5025830",
+      "GSM5025831",
+      "GSM5025832",
+      "GSM5025833",
+      "GSM5025834"
+    ],
+    "sample_title": [
+      "045_PD",
+      "012_PD",
+      "015_PD",
+      "024_PD",
+      "016_PD",
+      "050_PD",
+      "028_PD",
+      "011_PD",
+      "022_PD",
+      "051_PD",
+      "031_PD",
+      "049_PD",
+      "029_CC",
+      "025_CC",
+      "041_CC",
+      "040_CC",
+      "043_CC",
+      "038_CC",
+      "047_CC",
+      "039_CC",
+      "023_CC",
+      "026_CC",
+      "027_CC",
+      "030_CC",
+      "036_CC",
+      "021_CC"
+    ],
+    "sample_data_processing": [
+      "Genome_build: ensembl GRCH37.75",
+      "Illumina Casava1.7 software used for basecalling.",
+      "Reads counts were calculated by the featureCounts function from subread program v1.6.0",
+      "Sequenced reads were mapped to ensembl GRCH37.75 reference genome using STAR v2.5.2  with parameters --outFilterType BySJout --outFilterMultimapNmax 20 --alignSJoverhangMin 8 \\  --alignSJDBoverhangMin 1 --outFilterMismatchNmax 999 --outFilterMismatchNoverLmax 0.04 \\  --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000",
+      "Supplementary_files_format_and_content: Matrix table with raw gene counts for every gene and every sample"
+    ],
+    "sample_characteristics_rows": 2,
+    "sample_platform_id": [
+      "GPL11154"
+    ],
+    "table_begin_line": 74,
+    "table_end_line": 76,
+    "header_matches_sample_geo_accession": true
+  },
+  "table_kind": "metadata_only_series_matrix",
+  "limitations": [
+    "series matrix contains no data rows (metadata only)"
+  ],
+  "error": null
+}

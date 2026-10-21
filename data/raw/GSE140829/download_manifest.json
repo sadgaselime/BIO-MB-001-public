@@ -1,0 +1,444 @@
+{
+  "files": {
+    "GSE140829_final_normalized_data.txt.gz": {
+      "current": {
+        "available_locally": true,
+        "error": null,
+        "finished_at": "2026-10-09T14:08:23+00:00",
+        "integrity": {
+          "detail": "158999840 uncompressed bytes",
+          "method": "gzip_full_decompression",
+          "ok": true
+        },
+        "local_size": 72571520,
+        "name": "GSE140829_final_normalized_data.txt.gz",
+        "network_used": false,
+        "notes": [
+          "existing file re-used: checksum matches earlier manifest record (server not consulted)"
+        ],
+        "path": "GSE140829_final_normalized_data.txt.gz",
+        "remote_last_modified": null,
+        "remote_size": null,
+        "resumed": false,
+        "sha256": "28613d74484a130cfe7f00034db6ae7358983adb50a1e8b01fb2d1e17ae1798b",
+        "started_at": "2026-10-09T14:08:22+00:00",
+        "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140829/suppl/GSE140829_final_normalized_data.txt.gz"
+      },
+      "history": [
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:31:39+00:00",
+          "integrity": {
+            "detail": "158999840 uncompressed bytes",
+            "method": "gzip_full_decompression",
+            "ok": true
+          },
+          "local_size": 72571520,
+          "name": "GSE140829_final_normalized_data.txt.gz",
+          "network_used": true,
+          "notes": [],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/raw/GSE140829/GSE140829_final_normalized_data.txt.gz",
+          "remote_last_modified": "Fri, 22 Nov 2019 11:17:40 GMT",
+          "remote_size": 72571520,
+          "resumed": false,
+          "sha256": "28613d74484a130cfe7f00034db6ae7358983adb50a1e8b01fb2d1e17ae1798b",
+          "started_at": "2026-10-09T13:31:32+00:00",
+          "status": "DOWNLOADED",
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140829/suppl/GSE140829_final_normalized_data.txt.gz"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:35:21+00:00",
+          "integrity": {
+            "detail": "158999840 uncompressed bytes",
+            "method": "gzip_full_decompression",
+            "ok": true
+          },
+          "local_size": 72571520,
+          "name": "GSE140829_final_normalized_data.txt.gz",
+          "network_used": true,
+          "notes": [
+            "existing file re-used: size matches server; checksum matches manifest"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/raw/GSE140829/GSE140829_final_normalized_data.txt.gz",
+          "remote_last_modified": "Fri, 22 Nov 2019 11:17:40 GMT",
+          "remote_size": 72571520,
+          "resumed": false,
+          "sha256": "28613d74484a130cfe7f00034db6ae7358983adb50a1e8b01fb2d1e17ae1798b",
+          "started_at": "2026-10-09T13:35:20+00:00",
+          "status": "REUSED_VERIFIED",
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140829/suppl/GSE140829_final_normalized_data.txt.gz"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:38:16+00:00",
+          "integrity": {
+            "detail": "158999840 uncompressed bytes",
+            "method": "gzip_full_decompression",
+            "ok": true
+          },
+          "local_size": 72571520,
+          "name": "GSE140829_final_normalized_data.txt.gz",
+          "network_used": false,
+          "notes": [
+            "existing file re-used: checksum matches earlier manifest record (server not consulted)"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/raw/GSE140829/GSE140829_final_normalized_data.txt.gz",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "28613d74484a130cfe7f00034db6ae7358983adb50a1e8b01fb2d1e17ae1798b",
+          "started_at": "2026-10-09T13:38:16+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140829/suppl/GSE140829_final_normalized_data.txt.gz"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:40:06+00:00",
+          "integrity": {
+            "detail": "158999840 uncompressed bytes",
+            "method": "gzip_full_decompression",
+            "ok": true
+          },
+          "local_size": 72571520,
+          "name": "GSE140829_final_normalized_data.txt.gz",
+          "network_used": false,
+          "notes": [
+            "existing file re-used: checksum matches earlier manifest record (server not consulted)"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/raw/GSE140829/GSE140829_final_normalized_data.txt.gz",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "28613d74484a130cfe7f00034db6ae7358983adb50a1e8b01fb2d1e17ae1798b",
+          "started_at": "2026-10-09T13:40:06+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140829/suppl/GSE140829_final_normalized_data.txt.gz"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T14:08:23+00:00",
+          "integrity": {
+            "detail": "158999840 uncompressed bytes",
+            "method": "gzip_full_decompression",
+            "ok": true
+          },
+          "local_size": 72571520,
+          "name": "GSE140829_final_normalized_data.txt.gz",
+          "network_used": false,
+          "notes": [
+            "existing file re-used: checksum matches earlier manifest record (server not consulted)"
+          ],
+          "path": "GSE140829_final_normalized_data.txt.gz",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "28613d74484a130cfe7f00034db6ae7358983adb50a1e8b01fb2d1e17ae1798b",
+          "started_at": "2026-10-09T14:08:22+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140829/suppl/GSE140829_final_normalized_data.txt.gz"
+        }
+      ]
+    },
+    "GSE140829_raw_data.txt.gz": {
+      "current": {
+        "available_locally": true,
+        "error": null,
+        "finished_at": "2026-10-09T14:08:25+00:00",
+        "integrity": {
+          "detail": "836794540 uncompressed bytes",
+          "method": "gzip_full_decompression",
+          "ok": true
+        },
+        "local_size": 326906021,
+        "name": "GSE140829_raw_data.txt.gz",
+        "network_used": false,
+        "notes": [
+          "existing file re-used: checksum matches earlier manifest record (server not consulted)"
+        ],
+        "path": "GSE140829_raw_data.txt.gz",
+        "remote_last_modified": null,
+        "remote_size": null,
+        "resumed": false,
+        "sha256": "de2ba7864b0c1b4350203e8fcc3d10382e990b3e5e98c5a1a4973ef8a7fd7938",
+        "started_at": "2026-10-09T14:08:23+00:00",
+        "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140829/suppl/GSE140829_raw_data.txt.gz"
+      },
+      "history": [
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:32:03+00:00",
+          "integrity": {
+            "detail": "836794540 uncompressed bytes",
+            "method": "gzip_full_decompression",
+            "ok": true
+          },
+          "local_size": 326906021,
+          "name": "GSE140829_raw_data.txt.gz",
+          "network_used": true,
+          "notes": [],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/raw/GSE140829/GSE140829_raw_data.txt.gz",
+          "remote_last_modified": "Fri, 22 Nov 2019 11:19:20 GMT",
+          "remote_size": 326906021,
+          "resumed": false,
+          "sha256": "de2ba7864b0c1b4350203e8fcc3d10382e990b3e5e98c5a1a4973ef8a7fd7938",
+          "started_at": "2026-10-09T13:31:39+00:00",
+          "status": "DOWNLOADED",
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140829/suppl/GSE140829_raw_data.txt.gz"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:35:24+00:00",
+          "integrity": {
+            "detail": "836794540 uncompressed bytes",
+            "method": "gzip_full_decompression",
+            "ok": true
+          },
+          "local_size": 326906021,
+          "name": "GSE140829_raw_data.txt.gz",
+          "network_used": true,
+          "notes": [
+            "existing file re-used: size matches server; checksum matches manifest"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/raw/GSE140829/GSE140829_raw_data.txt.gz",
+          "remote_last_modified": "Fri, 22 Nov 2019 11:19:20 GMT",
+          "remote_size": 326906021,
+          "resumed": false,
+          "sha256": "de2ba7864b0c1b4350203e8fcc3d10382e990b3e5e98c5a1a4973ef8a7fd7938",
+          "started_at": "2026-10-09T13:35:21+00:00",
+          "status": "REUSED_VERIFIED",
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140829/suppl/GSE140829_raw_data.txt.gz"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:38:19+00:00",
+          "integrity": {
+            "detail": "836794540 uncompressed bytes",
+            "method": "gzip_full_decompression",
+            "ok": true
+          },
+          "local_size": 326906021,
+          "name": "GSE140829_raw_data.txt.gz",
+          "network_used": false,
+          "notes": [
+            "existing file re-used: checksum matches earlier manifest record (server not consulted)"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/raw/GSE140829/GSE140829_raw_data.txt.gz",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "de2ba7864b0c1b4350203e8fcc3d10382e990b3e5e98c5a1a4973ef8a7fd7938",
+          "started_at": "2026-10-09T13:38:16+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140829/suppl/GSE140829_raw_data.txt.gz"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:40:09+00:00",
+          "integrity": {
+            "detail": "836794540 uncompressed bytes",
+            "method": "gzip_full_decompression",
+            "ok": true
+          },
+          "local_size": 326906021,
+          "name": "GSE140829_raw_data.txt.gz",
+          "network_used": false,
+          "notes": [
+            "existing file re-used: checksum matches earlier manifest record (server not consulted)"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/raw/GSE140829/GSE140829_raw_data.txt.gz",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "de2ba7864b0c1b4350203e8fcc3d10382e990b3e5e98c5a1a4973ef8a7fd7938",
+          "started_at": "2026-10-09T13:40:06+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140829/suppl/GSE140829_raw_data.txt.gz"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T14:08:25+00:00",
+          "integrity": {
+            "detail": "836794540 uncompressed bytes",
+            "method": "gzip_full_decompression",
+            "ok": true
+          },
+          "local_size": 326906021,
+          "name": "GSE140829_raw_data.txt.gz",
+          "network_used": false,
+          "notes": [
+            "existing file re-used: checksum matches earlier manifest record (server not consulted)"
+          ],
+          "path": "GSE140829_raw_data.txt.gz",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "de2ba7864b0c1b4350203e8fcc3d10382e990b3e5e98c5a1a4973ef8a7fd7938",
+          "started_at": "2026-10-09T14:08:23+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140829/suppl/GSE140829_raw_data.txt.gz"
+        }
+      ]
+    },
+    "GSE140829_series_matrix.txt.gz": {
+      "current": {
+        "available_locally": true,
+        "error": null,
+        "finished_at": "2026-10-09T14:08:22+00:00",
+        "integrity": {
+          "detail": "499348088 uncompressed bytes",
+          "method": "gzip_full_decompression",
+          "ok": true
+        },
+        "local_size": 226272058,
+        "name": "GSE140829_series_matrix.txt.gz",
+        "network_used": false,
+        "notes": [
+          "existing file re-used: checksum matches earlier manifest record (server not consulted)"
+        ],
+        "path": "GSE140829_series_matrix.txt.gz",
+        "remote_last_modified": null,
+        "remote_size": null,
+        "resumed": false,
+        "sha256": "be4f08a2cb01fe912a764df66fd654dec70d9e1ecd36bded00b675b27e7f83f3",
+        "started_at": "2026-10-09T14:08:20+00:00",
+        "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140829/matrix/GSE140829_series_matrix.txt.gz"
+      },
+      "history": [
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:31:32+00:00",
+          "integrity": {
+            "detail": "499348088 uncompressed bytes",
+            "method": "gzip_full_decompression",
+            "ok": true
+          },
+          "local_size": 226272058,
+          "name": "GSE140829_series_matrix.txt.gz",
+          "network_used": true,
+          "notes": [
+            "resumed from byte 1048576"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/raw/GSE140829/GSE140829_series_matrix.txt.gz",
+          "remote_last_modified": "Wed, 16 Sep 2026 05:21:19 GMT",
+          "remote_size": 226272058,
+          "resumed": true,
+          "sha256": "be4f08a2cb01fe912a764df66fd654dec70d9e1ecd36bded00b675b27e7f83f3",
+          "started_at": "2026-10-09T13:30:53+00:00",
+          "status": "DOWNLOADED",
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140829/matrix/GSE140829_series_matrix.txt.gz"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:35:20+00:00",
+          "integrity": {
+            "detail": "499348088 uncompressed bytes",
+            "method": "gzip_full_decompression",
+            "ok": true
+          },
+          "local_size": 226272058,
+          "name": "GSE140829_series_matrix.txt.gz",
+          "network_used": true,
+          "notes": [
+            "existing file re-used: size matches server; checksum matches manifest"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/raw/GSE140829/GSE140829_series_matrix.txt.gz",
+          "remote_last_modified": "Wed, 16 Sep 2026 05:21:19 GMT",
+          "remote_size": 226272058,
+          "resumed": false,
+          "sha256": "be4f08a2cb01fe912a764df66fd654dec70d9e1ecd36bded00b675b27e7f83f3",
+          "started_at": "2026-10-09T13:35:18+00:00",
+          "status": "REUSED_VERIFIED",
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140829/matrix/GSE140829_series_matrix.txt.gz"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:38:16+00:00",
+          "integrity": {
+            "detail": "499348088 uncompressed bytes",
+            "method": "gzip_full_decompression",
+            "ok": true
+          },
+          "local_size": 226272058,
+          "name": "GSE140829_series_matrix.txt.gz",
+          "network_used": false,
+          "notes": [
+            "existing file re-used: checksum matches earlier manifest record (server not consulted)"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/raw/GSE140829/GSE140829_series_matrix.txt.gz",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "be4f08a2cb01fe912a764df66fd654dec70d9e1ecd36bded00b675b27e7f83f3",
+          "started_at": "2026-10-09T13:38:14+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140829/matrix/GSE140829_series_matrix.txt.gz"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:40:06+00:00",
+          "integrity": {
+            "detail": "499348088 uncompressed bytes",
+            "method": "gzip_full_decompression",
+            "ok": true
+          },
+          "local_size": 226272058,
+          "name": "GSE140829_series_matrix.txt.gz",
+          "network_used": false,
+          "notes": [
+            "existing file re-used: checksum matches earlier manifest record (server not consulted)"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/raw/GSE140829/GSE140829_series_matrix.txt.gz",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "be4f08a2cb01fe912a764df66fd654dec70d9e1ecd36bded00b675b27e7f83f3",
+          "started_at": "2026-10-09T13:40:04+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140829/matrix/GSE140829_series_matrix.txt.gz"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T14:08:22+00:00",
+          "integrity": {
+            "detail": "499348088 uncompressed bytes",
+            "method": "gzip_full_decompression",
+            "ok": true
+          },
+          "local_size": 226272058,
+          "name": "GSE140829_series_matrix.txt.gz",
+          "network_used": false,
+          "notes": [
+            "existing file re-used: checksum matches earlier manifest record (server not consulted)"
+          ],
+          "path": "GSE140829_series_matrix.txt.gz",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "be4f08a2cb01fe912a764df66fd654dec70d9e1ecd36bded00b675b27e7f83f3",
+          "started_at": "2026-10-09T14:08:20+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140829/matrix/GSE140829_series_matrix.txt.gz"
+        }
+      ]
+    }
+  }
+}

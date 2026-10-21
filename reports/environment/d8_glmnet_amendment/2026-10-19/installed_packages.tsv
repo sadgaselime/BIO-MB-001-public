@@ -1,0 +1,11 @@
+package	version	repository	built	location	n_files	installed_tree_sha256
+glmnet	5.1	CRAN	R 4.6.1; aarch64-apple-darwin23; 2026-09-25 02:15:35 UTC; unix	renv project library	58	4f63f868251d08162192a7ba856a7820793ccecda76e511e01b07fbf5604f0e3
+Rcpp	1.1.2	CRAN	R 4.6.1; aarch64-apple-darwin23; 2026-07-05 10:40:15 UTC; unix	renv project library	648	39f7a891c5a273479a080414d3e08ba31f327c33788c583d25790489d125c56a
+RcppEigen	0.3.4.0.2	CRAN	R 4.6.0; aarch64-apple-darwin23; 2026-04-25 15:42:58 UTC; unix	renv project library	586	77c302e9f9db90dad1e9c793c79e2129c77d701fb26f2c3c7a7c4bc2e3a11c0d
+foreach	1.5.2	CRAN	R 4.6.0; ; 2026-04-25 23:16:42 UTC; unix	renv project library	55	c2f01452beaaa5a716c80fec77da482149bcf2c55bc5bca23cea19e17887a967
+iterators	1.0.14	CRAN	R 4.6.0; ; 2026-04-25 15:43:40 UTC; unix	renv project library	47	2f86f7ee8e99cf7f88ba6376988c00edf0922d8208d49c42d369695a1783c0a1
+shape	1.4.6.1	CRAN	R 4.6.0; ; 2026-04-25 15:46:22 UTC; unix	renv project library	26	a3c9df8e093fb31f0581afebb6852579c20a2ecc1c49fdd5fd61fcebacbb7320
+Matrix	1.7-5	CRAN	R 4.6.1; aarch64-apple-darwin23; 2026-06-25 21:54:11 UTC; unix	R system library (recommended package; not installed by this amendment)	140	cdebc28f23453103fe79d32519274decc8c000d4344bcf17796edd258d47c89f
+survival	3.8-6	CRAN	R 4.6.1; aarch64-apple-darwin23; 2026-06-25 21:54:33 UTC; unix	R system library (recommended package; not installed by this amendment)	297	30c14d679ebc34e9edfa0ff5493ff65a86f2614c1acb84234646e4c8288c712b
+lattice	0.22-9	CRAN	R 4.6.1; aarch64-apple-darwin23; 2026-06-25 21:54:07 UTC; unix	R system library (recommended package; not installed by this amendment)	60	6974200064bdae7041e4a0b028f48563e6ac81e9b6dd33222019eedea6edf46f
+codetools	0.2-20	CRAN	R 4.6.1; ; 2026-06-25 21:54:07 UTC; unix	R system library (recommended package; not installed by this amendment)	20	81ea1f273d7acf90efcf47c58683c91252040964f514193900e5761d923757a6

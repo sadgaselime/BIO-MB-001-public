@@ -1,0 +1,54 @@
+{
+  "GSE63060": {
+    "x": {
+      "d_descriptive": 3.5292060388729127,
+      "degenerate": false,
+      "low_size": 157,
+      "mean_high": 8.637906574127907,
+      "mean_low": 7.657946090248408,
+      "n": 329,
+      "reason": "non-degenerate (separating under D5 option (b))",
+      "sd_high": 0.34412769528536674,
+      "sd_low": 0.18915397437052067,
+      "threshold": 8.1470464795
+    },
+    "y": {
+      "d_descriptive": 4.121427345889407,
+      "degenerate": false,
+      "low_size": 211,
+      "mean_high": 0.17808826407627118,
+      "mean_low": -0.03127743367772524,
+      "n": 329,
+      "reason": "non-degenerate (separating under D5 option (b))",
+      "sd_high": 0.06697789717802924,
+      "sd_low": 0.02598273808461749,
+      "threshold": 0.06504577450000015
+    },
+    "y_genes_present": [
+      "CYorf15A",
+      "CYorf15B",
+      "DDX3Y",
+      "EIF1AY",
+      "KDM5D",
+      "RPS4Y1",
+      "USP9Y",
+      "UTY",
+      "ZFY"
+    ],
+    "y_probes_present": [
+      "ILMN_1783142",
+      "ILMN_1732039",
+      "ILMN_1685690",
+      "ILMN_1739587",
+      "ILMN_2264634",
+      "ILMN_1755537",
+      "ILMN_2228976",
+      "ILMN_2056795",
+      "ILMN_1804958",
+      "ILMN_2090059",
+      "ILMN_1670821",
+      "ILMN_1756506",
+      "ILMN_2094332"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "command": ".venv/bin/python -I scripts/r8_diagnostics_gse63060.py --version v2",
+  "created_utc": "2026-10-18T18:58:53Z",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "r8_marker_agreement.json": "a24d36ea64828e37b158960f176a8307021ad6f2c274b305b102a9e61cf74c28",
+      "r8_marker_calls_series_matrix.tsv": "6983c3bd558ab752c802753050016b199ae835908fc1e358a19c503fe9b4b21e",
+      "r8_probe_diagnostics.tsv": "13f3581f967d4b506770f28ca246e5a8b8c7a02942c64b9f1b2ddcc6c807d01d",
+      "r8_scale_summary.json": "da806b09b3841b437b70afc5c293eec4c594d36612e30b081d7db538b2e9fa31"
+    },
+    "runs_compared": 2
+  },
+  "equivalence": null,
+  "identity": {
+    "aggregate_sha256": "05d740eab7cd9d88c83d6267de3f0864d70c50626b74d0139987557f5aa63200",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "fa51c7b9d10dd468fbeed8b2ad83b832eb8acc83adb828dc25361cbbc4359951",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 75,
+    "record_file": "code_identity.json",
+    "record_sha256": "5c436bb916566a6f7c02f6efc98a1e38b1cff272bf47708fd9d8138d8ae79f76"
+  },
+  "identity_verification": {
+    "environment_modules": 409,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/r8_diagnostics_gse63060.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea",
+        "src/biomarker_project/expression_adjudication.py": "266f14367cdd295e4f51e95569636ca4fdf8e12ec27f67685c3e7328db597e82",
+        "src/biomarker_project/qc_r8.py": "d971ff8aec990fbe01c9c202048c846e6ee15d66dcb3998d242e28fd6ab28032"
+      },
+      "executed_files": 4,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 6,
+    "status": "PASS",
+    "verified_utc": "2026-10-18T18:58:53Z"
+  },
+  "inputs": {
+    "data/raw/GSE63060/GSE63060_non-normalized.txt.gz": {
+      "manifest_sha256": "163acd963f21ce51495b85d4a0187bb7ae6b11904f3b1d49114bfa39494931b7",
+      "sha256": "163acd963f21ce51495b85d4a0187bb7ae6b11904f3b1d49114bfa39494931b7"
+    },
+    "data/raw/GSE63060/GSE63060_series_matrix.txt.gz": {
+      "manifest_sha256": "342421d07105d786d623a4b86dc4a21b764da352e4facc7a032fbd36b0f19371",
+      "sha256": "342421d07105d786d623a4b86dc4a21b764da352e4facc7a032fbd36b0f19371"
+    }
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-18T18:58:53Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "v2",
+    "run_id": "172ad59e87a4",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-18T18:58:40Z"
+  },
+  "output_sha256": {
+    "code_identity.json": "5c436bb916566a6f7c02f6efc98a1e38b1cff272bf47708fd9d8138d8ae79f76",
+    "r8_marker_agreement.json": "a24d36ea64828e37b158960f176a8307021ad6f2c274b305b102a9e61cf74c28",
+    "r8_marker_calls_series_matrix.tsv": "6983c3bd558ab752c802753050016b199ae835908fc1e358a19c503fe9b4b21e",
+    "r8_probe_diagnostics.tsv": "13f3581f967d4b506770f28ca246e5a8b8c7a02942c64b9f1b2ddcc6c807d01d",
+    "r8_scale_summary.json": "da806b09b3841b437b70afc5c293eec4c594d36612e30b081d7db538b2e9fa31"
+  },
+  "qc_stage_a_v1_manifest_sha256": "22d1c6f8a3eb96889518fec12a750e3a40d6bdd208cbc3536b582b8026ecb1a3",
+  "status": "R8 amendment review diagnostics for GSE63060 (post hoc; decision support only; changes nothing).",
+  "validation": [
+    {
+      "check": "recorded sex mapped for every array",
+      "pass": true
+    },
+    {
+      "check": "series matrix arrays = eligibility universe",
+      "pass": true
+    }
+  ]
+}

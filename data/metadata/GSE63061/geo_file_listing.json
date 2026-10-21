@@ -1,0 +1,40 @@
+{
+  "retrieved_at": "2026-10-09T13:35:03+00:00",
+  "entries": [
+    {
+      "location": "matrix",
+      "name": "GSE63061_series_matrix.txt.gz",
+      "size_label": "61M",
+      "modified": "2026-08-27 01:34",
+      "configured": true
+    },
+    {
+      "location": "suppl",
+      "name": "GSE63061_RAW.tar",
+      "size_label": "26M",
+      "modified": "2015-08-06 06:43",
+      "configured": true
+    },
+    {
+      "location": "suppl",
+      "name": "GSE63061_non-normalized.txt.gz",
+      "size_label": "30M",
+      "modified": "2014-11-06 14:03",
+      "configured": true
+    },
+    {
+      "location": "suppl",
+      "name": "GSE63061_normalized.txt.gz",
+      "size_label": "61M",
+      "modified": "2014-11-06 14:04",
+      "configured": true
+    },
+    {
+      "location": "suppl",
+      "name": "filelist.txt",
+      "size_label": "260",
+      "modified": "2015-08-06 06:43",
+      "configured": true
+    }
+  ]
+}

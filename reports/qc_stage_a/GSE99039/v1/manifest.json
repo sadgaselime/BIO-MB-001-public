@@ -1,0 +1,145 @@
+{
+  "authorization": "PI instruction 2026-10-20 (GSE99039 eligibility rules E-99; recorded at v7:605): QC Stage A may compute and record candidate exclusions for GSE99039 under the approved QC policies, with the R8-570a probe sets (v7:608); none applied until the GSE99039 exclusion list is approved",
+  "cohort_status": {
+    "cohort_id": "GSE99039",
+    "data_origin": "GEO",
+    "gated_analyses": "V-A gate open; primary-population log not started: exclusion-list approval scope unresolved (v5:123-129; v7:552); Q1/P3 candidates not applied",
+    "n_arrays": 558,
+    "purpose": "Tier B step 5 QC Stage A on the R1 universe (diagnosis-blind)",
+    "r8_reason": "X axis: non-degenerate (separating under D5 option (b)); Y axis: non-degenerate (separating under D5 option (b)); 8 Y genes (18 probes)",
+    "r8_status": "completed \u2014 informative",
+    "r9_status": "completed",
+    "r9_stop_stage": null,
+    "real_data_authorization": "PI instruction 2026-10-20 (GSE99039 eligibility rules E-99; recorded at v7:605): QC Stage A may compute and record candidate exclusions for GSE99039 under the approved QC policies, with the R8-570a probe sets (v7:608); none applied until the GSE99039 exclusion list is approved",
+    "sex_consistency_label": null,
+    "stage_a_outputs_usable_downstream": false,
+    "va_gate_open": true
+  },
+  "command": ".venv/bin/python -I scripts/qc_stage_a_gse63060.py --version v1",
+  "created_utc": "2026-10-20T11:39:12Z",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "qc_a2_pairs.tsv": "13f3d57c9604f4d97d50fbc3e81adbb827cc4abc37db504e256911d132d05ed5",
+      "qc_audit.tsv": "6c409955d30f3fc9ac831674294eed703442096b442b4f1537e86ec3654ae04a",
+      "qc_candidate_exclusions.tsv": "ccac8ec5723de853c45381bca7dbb4d2d6d1355c8570bf78a0b63f4bc9484fba",
+      "qc_cohort_status.tsv": "d3ffe7cd9b9fba88adedd163c0dfb6104636ac493e72184cff8bdeaa71fd2839",
+      "qc_r8_axes.json": "e297024be03ed3868558ff91738f2c26f0b6b9af47eb2b3b51ee967935e40f8e",
+      "qc_r9_summary.json": "a3ebd8f022a4bdc517c925fa6ffa770dac79d5245d5ae86d1960d6c22c644eb3"
+    },
+    "runs_compared": 2
+  },
+  "equivalence": null,
+  "identity": {
+    "aggregate_sha256": "37dec4b3c902cb2f5d77be14bcab2341b6fbc209b74e013720e403548796339c",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "1498fa48e9cfe38ee5a3e52416460a179e31105d4d5be111a4ec025ed16180d5",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 103,
+    "record_file": "code_identity.json",
+    "record_sha256": "278824774a882e81e929586cf75baaee33615c36e6edacf4962527ce63752df8"
+  },
+  "identity_verification": {
+    "environment_modules": 409,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/qc_stage_a_gse63060.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea",
+        "src/biomarker_project/expression_adjudication.py": "266f14367cdd295e4f51e95569636ca4fdf8e12ec27f67685c3e7328db597e82",
+        "src/biomarker_project/qc_r8.py": "f2e09cd980e11977616257bc008902ea74e3ca5facb3ae58e1d795169f74b65b",
+        "src/biomarker_project/qc_r9.py": "63e214da98b1ad9233c10e5bb4c6d6eb7ea7b79bd957b4828de0658168af8104",
+        "src/biomarker_project/qc_stage_a.py": "b0983e74c22f218a7d4db11a8de53226724e672b8380a99d86126f473014f82b",
+        "src/biomarker_project/sample_policy.py": "558351aa15004d964818d93873a645c4f3778d970993a69d0c38c8444952b691"
+      },
+      "executed_files": 7,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 9,
+    "status": "PASS",
+    "verified_utc": "2026-10-20T11:39:12Z"
+  },
+  "inputs": {
+    "data/raw/GSE99039/GSE99039_series_matrix.txt.gz": {
+      "manifest_sha256": "197b7272a8a5040c2843cbefd44f8bd43e9b7820562732d5b1ffd30841bfcb50",
+      "sha256": "197b7272a8a5040c2843cbefd44f8bd43e9b7820562732d5b1ffd30841bfcb50"
+    },
+    "reports/annotation_audit/annotation_pin/v1": {
+      "manifest_sha256": "d48309e7f900f5434e592317b32fa8c09ed2661b2da470f7e7662ef12bebe930"
+    },
+    "reports/duplicate_review/GSE99039/c1_v1": {
+      "manifest_sha256": "06f811b26a200cd4198e89180207f28d586e56a8e4d09e5e5e0eb07206539176"
+    },
+    "reports/eligibility/GSE99039/v1": {
+      "manifest_sha256": "16467d8596ea202420500dcddb0d74175e2a2040536b6bb8688a8fc3ea81f748"
+    }
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-20T11:39:12Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "v1",
+    "run_id": "c8c8a9768b6c",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-20T11:39:08Z"
+  },
+  "n_arrays": 558,
+  "n_candidate_exclusions": 15,
+  "n_probes": 54675,
+  "non_finite_values": 0,
+  "output_sha256": {
+    "code_identity.json": "278824774a882e81e929586cf75baaee33615c36e6edacf4962527ce63752df8",
+    "qc_a2_pairs.tsv": "13f3d57c9604f4d97d50fbc3e81adbb827cc4abc37db504e256911d132d05ed5",
+    "qc_audit.tsv": "6c409955d30f3fc9ac831674294eed703442096b442b4f1537e86ec3654ae04a",
+    "qc_candidate_exclusions.tsv": "ccac8ec5723de853c45381bca7dbb4d2d6d1355c8570bf78a0b63f4bc9484fba",
+    "qc_cohort_status.tsv": "d3ffe7cd9b9fba88adedd163c0dfb6104636ac493e72184cff8bdeaa71fd2839",
+    "qc_r8_axes.json": "e297024be03ed3868558ff91738f2c26f0b6b9af47eb2b3b51ee967935e40f8e",
+    "qc_r9_summary.json": "a3ebd8f022a4bdc517c925fa6ffa770dac79d5245d5ae86d1960d6c22c644eb3"
+  },
+  "status": "Tier B step 5 QC Stage A for GSE99039: candidates COMPUTED AND RECORDED ONLY; no exclusion applied; outputs not usable downstream until the exclusion-list approval step and D16 are decided.",
+  "validation": [
+    {
+      "check": "expression shape is 54675 probes x 558 arrays",
+      "pass": true
+    },
+    {
+      "check": "arrays in eligibility-log order",
+      "pass": true
+    },
+    {
+      "check": "recorded sex mapped wherever deposited (missing allowed, E-99)",
+      "pass": true
+    },
+    {
+      "check": "QC inputs carry no diagnosis column",
+      "pass": true
+    },
+    {
+      "check": "no exclusion applied",
+      "pass": true
+    },
+    {
+      "check": "Stage A outputs marked not usable downstream",
+      "pass": true
+    }
+  ]
+}

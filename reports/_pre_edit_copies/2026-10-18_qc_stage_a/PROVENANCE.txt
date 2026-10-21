@@ -1,0 +1,2 @@
+Pre-edit copies before QC Stage A real-data enablement (PI ruling "A", 2026-10-18: compute and record candidate exclusions for GSE63060; none applied until the exclusion-list approval step and D16).
+Copied 2026-10-18T18:32:35Z UTC.

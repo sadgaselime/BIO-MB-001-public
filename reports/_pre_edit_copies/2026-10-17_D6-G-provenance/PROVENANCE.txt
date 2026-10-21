@@ -1,0 +1,3 @@
+sources=reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md; reports/phase3b/v7/DECISIONS_REQUIRED_BEFORE_SAP_APPROVAL.md
+copied_utc=2026-10-17T14:54:04Z
+purpose=pre-edit copies before recording verified D6-G A0 provenance

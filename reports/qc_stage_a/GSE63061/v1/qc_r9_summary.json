@@ -1,0 +1,22 @@
+{
+  "GSE63061": {
+    "M": 2.254655510504513,
+    "S": 0.10655541295983907,
+    "flag_threshold_z": 1.9349892716249957,
+    "k": 3.0,
+    "min_arrays": 10,
+    "n_a0_failures": 0,
+    "n_a1_failures": 0,
+    "n_a2_pairs": 0,
+    "n_a3_failures": 0,
+    "n_arrays": 388,
+    "n_flagged": 6,
+    "n_probes": 32049,
+    "n_probes_dropped_nonfinite": 0,
+    "n_referred_d18": 0,
+    "n_scored": 388,
+    "near_identical_tolerance": "1 - 1e-8",
+    "status": "completed",
+    "stop_stage": null
+  }
+}

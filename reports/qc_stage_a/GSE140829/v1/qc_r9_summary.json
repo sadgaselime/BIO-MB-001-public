@@ -1,0 +1,22 @@
+{
+  "GSE140829": {
+    "M": 2.1153292195201674,
+    "S": 0.11493936026258755,
+    "flag_threshold_z": 1.7705111387324046,
+    "k": 3.0,
+    "min_arrays": 10,
+    "n_a0_failures": 0,
+    "n_a1_failures": 0,
+    "n_a2_pairs": 0,
+    "n_a3_failures": 0,
+    "n_arrays": 587,
+    "n_flagged": 16,
+    "n_probes": 47008,
+    "n_probes_dropped_nonfinite": 0,
+    "n_referred_d18": 0,
+    "n_scored": 587,
+    "near_identical_tolerance": "1 - 1e-8",
+    "status": "completed",
+    "stop_stage": null
+  }
+}

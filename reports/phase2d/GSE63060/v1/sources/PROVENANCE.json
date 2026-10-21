@@ -1,0 +1,96 @@
+{
+  "retrieved_for": "BIO-MB-001 Phase 2D v1",
+  "request_headers": "generic browser User-Agent only; no personal data or credentials sent",
+  "supplement_links_printed_in_supplied_pdfs": {
+    "Lunnon 2013 (doi 10.3233/JAD-2012-121363)": [
+      "http://dx.doi.org/10.3233/JAD-2012-121363 (p.738)",
+      "http://www.j-alz.com/issues/33/vol33-3.html#supplementarydata03 (p.741, Supplementary Table 2)"
+    ],
+    "Lunnon 2012 (doi 10.3233/JAD-2012-111592)": [
+      "http://dx.doi.org/10.3233/JAD-111592 (p.686; invalid DOI as printed)",
+      "http://www.j-alz.com/issues/30/vol30-3.html#supplementarydata04 (p.688, Supplementary Table 1)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "url": "http://www.j-alz.com/issues/33/vol33-3.html",
+      "outcome": "HTTP 403 after redirect to journals.sagepub.com/home/ALZ; bot-detection challenge page ('Just a moment...')",
+      "response_bytes": 5691,
+      "response_sha256": "c54790a03e05b882d7a8a913bf6ae083ebd2fcf605db2898e8d4fe3a9bda1dd0",
+      "retrieved_at_utc": "2026-10-09T15:24:23+00:00",
+      "stored": false
+    },
+    {
+      "attempt": 2,
+      "url": "http://www.j-alz.com/issues/30/vol30-3.html",
+      "outcome": "HTTP 403 after redirect to journals.sagepub.com/home/ALZ; bot-detection challenge page ('Just a moment...')",
+      "response_bytes": 5691,
+      "response_sha256": "9f9703455e6e0d00123060d114c6d444bfea75b35f5aa109034a136d6129bce4",
+      "retrieved_at_utc": "2026-10-09T15:24:26+00:00",
+      "stored": false
+    },
+    {
+      "attempt": 3,
+      "url": "https://doi.org/10.3233/JAD-2012-121363",
+      "outcome": "HTTP 403 after redirect to journals.sagepub.com/doi/full/...; bot-detection challenge page",
+      "response_bytes": 5784,
+      "response_sha256": "67e4df6fa334c5a24ac97fa5e2999cd37e4188c50f9d3e616eb77c85f11d5d31",
+      "retrieved_at_utc": "2026-10-09T15:24:28+00:00",
+      "stored": false
+    },
+    {
+      "attempt": 4,
+      "url": "https://doi.org/10.3233/JAD-111592",
+      "outcome": "HTTP 404 'DOI Not Found' (DOI as printed in the 2012 PDF lacks '2012'; correct DOI is 10.3233/JAD-2012-111592)",
+      "response_bytes": 10600,
+      "response_sha256": "76d464d164f1d3ea599b40f01676b003cc0b1574e9af61ac5fa88feb9658d504",
+      "retrieved_at_utc": "2026-10-09T15:24:29+00:00",
+      "stored": false
+    },
+    {
+      "attempt": 5,
+      "url": "https://journals.sagepub.com/doi/suppl/10.3233/JAD-2012-121363",
+      "outcome": "HTTP 403; bot-detection challenge page",
+      "response_bytes": 5787,
+      "response_sha256": "4cd5caa3ad01f8eb7aff48a5ec5607dd1a683d2f0a1af1373f573a2be38cda34",
+      "retrieved_at_utc": "2026-10-09T15:24:31+00:00",
+      "stored": false
+    },
+    {
+      "attempt": 6,
+      "url": "https://journals.sagepub.com/doi/suppl/10.3233/JAD-2012-111592",
+      "outcome": "HTTP 403; bot-detection challenge page",
+      "response_bytes": 5766,
+      "response_sha256": "35bcc3803aba2675174a3e2a2d5166da8ba0bf842a4fd30127a8f1b3b4d4a4c0",
+      "retrieved_at_utc": "2026-10-09T15:24:32+00:00",
+      "stored": false
+    },
+    {
+      "attempt": 7,
+      "url": "https://content.iospress.com/articles/journal-of-alzheimers-disease/jad121363",
+      "outcome": "HTTP 403; bot-detection challenge page",
+      "response_bytes": 5832,
+      "response_sha256": "5f5764dde16fa674e1c960c967063d6f3307aa252215c32d23ad86b9c67f10c5",
+      "retrieved_at_utc": "2026-10-09T15:24:33+00:00",
+      "stored": false
+    },
+    {
+      "attempt": 8,
+      "url": "https://content.iospress.com/articles/journal-of-alzheimers-disease/jad111592",
+      "outcome": "HTTP 403; bot-detection challenge page",
+      "response_bytes": 5832,
+      "response_sha256": "f092a9a6e684f8d8c65d77e1e7e0a3ca62901be0fa8218eb90f3273fb9837d3c",
+      "retrieved_at_utc": "2026-10-09T15:24:34+00:00",
+      "stored": false
+    }
+  ],
+  "prior_check_phase2c_v1": "Europe PMC core records (reports/phase2c/GSE63060/v1/sources/epmc_*.json): hasSuppl=N, isOpenAccess=N for both papers",
+  "supplements_retrieved": [],
+  "decision": "Source hunt stopped after one attempt per official route, per instruction; challenges were not bypassed and no unofficial mirrors were tried.",
+  "manual_retrieval_routes": [
+    "https://journals.sagepub.com/doi/suppl/10.3233/JAD-2012-121363",
+    "https://journals.sagepub.com/doi/suppl/10.3233/JAD-2012-111592",
+    "Article pages: https://doi.org/10.3233/JAD-2012-121363 and https://doi.org/10.3233/JAD-2012-111592 ('Supplemental material' tab)"
+  ]
+}

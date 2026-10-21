@@ -1,0 +1,139 @@
+{
+  "command": ".venv/bin/python -I scripts/eligibility_gse99039.py --version v1",
+  "created_utc": "2026-10-20T11:39:01Z",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "eligibility_log.tsv": "a0930adea1035d4faefdf53d047b9ac3da2f1f5c7a9f3fa9557587838b8186c6",
+      "eligibility_summary.tsv": "7b23eaf5dcaa210ff1958ae812a5386ee18d23bfde3e6aa7cc48881899d7c7f6"
+    },
+    "runs_compared": 2
+  },
+  "equivalence": null,
+  "expected_counts": {
+    "CONTROL": 233,
+    "GENETIC_UNAFFECTED": 22,
+    "GPD": 41,
+    "IPD": 205,
+    "other": 57,
+    "universe": 558
+  },
+  "fields_not_read": [
+    "char:learning set",
+    "char:updrs *",
+    "char:hoehn & yahr *",
+    "char:moca score",
+    "char:age at 1st symptoms",
+    "char:genetic (mutated pd genes)",
+    "char:tissue"
+  ],
+  "identity": {
+    "aggregate_sha256": "37dec4b3c902cb2f5d77be14bcab2341b6fbc209b74e013720e403548796339c",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "1498fa48e9cfe38ee5a3e52416460a179e31105d4d5be111a4ec025ed16180d5",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 103,
+    "record_file": "code_identity.json",
+    "record_sha256": "a3c54ab01bfae6e903ac573d7bc99dbf5e8b4fc9fba8b131d6996b5fae108910"
+  },
+  "identity_verification": {
+    "environment_modules": 0,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/eligibility_gse99039.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea"
+      },
+      "executed_files": 2,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 4,
+    "status": "PASS",
+    "verified_utc": "2026-10-20T11:39:01Z"
+  },
+  "inputs": {
+    "data/processed/GSE99039/phenotype_table.tsv": "ef49d2d6d167044ca730d2e607bd23a68297e6d9d35843f81d49d80a2787f5db",
+    "data/raw/GSE99039/GSE99039_series_matrix.txt.gz": "197b7272a8a5040c2843cbefd44f8bd43e9b7820562732d5b1ffd30841bfcb50",
+    "sap_sha256": "9a6b63337eb7ef53d5b696639c9f9fefdd703c3634ffdf6f140696e72667ff6a"
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-20T11:39:01Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "v1",
+    "run_id": "3294d759c506",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-20T11:39:01Z"
+  },
+  "output_sha256": {
+    "code_identity.json": "a3c54ab01bfae6e903ac573d7bc99dbf5e8b4fc9fba8b131d6996b5fae108910",
+    "eligibility_log.tsv": "a0930adea1035d4faefdf53d047b9ac3da2f1f5c7a9f3fa9557587838b8186c6",
+    "eligibility_summary.tsv": "7b23eaf5dcaa210ff1958ae812a5386ee18d23bfde3e6aa7cc48881899d7c7f6"
+  },
+  "status": "Tier B step 3: GSE99039 pre-QC eligibility under the GSE99039 eligibility rules E-99 (v7:605). Metadata only; no expression value read; no QC, duplicate review, model or analysis.",
+  "validation": [
+    {
+      "check": "R1: universe equals 558",
+      "pass": true
+    },
+    {
+      "check": "R1: table column header equals !Sample_geo_accession in order",
+      "pass": true
+    },
+    {
+      "check": "R2-ID: GSM unique and present",
+      "pass": true
+    },
+    {
+      "check": "IPD = 205",
+      "pass": true
+    },
+    {
+      "check": "GPD = 41",
+      "pass": true
+    },
+    {
+      "check": "GENETIC_UNAFFECTED = 22",
+      "pass": true
+    },
+    {
+      "check": "CONTROL = 233",
+      "pass": true
+    },
+    {
+      "check": "other labels = 57",
+      "pass": true
+    },
+    {
+      "check": "batch recorded for every array",
+      "pass": true
+    },
+    {
+      "check": "phenotype table has the same GSM set",
+      "pass": true
+    },
+    {
+      "check": "phenotype table agrees on label, batch and subject_id",
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+platform	section	measure	value
+illuminaHumanv3	option_a	eligible	29489
+illuminaHumanv3	option_a	eligible_direct	29430
+illuminaHumanv3	option_a	eligible_via_replacement	59
+illuminaHumanv3	option_a	no_replacement	62
+illuminaHumanv3	option_a	unexplained	0
+illuminaHumanv3	option_a	pct_eligible_of_all_probes	59.48%
+illuminaHumanv3	option_a	pct_eligible_of_single_gene_probes	99.79%
+illuminaHumanv3	option_a	distinct_genes	19226
+illuminaHumanv3	option_a	genes_with_more_than_one_probe	6554
+illuminaHumanv3	option_a	collision_probes	43
+illuminaHumanv3	option_a	collision_successor_genes	28
+illuminaHumanv3	option_a	collision_source_genes	30
+illuminaHumanv3	accession_route_inputs	probes_with_accession	31857
+illuminaHumanv3	accession_route_inputs	pct_of_all_probes	64.26%
+illuminaHumanv3	accession_route_inputs	single_gene_probes_with_accession	29551
+illuminaHumanv3	accession_route_inputs	pct_of_single_gene_probes	100.00%
+illuminaHumanv3	accession_route_inputs	option_a_eligible_probes_with_accession	29489
+illuminaHumanv3	accession_route_inputs	accession_values	57382
+illuminaHumanv3	accession_route_inputs	probes_with_more_than_one_accession	12377
+illuminaHumanv3	accession_route_inputs	accessions_with_version_suffix	0
+illuminaHumanv3	accession_route_inputs	accession_prefixes	{"NM_": 50296, "NR_": 4534, "XM_": 1113, "XR_": 1439}
+illuminaHumanv3	accession_route_inputs	accession_probe_ids_not_in_option_a_table	0
+illuminaHumanv4	option_a	eligible	34038
+illuminaHumanv4	option_a	eligible_direct	33962
+illuminaHumanv4	option_a	eligible_via_replacement	76
+illuminaHumanv4	option_a	no_replacement	122
+illuminaHumanv4	option_a	unexplained	0
+illuminaHumanv4	option_a	pct_eligible_of_all_probes	70.75%
+illuminaHumanv4	option_a	pct_eligible_of_single_gene_probes	99.64%
+illuminaHumanv4	option_a	distinct_genes	20926
+illuminaHumanv4	option_a	genes_with_more_than_one_probe	7678
+illuminaHumanv4	option_a	collision_probes	50
+illuminaHumanv4	option_a	collision_successor_genes	32
+illuminaHumanv4	option_a	collision_source_genes	35
+illuminaHumanv4	accession_route_inputs	probes_with_accession	37881
+illuminaHumanv4	accession_route_inputs	pct_of_all_probes	78.74%
+illuminaHumanv4	accession_route_inputs	single_gene_probes_with_accession	34160
+illuminaHumanv4	accession_route_inputs	pct_of_single_gene_probes	100.00%
+illuminaHumanv4	accession_route_inputs	option_a_eligible_probes_with_accession	34038
+illuminaHumanv4	accession_route_inputs	accession_values	68113
+illuminaHumanv4	accession_route_inputs	probes_with_more_than_one_accession	14399
+illuminaHumanv4	accession_route_inputs	accessions_with_version_suffix	0
+illuminaHumanv4	accession_route_inputs	accession_prefixes	{"NM_": 56375, "NR_": 7477, "XM_": 2043, "XR_": 2218}
+illuminaHumanv4	accession_route_inputs	accession_probe_ids_not_in_option_a_table	0
+lumi HT-12 v4 R2	option_a	eligible	37491
+lumi HT-12 v4 R2	option_a	eligible_direct	35731
+lumi HT-12 v4 R2	option_a	eligible_via_replacement	1760
+lumi HT-12 v4 R2	option_a	no_replacement	6468
+lumi HT-12 v4 R2	option_a	unexplained	1
+lumi HT-12 v4 R2	option_a	pct_eligible_of_all_probes	79.22%
+lumi HT-12 v4 R2	option_a	pct_eligible_of_single_gene_probes	85.28%
+lumi HT-12 v4 R2	option_a	distinct_genes	23743
+lumi HT-12 v4 R2	option_a	genes_with_more_than_one_probe	8600
+lumi HT-12 v4 R2	option_a	collision_probes	1165
+lumi HT-12 v4 R2	option_a	collision_successor_genes	783
+lumi HT-12 v4 R2	option_a	collision_source_genes	892
+lumi HT-12 v4 R2	accession_route_inputs	probes_with_accession	47323
+lumi HT-12 v4 R2	accession_route_inputs	pct_of_all_probes	100.00%
+lumi HT-12 v4 R2	accession_route_inputs	single_gene_probes_with_accession	43960
+lumi HT-12 v4 R2	accession_route_inputs	pct_of_single_gene_probes	100.00%
+lumi HT-12 v4 R2	accession_route_inputs	option_a_eligible_probes_with_accession	37491
+lumi HT-12 v4 R2	accession_route_inputs	accession_values	47323
+lumi HT-12 v4 R2	accession_route_inputs	probes_with_more_than_one_accession	0
+lumi HT-12 v4 R2	accession_route_inputs	accessions_with_version_suffix	0
+lumi HT-12 v4 R2	accession_route_inputs	accession_prefixes	{"GenBank (no prefix)": 3311, "NM_": 29183, "NR_": 1960, "XM_": 10355, "XR_": 2514}
+lumi HT-12 v4 R2	accession_route_inputs	accession_probe_ids_not_in_option_a_table	0

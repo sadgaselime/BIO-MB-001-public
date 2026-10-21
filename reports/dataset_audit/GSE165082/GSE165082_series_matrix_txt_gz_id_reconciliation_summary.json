@@ -1,0 +1,59 @@
+{
+  "left_label": "expression",
+  "right_label": "phenotype",
+  "key_description": "expression column/sample ID == GEO geo_accession",
+  "n_left_ids": 26,
+  "n_right_records": 26,
+  "n_matched": 26,
+  "matched": [
+    "GSM5025809",
+    "GSM5025810",
+    "GSM5025811",
+    "GSM5025812",
+    "GSM5025813",
+    "GSM5025814",
+    "GSM5025815",
+    "GSM5025816",
+    "GSM5025817",
+    "GSM5025818",
+    "GSM5025819",
+    "GSM5025820",
+    "GSM5025821",
+    "GSM5025822",
+    "GSM5025823",
+    "GSM5025824",
+    "GSM5025825",
+    "GSM5025826",
+    "GSM5025827",
+    "GSM5025828",
+    "GSM5025829",
+    "GSM5025830",
+    "GSM5025831",
+    "GSM5025832",
+    "GSM5025833",
+    "GSM5025834"
+  ],
+  "left_only": [],
+  "right_only": [],
+  "duplicate_left_ids": {},
+  "duplicate_right_ids": {},
+  "normalization_changes": [],
+  "right_records_without_key": [],
+  "missing_diagnosis": [],
+  "ambiguous_diagnosis": [],
+  "unmapped_diagnosis": [],
+  "group_counts_all_records": {
+    "HC": 14,
+    "PD": 12
+  },
+  "group_counts_matched": {
+    "HC": 14,
+    "PD": 12
+  },
+  "raw_label_counts_all_records": {
+    "Control": 14,
+    "PD": 12
+  },
+  "near_miss_hints": [],
+  "exact_one_to_one": true
+}

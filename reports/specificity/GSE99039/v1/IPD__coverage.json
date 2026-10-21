@@ -1,0 +1,15 @@
+{
+  "down_in_AD": {
+    "locked": 172,
+    "measurable": 162,
+    "met": true,
+    "required": 86.0
+  },
+  "score_assessable": true,
+  "up_in_AD": {
+    "locked": 28,
+    "measurable": 28,
+    "met": true,
+    "required": 14.0
+  }
+}

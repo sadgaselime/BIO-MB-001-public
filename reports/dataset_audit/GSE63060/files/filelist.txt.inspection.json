@@ -1,0 +1,51 @@
+{
+  "path": "data/raw/GSE63060/filelist.txt",
+  "file_name": "filelist.txt",
+  "status": "INSPECTED",
+  "format": "geo_filelist",
+  "compression": "none",
+  "size_bytes": 173,
+  "n_rows": 2,
+  "n_columns": 5,
+  "delimiter": "\t",
+  "header_line_number": null,
+  "feature_id_column": null,
+  "annotation_columns": [],
+  "sample_columns": [],
+  "candidate_sample_ids": [],
+  "measurement_types": {},
+  "duplicate_column_headers": [],
+  "empty_header_sample_columns": [],
+  "duplicate_sample_ids": [],
+  "n_unique_feature_ids": null,
+  "duplicate_feature_ids": {},
+  "missing_feature_ids": null,
+  "missing_values": {},
+  "value_summary": {},
+  "metadata": {
+    "entries": [
+      {
+        "Archive/File": "Archive",
+        "Name": "GSE63060_RAW.tar",
+        "Time": "08/06/2015 06:43:04",
+        "Size": "6543360",
+        "Type": "TAR"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GPL6947_HumanHT-12_V3_0_R1_11283641_A.bgx.gz",
+        "Time": "06/10/2008 15:48:27",
+        "Size": "6537561",
+        "Type": "BGX"
+      }
+    ],
+    "n_entries": 2,
+    "type_counts": {
+      "TAR": 1,
+      "BGX": 1
+    }
+  },
+  "table_kind": "file_manifest",
+  "limitations": [],
+  "error": null
+}

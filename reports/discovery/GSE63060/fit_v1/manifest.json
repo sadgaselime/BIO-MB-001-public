@@ -1,0 +1,147 @@
+{
+  "command": ".venv/bin/python -I scripts/discovery_fit_gse63060.py --version v1",
+  "created_utc": "2026-10-18T19:22:23Z",
+  "design": {
+    "basis": "[Q_N, g] (v5 \u00a74.4 step 7)",
+    "coefficient": "AD_vs_CTL",
+    "nuisance": "intercept, age (centred, scaled), sex indicator, chip indicators (all levels)",
+    "r_N": 31
+  },
+  "determinism": {
+    "fits_compared": 2,
+    "identical": true,
+    "output_sha256": {
+      "discovery_summary.json": "f3649e0cf60baf31e7547920ad3e0020bbad318e612e1f9a8e2587dbf3bbbb8c",
+      "gene_level_moderation.tsv": "4c6e68d9edd250860b12ebed4696433e02ec147862895112b172d0e1d6ef0c58",
+      "gene_level_results.tsv": "5773dcc12820add4bcdf84c9fd66e8c42dbebc439a7f4875d284f2534f73bfb9",
+      "limma_session_info.txt": "d0f8badffb62f2e62aa24e4b049c9848915f7adde854f5ee7147f1ec42411fd7",
+      "probe_level_moderation.tsv": "52ed9564d07bfac336acc63f2b89ea72e1502d0562fc296935c4b28cbb3b97e7",
+      "probe_level_results.tsv": "6dc837f4a083614ce6355a4e287f3e6d14e2ffed456835fb9f7593bdc3ac8422"
+    }
+  },
+  "equivalence": null,
+  "identity": {
+    "aggregate_sha256": "ff5e0eb22c9e4d59c22ae791b8e94d8540be244abcf738b670671d48bfc40a3e",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "fa51c7b9d10dd468fbeed8b2ad83b832eb8acc83adb828dc25361cbbc4359951",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 81,
+    "record_file": "code_identity.json",
+    "record_sha256": "9063ae6982d62fa22f2a1da0ca0ecc69d3d91de1d39f93b5baafe5b6aa5f2bac"
+  },
+  "identity_verification": {
+    "environment_modules": 409,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/discovery_fit_gse63060.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "scripts/discovery_prep_gse63060.py": "6929d3e138372175af5f873bc99d4b591a7717eeb77208a5081ad3491dd4fdf1",
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea",
+        "src/biomarker_project/differential_expression.py": "3525cdefd3274e19e0d8a5bc9f937bca6c817c4f5933b87dac2df4c75612925a",
+        "src/biomarker_project/expression_adjudication.py": "266f14367cdd295e4f51e95569636ca4fdf8e12ec27f67685c3e7328db597e82",
+        "src/biomarker_project/limma_backend.py": "0031b76cda1129e7cd35a2b7357f2c8b0fd9788ecdea590766cfa872352e7350"
+      },
+      "executed_files": 6,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 7,
+    "status": "PASS",
+    "verified_utc": "2026-10-18T19:22:24Z"
+  },
+  "inputs": {
+    "data/raw/GSE63060/GSE63060_series_matrix.txt.gz": "342421d07105d786d623a4b86dc4a21b764da352e4facc7a032fbd36b0f19371",
+    "reports/discovery/GSE63060/prep_v1/manifest.json": "fcc71f7c82d557b5c4e9ab0ffd15aa7b590b655fecd4c0c74f9408ff5736fb53"
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-18T19:22:24Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "fit_v1",
+    "run_id": "d67f1d68362f",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-18T19:20:45Z"
+  },
+  "method": "limma::lmFit + eBayes(trend = TRUE, robust = FALSE); BH within family",
+  "output_sha256": {
+    "code_identity.json": "9063ae6982d62fa22f2a1da0ca0ecc69d3d91de1d39f93b5baafe5b6aa5f2bac",
+    "discovery_summary.json": "f3649e0cf60baf31e7547920ad3e0020bbad318e612e1f9a8e2587dbf3bbbb8c",
+    "gene_level_moderation.tsv": "4c6e68d9edd250860b12ebed4696433e02ec147862895112b172d0e1d6ef0c58",
+    "gene_level_results.tsv": "5773dcc12820add4bcdf84c9fd66e8c42dbebc439a7f4875d284f2534f73bfb9",
+    "limma_session_info.txt": "d0f8badffb62f2e62aa24e4b049c9848915f7adde854f5ee7147f1ec42411fd7",
+    "probe_level_moderation.tsv": "52ed9564d07bfac336acc63f2b89ea72e1502d0562fc296935c4b28cbb3b97e7",
+    "probe_level_results.tsv": "6dc837f4a083614ce6355a4e287f3e6d14e2ffed456835fb9f7593bdc3ac8422"
+  },
+  "q_level_claims": 0.05,
+  "r_environment": {
+    "found_BiocManager": "1.30.27",
+    "found_R": "4.6.1",
+    "found_bioc": "3.23",
+    "found_limma": "3.68.5",
+    "found_renv": "1.3.1",
+    "found_statmod": "1.5.2",
+    "pinned_BiocManager": "1.30.27",
+    "pinned_R": "4.6.1",
+    "pinned_bioc": "3.23",
+    "pinned_limma": "3.68.5",
+    "pinned_renv": "1.3.1",
+    "pinned_statmod": "1.5.2"
+  },
+  "status": "Tier B step 10: GSE63060 discovery fit (primary H1 model), probe and gene level. Provisional: the SAP is not approved; no signature is locked; no validation has been performed.",
+  "summary": {
+    "gene_level": {
+      "df_total_median": 179.3010275845055,
+      "min_p": 6.479150495708564e-17,
+      "n_down_AD": 739,
+      "n_estimable": 17425,
+      "n_q_lt_0.05": 1401,
+      "n_tested": 17425,
+      "n_up_AD": 662
+    },
+    "probe_level": {
+      "df_total_median": 183.0833543309832,
+      "min_p": 4.574184510941476e-17,
+      "n_down_AD": 933,
+      "n_estimable": 38323,
+      "n_q_lt_0.05": 1744,
+      "n_tested": 38323,
+      "n_up_AD": 811
+    }
+  },
+  "validation": [
+    {
+      "check": "arrays and AD count as approved (205; 145 AD, 60 CTL)",
+      "pass": true
+    },
+    {
+      "check": "probe level covers all Series Matrix probes (38,323)",
+      "pass": true
+    },
+    {
+      "check": "gene level covers the G3 genes (17,425)",
+      "pass": true
+    },
+    {
+      "check": "residual df equals n - r_N - 1",
+      "pass": true
+    }
+  ]
+}

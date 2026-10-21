@@ -1,0 +1,26 @@
+{
+  "retrieved_at": "2026-10-09T13:35:18+00:00",
+  "entries": [
+    {
+      "location": "matrix",
+      "name": "GSE140829_series_matrix.txt.gz",
+      "size_label": "216M",
+      "modified": "2026-09-16 01:21",
+      "configured": true
+    },
+    {
+      "location": "suppl",
+      "name": "GSE140829_final_normalized_data.txt.gz",
+      "size_label": "69M",
+      "modified": "2019-11-22 06:17",
+      "configured": true
+    },
+    {
+      "location": "suppl",
+      "name": "GSE140829_raw_data.txt.gz",
+      "size_label": "312M",
+      "modified": "2019-11-22 06:19",
+      "configured": true
+    }
+  ]
+}

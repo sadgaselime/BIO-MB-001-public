@@ -1,0 +1,6 @@
+age_le_75,code_group,code_concordant,no,yes
+False,False,True,81,0
+False,True,False,6,0
+False,True,True,150,0
+True,False,True,4,50
+True,True,True,5,92

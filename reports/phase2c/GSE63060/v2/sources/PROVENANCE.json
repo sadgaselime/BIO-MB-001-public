@@ -1,0 +1,44 @@
+{
+  "retrieved_for": "BIO-MB-001 Phase 2C v2",
+  "network_requests_made": false,
+  "user_supplied_sources": [
+    {
+      "citation": "Lunnon K, Sattlecker M, Furney SJ, et al. A blood gene expression marker of early Alzheimer's disease. J Alzheimers Dis 2013;33:737-753",
+      "doi": "10.3233/JAD-2012-121363",
+      "pmid": "23042217",
+      "supplied_as": "~/Downloads/lunnon-et-al-2013-a-blood-gene-expression-marker-of-early-alzheimer-s-disease.pdf",
+      "bytes": 886453,
+      "sha256": "d92a3d61d00b322e572283c7e862b94ccecc71d7c9e1c37f6ac5a49f4dae192d",
+      "pages_inspected": "1-17 (all)",
+      "license_on_pdf": "published online with Open Access under the Creative Commons Attribution Non-Commercial License (p.1)",
+      "copied_to": "sources/Lunnon2013_JAD_33_737-753.pdf",
+      "copy_sha256": "d92a3d61d00b322e572283c7e862b94ccecc71d7c9e1c37f6ac5a49f4dae192d",
+      "supplementary_material": "NOT supplied (paper cites online supplementary Tables 1-2); not inspected"
+    },
+    {
+      "citation": "Lunnon K, Ibrahim Z, Proitsi P, et al. Mitochondrial dysfunction and immune activation are detectable in early Alzheimer's disease blood. J Alzheimers Dis 2012;30:685-710",
+      "doi": "10.3233/JAD-2012-111592",
+      "pmid": "22466004",
+      "supplied_as": "~/Downloads/lunnon-et-al-2012-mitochondrial-dysfunction-and-immune-activation-are-detectable-in-early-alzheimer-s-disease-blood.pdf",
+      "bytes": 1152118,
+      "sha256": "dbe7ff38b2f1bb06a70421e2638a6acef96598ba6b4711322ca58c3e760ac39e",
+      "pages_inspected": "1-26 (all)",
+      "license_on_pdf": "'All rights reserved' (p.1); no open-access statement found",
+      "copied_to": null,
+      "reason_not_copied": "not marked open access; reports/ may later be committed, so only location and checksum are recorded",
+      "supplementary_material": "NOT supplied (paper cites online supplementary Tables 1-10 and Figure 1); not inspected"
+    }
+  ],
+  "requested_but_not_found": [
+    {
+      "citation": "Lovestone S et al. AddNeuroMed--the European collaboration for the discovery of novel biomarkers for Alzheimer's disease. Ann N Y Acad Sci 2009;1180:36-46",
+      "doi": "10.1111/j.1749-6632.2009.05064.x",
+      "search": "filename search (lovestone/addneuromed/doi fragments) in ~/Downloads and the project, depth 3: not found"
+    },
+    {
+      "citation": "Supplementary material for either Lunnon paper; AddNeuroMed data dictionary",
+      "search": "not found"
+    }
+  ],
+  "tools_note": "PDF text was read with the session document reader (no PDF libraries installed; none installed)"
+}

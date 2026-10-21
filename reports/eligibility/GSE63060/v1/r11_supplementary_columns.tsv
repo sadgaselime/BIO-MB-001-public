@@ -1,0 +1,6 @@
+file	column_position	header	reason
+GSE63060_normalized.txt.gz	210	4856076038_D	no eligible GEO GSM record (expression-only array)
+GSE63060_non-normalized.txt.gz	317		empty header
+GSE63060_non-normalized.txt.gz	323		empty header
+GSE63060_non-normalized.txt.gz	329		empty header
+GSE63060_non-normalized.txt.gz	331	4856076038_D.AVG_Signal	no eligible GEO GSM record (expression-only array)

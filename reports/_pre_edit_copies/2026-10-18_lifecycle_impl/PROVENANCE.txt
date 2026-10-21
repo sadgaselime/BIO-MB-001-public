@@ -1,0 +1,5 @@
+Pre-edit copies for the authorized code-identity lifecycle implementation (PI authorization 2026-10-18, steps 1-6, Q1-Q4).
+Copied 2026-10-18T17:32:34Z UTC with cp -p before editing. Sources:
+  code_identity.py <- src/biomarker_project/code_identity.py
+  annotation_illumina_a0_classification.py, c15_cohort_probe_presence.py, annotation_gpl570_option_a_counts.py <- scripts/
+Rollback: copy each file back and verify against SHA256SUMS.

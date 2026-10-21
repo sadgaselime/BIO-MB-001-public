@@ -1,0 +1,5452 @@
+[
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313_openblas_0",
+    "channel": "pkgs/main",
+    "dist_name": "_anaconda_depends-2025.12-py313_openblas_0",
+    "name": "_anaconda_depends",
+    "platform": "osx-arm64",
+    "version": "2025.12"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "aiobotocore-2.25.0-py313hca03da5_0",
+    "name": "aiobotocore",
+    "platform": "osx-arm64",
+    "version": "2.25.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "aiodns-3.5.0-py313hca03da5_1",
+    "name": "aiodns",
+    "platform": "osx-arm64",
+    "version": "3.5.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "aiohappyeyeballs-2.6.1-py313hca03da5_0",
+    "name": "aiohappyeyeballs",
+    "platform": "osx-arm64",
+    "version": "2.6.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313haa24f5a_0",
+    "channel": "pkgs/main",
+    "dist_name": "aiohttp-3.13.2-py313haa24f5a_0",
+    "name": "aiohttp",
+    "platform": "osx-arm64",
+    "version": "3.13.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "aioitertools-0.12.0-py313hca03da5_0",
+    "name": "aioitertools",
+    "platform": "osx-arm64",
+    "version": "0.12.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "aiosignal-1.4.0-py313hca03da5_0",
+    "name": "aiosignal",
+    "platform": "osx-arm64",
+    "version": "1.4.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "alabaster-0.7.16-py313hca03da5_0",
+    "name": "alabaster",
+    "platform": "osx-arm64",
+    "version": "0.7.16"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "altair-5.5.0-py313hca03da5_0",
+    "name": "altair",
+    "platform": "osx-arm64",
+    "version": "5.5.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 100,
+    "build_string": "pyhb46e38b_100",
+    "channel": "pkgs/main",
+    "dist_name": "anaconda-anon-usage-0.7.5-pyhb46e38b_100",
+    "name": "anaconda-anon-usage",
+    "platform": "noarch",
+    "version": "0.7.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "anaconda-auth-0.12.3-py313hca03da5_0",
+    "name": "anaconda-auth",
+    "platform": "osx-arm64",
+    "version": "0.12.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 3,
+    "build_string": "py313hca03da5_3",
+    "channel": "pkgs/main",
+    "dist_name": "anaconda-catalogs-0.2.0-py313hca03da5_3",
+    "name": "anaconda-catalogs",
+    "platform": "osx-arm64",
+    "version": "0.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "anaconda-cli-base-0.7.0-py313hca03da5_0",
+    "name": "anaconda-cli-base",
+    "platform": "osx-arm64",
+    "version": "0.7.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "anaconda-client-1.14.0-py313hca03da5_0",
+    "name": "anaconda-client",
+    "platform": "osx-arm64",
+    "version": "1.14.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "anaconda-navigator-2.7.0-py313hca03da5_1",
+    "name": "anaconda-navigator",
+    "platform": "osx-arm64",
+    "version": "2.7.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "anaconda-project-0.11.1-py313hca03da5_1",
+    "name": "anaconda-project",
+    "platform": "osx-arm64",
+    "version": "0.11.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "annotated-types-0.6.0-py313hca03da5_1",
+    "name": "annotated-types",
+    "platform": "osx-arm64",
+    "version": "0.6.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "anyio-4.10.0-py313hca03da5_0",
+    "name": "anyio",
+    "platform": "osx-arm64",
+    "version": "4.10.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "ha237518_0",
+    "channel": "pkgs/main",
+    "dist_name": "aom-3.12.1-ha237518_0",
+    "name": "aom",
+    "platform": "osx-arm64",
+    "version": "3.12.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "appdirs-1.4.4-pyhd3eb1b0_0",
+    "name": "appdirs",
+    "platform": "noarch",
+    "version": "1.4.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "applaunchservices-0.3.0-py313hca03da5_0",
+    "name": "applaunchservices",
+    "platform": "osx-arm64",
+    "version": "0.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "appnope-0.1.4-py313hca03da5_0",
+    "name": "appnope",
+    "platform": "osx-arm64",
+    "version": "0.1.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313haa24f5a_0",
+    "channel": "pkgs/main",
+    "dist_name": "appscript-1.4.0-py313haa24f5a_0",
+    "name": "appscript",
+    "platform": "osx-arm64",
+    "version": "1.4.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "archspec-0.2.5-pyhd3eb1b0_0",
+    "name": "archspec",
+    "platform": "noarch",
+    "version": "0.2.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "argon2-cffi-21.3.0-pyhd3eb1b0_0",
+    "name": "argon2-cffi",
+    "platform": "noarch",
+    "version": "21.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h254cc4a_0",
+    "channel": "pkgs/main",
+    "dist_name": "argon2-cffi-bindings-25.1.0-py313h254cc4a_0",
+    "name": "argon2-cffi-bindings",
+    "platform": "osx-arm64",
+    "version": "25.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "arrow-1.4.0-py313hca03da5_0",
+    "name": "arrow",
+    "platform": "osx-arm64",
+    "version": "1.4.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h9e9184e_1",
+    "channel": "pkgs/main",
+    "dist_name": "arrow-cpp-21.0.0-h9e9184e_1",
+    "name": "arrow-cpp",
+    "platform": "osx-arm64",
+    "version": "21.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "astroid-3.3.11-py313hca03da5_0",
+    "name": "astroid",
+    "platform": "osx-arm64",
+    "version": "3.3.11"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h03d0aa3_0",
+    "channel": "pkgs/main",
+    "dist_name": "astropy-7.1.1-py313h03d0aa3_0",
+    "name": "astropy",
+    "platform": "osx-arm64",
+    "version": "7.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "astropy-iers-data-0.2025.11.10.0.38.31-py313hca03da5_0",
+    "name": "astropy-iers-data",
+    "platform": "osx-arm64",
+    "version": "0.2025.11.10.0.38.31"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "asttokens-3.0.0-py313hca03da5_0",
+    "name": "asttokens",
+    "platform": "osx-arm64",
+    "version": "3.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "async-lru-2.0.5-py313hca03da5_0",
+    "name": "async-lru",
+    "platform": "osx-arm64",
+    "version": "2.0.5"
+  },
+  {
+    "base_url": "https://conda.anaconda.org/conda-forge",
+    "build_number": 2,
+    "build_string": "pyhcf101f3_2",
+    "channel": "conda-forge",
+    "dist_name": "async-timeout-5.0.1-pyhcf101f3_2",
+    "name": "async-timeout",
+    "platform": "noarch",
+    "version": "5.0.1"
+  },
+  {
+    "base_url": "https://conda.anaconda.org/conda-forge",
+    "build_number": 1,
+    "build_string": "py313h6688731_1",
+    "channel": "conda-forge",
+    "dist_name": "asyncpg-0.31.0-py313h6688731_1",
+    "name": "asyncpg",
+    "platform": "osx-arm64",
+    "version": "0.31.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "asyncssh-2.21.1-py313hca03da5_0",
+    "name": "asyncssh",
+    "platform": "osx-arm64",
+    "version": "2.21.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "atomicwrites-1.4.0-py_0",
+    "name": "atomicwrites",
+    "platform": "noarch",
+    "version": "1.4.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "py313hca03da5_2",
+    "channel": "pkgs/main",
+    "dist_name": "attrs-25.4.0-py313hca03da5_2",
+    "name": "attrs",
+    "platform": "osx-arm64",
+    "version": "25.4.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "automat-24.8.1-py313hca03da5_0",
+    "name": "automat",
+    "platform": "osx-arm64",
+    "version": "24.8.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "autopep8-2.0.4-pyhd3eb1b0_0",
+    "name": "autopep8",
+    "platform": "noarch",
+    "version": "2.0.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "h79febb2_2",
+    "channel": "pkgs/main",
+    "dist_name": "aws-c-auth-0.9.0-h79febb2_2",
+    "name": "aws-c-auth",
+    "platform": "osx-arm64",
+    "version": "0.9.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h79febb2_1",
+    "channel": "pkgs/main",
+    "dist_name": "aws-c-cal-0.9.2-h79febb2_1",
+    "name": "aws-c-cal",
+    "platform": "osx-arm64",
+    "version": "0.9.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h79febb2_0",
+    "channel": "pkgs/main",
+    "dist_name": "aws-c-common-0.12.4-h79febb2_0",
+    "name": "aws-c-common",
+    "platform": "osx-arm64",
+    "version": "0.12.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "h79febb2_2",
+    "channel": "pkgs/main",
+    "dist_name": "aws-c-compression-0.3.1-h79febb2_2",
+    "name": "aws-c-compression",
+    "platform": "osx-arm64",
+    "version": "0.3.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h79febb2_0",
+    "channel": "pkgs/main",
+    "dist_name": "aws-c-event-stream-0.5.6-h79febb2_0",
+    "name": "aws-c-event-stream",
+    "platform": "osx-arm64",
+    "version": "0.5.6"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h79febb2_0",
+    "channel": "pkgs/main",
+    "dist_name": "aws-c-http-0.10.4-h79febb2_0",
+    "name": "aws-c-http",
+    "platform": "osx-arm64",
+    "version": "0.10.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h79febb2_0",
+    "channel": "pkgs/main",
+    "dist_name": "aws-c-io-0.21.4-h79febb2_0",
+    "name": "aws-c-io",
+    "platform": "osx-arm64",
+    "version": "0.21.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h387b88a_0",
+    "channel": "pkgs/main",
+    "dist_name": "aws-c-mqtt-0.13.3-h387b88a_0",
+    "name": "aws-c-mqtt",
+    "platform": "osx-arm64",
+    "version": "0.13.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h79febb2_0",
+    "channel": "pkgs/main",
+    "dist_name": "aws-c-s3-0.8.7-h79febb2_0",
+    "name": "aws-c-s3",
+    "platform": "osx-arm64",
+    "version": "0.8.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h79febb2_1",
+    "channel": "pkgs/main",
+    "dist_name": "aws-c-sdkutils-0.2.4-h79febb2_1",
+    "name": "aws-c-sdkutils",
+    "platform": "osx-arm64",
+    "version": "0.2.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h79febb2_1",
+    "channel": "pkgs/main",
+    "dist_name": "aws-checksums-0.2.7-h79febb2_1",
+    "name": "aws-checksums",
+    "platform": "osx-arm64",
+    "version": "0.2.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "hee39554_0",
+    "channel": "pkgs/main",
+    "dist_name": "aws-crt-cpp-0.34.0-hee39554_0",
+    "name": "aws-crt-cpp",
+    "platform": "osx-arm64",
+    "version": "0.34.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h35fa3df_0",
+    "channel": "pkgs/main",
+    "dist_name": "aws-sdk-cpp-1.11.638-h35fa3df_0",
+    "name": "aws-sdk-cpp",
+    "platform": "osx-arm64",
+    "version": "1.11.638"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "babel-2.17.0-py313hca03da5_0",
+    "name": "babel",
+    "platform": "osx-arm64",
+    "version": "2.17.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h931abed_0",
+    "channel": "pkgs/main",
+    "dist_name": "bcrypt-5.0.0-py313h931abed_0",
+    "name": "bcrypt",
+    "platform": "osx-arm64",
+    "version": "5.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "beautifulsoup4-4.13.5-py313hca03da5_0",
+    "name": "beautifulsoup4",
+    "platform": "osx-arm64",
+    "version": "4.13.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "pyhd3eb1b0_1",
+    "channel": "pkgs/main",
+    "dist_name": "binaryornot-0.4.4-pyhd3eb1b0_1",
+    "name": "binaryornot",
+    "platform": "noarch",
+    "version": "0.4.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "black-25.9.0-py313hca03da5_0",
+    "name": "black",
+    "platform": "osx-arm64",
+    "version": "25.9.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "openblas",
+    "channel": "pkgs/main",
+    "dist_name": "blas-1.0-openblas",
+    "name": "blas",
+    "platform": "osx-arm64",
+    "version": "1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "bleach-6.3.0-py313hca03da5_0",
+    "name": "bleach",
+    "platform": "osx-arm64",
+    "version": "6.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "blinker-1.9.0-py313hca03da5_0",
+    "name": "blinker",
+    "platform": "osx-arm64",
+    "version": "1.9.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h7977b18_0",
+    "channel": "pkgs/main",
+    "dist_name": "blosc-1.21.6-h7977b18_0",
+    "name": "blosc",
+    "platform": "osx-arm64",
+    "version": "1.21.6"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "bokeh-3.8.0-py313hca03da5_0",
+    "name": "bokeh",
+    "platform": "osx-arm64",
+    "version": "3.8.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "boltons-25.0.0-py313hca03da5_0",
+    "name": "boltons",
+    "platform": "osx-arm64",
+    "version": "25.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "botocore-1.40.46-py313hca03da5_0",
+    "name": "botocore",
+    "platform": "osx-arm64",
+    "version": "1.40.46"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313h03d0aa3_1",
+    "channel": "pkgs/main",
+    "dist_name": "bottleneck-1.4.2-py313h03d0aa3_1",
+    "name": "bottleneck",
+    "platform": "osx-arm64",
+    "version": "1.4.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h50f4ffc_0",
+    "channel": "pkgs/main",
+    "dist_name": "brotlicffi-1.1.0.0-py313h50f4ffc_0",
+    "name": "brotlicffi",
+    "platform": "osx-arm64",
+    "version": "1.1.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 6,
+    "build_string": "h80987f9_6",
+    "channel": "pkgs/main",
+    "dist_name": "bzip2-1.0.8-h80987f9_6",
+    "name": "bzip2",
+    "platform": "osx-arm64",
+    "version": "1.0.8"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h2ca31fc_0",
+    "channel": "pkgs/main",
+    "dist_name": "c-ares-1.34.5-h2ca31fc_0",
+    "name": "c-ares",
+    "platform": "osx-arm64",
+    "version": "1.34.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "hca023f9_0",
+    "channel": "pkgs/main",
+    "dist_name": "c-blosc2-2.17.1-hca023f9_0",
+    "name": "c-blosc2",
+    "platform": "osx-arm64",
+    "version": "2.17.1"
+  },
+  {
+    "base_url": "https://conda.anaconda.org/conda-forge",
+    "build_number": 0,
+    "build_string": "hbd8a1cb_0",
+    "channel": "conda-forge",
+    "dist_name": "ca-certificates-2026.5.20-hbd8a1cb_0",
+    "name": "ca-certificates",
+    "platform": "noarch",
+    "version": "2026.5.20"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "cachetools-5.5.1-py313hca03da5_0",
+    "name": "cachetools",
+    "platform": "osx-arm64",
+    "version": "5.5.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h191e429_0",
+    "channel": "pkgs/main",
+    "dist_name": "cairo-1.18.4-h191e429_0",
+    "name": "cairo",
+    "platform": "osx-arm64",
+    "version": "1.18.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hf834670_0",
+    "channel": "pkgs/main",
+    "dist_name": "cattrs-25.3.0-py313hf834670_0",
+    "name": "cattrs",
+    "platform": "osx-arm64",
+    "version": "25.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h01d68c5_0",
+    "channel": "pkgs/main",
+    "dist_name": "cctools-1021.4-h01d68c5_0",
+    "name": "cctools",
+    "platform": "osx-arm64",
+    "version": "1021.4"
+  },
+  {
+    "base_url": "https://conda.anaconda.org/conda-forge",
+    "build_number": 0,
+    "build_string": "pyhd8ed1ab_0",
+    "channel": "conda-forge",
+    "dist_name": "certifi-2026.5.20-pyhd8ed1ab_0",
+    "name": "certifi",
+    "platform": "noarch",
+    "version": "2026.5.20"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313h73c2a22_1",
+    "channel": "pkgs/main",
+    "dist_name": "cffi-2.0.0-py313h73c2a22_1",
+    "name": "cffi",
+    "platform": "osx-arm64",
+    "version": "2.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "chardet-5.2.0-py313hca03da5_0",
+    "name": "chardet",
+    "platform": "osx-arm64",
+    "version": "5.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "charset-normalizer-3.4.4-py313hca03da5_0",
+    "name": "charset-normalizer",
+    "platform": "osx-arm64",
+    "version": "3.4.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "click-8.2.1-py313hca03da5_0",
+    "name": "click",
+    "platform": "osx-arm64",
+    "version": "8.2.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "cloudpickle-3.1.1-py313hca03da5_0",
+    "name": "cloudpickle",
+    "platform": "osx-arm64",
+    "version": "3.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "colorcet-3.1.0-py313hca03da5_0",
+    "name": "colorcet",
+    "platform": "osx-arm64",
+    "version": "3.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "comm-0.2.3-py313hca03da5_0",
+    "name": "comm",
+    "platform": "osx-arm64",
+    "version": "0.2.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "conda-26.1.1-py313hca03da5_0",
+    "name": "conda",
+    "platform": "osx-arm64",
+    "version": "26.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "pyhd3eb1b0_1",
+    "channel": "pkgs/main",
+    "dist_name": "conda-anaconda-telemetry-0.3.0-pyhd3eb1b0_1",
+    "name": "conda-anaconda-telemetry",
+    "platform": "noarch",
+    "version": "0.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "conda-anaconda-tos-0.2.2-py313hca03da5_1",
+    "name": "conda-anaconda-tos",
+    "platform": "osx-arm64",
+    "version": "0.2.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h6784875_0",
+    "channel": "pkgs/main",
+    "dist_name": "conda-build-25.11.1-py313h6784875_0",
+    "name": "conda-build",
+    "platform": "osx-arm64",
+    "version": "25.11.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "conda-content-trust-0.2.0-py313hca03da5_1",
+    "name": "conda-content-trust",
+    "platform": "osx-arm64",
+    "version": "0.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "conda-index-0.7.0-py313hca03da5_0",
+    "name": "conda-index",
+    "platform": "osx-arm64",
+    "version": "0.7.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhdf14ebd_0",
+    "channel": "pkgs/main",
+    "dist_name": "conda-libmamba-solver-25.11.0-pyhdf14ebd_0",
+    "name": "conda-libmamba-solver",
+    "platform": "noarch",
+    "version": "25.11.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "conda-pack-0.8.1-py313hca03da5_0",
+    "name": "conda-pack",
+    "platform": "osx-arm64",
+    "version": "0.8.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "conda-package-handling-2.4.0-py313hca03da5_1",
+    "name": "conda-package-handling",
+    "platform": "osx-arm64",
+    "version": "2.4.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "conda-package-streaming-0.12.0-py313hca03da5_1",
+    "name": "conda-package-streaming",
+    "platform": "osx-arm64",
+    "version": "0.12.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "conda-repo-cli-1.0.173-py313hca03da5_0",
+    "name": "conda-repo-cli",
+    "platform": "osx-arm64",
+    "version": "1.0.173"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "constantly-23.10.4-py313hca03da5_0",
+    "name": "constantly",
+    "platform": "osx-arm64",
+    "version": "23.10.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h20e30b6_0",
+    "channel": "pkgs/main",
+    "dist_name": "contourpy-1.3.3-py313h20e30b6_0",
+    "name": "contourpy",
+    "platform": "osx-arm64",
+    "version": "1.3.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "cookiecutter-2.6.0-py313hca03da5_1",
+    "name": "cookiecutter",
+    "platform": "osx-arm64",
+    "version": "2.6.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h48ca7d4_0",
+    "channel": "pkgs/main",
+    "dist_name": "cpp-expected-1.1.0-h48ca7d4_0",
+    "name": "cpp-expected",
+    "platform": "osx-arm64",
+    "version": "1.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h81b0bee_0",
+    "channel": "pkgs/main",
+    "dist_name": "cryptography-46.0.3-py313h81b0bee_0",
+    "name": "cryptography",
+    "platform": "osx-arm64",
+    "version": "46.0.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "cssselect-1.2.0-py313hca03da5_0",
+    "name": "cssselect",
+    "platform": "osx-arm64",
+    "version": "1.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h6430ca7_0",
+    "channel": "pkgs/main",
+    "dist_name": "curl-8.16.0-h6430ca7_0",
+    "name": "curl",
+    "platform": "osx-arm64",
+    "version": "8.16.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "cycler-0.11.0-pyhd3eb1b0_0",
+    "name": "cycler",
+    "platform": "noarch",
+    "version": "0.11.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 3,
+    "build_string": "h0121217_3",
+    "channel": "pkgs/main",
+    "dist_name": "cyrus-sasl-2.1.28-h0121217_3",
+    "name": "cyrus-sasl",
+    "platform": "osx-arm64",
+    "version": "2.1.28"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "dask-2025.11.0-py313hca03da5_0",
+    "name": "dask",
+    "platform": "osx-arm64",
+    "version": "2025.11.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "dask-core-2025.11.0-py313hca03da5_0",
+    "name": "dask-core",
+    "platform": "osx-arm64",
+    "version": "2025.11.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "datashader-0.18.2-py313hca03da5_0",
+    "name": "datashader",
+    "platform": "osx-arm64",
+    "version": "0.18.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h80987f9_0",
+    "channel": "pkgs/main",
+    "dist_name": "dav1d-1.2.1-h80987f9_0",
+    "name": "dav1d",
+    "platform": "osx-arm64",
+    "version": "1.2.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313h50f4ffc_1",
+    "channel": "pkgs/main",
+    "dist_name": "debugpy-1.8.16-py313h50f4ffc_1",
+    "name": "debugpy",
+    "platform": "osx-arm64",
+    "version": "1.8.16"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "decorator-5.2.1-py313hca03da5_0",
+    "name": "decorator",
+    "platform": "osx-arm64",
+    "version": "5.2.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "defusedxml-0.7.1-pyhd3eb1b0_0",
+    "name": "defusedxml",
+    "platform": "noarch",
+    "version": "0.7.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "diff-match-patch-20200713-pyhd3eb1b0_0",
+    "name": "diff-match-patch",
+    "platform": "noarch",
+    "version": "20200713"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "dill-0.4.0-py313hca03da5_0",
+    "name": "dill",
+    "platform": "osx-arm64",
+    "version": "0.4.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "distributed-2025.11.0-py313hca03da5_0",
+    "name": "distributed",
+    "platform": "osx-arm64",
+    "version": "2025.11.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "distro-1.9.0-py313hca03da5_0",
+    "name": "distro",
+    "platform": "osx-arm64",
+    "version": "1.9.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313h2d4777b_1",
+    "channel": "pkgs/main",
+    "dist_name": "dmglib-0.9.5-py313h2d4777b_1",
+    "name": "dmglib",
+    "platform": "osx-arm64",
+    "version": "0.9.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "docstring-to-markdown-0.17-py313hca03da5_0",
+    "name": "docstring-to-markdown",
+    "platform": "osx-arm64",
+    "version": "0.17"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "docutils-0.21.2-py313hca03da5_1",
+    "name": "docutils",
+    "platform": "osx-arm64",
+    "version": "0.21.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "et_xmlfile-2.0.0-py313hca03da5_0",
+    "name": "et_xmlfile",
+    "platform": "osx-arm64",
+    "version": "2.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "evalidate-2.0.3-py313hca03da5_0",
+    "name": "evalidate",
+    "platform": "osx-arm64",
+    "version": "2.0.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "executing-2.2.1-py313hca03da5_0",
+    "name": "executing",
+    "platform": "osx-arm64",
+    "version": "2.2.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h982b769_0",
+    "channel": "pkgs/main",
+    "dist_name": "expat-2.7.3-h982b769_0",
+    "name": "expat",
+    "platform": "osx-arm64",
+    "version": "2.7.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "filelock-3.20.0-py313hca03da5_0",
+    "name": "filelock",
+    "platform": "osx-arm64",
+    "version": "3.20.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "flake8-7.1.1-py313hca03da5_0",
+    "name": "flake8",
+    "platform": "osx-arm64",
+    "version": "7.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "flask-3.1.2-py313hca03da5_0",
+    "name": "flask",
+    "platform": "osx-arm64",
+    "version": "3.1.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h643473a_0",
+    "channel": "pkgs/main",
+    "dist_name": "fmt-11.2.0-h643473a_0",
+    "name": "fmt",
+    "platform": "osx-arm64",
+    "version": "11.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h29935d0_0",
+    "channel": "pkgs/main",
+    "dist_name": "fontconfig-2.15.0-h29935d0_0",
+    "name": "fontconfig",
+    "platform": "osx-arm64",
+    "version": "2.15.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h254cc4a_0",
+    "channel": "pkgs/main",
+    "dist_name": "fonttools-4.60.1-py313h254cc4a_0",
+    "name": "fonttools",
+    "platform": "osx-arm64",
+    "version": "4.60.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h47d26ad_0",
+    "channel": "pkgs/main",
+    "dist_name": "freetype-2.13.3-h47d26ad_0",
+    "name": "freetype",
+    "platform": "osx-arm64",
+    "version": "2.13.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h1a28f6b_0",
+    "channel": "pkgs/main",
+    "dist_name": "fribidi-1.0.10-h1a28f6b_0",
+    "name": "fribidi",
+    "platform": "osx-arm64",
+    "version": "1.0.10"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313haa24f5a_0",
+    "channel": "pkgs/main",
+    "dist_name": "frozendict-2.4.6-py313haa24f5a_0",
+    "name": "frozendict",
+    "platform": "osx-arm64",
+    "version": "2.4.6"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h50f4ffc_0",
+    "channel": "pkgs/main",
+    "dist_name": "frozenlist-1.8.0-py313h50f4ffc_0",
+    "name": "frozenlist",
+    "platform": "osx-arm64",
+    "version": "1.8.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h7eb115d_0",
+    "channel": "pkgs/main",
+    "dist_name": "fsspec-2025.10.0-py313h7eb115d_0",
+    "name": "fsspec",
+    "platform": "osx-arm64",
+    "version": "2025.10.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "hbdbcc25_2",
+    "channel": "pkgs/main",
+    "dist_name": "gettext-0.21.0-hbdbcc25_2",
+    "name": "gettext",
+    "platform": "osx-arm64",
+    "version": "0.21.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h313beb8_1",
+    "channel": "pkgs/main",
+    "dist_name": "gflags-2.2.2-h313beb8_1",
+    "name": "gflags",
+    "platform": "osx-arm64",
+    "version": "2.2.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "gitdb-4.0.12-py313hca03da5_0",
+    "name": "gitdb",
+    "platform": "osx-arm64",
+    "version": "4.0.12"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "gitpython-3.1.45-py313hca03da5_0",
+    "name": "gitpython",
+    "platform": "osx-arm64",
+    "version": "3.1.45"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h313beb8_1",
+    "channel": "pkgs/main",
+    "dist_name": "glog-0.5.0-h313beb8_1",
+    "name": "glog",
+    "platform": "osx-arm64",
+    "version": "0.5.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h313beb8_0",
+    "channel": "pkgs/main",
+    "dist_name": "gmp-6.3.0-h313beb8_0",
+    "name": "gmp",
+    "platform": "osx-arm64",
+    "version": "6.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h5c1b81f_0",
+    "channel": "pkgs/main",
+    "dist_name": "gmpy2-2.2.1-py313h5c1b81f_0",
+    "name": "gmpy2",
+    "platform": "osx-arm64",
+    "version": "2.2.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "hc377ac9_1",
+    "channel": "pkgs/main",
+    "dist_name": "graphite2-1.3.14-hc377ac9_1",
+    "name": "graphite2",
+    "platform": "osx-arm64",
+    "version": "1.3.14"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h0962b89_0",
+    "channel": "pkgs/main",
+    "dist_name": "greenlet-3.2.4-py313h0962b89_0",
+    "name": "greenlet",
+    "platform": "osx-arm64",
+    "version": "3.2.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "hc962c03_1",
+    "channel": "pkgs/main",
+    "dist_name": "gst-plugins-base-1.24.12-hc962c03_1",
+    "name": "gst-plugins-base",
+    "platform": "osx-arm64",
+    "version": "1.24.12"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h4a1bc71_1",
+    "channel": "pkgs/main",
+    "dist_name": "gstreamer-1.24.12-h4a1bc71_1",
+    "name": "gstreamer",
+    "platform": "osx-arm64",
+    "version": "1.24.12"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "hdbbdb2f_0",
+    "channel": "pkgs/main",
+    "dist_name": "gstreamer-orc-0.4.41-hdbbdb2f_0",
+    "name": "gstreamer-orc",
+    "platform": "osx-arm64",
+    "version": "0.4.41"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "h11-0.16.0-py313hca03da5_1",
+    "name": "h11",
+    "platform": "osx-arm64",
+    "version": "0.16.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h2b875b3_0",
+    "channel": "pkgs/main",
+    "dist_name": "h5py-3.15.1-py313h2b875b3_0",
+    "name": "h5py",
+    "platform": "osx-arm64",
+    "version": "3.15.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "he637ebf_1",
+    "channel": "pkgs/main",
+    "dist_name": "harfbuzz-10.2.0-he637ebf_1",
+    "name": "harfbuzz",
+    "platform": "osx-arm64",
+    "version": "10.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "hd77251f_2",
+    "channel": "pkgs/main",
+    "dist_name": "hdf5-1.14.5-hd77251f_2",
+    "name": "hdf5",
+    "platform": "osx-arm64",
+    "version": "1.14.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "heapdict-1.0.1-pyhd3eb1b0_0",
+    "name": "heapdict",
+    "platform": "noarch",
+    "version": "1.0.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "holoviews-1.22.0-py313hca03da5_0",
+    "name": "holoviews",
+    "platform": "osx-arm64",
+    "version": "1.22.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "html5lib-1.1-pyhd3eb1b0_0",
+    "name": "html5lib",
+    "platform": "noarch",
+    "version": "1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "httpcore-1.0.9-py313hca03da5_0",
+    "name": "httpcore",
+    "platform": "osx-arm64",
+    "version": "1.0.9"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "hvplot-0.12.1-py313hca03da5_0",
+    "name": "hvplot",
+    "platform": "osx-arm64",
+    "version": "0.12.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "hyperlink-21.0.0-pyhd3eb1b0_0",
+    "name": "hyperlink",
+    "platform": "noarch",
+    "version": "21.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h313beb8_0",
+    "channel": "pkgs/main",
+    "dist_name": "icu-73.1-h313beb8_0",
+    "name": "icu",
+    "platform": "osx-arm64",
+    "version": "73.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "idna-3.11-py313hca03da5_0",
+    "name": "idna",
+    "platform": "osx-arm64",
+    "version": "3.11"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h7eb115d_0",
+    "channel": "pkgs/main",
+    "dist_name": "imageio-2.37.2-py313h7eb115d_0",
+    "name": "imageio",
+    "platform": "osx-arm64",
+    "version": "2.37.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "imagesize-1.4.1-py313hca03da5_0",
+    "name": "imagesize",
+    "platform": "osx-arm64",
+    "version": "1.4.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "imbalanced-learn-0.14.0-py313hca03da5_0",
+    "name": "imbalanced-learn",
+    "platform": "osx-arm64",
+    "version": "0.14.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "importlib-metadata-8.7.0-py313hca03da5_0",
+    "name": "importlib-metadata",
+    "platform": "osx-arm64",
+    "version": "8.7.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "incremental-24.7.2-pyhd3eb1b0_0",
+    "name": "incremental",
+    "platform": "noarch",
+    "version": "24.7.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "inflection-0.5.1-py313hca03da5_1",
+    "name": "inflection",
+    "platform": "osx-arm64",
+    "version": "0.5.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "iniconfig-2.1.0-py313hca03da5_0",
+    "name": "iniconfig",
+    "platform": "osx-arm64",
+    "version": "2.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "intake-2.0.8-py313hca03da5_0",
+    "name": "intake",
+    "platform": "osx-arm64",
+    "version": "2.0.8"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "intervaltree-3.1.0-pyhd3eb1b0_0",
+    "name": "intervaltree",
+    "platform": "noarch",
+    "version": "3.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h7eb115d_0",
+    "channel": "pkgs/main",
+    "dist_name": "ipykernel-6.31.0-py313h7eb115d_0",
+    "name": "ipykernel",
+    "platform": "osx-arm64",
+    "version": "6.31.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "ipympl-0.9.7-py313hca03da5_0",
+    "name": "ipympl",
+    "platform": "osx-arm64",
+    "version": "0.9.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "ipython-9.7.0-py313hca03da5_0",
+    "name": "ipython",
+    "platform": "osx-arm64",
+    "version": "9.7.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "ipython_pygments_lexers-1.1.1-py313hca03da5_0",
+    "name": "ipython_pygments_lexers",
+    "platform": "osx-arm64",
+    "version": "1.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "ipywidgets-8.1.7-py313hca03da5_0",
+    "name": "ipywidgets",
+    "platform": "osx-arm64",
+    "version": "8.1.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "isort-6.1.0-py313hca03da5_0",
+    "name": "isort",
+    "platform": "osx-arm64",
+    "version": "6.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "itemadapter-0.12.1-py313hca03da5_0",
+    "name": "itemadapter",
+    "platform": "osx-arm64",
+    "version": "0.12.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "itemloaders-1.3.2-py313hca03da5_0",
+    "name": "itemloaders",
+    "platform": "osx-arm64",
+    "version": "1.3.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "itsdangerous-2.2.0-py313hca03da5_0",
+    "name": "itsdangerous",
+    "platform": "osx-arm64",
+    "version": "2.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h80987f9_1",
+    "channel": "pkgs/main",
+    "dist_name": "jansson-2.14-h80987f9_1",
+    "name": "jansson",
+    "platform": "osx-arm64",
+    "version": "2.14"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jaraco.classes-3.4.0-py313hca03da5_0",
+    "name": "jaraco.classes",
+    "platform": "osx-arm64",
+    "version": "3.4.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jaraco.context-6.0.0-py313hca03da5_0",
+    "name": "jaraco.context",
+    "platform": "osx-arm64",
+    "version": "6.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jaraco.functools-4.1.0-py313hca03da5_0",
+    "name": "jaraco.functools",
+    "platform": "osx-arm64",
+    "version": "4.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jedi-0.19.2-py313hca03da5_0",
+    "name": "jedi",
+    "platform": "osx-arm64",
+    "version": "0.19.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h931abed_0",
+    "channel": "pkgs/main",
+    "dist_name": "jellyfish-1.2.1-py313h931abed_0",
+    "name": "jellyfish",
+    "platform": "osx-arm64",
+    "version": "1.2.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jinja2-3.1.6-py313hca03da5_0",
+    "name": "jinja2",
+    "platform": "osx-arm64",
+    "version": "3.1.6"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jmespath-1.0.1-py313hca03da5_0",
+    "name": "jmespath",
+    "platform": "osx-arm64",
+    "version": "1.0.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "joblib-1.5.2-py313hca03da5_0",
+    "name": "joblib",
+    "platform": "osx-arm64",
+    "version": "1.5.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h2f69dba_0",
+    "channel": "pkgs/main",
+    "dist_name": "jpeg-9f-h2f69dba_0",
+    "name": "jpeg",
+    "platform": "osx-arm64",
+    "version": "9f"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h80987f9_0",
+    "channel": "pkgs/main",
+    "dist_name": "jq-1.8.1-h80987f9_0",
+    "name": "jq",
+    "platform": "osx-arm64",
+    "version": "1.8.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "json5-0.12.1-py313hca03da5_0",
+    "name": "json5",
+    "platform": "osx-arm64",
+    "version": "0.12.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "jsonpatch-1.33-py313hca03da5_1",
+    "name": "jsonpatch",
+    "platform": "osx-arm64",
+    "version": "1.33"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jsonpointer-3.0.0-py313hca03da5_0",
+    "name": "jsonpointer",
+    "platform": "osx-arm64",
+    "version": "3.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "jsonschema-4.25.0-py313hca03da5_1",
+    "name": "jsonschema",
+    "platform": "osx-arm64",
+    "version": "4.25.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jsonschema-specifications-2025.9.1-py313hca03da5_0",
+    "name": "jsonschema-specifications",
+    "platform": "osx-arm64",
+    "version": "2025.9.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jupyter-1.1.1-py313hca03da5_0",
+    "name": "jupyter",
+    "platform": "osx-arm64",
+    "version": "1.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jupyter-lsp-2.2.5-py313hca03da5_0",
+    "name": "jupyter-lsp",
+    "platform": "osx-arm64",
+    "version": "2.2.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "jupyter_client-8.6.3-py313hca03da5_1",
+    "name": "jupyter_client",
+    "platform": "osx-arm64",
+    "version": "8.6.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "jupyter_console-6.6.3-py313hca03da5_1",
+    "name": "jupyter_console",
+    "platform": "osx-arm64",
+    "version": "6.6.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jupyter_core-5.8.1-py313hca03da5_0",
+    "name": "jupyter_core",
+    "platform": "osx-arm64",
+    "version": "5.8.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jupyter_events-0.12.0-py313hca03da5_0",
+    "name": "jupyter_events",
+    "platform": "osx-arm64",
+    "version": "0.12.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jupyter_server-2.16.0-py313hca03da5_0",
+    "name": "jupyter_server",
+    "platform": "osx-arm64",
+    "version": "2.16.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jupyter_server_terminals-0.5.3-py313hca03da5_0",
+    "name": "jupyter_server_terminals",
+    "platform": "osx-arm64",
+    "version": "0.5.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jupyterlab-4.5.6-py313hca03da5_0",
+    "name": "jupyterlab",
+    "platform": "osx-arm64",
+    "version": "4.5.6"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jupyterlab-variableinspector-3.2.4-py313hca03da5_0",
+    "name": "jupyterlab-variableinspector",
+    "platform": "osx-arm64",
+    "version": "3.2.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jupyterlab_pygments-0.3.0-py313hca03da5_0",
+    "name": "jupyterlab_pygments",
+    "platform": "osx-arm64",
+    "version": "0.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jupyterlab_server-2.28.0-py313hca03da5_0",
+    "name": "jupyterlab_server",
+    "platform": "osx-arm64",
+    "version": "2.28.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "jupyterlab_widgets-3.0.15-py313hca03da5_0",
+    "name": "jupyterlab_widgets",
+    "platform": "osx-arm64",
+    "version": "3.0.15"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "keyring-25.7.0-py313hca03da5_0",
+    "name": "keyring",
+    "platform": "osx-arm64",
+    "version": "25.7.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313haeee614_0",
+    "channel": "pkgs/main",
+    "dist_name": "kiwisolver-1.4.9-py313haeee614_0",
+    "name": "kiwisolver",
+    "platform": "osx-arm64",
+    "version": "1.4.9"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "lazy_loader-0.4-py313hca03da5_0",
+    "name": "lazy_loader",
+    "platform": "osx-arm64",
+    "version": "0.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h7418793_0",
+    "channel": "pkgs/main",
+    "dist_name": "lcms2-2.17-h7418793_0",
+    "name": "lcms2",
+    "platform": "osx-arm64",
+    "version": "2.17"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "hbcf198d_0",
+    "channel": "pkgs/main",
+    "dist_name": "ld64-954.16-hbcf198d_0",
+    "name": "ld64",
+    "platform": "osx-arm64",
+    "version": "954.16"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h313beb8_0",
+    "channel": "pkgs/main",
+    "dist_name": "lerc-4.0.0-h313beb8_0",
+    "name": "lerc",
+    "platform": "osx-arm64",
+    "version": "4.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "cxx17_h313beb8_0",
+    "channel": "pkgs/main",
+    "dist_name": "libabseil-20250127.0-cxx17_h313beb8_0",
+    "name": "libabseil",
+    "platform": "osx-arm64",
+    "version": "20250127.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "ha845c4f_0",
+    "channel": "pkgs/main",
+    "dist_name": "libarchive-3.8.2-ha845c4f_0",
+    "name": "libarchive",
+    "platform": "osx-arm64",
+    "version": "3.8.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h839b4eb_0",
+    "channel": "pkgs/main",
+    "dist_name": "libavif-1.3.0-h839b4eb_0",
+    "name": "libavif",
+    "platform": "osx-arm64",
+    "version": "1.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 9,
+    "build_string": "h80987f9_9",
+    "channel": "pkgs/main",
+    "dist_name": "libbrotlicommon-1.0.9-h80987f9_9",
+    "name": "libbrotlicommon",
+    "platform": "osx-arm64",
+    "version": "1.0.9"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 9,
+    "build_string": "h80987f9_9",
+    "channel": "pkgs/main",
+    "dist_name": "libbrotlidec-1.0.9-h80987f9_9",
+    "name": "libbrotlidec",
+    "platform": "osx-arm64",
+    "version": "1.0.9"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 9,
+    "build_string": "h80987f9_9",
+    "channel": "pkgs/main",
+    "dist_name": "libbrotlienc-1.0.9-h80987f9_9",
+    "name": "libbrotlienc",
+    "platform": "osx-arm64",
+    "version": "1.0.9"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "default_h9231c17_0",
+    "channel": "pkgs/main",
+    "dist_name": "libclang13-20.1.8-default_h9231c17_0",
+    "name": "libclang13",
+    "platform": "osx-arm64",
+    "version": "20.1.8"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h01d3526_0",
+    "channel": "pkgs/main",
+    "dist_name": "libcurl-8.16.0-h01d3526_0",
+    "name": "libcurl",
+    "platform": "osx-arm64",
+    "version": "8.16.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "hd7fd590_1",
+    "channel": "pkgs/main",
+    "dist_name": "libcxx-20.1.8-hd7fd590_1",
+    "name": "libcxx",
+    "platform": "osx-arm64",
+    "version": "20.1.8"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h80987f9_0",
+    "channel": "pkgs/main",
+    "dist_name": "libdeflate-1.22-h80987f9_0",
+    "name": "libdeflate",
+    "platform": "osx-arm64",
+    "version": "1.22"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h80987f9_0",
+    "channel": "pkgs/main",
+    "dist_name": "libedit-3.1.20230828-h80987f9_0",
+    "name": "libedit",
+    "platform": "osx-arm64",
+    "version": "3.1.20230828"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h1a28f6b_1",
+    "channel": "pkgs/main",
+    "dist_name": "libev-4.33-h1a28f6b_1",
+    "name": "libev",
+    "platform": "osx-arm64",
+    "version": "4.33"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h02f6b3c_1",
+    "channel": "pkgs/main",
+    "dist_name": "libevent-2.1.12-h02f6b3c_1",
+    "name": "libevent",
+    "platform": "osx-arm64",
+    "version": "2.1.12"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "libffi-3.4.4-hca03da5_1",
+    "name": "libffi",
+    "platform": "osx-arm64",
+    "version": "3.4.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "hb654fa1_1",
+    "channel": "pkgs/main",
+    "dist_name": "libgfortran5-15.2.0-hb654fa1_1",
+    "name": "libgfortran5",
+    "platform": "osx-arm64",
+    "version": "15.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h7a3292d_0",
+    "channel": "pkgs/main",
+    "dist_name": "libglib-2.84.4-h7a3292d_0",
+    "name": "libglib",
+    "platform": "osx-arm64",
+    "version": "2.84.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h62f6fdd_0",
+    "channel": "pkgs/main",
+    "dist_name": "libgrpc-1.71.0-h62f6fdd_0",
+    "name": "libgrpc",
+    "platform": "osx-arm64",
+    "version": "1.71.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 3,
+    "build_string": "h80987f9_3",
+    "channel": "pkgs/main",
+    "dist_name": "libiconv-1.16-h80987f9_3",
+    "name": "libiconv",
+    "platform": "osx-arm64",
+    "version": "1.16"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h9681e36_0",
+    "channel": "pkgs/main",
+    "dist_name": "libidn2-2.3.8-h9681e36_0",
+    "name": "libidn2",
+    "platform": "osx-arm64",
+    "version": "2.3.8"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 4,
+    "build_string": "h73ed823_4",
+    "channel": "pkgs/main",
+    "dist_name": "libkrb5-1.21.3-h73ed823_4",
+    "name": "libkrb5",
+    "platform": "osx-arm64",
+    "version": "1.21.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h7ee9c94_1",
+    "channel": "pkgs/main",
+    "dist_name": "liblief-0.16.4-h7ee9c94_1",
+    "name": "liblief",
+    "platform": "osx-arm64",
+    "version": "0.16.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h1701f07_0",
+    "channel": "pkgs/main",
+    "dist_name": "libllvm20-20.1.8-h1701f07_0",
+    "name": "libllvm20",
+    "platform": "osx-arm64",
+    "version": "20.1.8"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "hcdddc3d_1",
+    "channel": "pkgs/main",
+    "dist_name": "libmamba-2.3.2-hcdddc3d_1",
+    "name": "libmamba",
+    "platform": "osx-arm64",
+    "version": "2.3.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313h678a34b_1",
+    "channel": "pkgs/main",
+    "dist_name": "libmambapy-2.3.2-py313h678a34b_1",
+    "name": "libmambapy",
+    "platform": "osx-arm64",
+    "version": "2.3.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h80987f9_0",
+    "channel": "pkgs/main",
+    "dist_name": "libmpdec-4.0.0-h80987f9_0",
+    "name": "libmpdec",
+    "platform": "osx-arm64",
+    "version": "4.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h8189af8_0",
+    "channel": "pkgs/main",
+    "dist_name": "libnghttp2-1.67.1-h8189af8_0",
+    "name": "libnghttp2",
+    "platform": "osx-arm64",
+    "version": "1.67.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h1a28f6b_1",
+    "channel": "pkgs/main",
+    "dist_name": "libogg-1.3.5-h1a28f6b_1",
+    "name": "libogg",
+    "platform": "osx-arm64",
+    "version": "1.3.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "hf2bb037_2",
+    "channel": "pkgs/main",
+    "dist_name": "libopenblas-0.3.30-hf2bb037_2",
+    "name": "libopenblas",
+    "platform": "osx-arm64",
+    "version": "0.3.30"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "haa24f5a_1",
+    "channel": "pkgs/main",
+    "dist_name": "libopenjpeg-2.5.4-haa24f5a_1",
+    "name": "libopenjpeg",
+    "platform": "osx-arm64",
+    "version": "2.5.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h80987f9_1",
+    "channel": "pkgs/main",
+    "dist_name": "libopus-1.3.1-h80987f9_1",
+    "name": "libopus",
+    "platform": "osx-arm64",
+    "version": "1.3.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h5c318fc_0",
+    "channel": "pkgs/main",
+    "dist_name": "libpng-1.6.50-h5c318fc_0",
+    "name": "libpng",
+    "platform": "osx-arm64",
+    "version": "1.6.50"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h479fd88_0",
+    "channel": "pkgs/main",
+    "dist_name": "libpq-17.6-h479fd88_0",
+    "name": "libpq",
+    "platform": "osx-arm64",
+    "version": "17.6"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h14f15fd_1",
+    "channel": "pkgs/main",
+    "dist_name": "libprotobuf-5.29.3-h14f15fd_1",
+    "name": "libprotobuf",
+    "platform": "osx-arm64",
+    "version": "5.29.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h313beb8_0",
+    "channel": "pkgs/main",
+    "dist_name": "libre2-11-2024.07.02-h313beb8_0",
+    "name": "libre2-11",
+    "platform": "osx-arm64",
+    "version": "2024.07.02"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h897f8a9_0",
+    "channel": "pkgs/main",
+    "dist_name": "libsodium-1.0.20-h897f8a9_0",
+    "name": "libsodium",
+    "platform": "osx-arm64",
+    "version": "1.0.20"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "ha443353_2",
+    "channel": "pkgs/main",
+    "dist_name": "libsolv-0.7.30-ha443353_2",
+    "name": "libsolv",
+    "platform": "osx-arm64",
+    "version": "0.7.30"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "hc377ac9_0",
+    "channel": "pkgs/main",
+    "dist_name": "libspatialindex-1.9.3-hc377ac9_0",
+    "name": "libspatialindex",
+    "platform": "osx-arm64",
+    "version": "1.9.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h3e2b118_0",
+    "channel": "pkgs/main",
+    "dist_name": "libssh2-1.11.1-h3e2b118_0",
+    "name": "libssh2",
+    "platform": "osx-arm64",
+    "version": "1.11.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "hbe873a3_0",
+    "channel": "pkgs/main",
+    "dist_name": "libthrift-0.22.0-hbe873a3_0",
+    "name": "libthrift",
+    "platform": "osx-arm64",
+    "version": "0.22.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h367c460_0",
+    "channel": "pkgs/main",
+    "dist_name": "libtiff-4.7.1-h367c460_0",
+    "name": "libtiff",
+    "platform": "osx-arm64",
+    "version": "4.7.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h1799b2a_0",
+    "channel": "pkgs/main",
+    "dist_name": "libunistring-1.3-h1799b2a_0",
+    "name": "libunistring",
+    "platform": "osx-arm64",
+    "version": "1.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h80987f9_0",
+    "channel": "pkgs/main",
+    "dist_name": "libuv-1.48.0-h80987f9_0",
+    "name": "libuv",
+    "platform": "osx-arm64",
+    "version": "1.48.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h1a28f6b_0",
+    "channel": "pkgs/main",
+    "dist_name": "libvorbis-1.3.7-h1a28f6b_0",
+    "name": "libvorbis",
+    "platform": "osx-arm64",
+    "version": "1.3.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h313beb8_0",
+    "channel": "pkgs/main",
+    "dist_name": "libvpx-1.13.1-h313beb8_0",
+    "name": "libvpx",
+    "platform": "osx-arm64",
+    "version": "1.13.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h92b2d59_0",
+    "channel": "pkgs/main",
+    "dist_name": "libwebp-base-1.6.0-h92b2d59_0",
+    "name": "libwebp-base",
+    "platform": "osx-arm64",
+    "version": "1.6.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h528a072_0",
+    "channel": "pkgs/main",
+    "dist_name": "libxml2-2.13.9-h528a072_0",
+    "name": "libxml2",
+    "platform": "osx-arm64",
+    "version": "2.13.9"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "had6d056_0",
+    "channel": "pkgs/main",
+    "dist_name": "libxslt-1.1.43-had6d056_0",
+    "name": "libxslt",
+    "platform": "osx-arm64",
+    "version": "1.1.43"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h5f15de7_0",
+    "channel": "pkgs/main",
+    "dist_name": "libzlib-1.3.1-h5f15de7_0",
+    "name": "libzlib",
+    "platform": "osx-arm64",
+    "version": "1.3.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "linkify-it-py-2.0.3-py313hca03da5_0",
+    "name": "linkify-it-py",
+    "platform": "osx-arm64",
+    "version": "2.0.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "he822017_0",
+    "channel": "pkgs/main",
+    "dist_name": "llvm-openmp-20.1.8-he822017_0",
+    "name": "llvm-openmp",
+    "platform": "osx-arm64",
+    "version": "20.1.8"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hc8eb11b_0",
+    "channel": "pkgs/main",
+    "dist_name": "llvmlite-0.45.1-py313hc8eb11b_0",
+    "name": "llvmlite",
+    "platform": "osx-arm64",
+    "version": "0.45.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h79febb2_0",
+    "channel": "pkgs/main",
+    "dist_name": "lmdb-0.9.31-h79febb2_0",
+    "name": "lmdb",
+    "platform": "osx-arm64",
+    "version": "0.9.31"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "locket-1.0.0-py313hca03da5_0",
+    "name": "locket",
+    "platform": "osx-arm64",
+    "version": "1.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "lsprotocol-2025.0.0-py313hca03da5_0",
+    "name": "lsprotocol",
+    "platform": "osx-arm64",
+    "version": "2025.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "py313had6d056_2",
+    "channel": "pkgs/main",
+    "dist_name": "lxml-5.3.0-py313had6d056_2",
+    "name": "lxml",
+    "platform": "osx-arm64",
+    "version": "5.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hbc89d72_0",
+    "channel": "pkgs/main",
+    "dist_name": "lz4-4.4.5-py313hbc89d72_0",
+    "name": "lz4",
+    "platform": "osx-arm64",
+    "version": "4.4.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h313beb8_1",
+    "channel": "pkgs/main",
+    "dist_name": "lz4-c-1.9.4-h313beb8_1",
+    "name": "lz4-c",
+    "platform": "osx-arm64",
+    "version": "1.9.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "h1a28f6b_2",
+    "channel": "pkgs/main",
+    "dist_name": "lzo-2.10-h1a28f6b_2",
+    "name": "lzo",
+    "platform": "osx-arm64",
+    "version": "2.10"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "markdown-3.8-py313hca03da5_0",
+    "name": "markdown",
+    "platform": "osx-arm64",
+    "version": "3.8"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "markdown-it-py-2.2.0-py313hca03da5_1",
+    "name": "markdown-it-py",
+    "platform": "osx-arm64",
+    "version": "2.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h80987f9_0",
+    "channel": "pkgs/main",
+    "dist_name": "markupsafe-3.0.2-py313h80987f9_0",
+    "name": "markupsafe",
+    "platform": "osx-arm64",
+    "version": "3.0.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "matplotlib-3.10.6-py313hca03da5_1",
+    "name": "matplotlib",
+    "platform": "osx-arm64",
+    "version": "3.10.6"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313haa222d5_1",
+    "channel": "pkgs/main",
+    "dist_name": "matplotlib-base-3.10.6-py313haa222d5_1",
+    "name": "matplotlib-base",
+    "platform": "osx-arm64",
+    "version": "3.10.6"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "matplotlib-inline-0.2.1-py313hca03da5_0",
+    "name": "matplotlib-inline",
+    "platform": "osx-arm64",
+    "version": "0.2.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h313beb8_1",
+    "channel": "pkgs/main",
+    "dist_name": "mbedtls-3.5.1-h313beb8_1",
+    "name": "mbedtls",
+    "platform": "osx-arm64",
+    "version": "3.5.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "mccabe-0.7.0-pyhd3eb1b0_0",
+    "name": "mccabe",
+    "platform": "noarch",
+    "version": "0.7.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "mdit-py-plugins-0.5.0-py313hca03da5_0",
+    "name": "mdit-py-plugins",
+    "platform": "osx-arm64",
+    "version": "0.5.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "mdurl-0.1.2-py313hca03da5_0",
+    "name": "mdurl",
+    "platform": "osx-arm64",
+    "version": "0.1.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "menuinst-2.4.2-py313hca03da5_1",
+    "name": "menuinst",
+    "platform": "osx-arm64",
+    "version": "2.4.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "mistune-3.1.2-py313hca03da5_0",
+    "name": "mistune",
+    "platform": "osx-arm64",
+    "version": "3.1.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "more-itertools-10.8.0-py313hca03da5_0",
+    "name": "more-itertools",
+    "platform": "osx-arm64",
+    "version": "10.8.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h80987f9_0",
+    "channel": "pkgs/main",
+    "dist_name": "mpc-1.3.1-h80987f9_0",
+    "name": "mpc",
+    "platform": "osx-arm64",
+    "version": "1.3.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h80987f9_0",
+    "channel": "pkgs/main",
+    "dist_name": "mpfr-4.2.1-h80987f9_0",
+    "name": "mpfr",
+    "platform": "osx-arm64",
+    "version": "4.2.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "mpich",
+    "channel": "pkgs/main",
+    "dist_name": "mpi-1.0-mpich",
+    "name": "mpi",
+    "platform": "osx-arm64",
+    "version": "1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h062c92d_0",
+    "channel": "pkgs/main",
+    "dist_name": "mpi4py-4.0.3-py313h062c92d_0",
+    "name": "mpi4py",
+    "platform": "osx-arm64",
+    "version": "4.0.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h3b86219_0",
+    "channel": "pkgs/main",
+    "dist_name": "mpich-4.3.2-h3b86219_0",
+    "name": "mpich",
+    "platform": "osx-arm64",
+    "version": "4.3.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "mpmath-1.3.0-py313hca03da5_0",
+    "name": "mpmath",
+    "platform": "osx-arm64",
+    "version": "1.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h313beb8_0",
+    "channel": "pkgs/main",
+    "dist_name": "msgpack-python-1.1.1-py313h313beb8_0",
+    "name": "msgpack-python",
+    "platform": "osx-arm64",
+    "version": "1.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h254cc4a_0",
+    "channel": "pkgs/main",
+    "dist_name": "multidict-6.7.0-py313h254cc4a_0",
+    "name": "multidict",
+    "platform": "osx-arm64",
+    "version": "6.7.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "multipledispatch-1.0.0-py313hca03da5_0",
+    "name": "multipledispatch",
+    "platform": "osx-arm64",
+    "version": "1.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313haa24f5a_1",
+    "channel": "pkgs/main",
+    "dist_name": "mypy-1.17.1-py313haa24f5a_1",
+    "name": "mypy",
+    "platform": "osx-arm64",
+    "version": "1.17.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "mypy_extensions-1.0.0-py313hca03da5_0",
+    "name": "mypy_extensions",
+    "platform": "osx-arm64",
+    "version": "1.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 3,
+    "build_string": "h0968ce5_3",
+    "channel": "pkgs/main",
+    "dist_name": "mysql-common-9.3.0-h0968ce5_3",
+    "name": "mysql-common",
+    "platform": "osx-arm64",
+    "version": "9.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 3,
+    "build_string": "ha948bd4_3",
+    "channel": "pkgs/main",
+    "dist_name": "mysql-libs-9.3.0-ha948bd4_3",
+    "name": "mysql-libs",
+    "platform": "osx-arm64",
+    "version": "9.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "narwhals-2.7.0-py313hca03da5_0",
+    "name": "narwhals",
+    "platform": "osx-arm64",
+    "version": "2.7.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "navigator-updater-0.6.0-py313hca03da5_0",
+    "name": "navigator-updater",
+    "platform": "osx-arm64",
+    "version": "0.6.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "nbclient-0.10.2-py313hca03da5_0",
+    "name": "nbclient",
+    "platform": "osx-arm64",
+    "version": "0.10.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "nbconvert-7.16.6-py313hca03da5_0",
+    "name": "nbconvert",
+    "platform": "osx-arm64",
+    "version": "7.16.6"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "nbconvert-core-7.16.6-py313hca03da5_0",
+    "name": "nbconvert-core",
+    "platform": "osx-arm64",
+    "version": "7.16.6"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "nbconvert-pandoc-7.16.6-py313hca03da5_0",
+    "name": "nbconvert-pandoc",
+    "platform": "osx-arm64",
+    "version": "7.16.6"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "nbformat-5.10.4-py313hca03da5_0",
+    "name": "nbformat",
+    "platform": "osx-arm64",
+    "version": "5.10.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "hee39554_0",
+    "channel": "pkgs/main",
+    "dist_name": "ncurses-6.5-hee39554_0",
+    "name": "ncurses",
+    "platform": "osx-arm64",
+    "version": "6.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "nest-asyncio-1.6.0-py313hca03da5_0",
+    "name": "nest-asyncio",
+    "platform": "osx-arm64",
+    "version": "1.6.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "networkx-3.5-py313hca03da5_0",
+    "name": "networkx",
+    "platform": "osx-arm64",
+    "version": "3.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h313beb8_0",
+    "channel": "pkgs/main",
+    "dist_name": "nlohmann_json-3.11.2-h313beb8_0",
+    "name": "nlohmann_json",
+    "platform": "osx-arm64",
+    "version": "3.11.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313ha2b9d59_0",
+    "channel": "pkgs/main",
+    "dist_name": "nltk-3.9.2-py313ha2b9d59_0",
+    "name": "nltk",
+    "platform": "osx-arm64",
+    "version": "3.9.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "notebook-7.5.0-py313hca03da5_0",
+    "name": "notebook",
+    "platform": "osx-arm64",
+    "version": "7.5.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "notebook-shim-0.2.4-py313hca03da5_0",
+    "name": "notebook-shim",
+    "platform": "osx-arm64",
+    "version": "0.2.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h73b47df_0",
+    "channel": "pkgs/main",
+    "dist_name": "numba-0.62.1-py313h73b47df_0",
+    "name": "numba",
+    "platform": "osx-arm64",
+    "version": "0.62.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h5fbe615_0",
+    "channel": "pkgs/main",
+    "dist_name": "numexpr-2.14.1-py313h5fbe615_0",
+    "name": "numexpr",
+    "platform": "osx-arm64",
+    "version": "2.14.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h4bb6f22_0",
+    "channel": "pkgs/main",
+    "dist_name": "numpy-2.3.5-py313h4bb6f22_0",
+    "name": "numpy",
+    "platform": "osx-arm64",
+    "version": "2.3.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h23175f9_0",
+    "channel": "pkgs/main",
+    "dist_name": "numpy-base-2.3.5-py313h23175f9_0",
+    "name": "numpy-base",
+    "platform": "osx-arm64",
+    "version": "2.3.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h7eb115d_0",
+    "channel": "pkgs/main",
+    "dist_name": "numpydoc-1.9.0-py313h7eb115d_0",
+    "name": "numpydoc",
+    "platform": "osx-arm64",
+    "version": "1.9.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h6605752_0",
+    "channel": "pkgs/main",
+    "dist_name": "oniguruma-6.9.10-h6605752_0",
+    "name": "oniguruma",
+    "platform": "osx-arm64",
+    "version": "6.9.10"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h959fc53_1",
+    "channel": "pkgs/main",
+    "dist_name": "openjpeg-2.5.4-h959fc53_1",
+    "name": "openjpeg",
+    "platform": "osx-arm64",
+    "version": "2.5.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h6d5b105_1",
+    "channel": "pkgs/main",
+    "dist_name": "openldap-2.6.10-h6d5b105_1",
+    "name": "openldap",
+    "platform": "osx-arm64",
+    "version": "2.6.10"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313h80987f9_1",
+    "channel": "pkgs/main",
+    "dist_name": "openpyxl-3.1.5-py313h80987f9_1",
+    "name": "openpyxl",
+    "platform": "osx-arm64",
+    "version": "3.1.5"
+  },
+  {
+    "base_url": "https://conda.anaconda.org/conda-forge",
+    "build_number": 0,
+    "build_string": "hd24854e_0",
+    "channel": "conda-forge",
+    "dist_name": "openssl-3.6.2-hd24854e_0",
+    "name": "openssl",
+    "platform": "osx-arm64",
+    "version": "3.6.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "hec253e6_0",
+    "channel": "pkgs/main",
+    "dist_name": "orc-2.2.0-hec253e6_0",
+    "name": "orc",
+    "platform": "osx-arm64",
+    "version": "2.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "overrides-7.7.0-py313hca03da5_0",
+    "name": "overrides",
+    "platform": "osx-arm64",
+    "version": "7.7.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313h3f644e9_1",
+    "channel": "pkgs/main",
+    "dist_name": "pandas-2.3.3-py313h3f644e9_1",
+    "name": "pandas",
+    "platform": "osx-arm64",
+    "version": "2.3.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pandoc-3.8-hca03da5_0",
+    "name": "pandoc",
+    "platform": "osx-arm64",
+    "version": "3.8"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pandocfilters-1.5.1-py313hca03da5_0",
+    "name": "pandocfilters",
+    "platform": "osx-arm64",
+    "version": "1.5.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "panel-1.8.3-py313hca03da5_0",
+    "name": "panel",
+    "platform": "osx-arm64",
+    "version": "1.8.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "param-2.3.0-py313hca03da5_0",
+    "name": "param",
+    "platform": "osx-arm64",
+    "version": "2.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "parsel-1.10.0-py313hca03da5_0",
+    "name": "parsel",
+    "platform": "osx-arm64",
+    "version": "1.10.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "parso-0.8.5-py313hca03da5_0",
+    "name": "parso",
+    "platform": "osx-arm64",
+    "version": "0.8.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "partd-1.4.2-py313hca03da5_0",
+    "name": "partd",
+    "platform": "osx-arm64",
+    "version": "1.4.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h79febb2_0",
+    "channel": "pkgs/main",
+    "dist_name": "patch-2.8-h79febb2_0",
+    "name": "patch",
+    "platform": "osx-arm64",
+    "version": "2.8"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "pathspec-0.12.1-py313hca03da5_1",
+    "name": "pathspec",
+    "platform": "osx-arm64",
+    "version": "0.12.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "patsy-1.0.1-py313hca03da5_0",
+    "name": "patsy",
+    "platform": "osx-arm64",
+    "version": "1.0.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h1dacb4a_0",
+    "channel": "pkgs/main",
+    "dist_name": "pcre2-10.46-h1dacb4a_0",
+    "name": "pcre2",
+    "platform": "osx-arm64",
+    "version": "10.46"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "pexpect-4.9.0-py313hca03da5_1",
+    "name": "pexpect",
+    "platform": "osx-arm64",
+    "version": "4.9.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1003,
+    "build_string": "pyhd3eb1b0_1003",
+    "channel": "pkgs/main",
+    "dist_name": "pickleshare-0.7.5-pyhd3eb1b0_1003",
+    "name": "pickleshare",
+    "platform": "noarch",
+    "version": "0.7.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313he2d6fe4_1",
+    "channel": "pkgs/main",
+    "dist_name": "pillow-12.0.0-py313he2d6fe4_1",
+    "name": "pillow",
+    "platform": "osx-arm64",
+    "version": "12.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h09dc60e_0",
+    "channel": "pkgs/main",
+    "dist_name": "pixman-0.46.4-h09dc60e_0",
+    "name": "pixman",
+    "platform": "osx-arm64",
+    "version": "0.46.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pkce-1.0.3-py313hca03da5_0",
+    "name": "pkce",
+    "platform": "osx-arm64",
+    "version": "1.0.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pkginfo-1.12.1.2-py313hca03da5_0",
+    "name": "pkginfo",
+    "platform": "osx-arm64",
+    "version": "1.12.1.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "platformdirs-4.5.0-py313hca03da5_0",
+    "name": "platformdirs",
+    "platform": "osx-arm64",
+    "version": "4.5.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h7eb115d_0",
+    "channel": "pkgs/main",
+    "dist_name": "plotly-6.3.0-py313h7eb115d_0",
+    "name": "plotly",
+    "platform": "osx-arm64",
+    "version": "6.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pluggy-1.5.0-py313hca03da5_0",
+    "name": "pluggy",
+    "platform": "osx-arm64",
+    "version": "1.5.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "prometheus_client-0.21.1-py313hca03da5_0",
+    "name": "prometheus_client",
+    "platform": "osx-arm64",
+    "version": "0.21.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "prompt-toolkit-3.0.52-py313hca03da5_1",
+    "name": "prompt-toolkit",
+    "platform": "osx-arm64",
+    "version": "3.0.52"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "hd3eb1b0_1",
+    "channel": "pkgs/main",
+    "dist_name": "prompt_toolkit-3.0.52-hd3eb1b0_1",
+    "name": "prompt_toolkit",
+    "platform": "noarch",
+    "version": "3.0.52"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h80987f9_0",
+    "channel": "pkgs/main",
+    "dist_name": "propcache-0.3.1-py313h80987f9_0",
+    "name": "propcache",
+    "platform": "osx-arm64",
+    "version": "0.3.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "protego-0.4.0-py313hca03da5_0",
+    "name": "protego",
+    "platform": "osx-arm64",
+    "version": "0.4.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h514c7bf_0",
+    "channel": "pkgs/main",
+    "dist_name": "protobuf-5.29.3-py313h514c7bf_0",
+    "name": "protobuf",
+    "platform": "osx-arm64",
+    "version": "5.29.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313haa24f5a_1",
+    "channel": "pkgs/main",
+    "dist_name": "psutil-7.0.0-py313haa24f5a_1",
+    "name": "psutil",
+    "platform": "osx-arm64",
+    "version": "7.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 3,
+    "build_string": "pyhd3eb1b0_3",
+    "channel": "pkgs/main",
+    "dist_name": "ptyprocess-0.7.0-pyhd3eb1b0_3",
+    "name": "ptyprocess",
+    "platform": "noarch",
+    "version": "0.7.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pure_eval-0.2.3-py313hca03da5_0",
+    "name": "pure_eval",
+    "platform": "osx-arm64",
+    "version": "0.2.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "py-cpuinfo-9.0.0-py313hca03da5_0",
+    "name": "py-cpuinfo",
+    "platform": "osx-arm64",
+    "version": "9.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313h7ee9c94_1",
+    "channel": "pkgs/main",
+    "dist_name": "py-lief-0.16.4-py313h7ee9c94_1",
+    "name": "py-lief",
+    "platform": "osx-arm64",
+    "version": "0.16.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h6316d20_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyarrow-21.0.0-py313h6316d20_0",
+    "name": "pyarrow",
+    "platform": "osx-arm64",
+    "version": "21.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyasn1-0.6.1-py313hca03da5_0",
+    "name": "pyasn1",
+    "platform": "osx-arm64",
+    "version": "0.6.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyasn1-modules-0.4.2-py313hca03da5_0",
+    "name": "pyasn1-modules",
+    "platform": "osx-arm64",
+    "version": "0.4.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "hd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "pybind11-abi-5-hd3eb1b0_0",
+    "name": "pybind11-abi",
+    "platform": "noarch",
+    "version": "5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h091efcb_0",
+    "channel": "pkgs/main",
+    "dist_name": "pycares-4.10.0-py313h091efcb_0",
+    "name": "pycares",
+    "platform": "osx-arm64",
+    "version": "4.10.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pycodestyle-2.12.1-py313hca03da5_0",
+    "name": "pycodestyle",
+    "platform": "osx-arm64",
+    "version": "2.12.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "py313h80987f9_2",
+    "channel": "pkgs/main",
+    "dist_name": "pycosat-0.6.6-py313h80987f9_2",
+    "name": "pycosat",
+    "platform": "osx-arm64",
+    "version": "0.6.6"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pycparser-2.23-py313hca03da5_0",
+    "name": "pycparser",
+    "platform": "osx-arm64",
+    "version": "2.23"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyct-0.6.0-py313hca03da5_0",
+    "name": "pyct",
+    "platform": "osx-arm64",
+    "version": "0.6.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hb457719_0",
+    "channel": "pkgs/main",
+    "dist_name": "pycurl-7.45.7-py313hb457719_0",
+    "name": "pycurl",
+    "platform": "osx-arm64",
+    "version": "7.45.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pydantic-settings-2.12.0-py313hca03da5_0",
+    "name": "pydantic-settings",
+    "platform": "osx-arm64",
+    "version": "2.12.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pydispatcher-2.0.7-py313hca03da5_0",
+    "name": "pydispatcher",
+    "platform": "osx-arm64",
+    "version": "2.0.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pydocstyle-6.3.0-py313hca03da5_0",
+    "name": "pydocstyle",
+    "platform": "osx-arm64",
+    "version": "6.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h80987f9_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyerfa-2.0.1.5-py313h80987f9_0",
+    "name": "pyerfa",
+    "platform": "osx-arm64",
+    "version": "2.0.1.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyflakes-3.2.0-py313hca03da5_0",
+    "name": "pyflakes",
+    "platform": "osx-arm64",
+    "version": "3.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pygithub-2.8.1-py313hca03da5_0",
+    "name": "pygithub",
+    "platform": "osx-arm64",
+    "version": "2.8.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pygments-2.19.2-py313hca03da5_0",
+    "name": "pygments",
+    "platform": "osx-arm64",
+    "version": "2.19.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyjwt-2.10.1-py313hca03da5_0",
+    "name": "pyjwt",
+    "platform": "osx-arm64",
+    "version": "2.10.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pylint-3.3.8-py313hca03da5_0",
+    "name": "pylint",
+    "platform": "osx-arm64",
+    "version": "3.3.8"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pylint-venv-3.0.3-py313hca03da5_0",
+    "name": "pylint-venv",
+    "platform": "osx-arm64",
+    "version": "3.0.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyls-spyder-0.4.0-pyhd3eb1b0_0",
+    "name": "pyls-spyder",
+    "platform": "noarch",
+    "version": "0.4.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h8ceae07_0",
+    "channel": "pkgs/main",
+    "dist_name": "pynacl-1.6.0-py313h8ceae07_0",
+    "name": "pynacl",
+    "platform": "osx-arm64",
+    "version": "1.6.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h73c2a22_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyobjc-core-12.1-py313h73c2a22_0",
+    "name": "pyobjc-core",
+    "platform": "osx-arm64",
+    "version": "12.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h73c2a22_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyobjc-framework-cocoa-12.1-py313h73c2a22_0",
+    "name": "pyobjc-framework-cocoa",
+    "platform": "osx-arm64",
+    "version": "12.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313haa24f5a_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyobjc-framework-coreservices-12.1-py313haa24f5a_0",
+    "name": "pyobjc-framework-coreservices",
+    "platform": "osx-arm64",
+    "version": "12.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyobjc-framework-fsevents-12.1-py313hca03da5_0",
+    "name": "pyobjc-framework-fsevents",
+    "platform": "osx-arm64",
+    "version": "12.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h6edaf61_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyodbc-5.3.0-py313h6edaf61_0",
+    "name": "pyodbc",
+    "platform": "osx-arm64",
+    "version": "5.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hc20e4cf_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyopenssl-25.3.0-py313hc20e4cf_0",
+    "name": "pyopenssl",
+    "platform": "osx-arm64",
+    "version": "25.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyparsing-3.2.5-py313hca03da5_0",
+    "name": "pyparsing",
+    "platform": "osx-arm64",
+    "version": "3.2.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca727be_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyqt-5.15.11-py313hca727be_0",
+    "name": "pyqt",
+    "platform": "osx-arm64",
+    "version": "5.15.11"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313haa24f5a_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyqt5-sip-12.17.0-py313haa24f5a_0",
+    "name": "pyqt5-sip",
+    "platform": "osx-arm64",
+    "version": "12.17.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hd99ea14_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyqtwebengine-5.15.11-py313hd99ea14_0",
+    "name": "pyqtwebengine",
+    "platform": "osx-arm64",
+    "version": "5.15.11"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h7961fb0_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyside6-6.9.2-py313h7961fb0_0",
+    "name": "pyside6",
+    "platform": "osx-arm64",
+    "version": "6.9.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "pysocks-1.7.1-py313hca03da5_1",
+    "name": "pysocks",
+    "platform": "osx-arm64",
+    "version": "1.7.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "py313h8397fff_2",
+    "channel": "pkgs/main",
+    "dist_name": "pytables-3.10.2-py313h8397fff_2",
+    "name": "pytables",
+    "platform": "osx-arm64",
+    "version": "3.10.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pytest-8.4.2-py313hca03da5_0",
+    "name": "pytest",
+    "platform": "osx-arm64",
+    "version": "8.4.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 100,
+    "build_string": "hc7d8306_100_cp313",
+    "channel": "pkgs/main",
+    "dist_name": "python-3.13.9-hc7d8306_100_cp313",
+    "name": "python",
+    "platform": "osx-arm64",
+    "version": "3.13.9"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "py313hca03da5_2",
+    "channel": "pkgs/main",
+    "dist_name": "python-dateutil-2.9.0post0-py313hca03da5_2",
+    "name": "python-dateutil",
+    "platform": "osx-arm64",
+    "version": "2.9.0post0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "python-fastjsonschema-2.21.2-py313hca03da5_0",
+    "name": "python-fastjsonschema",
+    "platform": "osx-arm64",
+    "version": "2.21.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "python-json-logger-3.2.1-py313hca03da5_0",
+    "name": "python-json-logger",
+    "platform": "osx-arm64",
+    "version": "3.2.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "python-libarchive-c-5.1-pyhd3eb1b0_0",
+    "name": "python-libarchive-c",
+    "platform": "noarch",
+    "version": "5.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h3d52de1_0",
+    "channel": "pkgs/main",
+    "dist_name": "python-lmdb-1.7.5-py313h3d52de1_0",
+    "name": "python-lmdb",
+    "platform": "osx-arm64",
+    "version": "1.7.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "python-lsp-black-2.0.0-py313hca03da5_1",
+    "name": "python-lsp-black",
+    "platform": "osx-arm64",
+    "version": "2.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "python-lsp-jsonrpc-1.1.2-pyhd3eb1b0_0",
+    "name": "python-lsp-jsonrpc",
+    "platform": "noarch",
+    "version": "1.1.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "python-lsp-ruff-2.3.0-py313hca03da5_0",
+    "name": "python-lsp-ruff",
+    "platform": "osx-arm64",
+    "version": "2.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h7eb115d_0",
+    "channel": "pkgs/main",
+    "dist_name": "python-lsp-server-1.13.1-py313h7eb115d_0",
+    "name": "python-lsp-server",
+    "platform": "osx-arm64",
+    "version": "1.13.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "python-slugify-8.0.4-py313hca03da5_0",
+    "name": "python-slugify",
+    "platform": "osx-arm64",
+    "version": "8.0.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "python-tzdata-2025.2-pyhd3eb1b0_0",
+    "name": "python-tzdata",
+    "platform": "noarch",
+    "version": "2025.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "py313h80987f9_2",
+    "channel": "pkgs/main",
+    "dist_name": "python.app-3-py313h80987f9_2",
+    "name": "python.app",
+    "platform": "osx-arm64",
+    "version": "3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "2_cp313",
+    "channel": "pkgs/main",
+    "dist_name": "python_abi-3.13-2_cp313",
+    "name": "python_abi",
+    "platform": "osx-arm64",
+    "version": "3.13"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pytokens-0.3.0-py313hca03da5_0",
+    "name": "pytokens",
+    "platform": "osx-arm64",
+    "version": "0.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pytoolconfig-1.2.6-py313hca03da5_0",
+    "name": "pytoolconfig",
+    "platform": "osx-arm64",
+    "version": "1.2.6"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pytz-2025.2-py313hca03da5_0",
+    "name": "pytz",
+    "platform": "osx-arm64",
+    "version": "2025.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "pyuca-1.2-py313hca03da5_1",
+    "name": "pyuca",
+    "platform": "osx-arm64",
+    "version": "1.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyviz_comms-3.0.6-py313hca03da5_0",
+    "name": "pyviz_comms",
+    "platform": "osx-arm64",
+    "version": "3.0.6"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h79febb2_0",
+    "channel": "pkgs/main",
+    "dist_name": "pywavelets-1.9.0-py313h79febb2_0",
+    "name": "pywavelets",
+    "platform": "osx-arm64",
+    "version": "1.9.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h091b9d3_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyyaml-6.0.3-py313h091b9d3_0",
+    "name": "pyyaml",
+    "platform": "osx-arm64",
+    "version": "6.0.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313h5a8c52c_1",
+    "channel": "pkgs/main",
+    "dist_name": "pyzmq-27.1.0-py313h5a8c52c_1",
+    "name": "pyzmq",
+    "platform": "osx-arm64",
+    "version": "27.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "qdarkstyle-3.2.3-pyhd3eb1b0_0",
+    "name": "qdarkstyle",
+    "platform": "noarch",
+    "version": "3.2.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "qstylizer-0.2.2-py313hca03da5_0",
+    "name": "qstylizer",
+    "platform": "osx-arm64",
+    "version": "0.2.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 13,
+    "build_string": "h5e2fe81_13",
+    "channel": "pkgs/main",
+    "dist_name": "qt-main-5.15.2-h5e2fe81_13",
+    "name": "qt-main",
+    "platform": "osx-arm64",
+    "version": "5.15.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 7,
+    "build_string": "h2903aaf_7",
+    "channel": "pkgs/main",
+    "dist_name": "qt-webengine-5.15.9-h2903aaf_7",
+    "name": "qt-webengine",
+    "platform": "osx-arm64",
+    "version": "5.15.9"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "qtawesome-1.4.0-py313hca03da5_0",
+    "name": "qtawesome",
+    "platform": "osx-arm64",
+    "version": "1.4.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 5,
+    "build_string": "h297ff01_5",
+    "channel": "pkgs/main",
+    "dist_name": "qtbase-6.9.2-h297ff01_5",
+    "name": "qtbase",
+    "platform": "osx-arm64",
+    "version": "6.9.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "qtconsole-5.7.0-py313hca03da5_0",
+    "name": "qtconsole",
+    "platform": "osx-arm64",
+    "version": "5.7.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "hfc17e28_1",
+    "channel": "pkgs/main",
+    "dist_name": "qtdeclarative-6.9.2-hfc17e28_1",
+    "name": "qtdeclarative",
+    "platform": "osx-arm64",
+    "version": "6.9.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "qtpy-2.4.3-py313hca03da5_0",
+    "name": "qtpy",
+    "platform": "osx-arm64",
+    "version": "2.4.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "hfc17e28_1",
+    "channel": "pkgs/main",
+    "dist_name": "qtshadertools-6.9.2-hfc17e28_1",
+    "name": "qtshadertools",
+    "platform": "osx-arm64",
+    "version": "6.9.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h310a915_1",
+    "channel": "pkgs/main",
+    "dist_name": "qtsvg-6.9.2-h310a915_1",
+    "name": "qtsvg",
+    "platform": "osx-arm64",
+    "version": "6.9.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "hd987465_1",
+    "channel": "pkgs/main",
+    "dist_name": "qttools-6.9.2-hd987465_1",
+    "name": "qttools",
+    "platform": "osx-arm64",
+    "version": "6.9.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "hfc17e28_1",
+    "channel": "pkgs/main",
+    "dist_name": "qtwebchannel-6.9.2-hfc17e28_1",
+    "name": "qtwebchannel",
+    "platform": "osx-arm64",
+    "version": "6.9.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h79e3840_0",
+    "channel": "pkgs/main",
+    "dist_name": "qtwebengine-6.9.2-h79e3840_0",
+    "name": "qtwebengine",
+    "platform": "osx-arm64",
+    "version": "6.9.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "hfc17e28_1",
+    "channel": "pkgs/main",
+    "dist_name": "qtwebsockets-6.9.2-hfc17e28_1",
+    "name": "qtwebsockets",
+    "platform": "osx-arm64",
+    "version": "6.9.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "queuelib-1.8.0-py313hca03da5_0",
+    "name": "queuelib",
+    "platform": "osx-arm64",
+    "version": "1.8.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h48ca7d4_0",
+    "channel": "pkgs/main",
+    "dist_name": "re2-2024.07.02-h48ca7d4_0",
+    "name": "re2",
+    "platform": "osx-arm64",
+    "version": "2024.07.02"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "readchar-4.2.1-py313hca03da5_0",
+    "name": "readchar",
+    "platform": "osx-arm64",
+    "version": "4.2.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h0b18652_0",
+    "channel": "pkgs/main",
+    "dist_name": "readline-8.3-h0b18652_0",
+    "name": "readline",
+    "platform": "osx-arm64",
+    "version": "8.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "referencing-0.37.0-py313hca03da5_0",
+    "name": "referencing",
+    "platform": "osx-arm64",
+    "version": "0.37.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h254cc4a_0",
+    "channel": "pkgs/main",
+    "dist_name": "regex-2025.9.1-py313h254cc4a_0",
+    "name": "regex",
+    "platform": "osx-arm64",
+    "version": "2025.9.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "h313beb8_2",
+    "channel": "pkgs/main",
+    "dist_name": "reproc-14.2.4-h313beb8_2",
+    "name": "reproc",
+    "platform": "osx-arm64",
+    "version": "14.2.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "h313beb8_2",
+    "channel": "pkgs/main",
+    "dist_name": "reproc-cpp-14.2.4-h313beb8_2",
+    "name": "reproc-cpp",
+    "platform": "osx-arm64",
+    "version": "14.2.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "requests-2.32.5-py313hca03da5_1",
+    "name": "requests",
+    "platform": "osx-arm64",
+    "version": "2.32.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "requests-file-2.1.0-py313hca03da5_0",
+    "name": "requests-file",
+    "platform": "osx-arm64",
+    "version": "2.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "requests-toolbelt-1.0.0-py313hca03da5_0",
+    "name": "requests-toolbelt",
+    "platform": "osx-arm64",
+    "version": "1.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "rfc3339-validator-0.1.4-py313hca03da5_0",
+    "name": "rfc3339-validator",
+    "platform": "osx-arm64",
+    "version": "0.1.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "rfc3986-validator-0.1.1-py313hca03da5_0",
+    "name": "rfc3986-validator",
+    "platform": "osx-arm64",
+    "version": "0.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "rich-14.2.0-py313hca03da5_0",
+    "name": "rich",
+    "platform": "osx-arm64",
+    "version": "14.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "roman-numerals-py-3.1.0-py313hca03da5_0",
+    "name": "roman-numerals-py",
+    "platform": "osx-arm64",
+    "version": "3.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "rope-1.14.0-py313hca03da5_0",
+    "name": "rope",
+    "platform": "osx-arm64",
+    "version": "1.14.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h931abed_0",
+    "channel": "pkgs/main",
+    "dist_name": "rpds-py-0.28.0-py313h931abed_0",
+    "name": "rpds-py",
+    "platform": "osx-arm64",
+    "version": "0.28.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hb3c00d4_0",
+    "channel": "pkgs/main",
+    "dist_name": "rtree-1.4.1-py313hb3c00d4_0",
+    "name": "rtree",
+    "platform": "osx-arm64",
+    "version": "1.4.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h091b9d3_0",
+    "channel": "pkgs/main",
+    "dist_name": "ruamel.yaml-0.18.16-py313h091b9d3_0",
+    "name": "ruamel.yaml",
+    "platform": "osx-arm64",
+    "version": "0.18.16"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h091b9d3_0",
+    "channel": "pkgs/main",
+    "dist_name": "ruamel.yaml.clib-0.2.14-py313h091b9d3_0",
+    "name": "ruamel.yaml.clib",
+    "platform": "osx-arm64",
+    "version": "0.2.14"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h80987f9_0",
+    "channel": "pkgs/main",
+    "dist_name": "ruamel_yaml-0.17.21-py313h80987f9_0",
+    "name": "ruamel_yaml",
+    "platform": "osx-arm64",
+    "version": "0.17.21"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h59dbcda_0",
+    "channel": "pkgs/main",
+    "dist_name": "ruff-0.12.0-py313h59dbcda_0",
+    "name": "ruff",
+    "platform": "osx-arm64",
+    "version": "0.12.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "s3fs-2025.10.0-py313hca03da5_0",
+    "name": "s3fs",
+    "platform": "osx-arm64",
+    "version": "2025.10.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h2309ff8_0",
+    "channel": "pkgs/main",
+    "dist_name": "scikit-image-0.25.2-py313h2309ff8_0",
+    "name": "scikit-image",
+    "platform": "osx-arm64",
+    "version": "0.25.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h6316d20_0",
+    "channel": "pkgs/main",
+    "dist_name": "scikit-learn-1.7.2-py313h6316d20_0",
+    "name": "scikit-learn",
+    "platform": "osx-arm64",
+    "version": "1.7.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h08a1045_0",
+    "channel": "pkgs/main",
+    "dist_name": "scipy-1.16.3-py313h08a1045_0",
+    "name": "scipy",
+    "platform": "osx-arm64",
+    "version": "1.16.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "scrapy-2.13.3-py313hca03da5_0",
+    "name": "scrapy",
+    "platform": "osx-arm64",
+    "version": "2.13.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 3,
+    "build_string": "py313hca03da5_3",
+    "channel": "pkgs/main",
+    "dist_name": "seaborn-0.13.2-py313hca03da5_3",
+    "name": "seaborn",
+    "platform": "osx-arm64",
+    "version": "0.13.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "semver-3.0.4-py313hca03da5_0",
+    "name": "semver",
+    "platform": "osx-arm64",
+    "version": "3.0.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "send2trash-1.8.2-py313hca03da5_1",
+    "name": "send2trash",
+    "platform": "osx-arm64",
+    "version": "1.8.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "service_identity-24.2.0-py313hca03da5_0",
+    "name": "service_identity",
+    "platform": "osx-arm64",
+    "version": "24.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "setuptools-80.9.0-py313hca03da5_0",
+    "name": "setuptools",
+    "platform": "osx-arm64",
+    "version": "80.9.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "shellingham-1.5.4-py313hca03da5_0",
+    "name": "shellingham",
+    "platform": "osx-arm64",
+    "version": "1.5.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h48ca7d4_0",
+    "channel": "pkgs/main",
+    "dist_name": "simdjson-3.10.1-h48ca7d4_0",
+    "name": "simdjson",
+    "platform": "osx-arm64",
+    "version": "3.10.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h8740e61_0",
+    "channel": "pkgs/main",
+    "dist_name": "sip-6.12.0-py313h8740e61_0",
+    "name": "sip",
+    "platform": "osx-arm64",
+    "version": "6.12.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "six-1.17.0-py313hca03da5_0",
+    "name": "six",
+    "platform": "osx-arm64",
+    "version": "1.17.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "smmap-4.0.0-pyhd3eb1b0_0",
+    "name": "smmap",
+    "platform": "noarch",
+    "version": "4.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h313beb8_0",
+    "channel": "pkgs/main",
+    "dist_name": "snappy-1.2.1-h313beb8_0",
+    "name": "snappy",
+    "platform": "osx-arm64",
+    "version": "1.2.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "sniffio-1.3.0-py313hca03da5_0",
+    "name": "sniffio",
+    "platform": "osx-arm64",
+    "version": "1.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "snowballstemmer-3.0.1-py313hca03da5_0",
+    "name": "snowballstemmer",
+    "platform": "osx-arm64",
+    "version": "3.0.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "sortedcontainers-2.4.0-pyhd3eb1b0_0",
+    "name": "sortedcontainers",
+    "platform": "noarch",
+    "version": "2.4.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "soupsieve-2.5-py313hca03da5_0",
+    "name": "soupsieve",
+    "platform": "osx-arm64",
+    "version": "2.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h80987f9_0",
+    "channel": "pkgs/main",
+    "dist_name": "sphinx-8.2.3-py313h80987f9_0",
+    "name": "sphinx",
+    "platform": "osx-arm64",
+    "version": "8.2.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "pyhd3eb1b0_1",
+    "channel": "pkgs/main",
+    "dist_name": "sphinxcontrib-applehelp-2.0.0-pyhd3eb1b0_1",
+    "name": "sphinxcontrib-applehelp",
+    "platform": "noarch",
+    "version": "2.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "sphinxcontrib-devhelp-2.0.0-pyhd3eb1b0_0",
+    "name": "sphinxcontrib-devhelp",
+    "platform": "noarch",
+    "version": "2.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "sphinxcontrib-htmlhelp-2.1.0-pyhd3eb1b0_0",
+    "name": "sphinxcontrib-htmlhelp",
+    "platform": "noarch",
+    "version": "2.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "sphinxcontrib-jsmath-1.0.1-pyhd3eb1b0_0",
+    "name": "sphinxcontrib-jsmath",
+    "platform": "noarch",
+    "version": "1.0.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "pyhd3eb1b0_1",
+    "channel": "pkgs/main",
+    "dist_name": "sphinxcontrib-qthelp-2.0.0-pyhd3eb1b0_1",
+    "name": "sphinxcontrib-qthelp",
+    "platform": "noarch",
+    "version": "2.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "sphinxcontrib-serializinghtml-2.0.0-pyhd3eb1b0_0",
+    "name": "sphinxcontrib-serializinghtml",
+    "platform": "noarch",
+    "version": "2.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "py313h70421b1_2",
+    "channel": "pkgs/main",
+    "dist_name": "spyder-6.1.0-py313h70421b1_2",
+    "name": "spyder",
+    "platform": "osx-arm64",
+    "version": "6.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h7eb115d_0",
+    "channel": "pkgs/main",
+    "dist_name": "spyder-kernels-3.1.1-py313h7eb115d_0",
+    "name": "spyder-kernels",
+    "platform": "osx-arm64",
+    "version": "3.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "hab6afd1_0",
+    "channel": "pkgs/main",
+    "dist_name": "sqlite-3.51.0-hab6afd1_0",
+    "name": "sqlite",
+    "platform": "osx-arm64",
+    "version": "3.51.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "stack_data-0.6.3-py313hca03da5_0",
+    "name": "stack_data",
+    "platform": "osx-arm64",
+    "version": "0.6.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313ha35b7ea_0",
+    "channel": "pkgs/main",
+    "dist_name": "statsmodels-0.14.5-py313ha35b7ea_0",
+    "name": "statsmodels",
+    "platform": "osx-arm64",
+    "version": "0.14.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "streamlit-1.51.0-py313hca03da5_0",
+    "name": "streamlit",
+    "platform": "osx-arm64",
+    "version": "1.51.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hffb95fb_0",
+    "channel": "pkgs/main",
+    "dist_name": "superqt-0.7.6-py313hffb95fb_0",
+    "name": "superqt",
+    "platform": "osx-arm64",
+    "version": "0.7.6"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "sympy-1.14.0-py313hca03da5_0",
+    "name": "sympy",
+    "platform": "osx-arm64",
+    "version": "1.14.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "tabulate-0.9.0-py313hca03da5_0",
+    "name": "tabulate",
+    "platform": "osx-arm64",
+    "version": "0.9.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h8754e6a_1",
+    "channel": "pkgs/main",
+    "dist_name": "tapi-1100.0.11-h8754e6a_1",
+    "name": "tapi",
+    "platform": "osx-arm64",
+    "version": "1100.0.11"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h48ca7d4_0",
+    "channel": "pkgs/main",
+    "dist_name": "tbb-2022.0.0-h48ca7d4_0",
+    "name": "tbb",
+    "platform": "osx-arm64",
+    "version": "2022.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "tblib-3.1.0-py313hca03da5_0",
+    "name": "tblib",
+    "platform": "osx-arm64",
+    "version": "3.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "tenacity-9.1.2-py313hca03da5_0",
+    "name": "tenacity",
+    "platform": "osx-arm64",
+    "version": "9.1.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "terminado-0.18.1-py313hca03da5_0",
+    "name": "terminado",
+    "platform": "osx-arm64",
+    "version": "0.18.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "text-unidecode-1.3-pyhd3eb1b0_0",
+    "name": "text-unidecode",
+    "platform": "noarch",
+    "version": "1.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313h7eb115d_1",
+    "channel": "pkgs/main",
+    "dist_name": "textdistance-4.6.3-py313h7eb115d_1",
+    "name": "textdistance",
+    "platform": "osx-arm64",
+    "version": "4.6.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h7eb115d_0",
+    "channel": "pkgs/main",
+    "dist_name": "threadpoolctl-3.5.0-py313h7eb115d_0",
+    "name": "threadpoolctl",
+    "platform": "osx-arm64",
+    "version": "3.5.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "three-merge-0.1.1-pyhd3eb1b0_0",
+    "name": "three-merge",
+    "platform": "noarch",
+    "version": "0.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "tifffile-2025.10.4-py313hca03da5_0",
+    "name": "tifffile",
+    "platform": "osx-arm64",
+    "version": "2025.10.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "tinycss2-1.4.0-py313hca03da5_0",
+    "name": "tinycss2",
+    "platform": "osx-arm64",
+    "version": "1.4.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "hcd8a7d5_0",
+    "channel": "pkgs/main",
+    "dist_name": "tk-8.6.15-hcd8a7d5_0",
+    "name": "tk",
+    "platform": "osx-arm64",
+    "version": "8.6.15"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "tldextract-5.1.2-py313hca03da5_0",
+    "name": "tldextract",
+    "platform": "osx-arm64",
+    "version": "5.1.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "pkgs/main",
+    "dist_name": "toml-0.10.2-pyhd3eb1b0_0",
+    "name": "toml",
+    "platform": "noarch",
+    "version": "0.10.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "tomli-2.2.1-py313hca03da5_0",
+    "name": "tomli",
+    "platform": "osx-arm64",
+    "version": "2.2.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "tomlkit-0.13.3-py313hca03da5_0",
+    "name": "tomlkit",
+    "platform": "osx-arm64",
+    "version": "0.13.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "toolz-1.0.0-py313hca03da5_0",
+    "name": "toolz",
+    "platform": "osx-arm64",
+    "version": "1.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h80987f9_0",
+    "channel": "pkgs/main",
+    "dist_name": "tornado-6.5.1-py313h80987f9_0",
+    "name": "tornado",
+    "platform": "osx-arm64",
+    "version": "6.5.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313h7eb115d_1",
+    "channel": "pkgs/main",
+    "dist_name": "tqdm-4.67.1-py313h7eb115d_1",
+    "name": "tqdm",
+    "platform": "osx-arm64",
+    "version": "4.67.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "traitlets-5.14.3-py313hca03da5_0",
+    "name": "traitlets",
+    "platform": "osx-arm64",
+    "version": "5.14.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "truststore-0.10.1-py313hca03da5_1",
+    "name": "truststore",
+    "platform": "osx-arm64",
+    "version": "0.10.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "twisted-25.5.0-py313hca03da5_0",
+    "name": "twisted",
+    "platform": "osx-arm64",
+    "version": "25.5.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "typer-0.20.0-py313hca03da5_0",
+    "name": "typer",
+    "platform": "osx-arm64",
+    "version": "0.20.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "typer-slim-0.20.0-py313hca03da5_0",
+    "name": "typer-slim",
+    "platform": "osx-arm64",
+    "version": "0.20.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "typer-slim-standard-0.20.0-py313hca03da5_0",
+    "name": "typer-slim-standard",
+    "platform": "osx-arm64",
+    "version": "0.20.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "typing-extensions-4.15.0-py313hca03da5_0",
+    "name": "typing-extensions",
+    "platform": "osx-arm64",
+    "version": "4.15.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "typing-inspection-0.4.2-py313hca03da5_0",
+    "name": "typing-inspection",
+    "platform": "osx-arm64",
+    "version": "0.4.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "typing_extensions-4.15.0-py313hca03da5_0",
+    "name": "typing_extensions",
+    "platform": "osx-arm64",
+    "version": "4.15.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h04d1e81_0",
+    "channel": "pkgs/main",
+    "dist_name": "tzdata-2025b-h04d1e81_0",
+    "name": "tzdata",
+    "platform": "noarch",
+    "version": "2025b"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "uc-micro-py-1.0.3-py313hca03da5_0",
+    "name": "uc-micro-py",
+    "platform": "osx-arm64",
+    "version": "1.0.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h50f4ffc_0",
+    "channel": "pkgs/main",
+    "dist_name": "ujson-5.11.0-py313h50f4ffc_0",
+    "name": "ujson",
+    "platform": "osx-arm64",
+    "version": "5.11.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h6e4d84d_0",
+    "channel": "pkgs/main",
+    "dist_name": "unixodbc-2.3.14-h6e4d84d_0",
+    "name": "unixodbc",
+    "platform": "osx-arm64",
+    "version": "2.3.14"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "urllib3-2.5.0-py313hca03da5_0",
+    "name": "urllib3",
+    "platform": "osx-arm64",
+    "version": "2.5.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h80987f9_1",
+    "channel": "pkgs/main",
+    "dist_name": "utf8proc-2.6.1-h80987f9_1",
+    "name": "utf8proc",
+    "platform": "osx-arm64",
+    "version": "2.6.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313h8e34c70_1",
+    "channel": "pkgs/main",
+    "dist_name": "uvloop-0.22.1-py313h8e34c70_1",
+    "name": "uvloop",
+    "platform": "osx-arm64",
+    "version": "0.22.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "w3lib-2.3.1-py313hca03da5_0",
+    "name": "w3lib",
+    "platform": "osx-arm64",
+    "version": "2.3.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h254cc4a_0",
+    "channel": "pkgs/main",
+    "dist_name": "watchdog-6.0.0-py313h254cc4a_0",
+    "name": "watchdog",
+    "platform": "osx-arm64",
+    "version": "6.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "wcwidth-0.2.13-py313hca03da5_0",
+    "name": "wcwidth",
+    "platform": "osx-arm64",
+    "version": "0.2.13"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "py313hca03da5_2",
+    "channel": "pkgs/main",
+    "dist_name": "webencodings-0.5.1-py313hca03da5_2",
+    "name": "webencodings",
+    "platform": "osx-arm64",
+    "version": "0.5.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "websocket-client-1.8.0-py313hca03da5_0",
+    "name": "websocket-client",
+    "platform": "osx-arm64",
+    "version": "1.8.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "werkzeug-3.1.3-py313hca03da5_0",
+    "name": "werkzeug",
+    "platform": "osx-arm64",
+    "version": "3.1.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "whatthepatch-1.0.7-py313hca03da5_0",
+    "name": "whatthepatch",
+    "platform": "osx-arm64",
+    "version": "1.0.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "wheel-0.45.1-py313hca03da5_0",
+    "name": "wheel",
+    "platform": "osx-arm64",
+    "version": "0.45.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "widgetsnbextension-4.0.14-py313hca03da5_0",
+    "name": "widgetsnbextension",
+    "platform": "osx-arm64",
+    "version": "4.0.14"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h80987f9_0",
+    "channel": "pkgs/main",
+    "dist_name": "wrapt-1.17.0-py313h80987f9_0",
+    "name": "wrapt",
+    "platform": "osx-arm64",
+    "version": "1.17.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "wurlitzer-3.1.1-py313hca03da5_0",
+    "name": "wurlitzer",
+    "platform": "osx-arm64",
+    "version": "3.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "xarray-2025.10.1-py313hca03da5_0",
+    "name": "xarray",
+    "platform": "osx-arm64",
+    "version": "2025.10.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313h2d1d3c2_0",
+    "channel": "pkgs/main",
+    "dist_name": "xlwings-0.33.15-py313h2d1d3c2_0",
+    "name": "xlwings",
+    "platform": "osx-arm64",
+    "version": "0.33.15"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "xyzservices-2025.4.0-py313hca03da5_0",
+    "name": "xyzservices",
+    "platform": "osx-arm64",
+    "version": "2025.4.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h80987f9_1",
+    "channel": "pkgs/main",
+    "dist_name": "xz-5.6.4-h80987f9_1",
+    "name": "xz",
+    "platform": "osx-arm64",
+    "version": "5.6.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h1a28f6b_0",
+    "channel": "pkgs/main",
+    "dist_name": "yaml-0.2.5-h1a28f6b_0",
+    "name": "yaml",
+    "platform": "osx-arm64",
+    "version": "0.2.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h313beb8_1",
+    "channel": "pkgs/main",
+    "dist_name": "yaml-cpp-0.8.0-h313beb8_1",
+    "name": "yaml-cpp",
+    "platform": "osx-arm64",
+    "version": "0.8.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "yapf-0.43.0-py313hca03da5_0",
+    "name": "yapf",
+    "platform": "osx-arm64",
+    "version": "0.43.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313haa24f5a_0",
+    "channel": "pkgs/main",
+    "dist_name": "yarl-1.22.0-py313haa24f5a_0",
+    "name": "yarl",
+    "platform": "osx-arm64",
+    "version": "1.22.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h2c7f8f0_1",
+    "channel": "pkgs/main",
+    "dist_name": "zeromq-4.3.5-h2c7f8f0_1",
+    "name": "zeromq",
+    "platform": "osx-arm64",
+    "version": "4.3.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "zict-3.0.0-py313hca03da5_0",
+    "name": "zict",
+    "platform": "osx-arm64",
+    "version": "3.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hca03da5_0",
+    "channel": "pkgs/main",
+    "dist_name": "zipp-3.23.0-py313hca03da5_0",
+    "name": "zipp",
+    "platform": "osx-arm64",
+    "version": "3.23.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h5f15de7_0",
+    "channel": "pkgs/main",
+    "dist_name": "zlib-1.3.1-h5f15de7_0",
+    "name": "zlib",
+    "platform": "osx-arm64",
+    "version": "1.3.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h80987f9_0",
+    "channel": "pkgs/main",
+    "dist_name": "zlib-ng-2.0.7-h80987f9_0",
+    "name": "zlib-ng",
+    "platform": "osx-arm64",
+    "version": "2.0.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py313hca03da5_1",
+    "channel": "pkgs/main",
+    "dist_name": "zope-1.0-py313hca03da5_1",
+    "name": "zope",
+    "platform": "osx-arm64",
+    "version": "1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313haa24f5a_0",
+    "channel": "pkgs/main",
+    "dist_name": "zope.interface-8.0.1-py313haa24f5a_0",
+    "name": "zope.interface",
+    "platform": "osx-arm64",
+    "version": "8.0.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py313hbc14757_0",
+    "channel": "pkgs/main",
+    "dist_name": "zstandard-0.24.0-py313hbc14757_0",
+    "name": "zstandard",
+    "platform": "osx-arm64",
+    "version": "0.24.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h817c040_0",
+    "channel": "pkgs/main",
+    "dist_name": "zstd-1.5.7-h817c040_0",
+    "name": "zstd",
+    "platform": "osx-arm64",
+    "version": "1.5.7"
+  }
+]

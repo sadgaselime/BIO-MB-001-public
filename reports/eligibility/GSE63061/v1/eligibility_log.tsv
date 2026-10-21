@@ -1,0 +1,389 @@
+gsm	array_barcode	participant_code	geo_status	r5_category	group	eligible_in_dataset_preqc	primary_contrast_preqc	age	gender	sood_flag_recorded_not_used_R12	rules
+GSM1539409	7196843065_F	LDZMCI014	MCI	mapped	MCI	True		57	Female	yes	R1;R4:outside_primary_contrast
+GSM1539410	7196843076_G	LDZMCI024	MCI	mapped	MCI	True		59	Female	yes	R1;R4:outside_primary_contrast
+GSM1539411	7196843068_B	TLSMCI609	MCI	mapped	MCI	True		63	Female	yes	R1;R4:outside_primary_contrast
+GSM1539412	7196843063_B	LDZMCI020	MCI	mapped	MCI	True		65	Female	yes	R1;R4:outside_primary_contrast
+GSM1539413	7196843065_L	THSMCI023	MCI	mapped	MCI	True		66	Female	yes	R1;R4:outside_primary_contrast
+GSM1539414	7196843066_H	THSMCI057	MCI	mapped	MCI	True		68	Female	yes	R1;R4:outside_primary_contrast
+GSM1539415	7943280031_C	PRGMCI034	MCI	mapped	MCI	True		68	Female	yes	R1;R4:outside_primary_contrast
+GSM1539416	7943280031_J	LDZMCI023	MCI	mapped	MCI	True		68	Female	yes	R1;R4:outside_primary_contrast
+GSM1539417	7196843035_B	PRGMCI036	MCI	mapped	MCI	True		69	Female	yes	R1;R4:outside_primary_contrast
+GSM1539418	7196843053_L	LDZMCI019	MCI	mapped	MCI	True		69	Female	yes	R1;R4:outside_primary_contrast
+GSM1539419	7196843054_D	LDZMCI022	MCI	mapped	MCI	True		70	Female	yes	R1;R4:outside_primary_contrast
+GSM1539420	7196843062_G	THSMCI026	MCI	mapped	MCI	True		70	Female	yes	R1;R4:outside_primary_contrast
+GSM1539421	7196843007_J	LDZMCI006	MCI	mapped	MCI	True		71	Female	yes	R1;R4:outside_primary_contrast
+GSM1539422	7196843054_B	KPOMCI032	MCI	mapped	MCI	True		71	Female	yes	R1;R4:outside_primary_contrast
+GSM1539423	7196843063_A	THSMCI049	MCI	mapped	MCI	True		71	Female	yes	R1;R4:outside_primary_contrast
+GSM1539424	7348931013_E	DCR00323	MCI	mapped	MCI	True		71	Female	yes	R1;R4:outside_primary_contrast
+GSM1539425	7196843035_I	KPOMCI050	MCI	mapped	MCI	True		73	Female	yes	R1;R4:outside_primary_contrast
+GSM1539426	7196843054_A	DCR00211	MCI	mapped	MCI	True		73	Female	yes	R1;R4:outside_primary_contrast
+GSM1539427	7196843072_E	LNDMCI008	MCI	mapped	MCI	True		73	Female	yes	R1;R4:outside_primary_contrast
+GSM1539428	7196843076_H	PRGMCI017	MCI	mapped	MCI	True		73	Female	yes	R1;R4:outside_primary_contrast
+GSM1539429	7348931005_D	KPOMCI002	MCI	mapped	MCI	True		74	Female	yes	R1;R4:outside_primary_contrast
+GSM1539430	7196843032_I	LDZMCI015	MCI	mapped	MCI	True		75	Female	yes	R1;R4:outside_primary_contrast
+GSM1539431	7943280031_B	PRGMCI048	MCI	mapped	MCI	True		64	Male	yes	R1;R4:outside_primary_contrast
+GSM1539432	7196843007_E	THSMCI009	MCI	mapped	MCI	True		66	Male	yes	R1;R4:outside_primary_contrast
+GSM1539433	7348931005_L	LDZMCI012	MCI	mapped	MCI	True		71	Male	yes	R1;R4:outside_primary_contrast
+GSM1539434	7348931019_J	LDZMCI016	MCI	mapped	MCI	True		71	Male	yes	R1;R4:outside_primary_contrast
+GSM1539435	7943280008_G	THSMCI001	MCI	mapped	MCI	True		71	Male	yes	R1;R4:outside_primary_contrast
+GSM1539436	7196843090_B	LNDMCI015	MCI	mapped	MCI	True		75	Male	yes	R1;R4:outside_primary_contrast
+GSM1539437	7964814028_H	PRGMCI042	MCI	mapped	MCI	True		75	Male	yes	R1;R4:outside_primary_contrast
+GSM1539438	7964814051_K	OA0562	MCI	mapped	MCI	True		75	Male	yes	R1;R4:outside_primary_contrast
+GSM1539439	7943280031_D	KPOCTL041	CTL	mapped	CTL	True	control	63	Female	yes	R1;R3:control
+GSM1539440	7196843072_B	DCR00099	CTL	mapped	CTL	True	control	65	Female	yes	R1;R3:control
+GSM1539441	7196843072_F	PRGCTL052	CTL	mapped	CTL	True	control	65	Female	yes	R1;R3:control
+GSM1539442	7196843053_A	PRGCTL005	CTL	mapped	CTL	True	control	66	Female	yes	R1;R3:control
+GSM1539443	7196843076_F	PRGCTL029	CTL	mapped	CTL	True	control	66	Female	yes	R1;R3:control
+GSM1539444	7348931014_E	PRGCTL051	CTL	mapped	CTL	True	control	66	Female	yes	R1;R3:control
+GSM1539445	7348931014_I	DCR00347	CTL	mapped	CTL	True	control	66	Female	yes	R1;R3:control
+GSM1539446	7348931018_C	LDZCTL030	CTL	mapped	CTL	True	control	66	Female	yes	R1;R3:control
+GSM1539447	7348931013_F	PRGCTL031	CTL	mapped	CTL	True	control	67	Female	yes	R1;R3:control
+GSM1539448	7196843052_B	PRGCTL039	CTL	mapped	CTL	True	control	68	Female	yes	R1;R3:control
+GSM1539449	7348931005_A	DCR00490	CTL	mapped	CTL	True	control	68	Female	yes	R1;R3:control
+GSM1539450	7943280031_L	THSCTL017	CTL	mapped	CTL	True	control	68	Female	yes	R1;R3:control
+GSM1539451	7196843062_B	LDZCTL023	CTL	mapped	CTL	True	control	69	Female	yes	R1;R3:control
+GSM1539452	7196843066_K	DCR00091	CTL	mapped	CTL	True	control	69	Female	yes	R1;R3:control
+GSM1539453	7348931013_A	DCR00009	CTL	mapped	CTL	True	control	69	Female	yes	R1;R3:control
+GSM1539454	7196843066_B	DCR00287	CTL	mapped	CTL	True	control	70	Female	yes	R1;R3:control
+GSM1539455	7196843072_H	DCR00051	CTL	mapped	CTL	True	control	70	Female	yes	R1;R3:control
+GSM1539456	7348931019_E	TLSCTL718	CTL	mapped	CTL	True	control	70	Female	yes	R1;R3:control
+GSM1539457	7964814051_D	DCR00234	CTL	mapped	CTL	True	control	70	Female	yes	R1;R3:control
+GSM1539458	7196835071_C	LDZCTL021	CTL	mapped	CTL	True	control	71	Female	yes	R1;R3:control
+GSM1539459	7196835071_D	DCR00209	CTL	mapped	CTL	True	control	71	Female	yes	R1;R3:control
+GSM1539460	7196835090_B	DCR00358	CTL	mapped	CTL	True	control	71	Female	yes	R1;R3:control
+GSM1539461	7196843032_H	LDZCTL018	CTL	mapped	CTL	True	control	71	Female	yes	R1;R3:control
+GSM1539462	7196843036_K	PRGCTL017	CTL	mapped	CTL	True	control	71	Female	yes	R1;R3:control
+GSM1539463	7196843073_D	DCR00311	CTL	mapped	CTL	True	control	71	Female	yes	R1;R3:control
+GSM1539464	7196843091_H	DCR00337	CTL	mapped	CTL	True	control	71	Female	yes	R1;R3:control
+GSM1539465	7348931005_E	THSCTL010	CTL	mapped	CTL	True	control	71	Female	yes	R1;R3:control
+GSM1539466	7943280008_L	KPOCTL046	CTL	mapped	CTL	True	control	71	Female	yes	R1;R3:control
+GSM1539467	7964814064_L	PRGCTL023	CTL	mapped	CTL	True	control	71	Female	yes	R1;R3:control
+GSM1539468	7348931007_B	LDZCTL012	CTL	mapped	CTL	True	control	72	Female	yes	R1;R3:control
+GSM1539469	7348931015_L	DCR00380	CTL	mapped	CTL	True	control	72	Female	yes	R1;R3:control
+GSM1539470	7964814028_I	DCR00341	CTL	mapped	CTL	True	control	72	Female	yes	R1;R3:control
+GSM1539471	7964814064_C	DCR00246	CTL	mapped	CTL	True	control	72	Female	yes	R1;R3:control
+GSM1539472	7196843035_L	DCR00018	CTL	mapped	CTL	True	control	73	Female	yes	R1;R3:control
+GSM1539473	7196843090_C	KPOCTL040	CTL	mapped	CTL	True	control	73	Female	yes	R1;R3:control
+GSM1539474	7348931019_D	KPOCTL044	CTL	mapped	CTL	True	control	73	Female	yes	R1;R3:control
+GSM1539475	7196835071_A	DCR00083	CTL	mapped	CTL	True	control	74	Female	yes	R1;R3:control
+GSM1539476	7196843073_B	THSCTL002	CTL	mapped	CTL	True	control	74	Female	yes	R1;R3:control
+GSM1539477	7196843073_G	PRGCTL010	CTL	mapped	CTL	True	control	74	Female	yes	R1;R3:control
+GSM1539478	7196843076_J	DCR00056	CTL	mapped	CTL	True	control	74	Female	yes	R1;R3:control
+GSM1539479	7348931007_A	PRGCTL027	CTL	mapped	CTL	True	control	74	Female	yes	R1;R3:control
+GSM1539480	7964814051_B	DCR00092	CTL	mapped	CTL	True	control	74	Female	yes	R1;R3:control
+GSM1539481	7196843036_A	DCR00292	CTL	mapped	CTL	True	control	75	Female	yes	R1;R3:control
+GSM1539482	7196843062_I	KPOCTL031	CTL	mapped	CTL	True	control	75	Female	yes	R1;R3:control
+GSM1539483	7196843076_L	DCR00014	CTL	mapped	CTL	True	control	75	Female	yes	R1;R3:control
+GSM1539484	7196843053_B	KPOCTL047	CTL	mapped	CTL	True	control	67	Male	yes	R1;R3:control
+GSM1539485	7196843091_B	KPOCTL038	CTL	mapped	CTL	True	control	68	Male	yes	R1;R3:control
+GSM1539486	7196843091_F	DCR00238	CTL	mapped	CTL	True	control	68	Male	yes	R1;R3:control
+GSM1539487	7964814051_L	DCR00264	CTL	mapped	CTL	True	control	68	Male	yes	R1;R3:control
+GSM1539488	7196835071_G	DCR00015	CTL	mapped	CTL	True	control	69	Male	yes	R1;R3:control
+GSM1539489	7196843068_D	THSCTL007	CTL	mapped	CTL	True	control	69	Male	yes	R1;R3:control
+GSM1539490	7348931005_F	KPOCTL035	CTL	mapped	CTL	True	control	69	Male	yes	R1;R3:control
+GSM1539491	7196843053_H	PRGCTL002	CTL	mapped	CTL	True	control	70	Male	yes	R1;R3:control
+GSM1539492	7196843054_J	PRGCTL041	CTL	mapped	CTL	True	control	70	Male	yes	R1;R3:control
+GSM1539493	7196843090_E	DCR00050	CTL	mapped	CTL	True	control	70	Male	yes	R1;R3:control
+GSM1539494	7196843062_A	LDZCTL024	CTL	mapped	CTL	True	control	71	Male	yes	R1;R3:control
+GSM1539495	7943280031_A	LDZCTL022	CTL	mapped	CTL	True	control	71	Male	yes	R1;R3:control
+GSM1539496	7964814051_C	DCR00073	CTL	mapped	CTL	True	control	71	Male	yes	R1;R3:control
+GSM1539497	7196843081_F	DCR00162	CTL	mapped	CTL	True	control	72	Male	yes	R1;R3:control
+GSM1539498	7943280008_F	DCR00070	CTL	mapped	CTL	True	control	72	Male	yes	R1;R3:control
+GSM1539499	7964814051_A	DCR00058	CTL	mapped	CTL	True	control	72	Male	yes	R1;R3:control
+GSM1539500	7196843032_G	LNDCTL079	CTL	mapped	CTL	True	control	73	Male	yes	R1;R3:control
+GSM1539501	7196843054_H	DCR00061	CTL	mapped	CTL	True	control	73	Male	yes	R1;R3:control
+GSM1539502	7348931007_K	THSCTL013	CTL	mapped	CTL	True	control	73	Male	yes	R1;R3:control
+GSM1539503	7348931013_K	DCR00045	CTL	mapped	CTL	True	control	73	Male	yes	R1;R3:control
+GSM1539504	7348931018_L	DCR00144	CTL	mapped	CTL	True	control	73	Male	yes	R1;R3:control
+GSM1539505	7964814028_D	LDZCTL019	CTL	mapped	CTL	True	control	73	Male	yes	R1;R3:control
+GSM1539506	7348931005_J	DCR00054	CTL	mapped	CTL	True	control	74	Male	yes	R1;R3:control
+GSM1539507	7348931019_A	KPOCTL030	CTL	mapped	CTL	True	control	74	Male	yes	R1;R3:control
+GSM1539508	7964814028_G	KPOCTL026	CTL	mapped	CTL	True	control	74	Male	yes	R1;R3:control
+GSM1539509	7196843090_L	DCR00288	CTL	mapped	CTL	True	control	75	Male	yes	R1;R3:control
+GSM1539510	7348931015_A	DCR00087	CTL	mapped	CTL	True	control	75	Male	yes	R1;R3:control
+GSM1539511	7348931018_E	KPOADC050	AD	mapped	AD	True	case	59	Female	yes	R1;R3:case
+GSM1539512	7196843036_C	DCR00020	AD	mapped	AD	True	case	60	Female	yes	R1;R3:case
+GSM1539513	7348931015_F	DCR00032	AD	mapped	AD	True	case	61	Female	yes	R1;R3:case
+GSM1539514	7943280031_H	PRGADC001	AD	mapped	AD	True	case	63	Female	yes	R1;R3:case
+GSM1539515	7196843063_J	TLSADC513	AD	mapped	AD	True	case	64	Female	yes	R1;R3:case
+GSM1539516	7196835090_A	KPOADC046	AD	mapped	AD	True	case	66	Female	yes	R1;R3:case
+GSM1539517	7196843081_J	KPOADC043	AD	mapped	AD	True	case	67	Female	yes	R1;R3:case
+GSM1539518	7348931019_K	KPOADC045	AD	mapped	AD	True	case	67	Female	yes	R1;R3:case
+GSM1539519	7196843091_J	LDZADC028	AD	mapped	AD	True	case	68	Female	yes	R1;R3:case
+GSM1539520	7348931015_H	LDZADC018	AD	mapped	AD	True	case	68	Female	yes	R1;R3:case
+GSM1539521	7196843068_I	PRGADC050	AD	mapped	AD	True	case	69	Female	yes	R1;R3:case
+GSM1539522	7196843069_G	LDZADC020	AD	mapped	AD	True	case	69	Female	yes	R1;R3:case
+GSM1539523	7196843063_C	LNDADC021	AD	mapped	AD	True	case	70	Female	yes	R1;R3:case
+GSM1539524	7196843090_I	LNDADC005	AD	mapped	AD	True	case	70	Female	yes	R1;R3:case
+GSM1539525	7196843063_L	LDZADC032	AD	mapped	AD	True	case	71	Female	yes	R1;R3:case
+GSM1539526	7348931019_H	PRGADC013	AD	mapped	AD	True	case	71	Female	yes	R1;R3:case
+GSM1539527	7196843052_C	THSADC050	AD	mapped	AD	True	case	73	Female	yes	R1;R3:case
+GSM1539528	7196843065_C	THSADC043	AD	mapped	AD	True	case	73	Female	yes	R1;R3:case
+GSM1539529	7196843073_C	DCR00046	AD	mapped	AD	True	case	74	Female	yes	R1;R3:case
+GSM1539530	7964814051_F	LDZADC039	AD	mapped	AD	True	case	74	Female	yes	R1;R3:case
+GSM1539531	7196835071_B	THSADC008	AD	mapped	AD	True	case	75	Female	yes	R1;R3:case
+GSM1539532	7196843072_A	PRGADC048	AD	mapped	AD	True	case	75	Female	yes	R1;R3:case
+GSM1539533	7196843072_L	DCR00168	AD	mapped	AD	True	case	75	Female	yes	R1;R3:case
+GSM1539534	7196843091_A	DCR00181	AD	mapped	AD	True	case	62	Male	yes	R1;R3:case
+GSM1539535	7943280008_E	DCR00037	AD	mapped	AD	True	case	66	Male	yes	R1;R3:case
+GSM1539536	7196843081_E	TLSADC515	AD	mapped	AD	True	case	69	Male	yes	R1;R3:case
+GSM1539537	7196843036_D	KPOADC021	AD	mapped	AD	True	case	70	Male	yes	R1;R3:case
+GSM1539538	7196843069_J	KPOADC048	AD	mapped	AD	True	case	70	Male	yes	R1;R3:case
+GSM1539539	7196843053_D	PRGADC054	AD	mapped	AD	True	case	71	Male	yes	R1;R3:case
+GSM1539540	7196843062_E	LNDADC040	AD	mapped	AD	True	case	71	Male	yes	R1;R3:case
+GSM1539541	7196843007_L	DCR00122	AD	mapped	AD	True	case	72	Male	yes	R1;R3:case
+GSM1539542	7196843052_L	DCR00111	AD	mapped	AD	True	case	72	Male	yes	R1;R3:case
+GSM1539543	7196843072_K	PRGADC010	AD	mapped	AD	True	case	72	Male	yes	R1;R3:case
+GSM1539544	7196843007_A	TLSADC516	AD	mapped	AD	True	case	73	Male	yes	R1;R3:case
+GSM1539545	7196843036_I	KPOADC041	AD	mapped	AD	True	case	73	Male	yes	R1;R3:case
+GSM1539546	7348931005_H	DCR00231	AD	mapped	AD	True	case	73	Male	yes	R1;R3:case
+GSM1539547	7196843007_G	DCR00097	AD	mapped	AD	True	case	74	Male	yes	R1;R3:case
+GSM1539548	7348931007_L	LDZADC043	AD	mapped	AD	True	case	74	Male	yes	R1;R3:case
+GSM1539549	7964814064_H	DCR00106	AD	mapped	AD	True	case	74	Male	yes	R1;R3:case
+GSM1539550	7196835071_H	DCR00025	AD	mapped	AD	True	case	75	Male	yes	R1;R3:case
+GSM1539551	7196843081_A	DCR00441	MCI	mapped	MCI	True		85	Female	no	R1;R4:outside_primary_contrast
+GSM1539552	7196843081_B	DCR00136	CTL	mapped	CTL	True	control	81	Female	no	R1;R3:control
+GSM1539553	7196843081_C	PRGCTL028	CTL	mapped	CTL	True	control	77	Female	no	R1;R3:control
+GSM1539554	7196843081_D	DCR00351	AD	mapped	AD	True	case	82	Male	no	R1;R3:case
+GSM1539555	7196843081_G	PRGCTL013	CTL	mapped	CTL	True	control	83	Male	no	R1;R3:control
+GSM1539556	7196843081_H	DCR00546	MCI	mapped	MCI	True		88	Female	no	R1;R4:outside_primary_contrast
+GSM1539557	7196843081_I	LNDMCI011	MCI	mapped	MCI	True		84	Male	no	R1;R4:outside_primary_contrast
+GSM1539558	7196843081_K	KPOMCI033	MCI	mapped	MCI	True		84	Male	no	R1;R4:outside_primary_contrast
+GSM1539559	7196843081_L	KPOMCI044	MCI	mapped	MCI	True		78	Male	no	R1;R4:outside_primary_contrast
+GSM1539560	7196843052_A	LNDADC023	AD	mapped	AD	True	case	80	Male	no	R1;R3:case
+GSM1539561	7196843052_D	DCR00544	MCI	mapped	MCI	True		78	Female	no	R1;R4:outside_primary_contrast
+GSM1539562	7196843052_E	THSADC009	AD	mapped	AD	True	case	78	Female	no	R1;R3:case
+GSM1539563	7196843052_F	THSADC013	AD	mapped	AD	True	case	77	Male	no	R1;R3:case
+GSM1539564	7196843052_G	LNDMCI024	MCI	mapped	MCI	True		80	Female	no	R1;R4:outside_primary_contrast
+GSM1539565	7196843052_H	LNDCTL027	MCI	mapped	MCI	True		79	Male	no	R1;R4:outside_primary_contrast
+GSM1539566	7196843052_I	PRGMCI027	MCI	mapped	MCI	True		82	Female	no	R1;R4:outside_primary_contrast
+GSM1539567	7196843052_J	LNDCTL020	MCI	mapped	MCI	True		89	Female	no	R1;R4:outside_primary_contrast
+GSM1539568	7196843052_K	LNDMCI025	MCI	mapped	MCI	True		79	Male	no	R1;R4:outside_primary_contrast
+GSM1539569	7196843090_A	KPOCTL048	CTL	mapped	CTL	True	control	78	Female	no	R1;R3:control
+GSM1539570	7196843090_D	LDZADC040	AD	mapped	AD	True	case	77	Female	no	R1;R3:case
+GSM1539571	7196843090_F	LNDADC024	AD	mapped	AD	True	case	85	Female	no	R1;R3:case
+GSM1539572	7196843090_G	DCR00421	MCI	mapped	MCI	True		77	Female	no	R1;R4:outside_primary_contrast
+GSM1539573	7196843090_H	DCR00219	CTL	mapped	CTL	True	control	89	Female	no	R1;R3:control
+GSM1539574	7196843090_J	PRGMCI021	MCI	mapped	MCI	True		79	Male	no	R1;R4:outside_primary_contrast
+GSM1539575	7196843090_K	LNDMCI018	AD	mapped	AD	True	case	88	Female	no	R1;R3:case
+GSM1539576	7964814051_G	DCR00084	AD	mapped	AD	True	case	84	Male	no	R1;R3:case
+GSM1539577	7964814051_H	DCR00183	AD	mapped	AD	True	case	79	Female	no	R1;R3:case
+GSM1539578	7964814051_I	KPOCTL028	CTL	mapped	CTL	True	control	81	Male	no	R1;R3:control
+GSM1539579	7964814051_J	PRGADC051	AD	mapped	AD	True	case	81	Female	no	R1;R3:case
+GSM1539580	7196843066_A	PRGCTL020	CTL	mapped	CTL	True	control	81	Female	no	R1;R3:control
+GSM1539581	7196843066_D	LDZADC007	AD	mapped	AD	True	case	82	Male	no	R1;R3:case
+GSM1539582	7196843066_E	TLSADC504	AD	mapped	AD	True	case	84	Female	no	R1;R3:case
+GSM1539583	7196843066_F	LNDADC036	AD	mapped	AD	True	case	80	Male	no	R1;R3:case
+GSM1539584	7196843066_G	LDZMCI017	MCI	mapped	MCI	True		76	Female	no	R1;R4:outside_primary_contrast
+GSM1539585	7196843066_I	KPOCTL012	CTL	mapped	CTL	True	control	79	Female	no	R1;R3:control
+GSM1539586	7196843066_L	KPOADC036	AD	mapped	AD	True	case	78	Female	no	R1;R3:case
+GSM1539587	7196843035_A	DCR00031	AD	mapped	AD	True	case	78	Male	no	R1;R3:case
+GSM1539588	7196843035_C	DCR00223	CTL	mapped	CTL	True	control	84	Female	no	R1;R3:control
+GSM1539589	7196843035_D	DCR00324	AD	mapped	AD	True	case	82	Female	no	R1;R3:case
+GSM1539590	7196843035_E	PRGMCI025	MCI	mapped	MCI	True		80	Male	no	R1;R4:outside_primary_contrast
+GSM1539591	7196843035_F	DCR00230	MCI	mapped	MCI	True		85	Male	no	R1;R4:outside_primary_contrast
+GSM1539592	7196843035_G	KPOMCI017	MCI	mapped	MCI	True		86	Female	no	R1;R4:outside_primary_contrast
+GSM1539593	7196843035_H	LNDADC033	AD	mapped	AD	True	case	95	Female	no	R1;R3:case
+GSM1539594	7196843035_J	DCR00114	MCI	mapped	MCI	True		78	Female	no	R1;R4:outside_primary_contrast
+GSM1539595	7196843035_K	DCR00090	CTL	mapped	CTL	True	control	80	Male	no	R1;R3:control
+GSM1539596	7348931018_A	LNDCTL031	CTL	mapped	CTL	True	control	80	Female	no	R1;R3:control
+GSM1539597	7348931018_B	THSCTL016	CTL	mapped	CTL	True	control	78	Male	no	R1;R3:control
+GSM1539598	7348931018_D	PRGMCI039	MCI	mapped	MCI	True		77	Female	no	R1;R4:outside_primary_contrast
+GSM1539599	7348931018_F	KPOADC023	AD	mapped	AD	True	case	85	Female	no	R1;R3:case
+GSM1539600	7348931018_G	PRGCTL047	CTL	mapped	CTL	True	control	76	Male	no	R1;R3:control
+GSM1539601	7348931018_H	LNDCTL069	CTL	mapped	CTL	True	control	83	Male	no	R1;R3:control
+GSM1539602	7348931018_J	DCR00249	MCI	mapped	MCI	True		86	Female	no	R1;R4:outside_primary_contrast
+GSM1539603	7348931018_K	DCR00221	CTL	mapped	CTL	True	control	81	Male	no	R1;R3:control
+GSM1539604	7196843072_D	DCR00129	AD	mapped	AD	True	case	82	Female	no	R1;R3:case
+GSM1539605	7196843072_G	LNDCTL073	CTL	mapped	CTL	True	control	82	Female	no	R1;R3:control
+GSM1539606	7196843072_I	LDZADC044	AD	mapped	AD	True	case	79	Female	no	R1;R3:case
+GSM1539607	7196843072_J	DCR00103	CTL	mapped	CTL	True	control	76	Female	no	R1;R3:control
+GSM1539608	7196843053_C	DCR00273	MCI	mapped	MCI	True		83	Male	no	R1;R4:outside_primary_contrast
+GSM1539609	7196843053_E	LNDMCI016	MCI	mapped	MCI	True		79	Male	no	R1;R4:outside_primary_contrast
+GSM1539610	7196843053_F	KPOMCI023	MCI	mapped	MCI	True		76	Male	no	R1;R4:outside_primary_contrast
+GSM1539611	7196843053_G	DCR00085	MCI	mapped	MCI	True		81	Female	no	R1;R4:outside_primary_contrast
+GSM1539612	7196843053_I	LNDMCI023	MCI	mapped	MCI	True		79	Female	no	R1;R4:outside_primary_contrast
+GSM1539613	7196843053_J	DCR00360	AD	mapped	AD	True	case	88	Female	no	R1;R3:case
+GSM1539614	7196843053_K	THSMCI033	MCI	mapped	MCI	True		77	Female	no	R1;R4:outside_primary_contrast
+GSM1539615	7196843073_A	DCR00187	CTL	mapped	CTL	True	control	86	Male	no	R1;R3:control
+GSM1539616	7196843073_E	DCR00368	AD	mapped	AD	True	case	77	Male	no	R1;R3:case
+GSM1539617	7196843073_F	KPOCTL043	CTL	mapped	CTL	True	control	81	Male	no	R1;R3:control
+GSM1539618	7196843073_H	DCR00563	MCI	mapped	MCI	True		80	Male	no	R1;R4:outside_primary_contrast
+GSM1539619	7196843073_I	LDZADC029	AD	mapped	AD	True	case	82	Male	no	R1;R3:case
+GSM1539620	7196843073_J	DCR00451	MCI	mapped	MCI	True		93	Male	no	R1;R4:outside_primary_contrast
+GSM1539621	7196843073_K	KPOCTL036	CTL	mapped	CTL	True	control	79	Female	no	R1;R3:control
+GSM1539622	7196843073_L	DCR00004	MCI	mapped	MCI	True		78	Male	no	R1;R4:outside_primary_contrast
+GSM1539623	7196843032_A	KPOADC034	AD	mapped	AD	True	case	78	Male	no	R1;R3:case
+GSM1539624	7196843032_B	PRGADC038	AD	mapped	AD	True	case	85	Female	no	R1;R3:case
+GSM1539625	7196843032_C	OA0311	MCI	mapped	MCI	True		91	Female	no	R1;R4:outside_primary_contrast
+GSM1539626	7196843032_D	THSADC047	AD	mapped	AD	True	case	87	Female	no	R1;R3:case
+GSM1539627	7196843032_E	THSADC016	AD	mapped	AD	True	case	78	Male	no	R1;R3:case
+GSM1539628	7196843032_F	DCR00502	MCI	mapped	MCI	True		78	Female	no	R1;R4:outside_primary_contrast
+GSM1539629	7196843032_J	LNDADC039	AD	mapped	AD	True	case	83	Female	no	R1;R3:case
+GSM1539630	7196843032_K	LNDADC027	AD	mapped	AD	True	case	78	Female	no	R1;R3:case
+GSM1539631	7196843032_L	DCR00472	MCI	mapped	MCI	True		81	Male	no	R1;R4:outside_primary_contrast
+GSM1539632	7196843063_D	DCR00192	AD	mapped	AD	True	case	79	Female	no	R1;R3:case
+GSM1539633	7196843063_E	DCR00303	MCI	mapped	MCI	True		75	Male	no	R1;R4:outside_primary_contrast
+GSM1539634	7196843063_F	KPOMCI020	AD	mapped	AD	True	case	80	Female	no	R1;R3:case
+GSM1539635	7196843063_G	LNDMCI033	MCI	mapped	MCI	True		77	Male	no	R1;R4:outside_primary_contrast
+GSM1539636	7196843063_H	PRGMCI014	MCI	mapped	MCI	True		76	Female	no	R1;R4:outside_primary_contrast
+GSM1539637	7196843063_I	PRGADC044	AD	mapped	AD	True	case	81	Female	no	R1;R3:case
+GSM1539638	7348931019_B	DCR00132	MCI	mapped	MCI	True		89	Male	no	R1;R4:outside_primary_contrast
+GSM1539639	7348931019_C	PRGMCI043	MCI	mapped	MCI	True		79	Male	no	R1;R4:outside_primary_contrast
+GSM1539640	7348931019_F	KPOMCI052	MCI	mapped	MCI	True		81	Female	no	R1;R4:outside_primary_contrast
+GSM1539641	7348931019_G	DCR00028	AD	mapped	AD	True	case	88	Male	no	R1;R3:case
+GSM1539642	7348931019_I	LNDMCI046	MCI	mapped	MCI	True		84	Female	no	R1;R4:outside_primary_contrast
+GSM1539643	7348931019_L	DCR00001	AD	mapped	AD	True	case	80	Female	no	R1;R3:case
+GSM1539644	7964814041_A	DCR00023	AD	mapped	AD	True	case	88	Female	no	R1;R3:case
+GSM1539645	7964814041_B	LNDMCI014	MCI	mapped	MCI	True		76	Male	no	R1;R4:outside_primary_contrast
+GSM1539646	7964814041_C	LDZADC031	AD	mapped	AD	True	case	76	Female	no	R1;R3:case
+GSM1539647	7964814041_D	KPOADC047	AD	mapped	AD	True	case	66	Male	no	R1;R3:case
+GSM1539648	7964814041_E	PRGADC016	AD	mapped	AD	True	case	78	Female	no	R1;R3:case
+GSM1539649	7964814041_F	DCR00284	CTL	mapped	CTL	True	control	82	Female	no	R1;R3:control
+GSM1539650	7964814041_G	KPOADC049	AD	mapped	AD	True	case	83	Male	no	R1;R3:case
+GSM1539651	7964814041_H	LDZCTL016	CTL	mapped	CTL	True	control	66	Female	no	R1;R3:control
+GSM1539652	7964814041_I	DCR00225	CTL	mapped	CTL	True	control	82	Male	no	R1;R3:control
+GSM1539653	7964814041_J	DCR00212	CTL	mapped	CTL	True	control	75	Male	no	R1;R3:control
+GSM1539654	7964814041_K	DCR00593	MCI	mapped	MCI	True		79	Male	no	R1;R4:outside_primary_contrast
+GSM1539655	7964814041_L	LDZCTL029	CTL	mapped	CTL	True	control	79	Male	no	R1;R3:control
+GSM1539656	7943280031_E	LDZADC016	AD	mapped	AD	True	case	82	Male	no	R1;R3:case
+GSM1539657	7943280031_F	DCR00477	MCI	mapped	MCI	True		85	Male	no	R1;R4:outside_primary_contrast
+GSM1539658	7943280031_G	TLSMCI611	MCI	mapped	MCI	True		78	Female	no	R1;R4:outside_primary_contrast
+GSM1539659	7943280031_I	THSMCI063	MCI	mapped	MCI	True		79	Female	no	R1;R4:outside_primary_contrast
+GSM1539660	7943280031_K	DCR00117	borderline MCI	borderline		True		80	Male	no	R1;R5:excluded(borderline)
+GSM1539661	7196843068_A	PRGADC043	AD	mapped	AD	True	case	80	Female	no	R1;R3:case
+GSM1539662	7196843068_C	DCR00055	AD	mapped	AD	True	case	78	Female	no	R1;R3:case
+GSM1539663	7196843068_E	DCR00079	AD	mapped	AD	True	case	78	Male	no	R1;R3:case
+GSM1539664	7196843068_F	KPOCTL039	CTL	mapped	CTL	True	control	78	Male	no	R1;R3:control
+GSM1539665	7196843068_G	DCR00377	AD	mapped	AD	True	case	86	Male	no	R1;R3:case
+GSM1539666	7196843068_H	TLSADC509	AD	mapped	AD	True	case	84	Female	no	R1;R3:case
+GSM1539667	7196843068_J	DCR00496	OTHER	non_specific		True		86	Female	no	R1;R5:excluded(non_specific)
+GSM1539668	7196843068_K	DCR00161	CTL	mapped	CTL	True	control	87	Female	no	R1;R3:control
+GSM1539669	7196843068_L	PRGMCI035	MCI	mapped	MCI	True		82	Male	no	R1;R4:outside_primary_contrast
+GSM1539670	7196843062_C	LDZCTL013	CTL	mapped	CTL	True	control	76	Female	no	R1;R3:control
+GSM1539671	7196843062_D	KPOCTL032	CTL	mapped	CTL	True	control	76	Female	no	R1;R3:control
+GSM1539672	7196843062_F	DCR00488	MCI	mapped	MCI	True		88	Male	no	R1;R4:outside_primary_contrast
+GSM1539673	7196843062_H	DCR00206	AD	mapped	AD	True	case	85	Male	no	R1;R3:case
+GSM1539674	7196843062_J	DCR00133	AD	mapped	AD	True	case	76	Male	no	R1;R3:case
+GSM1539675	7196843062_K	PRGADC040	AD	mapped	AD	True	case	78	Female	no	R1;R3:case
+GSM1539676	7196843062_L	LNDADC032	AD	mapped	AD	True	case	86	Female	no	R1;R3:case
+GSM1539677	7196835090_C	LNDCTL035	CTL	mapped	CTL	True	control	79	Female	no	R1;R3:control
+GSM1539678	7196835090_E	LDZADC035	AD	mapped	AD	True	case	76	Female	no	R1;R3:case
+GSM1539679	7196835090_F	DCR00555	CTL to AD	transitional		True		92	Male	no	R1;R5:excluded(transitional)
+GSM1539680	7196835090_G	DCR00551	MCI	mapped	MCI	True		88	Male	no	R1;R4:outside_primary_contrast
+GSM1539681	7196835090_I	THSMCI010	MCI	mapped	MCI	True		72	Female	no	R1;R4:outside_primary_contrast
+GSM1539682	7196835090_J	THSMCI025	MCI	mapped	MCI	True		68	Male	no	R1;R4:outside_primary_contrast
+GSM1539683	7196835090_K	TLSMCI610	MCI	mapped	MCI	True		73	Male	no	R1;R4:outside_primary_contrast
+GSM1539684	7964814028_A	DCR00043	MCI	mapped	MCI	True		80	Female	no	R1;R4:outside_primary_contrast
+GSM1539685	7964814028_B	PRGCTL018	CTL	mapped	CTL	True	control	79	Female	no	R1;R3:control
+GSM1539686	7964814028_C	LNDCTL047	CTL	mapped	CTL	True	control	87	Male	no	R1;R3:control
+GSM1539687	7964814028_E	LNDADC034	AD	mapped	AD	True	case	79	Female	no	R1;R3:case
+GSM1539688	7964814028_F	DCR00522	MCI to CTL	transitional		True		87	Male	no	R1;R5:excluded(transitional)
+GSM1539689	7964814028_J	LDZADC022	AD	mapped	AD	True	case	82	Male	no	R1;R3:case
+GSM1539690	7964814028_K	LNDMCI031	MCI	mapped	MCI	True		80	Male	no	R1;R4:outside_primary_contrast
+GSM1539691	7964814028_L	DCR00063	AD	mapped	AD	True	case	81	Female	no	R1;R3:case
+GSM1539692	7196843036_B	LDZADC019	AD	mapped	AD	True	case	83	Female	no	R1;R3:case
+GSM1539693	7196843036_E	PRGADC041	AD	mapped	AD	True	case	77	Female	no	R1;R3:case
+GSM1539694	7196843036_G	LNDCTL058	CTL	mapped	CTL	True	control	82	Female	no	R1;R3:control
+GSM1539695	7196843036_H	DCR00370	borderline MCI	borderline		True		90	Female	no	R1;R5:excluded(borderline)
+GSM1539696	7196843036_J	PRGCTL033	CTL	mapped	CTL	True	control	84	Female	no	R1;R3:control
+GSM1539697	7196843036_L	THSADC021	AD	mapped	AD	True	case	85	Female	no	R1;R3:case
+GSM1539698	7196843054_C	DCR00588	AD	mapped	AD	True	case	90	Female	no	R1;R3:case
+GSM1539699	7196843054_E	DCR00222	CTL	mapped	CTL	True	control	79	Male	no	R1;R3:control
+GSM1539700	7196843054_F	KPOMCI049	MCI	mapped	MCI	True		78	Female	no	R1;R4:outside_primary_contrast
+GSM1539701	7196843054_G	KPOADC022	AD	mapped	AD	True	case	84	Male	no	R1;R3:case
+GSM1539702	7196843054_I	KPOCTL034	CTL	mapped	CTL	True	control	77	Female	no	R1;R3:control
+GSM1539703	7196843054_K	KPOADC032	AD	mapped	AD	True	case	76	Female	no	R1;R3:case
+GSM1539704	7196843054_L	LDZCTL020	CTL	mapped	CTL	True	control	79	Male	no	R1;R3:control
+GSM1539705	7196843065_A	PRGADC011	AD	mapped	AD	True	case	81	Female	no	R1;R3:case
+GSM1539706	7196843065_B	OA0429	CTL	mapped	CTL	True	control	91	Male	no	R1;R3:control
+GSM1539707	7196843065_D	LNDCTL057	CTL	mapped	CTL	True	control	80	Female	no	R1;R3:control
+GSM1539708	7196843065_E	LNDMCI045	MCI	mapped	MCI	True		76	Male	no	R1;R4:outside_primary_contrast
+GSM1539709	7196843065_G	DCR00121	CTL	mapped	CTL	True	control	81	Male	no	R1;R3:control
+GSM1539710	7196843065_H	DCR00265	CTL	mapped	CTL	True	control	87	Female	no	R1;R3:control
+GSM1539711	7196843065_I	LNDCTL066	CTL	mapped	CTL	True	control	82	Female	no	R1;R3:control
+GSM1539712	7196843065_J	LDZCTL025	CTL	mapped	CTL	True	control	77	Female	no	R1;R3:control
+GSM1539713	7196843065_K	PRGADC024	AD	mapped	AD	True	case	84	Female	no	R1;R3:case
+GSM1539714	7348931015_B	DCR00226	CTL	mapped	CTL	True	control	81	Female	no	R1;R3:control
+GSM1539715	7348931015_C	PRGCTL055	CTL	mapped	CTL	True	control	77	Female	no	R1;R3:control
+GSM1539716	7348931015_D	DCR00345	CTL	mapped	CTL	True	control	78	Female	no	R1;R3:control
+GSM1539717	7348931015_G	LDZADC006	AD	mapped	AD	True	case	86	Male	no	R1;R3:case
+GSM1539718	7348931015_I	LNDADC037	AD	mapped	AD	True	case	85	Female	no	R1;R3:case
+GSM1539719	7348931015_J	LDZADC030	AD	mapped	AD	True	case	76	Male	no	R1;R3:case
+GSM1539720	7348931015_K	TLSADC503	AD	mapped	AD	True	case	86	Female	no	R1;R3:case
+GSM1539721	7348931005_B	KPOADC044	AD	mapped	AD	True	case	86	Female	no	R1;R3:case
+GSM1539722	7348931005_C	THSMCI064	AD	mapped	AD	True	case	79	Male	no	R1;R3:case
+GSM1539723	7348931005_G	PRGADC021	AD	mapped	AD	True	case	83	Male	no	R1;R3:case
+GSM1539724	7348931005_K	LNDMCI012	MCI	mapped	MCI	True		85	Male	no	R1;R4:outside_primary_contrast
+GSM1539725	7196843007_B	LDZMCI026	MCI	mapped	MCI	True		80	Female	no	R1;R4:outside_primary_contrast
+GSM1539726	7196843007_C	THSMCI020	MCI	mapped	MCI	True		76	Female	no	R1;R4:outside_primary_contrast
+GSM1539727	7196843007_D	LNDADC001	AD	mapped	AD	True	case	88	Male	no	R1;R3:case
+GSM1539728	7196843007_H	DCR00190	AD	mapped	AD	True	case	82	Male	no	R1;R3:case
+GSM1539729	7196843007_I	THSADC024	AD	mapped	AD	True	case	90	Female	no	R1;R3:case
+GSM1539730	7196843007_K	PRGMCI023	MCI	mapped	MCI	True		82	Male	no	R1;R4:outside_primary_contrast
+GSM1539731	7196843091_C	TLSCTL721	CTL	mapped	CTL	True	control	77	Male	no	R1;R3:control
+GSM1539732	7196843091_D	THSADC015	AD	mapped	AD	True	case	76	Female	no	R1;R3:case
+GSM1539733	7196843091_E	DCR00021	AD	mapped	AD	True	case	83	Female	no	R1;R3:case
+GSM1539734	7196843091_G	DCR00169	MCI	mapped	MCI	True		88	Female	no	R1;R4:outside_primary_contrast
+GSM1539735	7196843091_I	DCR00531	MCI	mapped	MCI	True		80	Male	no	R1;R4:outside_primary_contrast
+GSM1539736	7196843091_K	LDZADC025	AD	mapped	AD	True	case	79	Female	no	R1;R3:case
+GSM1539737	7196843091_L	THSADC037	AD	mapped	AD	True	case	77	Female	no	R1;R3:case
+GSM1539738	7964814064_A	DCR00075	CTL	mapped	CTL	True	control	77	Female	no	R1;R3:control
+GSM1539739	7964814064_B	LDZADC017	AD	mapped	AD	True	case	80	Female	no	R1;R3:case
+GSM1539740	7964814064_D	KPOCTL027	CTL	mapped	CTL	True	control	78	Male	no	R1;R3:control
+GSM1539741	7964814064_E	KPOMCI047	MCI	mapped	MCI	True		82	Male	no	R1;R4:outside_primary_contrast
+GSM1539742	7964814064_F	PRGADC009	AD	mapped	AD	True	case	81	Female	no	R1;R3:case
+GSM1539743	7964814064_G	LNDADC038	AD	mapped	AD	True	case	83	Female	no	R1;R3:case
+GSM1539744	7964814064_I	OA0455	MCI	mapped	MCI	True		100	Female	no	R1;R4:outside_primary_contrast
+GSM1539745	7964814064_J	PRGCTL035	CTL	mapped	CTL	True	control	77	Male	no	R1;R3:control
+GSM1539746	7964814064_K	LDZADC038	AD	mapped	AD	True	case	76	Male	no	R1;R3:case
+GSM1539747	7196835071_E	PRGMCI037	AD	mapped	AD	True	case	77	Male	no	R1;R3:case
+GSM1539748	7196835071_F	PRGADC055	AD	mapped	AD	True	case	79	Female	no	R1;R3:case
+GSM1539749	7196835071_I	LDZADC011	AD	mapped	AD	True	case	81	Male	no	R1;R3:case
+GSM1539750	7196835071_J	DCR00299	borderline MCI	borderline		True		75	Female	no	R1;R5:excluded(borderline)
+GSM1539751	7196835071_K	TLSADC506	AD	mapped	AD	True	case	80	Male	no	R1;R3:case
+GSM1539752	7196835071_L	PRGADC027	AD	mapped	AD	True	case	85	Female	no	R1;R3:case
+GSM1539753	7348931014_B	DCR00400	MCI	mapped	MCI	True		79	Female	no	R1;R4:outside_primary_contrast
+GSM1539754	7348931014_C	PRGCTL019	CTL	mapped	CTL	True	control	78	Female	no	R1;R3:control
+GSM1539755	7348931014_D	KPOMCI015	MCI	mapped	MCI	True		83	Female	no	R1;R4:outside_primary_contrast
+GSM1539756	7348931014_F	DCR00510	MCI	mapped	MCI	True		85	Female	no	R1;R4:outside_primary_contrast
+GSM1539757	7348931014_G	LNDCTL003	CTL	mapped	CTL	True	control	84	Male	no	R1;R3:control
+GSM1539758	7943280008_A	PRGCTL021	CTL	mapped	CTL	True	control	83	Female	no	R1;R3:control
+GSM1539759	7943280008_B	LNDCTL054	CTL	mapped	CTL	True	control	83	Female	no	R1;R3:control
+GSM1539760	7943280008_C	DCR00567	MCI	mapped	MCI	True		84	Female	no	R1;R4:outside_primary_contrast
+GSM1539761	7943280008_H	OA0847	MCI	mapped	MCI	True		87	Female	no	R1;R4:outside_primary_contrast
+GSM1539762	7943280008_I	DCR00013	CTL	mapped	CTL	True	control	82	Male	no	R1;R3:control
+GSM1539763	7943280008_J	LDZADC023	AD	mapped	AD	True	case	81	Female	no	R1;R3:case
+GSM1539764	7943280008_K	KPOCTL033	CTL	mapped	CTL	True	control	77	Male	no	R1;R3:control
+GSM1539765	7348931007_C	THSADC026	AD	mapped	AD	True	case	76	Female	no	R1;R3:case
+GSM1539766	7348931007_D	DCR00107	AD	mapped	AD	True	case	80	Female	no	R1;R3:case
+GSM1539767	7348931007_E	DCR00302	AD	mapped	AD	True	case	85	Female	no	R1;R3:case
+GSM1539768	7348931007_F	PRGADC035	AD	mapped	AD	True	case	82	Female	no	R1;R3:case
+GSM1539769	7348931007_G	LDZADC021	AD	mapped	AD	True	case	78	Female	no	R1;R3:case
+GSM1539770	7348931007_H	DCR00098	CTL	mapped	CTL	True	control	86	Female	no	R1;R3:control
+GSM1539771	7348931007_I	OA0518	MCI	mapped	MCI	True		93	Male	no	R1;R4:outside_primary_contrast
+GSM1539772	7348931007_J	PRGMCI015	MCI	mapped	MCI	True		77	Female	no	R1;R4:outside_primary_contrast
+GSM1539773	7196843076_A	PRGADC029	AD	mapped	AD	True	case	81	Female	no	R1;R3:case
+GSM1539774	7196843076_B	PRGMCI033	MCI	mapped	MCI	True		81	Female	no	R1;R4:outside_primary_contrast
+GSM1539775	7196843076_C	LNDCTL018	CTL	mapped	CTL	True	control	85	Female	no	R1;R3:control
+GSM1539776	7196843076_E	OA0516	MCI	mapped	MCI	True		77	Female	no	R1;R4:outside_primary_contrast
+GSM1539777	7196843076_I	KPOADC006	AD	mapped	AD	True	case	79	Male	no	R1;R3:case
+GSM1539778	7196843076_K	LDZADC042	AD	mapped	AD	True	case	78	Female	no	R1;R3:case
+GSM1539779	7196843069_A	KPOCTL010	CTL	mapped	CTL	True	control	77	Male	no	R1;R3:control
+GSM1539780	7196843069_B	PRGADC034	AD	mapped	AD	True	case	80	Male	no	R1;R3:case
+GSM1539781	7196843069_C	PRGCTL009	CTL	mapped	CTL	True	control	81	Female	no	R1;R3:control
+GSM1539782	7196843069_D	OA0843	MCI	mapped	MCI	True		93	Female	no	R1;R4:outside_primary_contrast
+GSM1539783	7196843069_E	PRGADC008	AD	mapped	AD	True	case	77	Female	no	R1;R3:case
+GSM1539784	7196843069_F	KPOMCI045	MCI	mapped	MCI	True		80	Female	no	R1;R4:outside_primary_contrast
+GSM1539785	7196843069_H	LDZADC036	AD	mapped	AD	True	case	83	Male	no	R1;R3:case
+GSM1539786	7196843069_I	PRGMCI026	MCI	mapped	MCI	True		78	Male	no	R1;R4:outside_primary_contrast
+GSM1539787	7196843069_K	KPOADC037	AD	mapped	AD	True	case	79	Male	no	R1;R3:case
+GSM1539788	7196843069_L	DCR00088	AD	mapped	AD	True	case	73	Male	no	R1;R3:case
+GSM1539789	7348931013_B	DCR00475	MCI	mapped	MCI	True		83	Female	no	R1;R4:outside_primary_contrast
+GSM1539790	7348931013_C	LNDMCI004	MCI	mapped	MCI	True		80	Female	no	R1;R4:outside_primary_contrast
+GSM1539791	7348931013_D	OA0868	MCI	mapped	MCI	True		86	Male	no	R1;R4:outside_primary_contrast
+GSM1539792	7348931013_G	LDZMCI011	MCI	mapped	MCI	True		83	Female	no	R1;R4:outside_primary_contrast
+GSM1539793	7348931013_H	PRGMCI024	MCI	mapped	MCI	True		83	Female	no	R1;R4:outside_primary_contrast
+GSM1539794	7348931013_I	PRGADC030	AD	mapped	AD	True	case	82	Male	no	R1;R3:case
+GSM1539795	7348931013_J	LNDCTL065	CTL	mapped	CTL	True	control	88	Male	no	R1;R3:control
+GSM1539796	7348931013_L	DCR00269	CTL	mapped	CTL	True	control	86	Female	no	R1;R3:control

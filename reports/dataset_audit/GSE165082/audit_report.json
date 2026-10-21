@@ -1,0 +1,859 @@
+{
+  "report_schema_version": 1,
+  "dataset": {
+    "accession": "GSE165082",
+    "role": "optional_exploratory_pd_rnaseq",
+    "role_description": "Optional exploratory PD RNA-seq dataset. Exploratory until the 26-vs-30 discrepancy is explained.",
+    "analysis_tier": "exploratory",
+    "modality": "expression_rnaseq",
+    "technology": "RNA sequencing",
+    "platform_id": null,
+    "platform_name": null,
+    "landing_page": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE165082",
+    "related_accessions": [
+      "GSE165081",
+      "GSE165083"
+    ],
+    "independence_status": "NOT_APPLICABLE",
+    "independence_note": "Exploratory PD dataset; not used for AD replication.",
+    "expected_source": "GEO sample list (26) and study description (30 participants) as reported in the brief",
+    "expected_total": 26,
+    "expected_groups": {}
+  },
+  "run": {
+    "run_id": "20261009T140756Z-e178f3",
+    "argv": [
+      "scripts/run_all_audits.py",
+      "--offline"
+    ],
+    "cwd": ".",
+    "started_at": "2026-10-09T14:07:56+00:00",
+    "offline": true,
+    "options": {
+      "offline": true,
+      "skip_downloads": false,
+      "refresh_metadata": false,
+      "max_download_mb": null
+    },
+    "config_path": "config/datasets.yaml",
+    "config_sha256": "c1438e0f29cc22fa51679dcaf7999ff599c01d97e4c77b656e244ebce8eb0d48",
+    "versions": {
+      "biomarker_project": "0.1.0",
+      "python": "3.13.9",
+      "pandas": "3.0.6",
+      "numpy": "2.5.3",
+      "requests": "2.34.2",
+      "yaml": "6.0.3"
+    },
+    "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O"
+  },
+  "started_at": "2026-10-09T14:09:03+00:00",
+  "metadata_retrieval": [
+    {
+      "name": "GSE165082_series_brief.soft.txt",
+      "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE165082&targ=self&form=text&view=brief",
+      "path": "data/metadata/GSE165082/GSE165082_series_brief.soft.txt",
+      "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+      "started_at": "2026-10-09T14:09:03+00:00",
+      "finished_at": "2026-10-09T14:09:03+00:00",
+      "remote_size": null,
+      "local_size": 4687,
+      "sha256": "971d3f06e24846e5c251b22e8968fc2012fa5f033c234e95e1cc4990eb9b6575",
+      "remote_last_modified": null,
+      "resumed": false,
+      "integrity": null,
+      "network_used": false,
+      "error": null,
+      "notes": [
+        "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+      ],
+      "available_locally": true
+    },
+    {
+      "name": "GSE165082_samples_brief.soft.txt",
+      "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE165082&targ=gsm&form=text&view=brief",
+      "path": "data/metadata/GSE165082/GSE165082_samples_brief.soft.txt",
+      "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+      "started_at": "2026-10-09T14:09:03+00:00",
+      "finished_at": "2026-10-09T14:09:03+00:00",
+      "remote_size": null,
+      "local_size": 79318,
+      "sha256": "eb73207f0f475e93aec0a85bdd6417f02ff3fc09f71cc7b8b4a28bedfb1d46a0",
+      "remote_last_modified": null,
+      "resumed": false,
+      "integrity": null,
+      "network_used": false,
+      "error": null,
+      "notes": [
+        "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+      ],
+      "available_locally": true
+    },
+    {
+      "name": "GPL11154_platform_brief.soft.txt",
+      "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL11154&targ=self&form=text&view=brief",
+      "path": "data/metadata/GSE165082/GPL11154_platform_brief.soft.txt",
+      "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+      "started_at": "2026-10-09T14:09:03+00:00",
+      "finished_at": "2026-10-09T14:09:03+00:00",
+      "remote_size": null,
+      "local_size": 6991170,
+      "sha256": "4b58d3fb16fbdfe266f092c690a38cfd5f048024010f1f675a7f6a25ddc58a41",
+      "remote_last_modified": null,
+      "resumed": false,
+      "integrity": null,
+      "network_used": false,
+      "error": null,
+      "notes": [
+        "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+      ],
+      "available_locally": true
+    }
+  ],
+  "metadata": {
+    "series": {
+      "accession": "GSE165082",
+      "title": "DNA methylation and expression profiles of whole blood in Parkinson\u2019s disease (RNA-Seq)",
+      "status": "Public on Mar 11 2021",
+      "submission_date": "Jan 19 2021",
+      "last_update_date": "May 14 2021",
+      "type": [
+        "Expression profiling by high throughput sequencing"
+      ],
+      "platform_ids": [
+        "GPL11154"
+      ],
+      "sample_ids": [
+        "GSM5025809",
+        "GSM5025810",
+        "GSM5025811",
+        "GSM5025812",
+        "GSM5025813",
+        "GSM5025814",
+        "GSM5025815",
+        "GSM5025816",
+        "GSM5025817",
+        "GSM5025818",
+        "GSM5025819",
+        "GSM5025820",
+        "GSM5025821",
+        "GSM5025822",
+        "GSM5025823",
+        "GSM5025824",
+        "GSM5025825",
+        "GSM5025826",
+        "GSM5025827",
+        "GSM5025828",
+        "GSM5025829",
+        "GSM5025830",
+        "GSM5025831",
+        "GSM5025832",
+        "GSM5025833",
+        "GSM5025834"
+      ],
+      "relations": [
+        "SubSeries of: GSE165083",
+        "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA693202",
+        "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP302340"
+      ],
+      "pubmed_ids": [
+        "33981329"
+      ],
+      "supplementary_files": [
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE165nnn/GSE165082/suppl/GSE165082_PD-CC.counts.txt.gz"
+      ],
+      "summary": "Parkinson\u2019s disease (PD) is the second most common age-related neurodegenerative disease. It is presently only accurately diagnosed at an advanced stage by a series of motor deficits, which are predated by a litany of non-motor symptoms manifesting over years or decades. Aberrant epigenetic modifications exist across a range of diseases and are non-invasively detectable in blood as potential markers of disease. We performed comparative analyses of the methylome and transcriptome in blood from PD patients and matched controls. Our aim was to characterize DNA methylation and gene expression patterns in whole blood from PD patients as a foundational step toward the future goal of identifying molecular markers that could predict, accurately diagnose, or track progression of PD. We found that differentially expressed genes (DEGs) were involved in the processes of transcription and mitochondrial function and that PD methylation profiles were readily distinguishable from healthy controls, even in whole blood DNA samples. Differentially methylated regions (DMRs) were functionally varied, including near transcription factor NFYA, receptor tyrosine kinase DDR1, ubiquitin ligase RNF5, acetyltransferase AGPAT1, and vault RNA VTRNA2-1. Expression quantitative trait methylation (eQTM) sites were found at long non-coding RNA PAX8-AS1 and transcription regulator ZFP57, among others. Functional epigenetic modules (FEM) were highlighted by IL18R1, PTPRC, and ITGB2. We identified patterns of altered disease-specific DNA methylation and associated gene expression in whole blood. Our combined analyses extended what we learned from the DEG or DMR results alone. These studies provide a foundation to support characterization of larger sample cohorts, with the goal of building a thorough, accurate and non-invasive molecular PD biomarker.",
+      "overall_design": "Parkinson's disease (PD) and control subjects where analyzed for changes in gene expression and DNA methylation. Each group contained 15 age-matched subjects. Two blood samples were taken from each subject. One sample was used for isolation of total RNA and the other was used for extraction of DNA. The PD group was compared to controls for each data type and correlations between data types were assessed."
+    },
+    "platforms": [
+      {
+        "accession": "GPL11154",
+        "title": "Illumina HiSeq 2000 (Homo sapiens)",
+        "technology": "high-throughput sequencing",
+        "distribution": "virtual",
+        "organism": "Homo sapiens",
+        "manufacturer": null
+      }
+    ],
+    "n_sample_records": 26,
+    "sample_records_available": true
+  },
+  "group_count_comparison": [
+    {
+      "group": "TOTAL",
+      "reported": 26,
+      "observed": 26,
+      "difference": 0,
+      "status": "MATCHES_REPORTED"
+    },
+    {
+      "group": "HC",
+      "reported": null,
+      "observed": 14,
+      "difference": null,
+      "status": "NO_REFERENCE_COUNT"
+    },
+    {
+      "group": "PD",
+      "reported": null,
+      "observed": 12,
+      "difference": null,
+      "status": "NO_REFERENCE_COUNT"
+    },
+    {
+      "group": "DESCRIBED_PARTICIPANTS",
+      "reported": 30,
+      "observed": 26,
+      "difference": -4,
+      "status": "DIFFERS_FROM_REPORTED"
+    }
+  ],
+  "phenotype": {
+    "diagnosis_field": "char:group",
+    "table_path": "data/processed/GSE165082/phenotype_table.tsv",
+    "raw_label_counts": {
+      "Control": 14,
+      "PD": 12
+    },
+    "canonical_counts": {
+      "HC": 14,
+      "PD": 12
+    },
+    "status_counts": {
+      "MAPPED": 26
+    },
+    "fields_of_interest": []
+  },
+  "geo_file_listing": null,
+  "reconciliation": [
+    {
+      "file": "GSE165082_series_matrix.txt.gz",
+      "summary": {
+        "left_label": "expression",
+        "right_label": "phenotype",
+        "key_description": "expression column/sample ID == GEO geo_accession",
+        "n_left_ids": 26,
+        "n_right_records": 26,
+        "n_matched": 26,
+        "matched": [
+          "GSM5025809",
+          "GSM5025810",
+          "GSM5025811",
+          "GSM5025812",
+          "GSM5025813",
+          "GSM5025814",
+          "GSM5025815",
+          "GSM5025816",
+          "GSM5025817",
+          "GSM5025818",
+          "GSM5025819",
+          "GSM5025820",
+          "GSM5025821",
+          "GSM5025822",
+          "GSM5025823",
+          "GSM5025824",
+          "GSM5025825",
+          "GSM5025826",
+          "GSM5025827",
+          "GSM5025828",
+          "GSM5025829",
+          "GSM5025830",
+          "GSM5025831",
+          "GSM5025832",
+          "GSM5025833",
+          "GSM5025834"
+        ],
+        "left_only": [],
+        "right_only": [],
+        "duplicate_left_ids": {},
+        "duplicate_right_ids": {},
+        "normalization_changes": [],
+        "right_records_without_key": [],
+        "missing_diagnosis": [],
+        "ambiguous_diagnosis": [],
+        "unmapped_diagnosis": [],
+        "group_counts_all_records": {
+          "HC": 14,
+          "PD": 12
+        },
+        "group_counts_matched": {
+          "HC": 14,
+          "PD": 12
+        },
+        "raw_label_counts_all_records": {
+          "Control": 14,
+          "PD": 12
+        },
+        "near_miss_hints": [],
+        "exact_one_to_one": true
+      },
+      "outputs": {
+        "csv": "reports/dataset_audit/GSE165082/GSE165082_series_matrix_txt_gz_id_reconciliation.csv",
+        "json": "reports/dataset_audit/GSE165082/GSE165082_series_matrix_txt_gz_id_reconciliation_summary.json"
+      }
+    },
+    {
+      "file": "GSE165082_PD-CC.counts.txt.gz",
+      "summary": {
+        "left_label": "expression",
+        "right_label": "phenotype",
+        "key_description": "expression column/sample ID == GEO title",
+        "n_left_ids": 26,
+        "n_right_records": 26,
+        "n_matched": 26,
+        "matched": [
+          "011_PD",
+          "012_PD",
+          "015_PD",
+          "016_PD",
+          "021_CC",
+          "022_PD",
+          "023_CC",
+          "024_PD",
+          "025_CC",
+          "026_CC",
+          "027_CC",
+          "028_PD",
+          "029_CC",
+          "030_CC",
+          "031_PD",
+          "036_CC",
+          "038_CC",
+          "039_CC",
+          "040_CC",
+          "041_CC",
+          "043_CC",
+          "045_PD",
+          "047_CC",
+          "049_PD",
+          "050_PD",
+          "051_PD"
+        ],
+        "left_only": [],
+        "right_only": [],
+        "duplicate_left_ids": {},
+        "duplicate_right_ids": {},
+        "normalization_changes": [],
+        "right_records_without_key": [],
+        "missing_diagnosis": [],
+        "ambiguous_diagnosis": [],
+        "unmapped_diagnosis": [],
+        "group_counts_all_records": {
+          "HC": 14,
+          "PD": 12
+        },
+        "group_counts_matched": {
+          "HC": 14,
+          "PD": 12
+        },
+        "raw_label_counts_all_records": {
+          "Control": 14,
+          "PD": 12
+        },
+        "near_miss_hints": [],
+        "exact_one_to_one": true
+      },
+      "outputs": {
+        "csv": "reports/dataset_audit/GSE165082/GSE165082_PD-CC_counts_txt_gz_id_reconciliation.csv",
+        "json": "reports/dataset_audit/GSE165082/GSE165082_PD-CC_counts_txt_gz_id_reconciliation_summary.json"
+      }
+    }
+  ],
+  "concordance": [],
+  "reported_leads": [
+    {
+      "lead_id": "GSE165082-LEAD-1",
+      "description": "GEO lists 26 samples whereas the study description refers to 30 participants.",
+      "source": "BIO-MB-001 brief",
+      "evidence_status": "REPORTED",
+      "checked_ids": [],
+      "kind": "count_discrepancy",
+      "check": "count discrepancy: compared through expected_counts (see the group-count table); the reason for the difference is UNRESOLVED"
+    }
+  ],
+  "n_proposed_exclusions": 0,
+  "files": [
+    {
+      "name": "GSE165082_series_matrix.txt.gz",
+      "location": "matrix",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE165nnn/GSE165082/matrix/GSE165082_series_matrix.txt.gz",
+      "requested": true,
+      "sample_id_field": "geo_accession",
+      "sample_id_regex": null,
+      "retrieval": {
+        "name": "GSE165082_series_matrix.txt.gz",
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE165nnn/GSE165082/matrix/GSE165082_series_matrix.txt.gz",
+        "path": "data/raw/GSE165082/GSE165082_series_matrix.txt.gz",
+        "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+        "started_at": "2026-10-09T14:09:03+00:00",
+        "finished_at": "2026-10-09T14:09:03+00:00",
+        "remote_size": null,
+        "local_size": 4034,
+        "sha256": "16cd63f53761c494cfb5911ca2e705d508d721fa374ac180be645d396078ac29",
+        "remote_last_modified": null,
+        "resumed": false,
+        "integrity": {
+          "method": "gzip_full_decompression",
+          "ok": true,
+          "detail": "58397 uncompressed bytes"
+        },
+        "network_used": false,
+        "error": null,
+        "notes": [
+          "existing file re-used: checksum matches earlier manifest record (server not consulted)"
+        ],
+        "available_locally": true
+      },
+      "inspection": {
+        "status": "INSPECTED_WITH_LIMITATIONS",
+        "format": "geo_series_matrix",
+        "compression": "gzip",
+        "table_kind": "metadata_only_series_matrix",
+        "n_rows": 0,
+        "n_columns": 27,
+        "feature_id_column": "ID_REF",
+        "measurement_types": {
+          "value": 26
+        },
+        "duplicate_column_headers": [],
+        "duplicate_sample_ids": [],
+        "n_unique_feature_ids": null,
+        "duplicate_feature_ids": {},
+        "missing_feature_ids": null,
+        "missing_values": {},
+        "value_summary": {},
+        "limitations": [
+          "series matrix contains no data rows (metadata only)"
+        ],
+        "empty_header_sample_columns": [],
+        "error": null,
+        "annotation_columns": [],
+        "n_candidate_sample_ids": 26,
+        "report": "reports/dataset_audit/GSE165082/files/GSE165082_series_matrix.txt.gz.inspection.json"
+      },
+      "processing": {
+        "state": "METADATA_ONLY",
+        "confidence": "HIGH",
+        "requires_review": false,
+        "filename_hint": null,
+        "filename_conflict": false,
+        "scores": {
+          "METADATA_ONLY": 3
+        },
+        "evidence": [
+          {
+            "source": "filename",
+            "observation": "file name 'GSE165082_series_matrix.txt.gz' suggests nothing specific",
+            "supports": null,
+            "weight": "none"
+          },
+          {
+            "source": "file_structure",
+            "observation": "table kind 'metadata_only_series_matrix' contains no expression values",
+            "supports": "METADATA_ONLY",
+            "weight": "strong"
+          }
+        ],
+        "notes": []
+      }
+    },
+    {
+      "name": "GSE165082_PD-CC.counts.txt.gz",
+      "location": "suppl",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE165nnn/GSE165082/suppl/GSE165082_PD-CC.counts.txt.gz",
+      "requested": true,
+      "sample_id_field": "title",
+      "sample_id_regex": null,
+      "retrieval": {
+        "name": "GSE165082_PD-CC.counts.txt.gz",
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE165nnn/GSE165082/suppl/GSE165082_PD-CC.counts.txt.gz",
+        "path": "data/raw/GSE165082/GSE165082_PD-CC.counts.txt.gz",
+        "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+        "started_at": "2026-10-09T14:09:03+00:00",
+        "finished_at": "2026-10-09T14:09:03+00:00",
+        "remote_size": null,
+        "local_size": 1181704,
+        "sha256": "d0912e66d0cf4e841c6f57ac3ab119acdb50d3419edd10bcb39df32ac029521f",
+        "remote_last_modified": null,
+        "resumed": false,
+        "integrity": {
+          "method": "gzip_full_decompression",
+          "ok": true,
+          "detail": "5001919 uncompressed bytes"
+        },
+        "network_used": false,
+        "error": null,
+        "notes": [
+          "existing file re-used: checksum matches earlier manifest record (server not consulted)"
+        ],
+        "available_locally": true
+      },
+      "inspection": {
+        "status": "INSPECTED",
+        "format": "delimited_text",
+        "compression": "gzip",
+        "table_kind": "expression_matrix",
+        "n_rows": 63677,
+        "n_columns": 27,
+        "feature_id_column": "Geneid",
+        "measurement_types": {
+          "value": 26
+        },
+        "duplicate_column_headers": [],
+        "duplicate_sample_ids": [],
+        "n_unique_feature_ids": 63677,
+        "duplicate_feature_ids": {
+          "n_duplicated_ids": 0,
+          "n_rows_involved": 0,
+          "examples": {}
+        },
+        "missing_feature_ids": 0,
+        "missing_values": {
+          "total_missing_in_sample_columns": 0,
+          "n_sample_columns_with_missing": 0,
+          "top_columns_with_missing": {},
+          "non_numeric_tokens_in_sample_columns": 0,
+          "na_tokens_recognised": [
+            "",
+            "NA",
+            "N/A",
+            "NaN",
+            "nan",
+            "null",
+            "NULL",
+            "#N/A",
+            "-"
+          ]
+        },
+        "value_summary": {
+          "columns_summarised": 26,
+          "n_numeric_values": 1655602,
+          "n_missing_values": 0,
+          "n_non_numeric_tokens": 0,
+          "min": 0.0,
+          "max": 12835229.0,
+          "fraction_negative": 0.0,
+          "fraction_zero": 0.6584360250833232,
+          "fraction_integer_valued": 1.0,
+          "sampled_rows": 5000,
+          "sampling": "every 12th data row (deterministic)",
+          "pooled_quantiles_sampled": {
+            "0.0": 0.0,
+            "0.01": 0.0,
+            "0.25": 0.0,
+            "0.5": 0.0,
+            "0.75": 6.0,
+            "0.99": 4190.049999999974,
+            "1.0": 264325.0
+          },
+          "per_sample_distribution": {
+            "median_of_sample_medians": 0.0,
+            "range_of_sample_medians": [
+              0.0,
+              0.0
+            ],
+            "sd_of_sample_quantiles_over_pooled_iqr": {
+              "q05": 0.0,
+              "q25": 0.0,
+              "q50": 0.0,
+              "q75": 0.43039513670755175,
+              "q95": 40.50816328132961
+            },
+            "note": "computed on sampled rows only; small values indicate near-identical per-sample distributions"
+          }
+        },
+        "limitations": [],
+        "empty_header_sample_columns": [],
+        "error": null,
+        "annotation_columns": [],
+        "n_candidate_sample_ids": 26,
+        "report": "reports/dataset_audit/GSE165082/files/GSE165082_PD-CC.counts.txt.gz.inspection.json"
+      },
+      "processing": {
+        "state": "NON_NORMALIZED",
+        "confidence": "MEDIUM",
+        "requires_review": true,
+        "filename_hint": "NON_NORMALIZED",
+        "filename_conflict": false,
+        "scores": {
+          "NON_NORMALIZED": 4
+        },
+        "evidence": [
+          {
+            "source": "filename",
+            "observation": "file name 'GSE165082_PD-CC.counts.txt.gz' suggests NON_NORMALIZED",
+            "supports": null,
+            "weight": "none"
+          },
+          {
+            "source": "value_distribution",
+            "observation": "all values are non-negative integers (max 12835229): raw count-like data",
+            "supports": "NON_NORMALIZED",
+            "weight": "strong"
+          },
+          {
+            "source": "value_distribution",
+            "observation": "per-sample distributions differ (max SD/IQR 0.430 at q25-q75): no between-sample distribution normalisation evident",
+            "supports": "NON_NORMALIZED",
+            "weight": "weak"
+          },
+          {
+            "source": "geo_annotation",
+            "observation": "GEO provides no per-file processing description for supplementary files",
+            "supports": null,
+            "weight": "none"
+          }
+        ],
+        "notes": []
+      }
+    }
+  ],
+  "steps": [
+    {
+      "step": "retrieve_series_metadata",
+      "network_dependent": true,
+      "started_at": "2026-10-09T14:09:03+00:00",
+      "status": "OK",
+      "finished_at": "2026-10-09T14:09:03+00:00"
+    },
+    {
+      "step": "retrieve_sample_metadata",
+      "network_dependent": true,
+      "started_at": "2026-10-09T14:09:03+00:00",
+      "status": "OK",
+      "finished_at": "2026-10-09T14:09:03+00:00"
+    },
+    {
+      "step": "parse_series_metadata",
+      "network_dependent": false,
+      "started_at": "2026-10-09T14:09:03+00:00",
+      "status": "OK",
+      "finished_at": "2026-10-09T14:09:03+00:00"
+    },
+    {
+      "step": "parse_sample_metadata",
+      "network_dependent": false,
+      "started_at": "2026-10-09T14:09:03+00:00",
+      "status": "OK",
+      "finished_at": "2026-10-09T14:09:03+00:00"
+    },
+    {
+      "step": "retrieve_platform_GPL11154",
+      "network_dependent": true,
+      "started_at": "2026-10-09T14:09:03+00:00",
+      "status": "OK",
+      "finished_at": "2026-10-09T14:09:03+00:00"
+    },
+    {
+      "step": "parse_platform_GPL11154",
+      "network_dependent": false,
+      "started_at": "2026-10-09T14:09:03+00:00",
+      "status": "OK",
+      "finished_at": "2026-10-09T14:09:03+00:00"
+    },
+    {
+      "step": "build_phenotype_table",
+      "network_dependent": false,
+      "started_at": "2026-10-09T14:09:03+00:00",
+      "status": "OK",
+      "finished_at": "2026-10-09T14:09:03+00:00"
+    },
+    {
+      "step": "write_phenotype_table",
+      "network_dependent": false,
+      "started_at": "2026-10-09T14:09:03+00:00",
+      "status": "OK",
+      "finished_at": "2026-10-09T14:09:03+00:00"
+    },
+    {
+      "step": "retrieve_GSE165082_series_matrix.txt.gz",
+      "network_dependent": false,
+      "started_at": "2026-10-09T14:09:03+00:00",
+      "status": "OK",
+      "finished_at": "2026-10-09T14:09:03+00:00"
+    },
+    {
+      "step": "retrieve_GSE165082_PD-CC.counts.txt.gz",
+      "network_dependent": false,
+      "started_at": "2026-10-09T14:09:03+00:00",
+      "status": "OK",
+      "finished_at": "2026-10-09T14:09:03+00:00"
+    },
+    {
+      "step": "inspect_GSE165082_series_matrix.txt.gz",
+      "network_dependent": false,
+      "started_at": "2026-10-09T14:09:03+00:00",
+      "status": "OK",
+      "finished_at": "2026-10-09T14:09:03+00:00"
+    },
+    {
+      "step": "inspect_GSE165082_PD-CC.counts.txt.gz",
+      "network_dependent": false,
+      "started_at": "2026-10-09T14:09:03+00:00",
+      "status": "OK",
+      "finished_at": "2026-10-09T14:09:04+00:00"
+    },
+    {
+      "step": "reconcile_GSE165082_series_matrix.txt.gz",
+      "network_dependent": false,
+      "started_at": "2026-10-09T14:09:04+00:00",
+      "status": "OK",
+      "finished_at": "2026-10-09T14:09:04+00:00"
+    },
+    {
+      "step": "reconcile_GSE165082_PD-CC.counts.txt.gz",
+      "network_dependent": false,
+      "started_at": "2026-10-09T14:09:04+00:00",
+      "status": "OK",
+      "finished_at": "2026-10-09T14:09:04+00:00"
+    }
+  ],
+  "findings": [
+    {
+      "topic": "sample_count",
+      "status": "VERIFIED",
+      "statement": "GEO series lists 26 samples and all 26 sample records were retrieved",
+      "evidence": "series record !Series_sample_id vs retrieved GSM records"
+    },
+    {
+      "topic": "platform",
+      "status": "VERIFIED",
+      "statement": "platform not specified in config; GEO reports ['GPL11154']",
+      "evidence": "GEO series record"
+    },
+    {
+      "topic": "platform",
+      "status": "VERIFIED",
+      "statement": "GPL11154: Illumina HiSeq 2000 (Homo sapiens) (high-throughput sequencing)",
+      "evidence": "GEO platform record"
+    },
+    {
+      "topic": "modality",
+      "status": "VERIFIED",
+      "statement": "GEO series type: ['Expression profiling by high throughput sequencing']; configured modality: expression_rnaseq",
+      "evidence": "GEO series record"
+    },
+    {
+      "topic": "relations",
+      "status": "VERIFIED",
+      "statement": "GEO relation: SubSeries of: GSE165083",
+      "evidence": "GEO series record"
+    },
+    {
+      "topic": "independence",
+      "status": "REPORTED",
+      "statement": "participant independence status: NOT_APPLICABLE. Exploratory PD dataset; not used for AD replication.",
+      "evidence": "configuration (not established from data)"
+    },
+    {
+      "topic": "diagnosis_labels",
+      "status": "VERIFIED",
+      "statement": "every sample has a diagnosis label in char:group that is mapped or explicitly flagged",
+      "evidence": "GEO sample characteristics"
+    },
+    {
+      "topic": "sample_count",
+      "status": "VERIFIED",
+      "statement": "observed 26 GEO sample records; group counts differ from the reference values (DESCRIBED_PARTICIPANTS)",
+      "evidence": "GEO sample records vs config expected_counts"
+    },
+    {
+      "topic": "retrieval",
+      "status": "VERIFIED",
+      "statement": "GSE165082_series_matrix.txt.gz: REUSED_VERIFIED_AGAINST_MANIFEST, 4034 bytes, SHA-256 16cd63f53761c494cfb5911ca2e705d508d721fa374ac180be645d396078ac29",
+      "evidence": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE165nnn/GSE165082/matrix/GSE165082_series_matrix.txt.gz; integrity: gzip_full_decompression"
+    },
+    {
+      "topic": "retrieval",
+      "status": "VERIFIED",
+      "statement": "GSE165082_PD-CC.counts.txt.gz: REUSED_VERIFIED_AGAINST_MANIFEST, 1181704 bytes, SHA-256 d0912e66d0cf4e841c6f57ac3ab119acdb50d3419edd10bcb39df32ac029521f",
+      "evidence": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE165nnn/GSE165082/suppl/GSE165082_PD-CC.counts.txt.gz; integrity: gzip_full_decompression"
+    },
+    {
+      "topic": "inspection",
+      "status": "VERIFIED",
+      "statement": "GSE165082_series_matrix.txt.gz: geo_series_matrix (gzip), kind=metadata_only_series_matrix, rows=0, columns=27, candidate samples=26",
+      "evidence": "streamed file inspection"
+    },
+    {
+      "topic": "processing",
+      "status": "VERIFIED",
+      "statement": "GSE165082_series_matrix.txt.gz: METADATA_ONLY (confidence HIGH)",
+      "evidence": "table kind 'metadata_only_series_matrix' contains no expression values"
+    },
+    {
+      "topic": "inspection",
+      "status": "VERIFIED",
+      "statement": "GSE165082_PD-CC.counts.txt.gz: delimited_text (gzip), kind=expression_matrix, rows=63677, columns=27, candidate samples=26",
+      "evidence": "streamed file inspection"
+    },
+    {
+      "topic": "processing",
+      "status": "UNRESOLVED",
+      "statement": "GSE165082_PD-CC.counts.txt.gz: NON_NORMALIZED (confidence MEDIUM)",
+      "evidence": "all values are non-negative integers (max 12835229): raw count-like data; per-sample distributions differ (max SD/IQR 0.430 at q25-q75): no between-sample distribution normalisation evident"
+    },
+    {
+      "topic": "reconciliation",
+      "status": "VERIFIED",
+      "statement": "GSE165082_series_matrix.txt.gz: 26 expression IDs vs 26 phenotype records; 26 exact matches, 0 expression-only, 0 phenotype-only, 0/0 duplicated IDs",
+      "evidence": "expression column/sample ID == GEO geo_accession"
+    },
+    {
+      "topic": "reconciliation",
+      "status": "VERIFIED",
+      "statement": "GSE165082_PD-CC.counts.txt.gz: 26 expression IDs vs 26 phenotype records; 26 exact matches, 0 expression-only, 0 phenotype-only, 0/0 duplicated IDs",
+      "evidence": "expression column/sample ID == GEO title"
+    },
+    {
+      "topic": "reported_lead",
+      "status": "REPORTED",
+      "statement": "GSE165082-LEAD-1: GEO lists 26 samples whereas the study description refers to 30 participants.",
+      "evidence": "BIO-MB-001 brief"
+    },
+    {
+      "topic": "sample_count",
+      "status": "VERIFIED",
+      "statement": "GEO overall design text: \"Parkinson's disease (PD) and control subjects where analyzed for changes in gene expression and DNA methylation. Each group contained 15 age-matched subjects. Two blood samples were taken from each subject. One sample was used for isolation of total RNA and the other was used for extraction of DNA. The PD group was compared to controls for each data type and correlations between data types were as\"",
+      "evidence": "GEO series record (quoted, not interpreted)"
+    },
+    {
+      "topic": "modality",
+      "status": "VERIFIED",
+      "statement": "RNA-seq dataset: values are not on the same scale as microarray intensities and must never be pooled with them",
+      "evidence": "configuration + GEO type"
+    }
+  ],
+  "issues": [
+    {
+      "severity": "medium",
+      "category": "counts",
+      "description": "DESCRIBED_PARTICIPANTS: observed 26 vs reported 30 (difference -4)"
+    },
+    {
+      "severity": "medium",
+      "category": "processing",
+      "description": "GSE165082_PD-CC.counts.txt.gz: processing state NON_NORMALIZED (confidence MEDIUM) requires review"
+    }
+  ],
+  "next_actions": [
+    "Investigate the differences between observed and reported counts (see group-count table); no samples were removed or added to match reference values.",
+    "Lead GSE165082-LEAD-1: establish from the publication/authors why GEO sample numbers differ from the described participants; do not infer or impute missing samples.",
+    "Keep GSE165082 exploratory until its open discrepancies are explained.",
+    "Choose the downstream input file for this dataset only after reviewing the processing evidence: GSE165082_PD-CC.counts.txt.gz = NON_NORMALIZED (MEDIUM). Do not apply normalisation to data that is already normalised."
+  ],
+  "network_used": false,
+  "finished_at": "2026-10-09T14:09:04+00:00",
+  "audit_status": "COMPLETE_REVIEW_REQUIRED",
+  "audit_status_reasons": [
+    "2 issue(s) require review"
+  ],
+  "outputs": {
+    "report_json": "reports/dataset_audit/GSE165082/audit_report.json",
+    "report_markdown": "reports/dataset_audit/GSE165082/audit_report.md",
+    "proposed_exclusions": "reports/dataset_audit/GSE165082/proposed_exclusions.csv",
+    "phenotype_table": "data/processed/GSE165082/phenotype_table.tsv",
+    "download_manifest": "data/raw/GSE165082/download_manifest.json",
+    "metadata_manifest": "data/metadata/GSE165082/retrieval_manifest.json"
+  }
+}

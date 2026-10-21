@@ -1,0 +1,67 @@
+{
+  "C-a": {
+    "family": "measurable locked genes in GSE140829",
+    "n": 200,
+    "n_replicated_q_lt_0.05": 43,
+    "proportion_replicated": 0.215,
+    "summary_note": "descriptive; no interval (a binomial interval assumes independent genes; v7:69)"
+  },
+  "C-b": {
+    "T_measurable": 200,
+    "coverage_status": {
+      "down_in_AD": {
+        "locked": 172,
+        "measurable": 172,
+        "met": true,
+        "required": 86.0
+      },
+      "score_assessable": true,
+      "up_in_AD": {
+        "locked": 28,
+        "measurable": 28,
+        "met": true,
+        "required": 14.0
+      }
+    },
+    "down_in_AD": {
+      "concordant": 157,
+      "discordant": 15,
+      "measurable": 172,
+      "proportion_concordant": 0.9127906976744186
+    },
+    "inferential": false,
+    "note": "no interval or p-value (D12; v7:68)",
+    "overall": {
+      "concordant": 183,
+      "discordant": 17,
+      "measurable": 200,
+      "proportion_concordant": 0.915
+    },
+    "up_in_AD": {
+      "concordant": 26,
+      "discordant": 2,
+      "measurable": 28,
+      "proportion_concordant": 0.9285714285714286
+    }
+  },
+  "C-c": {
+    "bound_agrees_with_test": true,
+    "ci_high_two_sided_95": 0.4158811951879027,
+    "ci_low_two_sided_95": 0.0808183320766375,
+    "coefficient": "AD_vs_CTL",
+    "consistent_direction_shift": true,
+    "decision_rule": "reject H0: theta <= 0 iff p_one_sided < 0.05 (equivalently L_c > 0)",
+    "df": 429,
+    "estimate": 0.2483497636322701,
+    "lower_bound_one_sided_95": 0.1078462009892527,
+    "p_one_sided": 0.0018793360090214,
+    "std_error": 0.0852356417974979,
+    "t_statistic": 2.913684444616456
+  },
+  "cohort": "GSE140829",
+  "effect_correlation": "not computed: v7 \u00a74.5 is prespecified for GSE63061 only",
+  "identifiability_decision": "PROCEED",
+  "role": "replication cohort; independence from AddNeuroMed participants unverified (D10)",
+  "score_assessable": true,
+  "wording": "statistical replication of deposited-label associations, not biological or clinical validation; independence unverified (D10); magnitudes not comparable across cohorts; no cross-cohort claim (X1)"
+}

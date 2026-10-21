@@ -1,0 +1,3 @@
+cohort_id	array_id	candidate_tiers	r8_reason_code	r9_reason_code	status
+GSE140829	GSM4187359	Q1	R8_DISCORDANT_TWO_AXIS	R9_PASSED	PROPOSED — NOT APPLIED (exclusion-list approval scope unresolved, v5:123-129)
+GSE140829	GSM4187453	Q1	R8_DISCORDANT_TWO_AXIS	R9_PASSED	PROPOSED — NOT APPLIED (exclusion-list approval scope unresolved, v5:123-129)

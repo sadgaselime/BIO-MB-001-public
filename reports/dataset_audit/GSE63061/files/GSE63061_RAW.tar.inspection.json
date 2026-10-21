@@ -1,0 +1,49 @@
+{
+  "path": "data/raw/GSE63061/GSE63061_RAW.tar",
+  "file_name": "GSE63061_RAW.tar",
+  "status": "INSPECTED_WITH_LIMITATIONS",
+  "format": "tar_archive",
+  "compression": "none",
+  "size_bytes": 27443200,
+  "n_rows": 2,
+  "n_columns": null,
+  "delimiter": null,
+  "header_line_number": null,
+  "feature_id_column": null,
+  "annotation_columns": [],
+  "sample_columns": [],
+  "candidate_sample_ids": [],
+  "measurement_types": {},
+  "duplicate_column_headers": [],
+  "empty_header_sample_columns": [],
+  "duplicate_sample_ids": [],
+  "n_unique_feature_ids": null,
+  "duplicate_feature_ids": {},
+  "missing_feature_ids": null,
+  "missing_values": {},
+  "value_summary": {},
+  "metadata": {
+    "members": [
+      {
+        "name": "GPL10558_HumanHT-12_V4_0_R1_15002873_B.txt.gz",
+        "size": 13716199,
+        "type": "file"
+      },
+      {
+        "name": "GPL10558_HumanHT-12_V4_0_R2_15002873_B.txt.gz",
+        "size": 13721073,
+        "type": "file"
+      }
+    ],
+    "n_members": 2,
+    "extension_counts": {
+      ".txt": 2
+    },
+    "members_truncated": false
+  },
+  "table_kind": "archive",
+  "limitations": [
+    "archive members listed only; contents not extracted or inspected"
+  ],
+  "error": null
+}

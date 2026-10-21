@@ -1,0 +1,228 @@
+{
+  "status": "PROVISIONAL \u2014 not an approved mapping policy; D6-F covers GPL570 only; D19 unchanged",
+  "cutoff_inclusive": "20260318",
+  "sources": {
+    "tarballs": {
+      "illuminaHumanv3.db_1.26.0.tar.gz": {
+        "path": "/Users/sadgasalim/Documents/BIO-MB-001/reference/bioconductor_3.23/illuminaHumanv3.db_1.26.0.tar.gz",
+        "bytes": 6455664,
+        "md5": "7d9e7534f0b60f0e3e7473e545ef373d",
+        "sha256": "cea0c9cd155197154d57400cb3f18108e451cf26e714c39698d68e45cd503a1b"
+      },
+      "illuminaHumanv4.db_1.26.0.tar.gz": {
+        "path": "/Users/sadgasalim/Documents/BIO-MB-001/reference/bioconductor_3.23/illuminaHumanv4.db_1.26.0.tar.gz",
+        "bytes": 6705381,
+        "md5": "42d554559ac0106dc71317ffaf466421",
+        "sha256": "362848d6e78c7fa6206e1a4c68a4b68c1ea065267d550114837bc3b9d833ee85"
+      },
+      "lumiHumanIDMapping_1.10.1.tar.gz": {
+        "path": "/Users/sadgasalim/Documents/BIO-MB-001/reference/bioconductor_3.23/lumiHumanIDMapping_1.10.1.tar.gz",
+        "bytes": 27559728,
+        "md5": "007e5aa2f1596cc08d888ba6dce7148a",
+        "sha256": "6414e94a243eea6a126e582a68fadd41798bb5fccc03fcc99380a01f40634948"
+      }
+    },
+    "v1_table": {
+      "path": "/Users/sadgasalim/Documents/BIO-MB-001/reports/annotation_audit/ncbi_gene_history/v1/gene_history_reconciliation.tsv",
+      "bytes": 3175922,
+      "md5": "f3c6d0b3fce50bf0aba4ad1340500ce6",
+      "sha256": "42451a70752436a65c9caeab076317c0cf5523b13410003cc29f52df3f24f8f2"
+    },
+    "v1_manifest_sha256": "42746d098c2d3a5b42c6788b08d38ab373097c545ff1b263dfdc36bbf6101492",
+    "v1_input_id_sha256": {
+      "illuminaHumanv3": "6ad9791733e290b875e346a2fbe05c918c5ce6576159ca0f8f5d72f126058f4c",
+      "illuminaHumanv4": "7e2d97e67ae54b6b34a02bec20e13749dfd9349e46204f727acebb5df751703d",
+      "lumi HT-12 v4 R2": "78f4cb7c8d16e4e0e9ece8de1e463cfcdc16a5f1407ea344c218e64435ed1f1d"
+    }
+  },
+  "counts": {
+    "illuminaHumanv3": {
+      "cohort_note": "GSE63060 (GPL6947); Entrez snapshot 2015-Mar17",
+      "probes_total": 49576,
+      "classes": {
+        "discontinued_no_replacement": 62,
+        "eligible_direct": 29430,
+        "eligible_via_history_replacement": 59,
+        "multiple_mappings_excluded": 1175,
+        "no_assignment_in_package": 18850
+      },
+      "probes_with_one_eligible_gene": 29489,
+      "probe_level": {
+        "current": 29430,
+        "replaced_under_cutoff": 59,
+        "no_replacement": 62,
+        "unexplained": 0,
+        "multi_gene_excluded": 1175,
+        "unmapped": 18850,
+        "collision_successor_already_directly_mapped": 43
+      },
+      "gene_level": {
+        "package_entrez_ids": 20011,
+        "replaced_under_cutoff": 41,
+        "no_replacement": 51,
+        "unexplained": 0,
+        "collision_successor_already_directly_mapped": 30,
+        "shared_successors_more_than_one_source_gene": 2,
+        "distinct_option_a_genes": 19226
+      },
+      "v1_gene_classes_only_in_multi_gene_probes": {
+        "discontinued_no_replacement": 2,
+        "replaced_successor_in_baseline": 4
+      }
+    },
+    "illuminaHumanv4": {
+      "cohort_note": "GSE63061 (GPL10558); Entrez snapshot 2015-Mar17",
+      "probes_total": 48107,
+      "classes": {
+        "discontinued_no_replacement": 122,
+        "eligible_direct": 33962,
+        "eligible_via_history_replacement": 76,
+        "multiple_mappings_excluded": 1726,
+        "no_assignment_in_package": 12221
+      },
+      "probes_with_one_eligible_gene": 34038,
+      "probe_level": {
+        "current": 33962,
+        "replaced_under_cutoff": 76,
+        "no_replacement": 122,
+        "unexplained": 0,
+        "multi_gene_excluded": 1726,
+        "unmapped": 12221,
+        "collision_successor_already_directly_mapped": 50
+      },
+      "gene_level": {
+        "package_entrez_ids": 21748,
+        "replaced_under_cutoff": 53,
+        "no_replacement": 83,
+        "unexplained": 0,
+        "collision_successor_already_directly_mapped": 35,
+        "shared_successors_more_than_one_source_gene": 3,
+        "distinct_option_a_genes": 20926
+      },
+      "v1_gene_classes_only_in_multi_gene_probes": {
+        "discontinued_no_replacement": 4,
+        "replaced_successor_in_baseline": 6
+      }
+    },
+    "lumi HT-12 v4 R2": {
+      "cohort_note": "manifest table HumanHT12_V4_0_R2_15002873_B; applicability to GSE140829 unverified (D19)",
+      "probes_total": 47323,
+      "classes": {
+        "chain_ends_no_replacement": 436,
+        "discontinued_no_replacement": 6032,
+        "eligible_direct": 35731,
+        "eligible_via_history_replacement": 1760,
+        "no_assignment_in_package": 3363,
+        "unexplained_absent_no_history": 1
+      },
+      "probes_with_one_eligible_gene": 37491,
+      "probe_level": {
+        "current": 35731,
+        "replaced_under_cutoff": 1760,
+        "no_replacement": 6468,
+        "unexplained": 1,
+        "multi_gene_excluded": 0,
+        "unmapped": 3363,
+        "collision_successor_already_directly_mapped": 1165
+      },
+      "gene_level": {
+        "package_entrez_ids": 30500,
+        "replaced_under_cutoff": 1344,
+        "no_replacement": 5824,
+        "unexplained": 1,
+        "collision_successor_already_directly_mapped": 892,
+        "shared_successors_more_than_one_source_gene": 126,
+        "distinct_option_a_genes": 23743
+      },
+      "v1_gene_classes_only_in_multi_gene_probes": {
+        "chain_ends_no_replacement": 0,
+        "discontinued_no_replacement": 0,
+        "replaced_successor_in_baseline": 0,
+        "unexplained_absent_no_history": 0
+      }
+    }
+  },
+  "validation": {
+    "status": "OK",
+    "checks": [
+      {
+        "check": "illuminaHumanv3: each probe classified exactly once",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: package gene-ID set equals gene-history v1 input set",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: no mapping inferred for non-eligible probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: v1 discontinued_no_replacement genes (53) = single-gene part + multi-gene-only part",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: v1 replaced_successor_in_baseline genes (45) = single-gene part + multi-gene-only part",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: each probe classified exactly once",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: package gene-ID set equals gene-history v1 input set",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: no mapping inferred for non-eligible probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: v1 discontinued_no_replacement genes (87) = single-gene part + multi-gene-only part",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: v1 replaced_successor_in_baseline genes (59) = single-gene part + multi-gene-only part",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: each probe classified exactly once",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: package gene-ID set equals gene-history v1 input set",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: no mapping inferred for non-eligible probes",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: v1 replaced_successor_in_baseline genes (1344) = single-gene part + multi-gene-only part",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: v1 discontinued_no_replacement genes (5414) = single-gene part + multi-gene-only part",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: v1 chain_ends_no_replacement genes (410) = single-gene part + multi-gene-only part",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: v1 unexplained_absent_no_history genes (1) = single-gene part + multi-gene-only part",
+        "status": "OK"
+      }
+    ]
+  },
+  "determinism": {
+    "runs_compared": 2,
+    "identical": true,
+    "output_sha256": {
+      "illuminaHumanv3_probe_classification_PROVISIONAL.tsv": "8214b0078512282701525617f81872ce189004df663079e96157cda8fe279de4",
+      "illuminaHumanv4_probe_classification_PROVISIONAL.tsv": "fc73bebe9b614759cced5dcf553084e87091e2959a41866eff277b0916175153",
+      "lumi_HT12_v4_R2_probe_classification_PROVISIONAL.tsv": "cd8edfd1016c1bf8f45a70a18cfda4c649c8b3e75fe55b9f23a3f138132fd739"
+    }
+  },
+  "command": "python scripts/annotation_illumina_option_a_counts.py --version v1"
+}

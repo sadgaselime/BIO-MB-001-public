@@ -1,0 +1,3 @@
+Pre-edit copies for recording D8-8 (environment readiness only), explicit PI instruction 2026-10-18; edit scope chosen by the PI: SAP v7:5, 105, 588, 597, 611 and brief lines 56, 151, 155.
+Copied 2026-10-18T16:40:07Z UTC with cp -p before editing.
+Rollback: copy each file back to reports/phase3b/v7/ and verify against SHA256SUMS.

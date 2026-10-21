@@ -1,0 +1,168 @@
+{
+  "command": ".venv/bin/python -I scripts/annotation_gpl570_option_a_counts.py --version v2",
+  "counts": {
+    "accession_route_comparison": {
+      "different_gene": 18,
+      "gene_level_disagreements": "not computed (source not retained)",
+      "level": "probe set",
+      "no_accession_route": 19816,
+      "route_ambiguous_more_than_one_gene": 1,
+      "route_gives_exactly_one_gene": 23332,
+      "same_as_package_gene": 23314,
+      "single_gene_probe_sets": 43149
+    },
+    "classes": {
+      "eligible_direct": 43086,
+      "eligible_via_history_replacement": 25,
+      "multiple_mappings_excluded": 1562,
+      "no_assignment_in_package": 9964,
+      "no_eligible_assignment_discontinued": 38
+    },
+    "gene_level": {
+      "collision_successor_already_directly_mapped": 12,
+      "discontinued_no_replacement": 32,
+      "distinct_option_a_genes": 20820,
+      "package_entrez_ids": 22251,
+      "replaced_under_cutoff": 20,
+      "v1_discontinued_genes_only_in_multi_gene_probe_sets": 16,
+      "v1_replaced_genes_only_in_multi_gene_probe_sets": 16
+    },
+    "probe_level": {
+      "collision_successor_already_directly_mapped": 16,
+      "discontinued_no_replacement": 38,
+      "replaced_under_cutoff": 25
+    },
+    "probe_sets_total": 54675,
+    "probe_sets_with_one_eligible_gene": 43111
+  },
+  "cutoff_inclusive": "20260318",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "probe_set_classification.tsv": "9e5f23fa8b10b3e120b518873905b79e5f338ca07ec83357e173d3a2ddea8d9c"
+    },
+    "runs_compared": 2
+  },
+  "equivalence": {
+    "identical": true,
+    "reference": "reports/annotation_audit/gpl570_option_a/v1",
+    "tables": {
+      "probe_set_classification.tsv": {
+        "identical": true,
+        "reference_sha256": "9e5f23fa8b10b3e120b518873905b79e5f338ca07ec83357e173d3a2ddea8d9c",
+        "sha256": "9e5f23fa8b10b3e120b518873905b79e5f338ca07ec83357e173d3a2ddea8d9c"
+      }
+    }
+  },
+  "identity": {
+    "aggregate_sha256": "42eaf15b2223da78bfd559dfa44b7fe18b2e5442fd8bf4b0acb5e2688b7c16bb",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "fa51c7b9d10dd468fbeed8b2ad83b832eb8acc83adb828dc25361cbbc4359951",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 67,
+    "record_file": "code_identity.json",
+    "record_sha256": "bc029b0b997541d17375f2dbea339d210db76f52dd4ea4f1fdbebd9e17a10b21"
+  },
+  "identity_verification": {
+    "environment_modules": 0,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/annotation_gpl570_option_a_counts.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea",
+        "src/biomarker_project/gene_history_reconciliation.py": "f4c10e21be1c4b6e8d7e3d017eef6283ab727b3b3be9c31eae0b5548f85358b3"
+      },
+      "executed_files": 3,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 5,
+    "status": "PASS",
+    "verified_utc": "2026-10-18T17:52:04Z"
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-18T17:52:04Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "v2",
+    "run_id": "59600ac92158",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-18T17:52:03Z"
+  },
+  "output_sha256": {
+    "code_identity.json": "bc029b0b997541d17375f2dbea339d210db76f52dd4ea4f1fdbebd9e17a10b21",
+    "probe_set_classification.tsv": "9e5f23fa8b10b3e120b518873905b79e5f338ca07ec83357e173d3a2ddea8d9c"
+  },
+  "purpose": "Counts for candidate Option A (GPL570). Not an approved mapping policy.",
+  "sources": {
+    "tarball": {
+      "bytes": 2240377,
+      "manifest": "reference/bioconductor_3.23/download_manifest.json",
+      "md5": "459fcf4880a9eaa25b373c5635fede3d",
+      "path": "/Users/sadgasalim/Documents/BIO-MB-001/reference/bioconductor_3.23/hgu133plus2.db_3.13.0.tar.gz",
+      "sha256": "ddde58e777a8341536a664c7d4be874a2f395f8aaa019c1f738462a8ce74cc44"
+    },
+    "v1_input_id_sha256": "a9d272afdfa76cebb6172016707ffbf4b832aec4ac92b5dcf2fa3d10212f6739",
+    "v1_table": {
+      "bytes": 3175922,
+      "md5": "f3c6d0b3fce50bf0aba4ad1340500ce6",
+      "path": "reports/annotation_audit/ncbi_gene_history/v1/gene_history_reconciliation.tsv",
+      "sha256": "42451a70752436a65c9caeab076317c0cf5523b13410003cc29f52df3f24f8f2"
+    }
+  },
+  "validation": {
+    "checks": [
+      {
+        "check": "each probe set classified exactly once",
+        "status": "OK"
+      },
+      {
+        "check": "probe sets = single + multiple + none",
+        "status": "OK"
+      },
+      {
+        "check": "single-gene probe sets match 2026-10-12 figure (43,149)",
+        "status": "OK"
+      },
+      {
+        "check": "is_multiple flag consistent with gene count",
+        "status": "OK"
+      },
+      {
+        "check": "no unresolved classes",
+        "status": "OK"
+      },
+      {
+        "check": "v1 View A replaced genes (36) = in single-gene probe sets + only in multi-gene probe sets",
+        "status": "OK"
+      },
+      {
+        "check": "v1 View A discontinued genes (48) = in single-gene probe sets + only in multi-gene probe sets",
+        "status": "OK"
+      },
+      {
+        "check": "no mapping inferred for non-eligible probe sets",
+        "status": "OK"
+      }
+    ],
+    "status": "OK"
+  }
+}

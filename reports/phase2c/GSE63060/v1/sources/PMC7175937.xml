@@ -1,0 +1,2257 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">J Alzheimers Dis</journal-id><journal-id journal-id-type="iso-abbrev">J. Alzheimers Dis</journal-id><journal-id journal-id-type="pmc-domain-id">2983</journal-id><journal-id journal-id-type="pmc-domain">iospressopenlib</journal-id><journal-id journal-id-type="nlm-id">9814863</journal-id><journal-id journal-id-type="publisher-id">JAD</journal-id><journal-title-group><journal-title>Journal of Alzheimer's Disease</journal-title></journal-title-group><issn pub-type="ppub">1387-2877</issn><issn pub-type="epub">1875-8908</issn><issn-l>1387-2877</issn-l><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>IOS Press Open Library</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7175937</article-id><article-id pub-id-type="pmcid-ver">PMC7175937.1</article-id><article-id pub-id-type="pmcaid">7175937</article-id><article-id pub-id-type="pmcaiid">7175937</article-id><article-id pub-id-type="pmid">32065794</article-id><article-id pub-id-type="doi">10.3233/JAD-191163</article-id><article-id pub-id-type="publisher-id">JAD191163</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Working Towards a Blood-Derived Gene Expression Biomarker Specific for Alzheimer’s Disease</article-title><alt-title alt-title-type="left-running-head">H. Patel et al.</alt-title><alt-title alt-title-type="right-running-head">Gene Expression Biomarker Specific for AD</alt-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Patel</surname><given-names initials="H">Hamel</given-names></name><xref ref-type="aff" rid="aff1">a</xref><xref ref-type="aff" rid="aff2">b</xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Iniesta</surname><given-names initials="R">Raquel</given-names></name><xref ref-type="aff" rid="aff1">a</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Stahl</surname><given-names initials="D">Daniel</given-names></name><xref ref-type="aff" rid="aff1">a</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Dobson</surname><given-names initials="RJB">Richard J.B.</given-names></name><xref ref-type="aff" rid="aff1">a</xref><xref ref-type="aff" rid="aff2">b</xref><xref ref-type="aff" rid="aff3">c</xref><xref ref-type="aff" rid="aff4">d</xref><xref ref-type="aff" rid="aff5">e</xref><xref ref-type="author-notes" rid="fn1">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Newhouse</surname><given-names initials="SJ">Stephen J.</given-names></name><xref ref-type="aff" rid="aff1">a</xref><xref ref-type="aff" rid="aff2">b</xref><xref ref-type="aff" rid="aff3">c</xref><xref ref-type="aff" rid="aff4">d</xref><xref ref-type="aff" rid="aff5">e</xref><xref ref-type="author-notes" rid="fn1">1</xref></contrib><aff id="aff1">
+<label>a</label>Department of Biostatistics and Health Informatics, Institute of Psychiatry, Psychology and Neuroscience, <institution>King’s College London</institution>, London, <country>UK</country>
+</aff><aff id="aff2">
+<label>b</label>NIHR BioResource Centre Maudsley, <institution>NIHR Maudsley Biomedical Research Centre (BRC) at South London and Maudsley NHS Foundation Trust (SLaM) &amp; Institute of Psychiatry, Psychology and Neuroscience (IoPPN)</institution>, King’s College London, London, <country>UK</country>
+</aff><aff id="aff3">
+<label>c</label>Health Data Research UK London, <institution>University College London</institution>, London, <country>UK</country>
+</aff><aff id="aff4">
+<label>d</label>Institute of Health Informatics, <institution>University College London</institution>, London, <country>UK</country>
+</aff><aff id="aff5">
+<label>e</label>The National Institute for Health Research University College London Hospitals Biomedical Research Centre, <institution>University College London</institution>, London, <country>UK</country>
+</aff></contrib-group><author-notes><fn id="fn1"><label><sup>1</sup></label><p>These authors are joint last authors.</p></fn><corresp id="cor1"><label>*</label>Correspondence to: Hamel Patel, Department of Biostatistics &amp; Health Informatics, SGDP Centre, IoPPN, De Crespigny Park, Denmark Hill London, SE5 8AF, UK. Tel.: (+44) 207 848 0969; E-mail: <email>hamel.patel@kcl.ac.uk</email></corresp></author-notes><pub-date date-type="preprint" publication-format="electronic"><day>11</day><month>2</month><year>2020</year></pub-date><pub-date date-type="pub" publication-format="electronic"><day>24</day><month>3</month><year>2020</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2020</year></pub-date><volume>74</volume><issue>2</issue><issue-id pub-id-type="pmc-issue-id">356410</issue-id><fpage>545</fpage><lpage>561</lpage><history><date date-type="accepted"><day>13</day><month>1</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>22</day><month>04</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>28</day><month>04</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2020-04-29 00:35:07.837"><day>29</day><month>04</month><year>2020</year></date></event></pub-history><permissions><copyright-statement>© 2020 – IOS Press and the authors. All rights reserved</copyright-statement><copyright-year>2020</copyright-year><license xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/" license-type="open-access"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution Non-Commercial (CC BY-NC 4.0) License</ext-link>, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="jad-74-jad191163.pdf"/><abstract><sec specific-use="heading-level-1"><title>Background:</title><p>The typical approach to identify blood-derived gene expression signatures as a biomarker for Alzheimer’s disease (AD) have relied on training classification models using AD and healthy controls only. This may inadvertently result in the identification of markers for general illness rather than being disease-specific.</p></sec><sec specific-use="heading-level-1"><title>Objective:</title><p>Investigate whether incorporating additional related disorders in the classification model development process can lead to the discovery of an AD-specific gene expression signature.</p></sec><sec specific-use="heading-level-1"><title>Methods:</title><p>Two types of XGBoost classification models were developed. The first used 160 AD and 127 healthy controls and the second used the same 160 AD with 6,318 upsampled mixed controls consisting of Parkinson’s disease, multiple sclerosis, amyotrophic lateral sclerosis, bipolar disorder, schizophrenia, coronary artery disease, rheumatoid arthritis, chronic obstructive pulmonary disease, and cognitively healthy subjects. Both classification models were evaluated in an independent cohort consisting of 127 AD and 687 mixed controls.</p></sec><sec specific-use="heading-level-1"><title>Results:</title><p>The AD versus healthy control models resulted in an average 48.7% sensitivity (95% CI = 34.7–64.6), 41.9% specificity (95% CI = 26.8–54.3), 13.6% PPV (95% CI = 9.9–18.5), and 81.1% NPV (95% CI = 73.3–87.7). In contrast, the mixed control models resulted in an average of 40.8% sensitivity (95% CI = 27.5–52.0), 95.3% specificity (95% CI = 93.3–97.1), 61.4% PPV (95% CI = 53.8–69.6), and 89.7% NPV (95% CI = 87.8–91.4).</p></sec><sec specific-use="heading-level-1"><title>Conclusions:</title><p>This early work demonstrates the value of incorporating additional related disorders into the classification model developmental process, which can result in models with improved ability to distinguish AD from a heterogeneous aging population. However, further improvement to the sensitivity of the test is still required.</p></sec></abstract><kwd-group><label>Keywords</label><kwd>Age-related memory disorders</kwd><kwd>Alzheimer’s disease</kwd><kwd>biomarkers</kwd><kwd>dementia</kwd><kwd>gene expression</kwd><kwd>human</kwd><kwd>machine learning</kwd><kwd>microarray analysis</kwd><kwd>neurodegenerative disorders</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec0005"><title>INTRODUCTION</title><p>Alzheimer’s disease (AD) is a progressive neurodegenerative disorder affecting an estimated one in nine people over the age of 65 years of age, making it the most common form of dementia worldwide [<xref rid="ref001" ref-type="bibr">1</xref>]. Current clinical diagnosis of the disease is primarily based on a time-consuming combination of physical, mental, and neuropsychological examinations. With the rapid increase in the prevalence of the disease, there is a growing need for a more accessible, cost-effective, and time-effective approach for diagnosing and monitoring AD.</p><p>For research purposes, brain positron emission tomography (PET) scans and cerebrospinal fluid can be used to suggest AD. In particular, decreased amyloid-β (Aβ) and increased tau levels in cerebrospinal fluid have been successfully used to distinguishing between AD, mild cognitive impairment, and cognitive healthy individuals with high accuracy. However, as a relatively invasive and costly procedure, it may not appeal to the majority of patients or be practical on a large-scale trial basis for screening the population [<xref rid="ref002" ref-type="bibr">2–4</xref>]. A peripheral blood-derived biomarker for AD would be advantageous.</p><p>Blood is a complex mixture of fluid and multiple cellular compartments that are consistently changing in protein, lipid, RNA, and other biochemical entity concentrations [<xref rid="ref005" ref-type="bibr">5</xref>], which may be useful for AD diagnosis. Recently, a study successfully used APP<sub>669–711</sub>/Aβ<sub>1–42</sub> and Aβ<sub>1–40</sub>/Aβ<sub>1–42</sub> ratios and their composites, to predict individual brain Aβ load when compared to Aβ-PET imaging [<xref rid="ref006" ref-type="bibr">6</xref>]. However, the test predicts Aβ deposition, which is also found in other brain disorders such as frontotemporal dementia, and therefore, the test requires AD specificity evaluation. Another study reviewed 163 candidate blood-derived proteins from 21 separate studies as a potential biomarker for AD [<xref rid="ref007" ref-type="bibr">7</xref>]. The overlap of biomarkers between studies was limited, with only four biomarkers, <italic toggle="yes">α</italic>-1-antitrypsin, <italic toggle="yes">α</italic>-2-macroglobulin, apolipoprotein E, and complement C3, found to replicate in five independent cohorts. However, a follow-on study discovered these biomarkers were not specific to AD, and were also discovered to be associated with other brain disorders including Parkinson’s disease (PD) and schizophrenia (SCZ) [<xref rid="ref008" ref-type="bibr">8</xref>], once again, suggesting the need to consider other neurological and related disorders in study designs to enable the discovery of biomarkers specific to AD.</p><p>Several studies have also attempted to exploit blood transcriptomic measurements for AD biomarker discovery. Initial research was limited to the analysis of single differentially expressed genes (DEG) as a means to distinguish AD from cognitively healthy individuals [<xref rid="ref002" ref-type="bibr">2, 9</xref>]. However, the limited overlap and reproducibility of DEG from independent cohorts suggests this method alone is not reliable enough [<xref rid="ref002" ref-type="bibr">2</xref>]. A solution to this problem would be to use machine learning algorithms to identify combinations of gene expression changes that may represent a biomarker for AD. This technique has been applied in multiple studies, which have demonstrated to some extent, the ability to differentiate AD from non-AD subjects [<xref rid="ref003" ref-type="bibr">3, 10–13</xref>]. However, small sample size and lack of independent validation datasets may have led to overfitting. The decrease in costs associated with microarray technologies led a study developing an AD classification model based on a larger training set of 110 AD and 107 controls and validating in an independent cohort of 118 AD and 118 controls. The model achieved 56% sensitivity, 74.6% specificity, and an accuracy of 66%, which equated to 69.1% positive predictive power (PPV) and 63% negative predictive power (NPV) [<xref rid="ref011" ref-type="bibr">11</xref>]. This was one of the first studies to demonstrate some validation in an independent cohort; however, the classification model still lacked the 90% predictive power desired from a clinical diagnostic test [<xref rid="ref014" ref-type="bibr">14</xref>].</p><p>Previous studies have demonstrated the potential use of blood transcriptomic levels to differentiate between AD and cognitively healthy individuals; however, they are yet to be precise enough for clinical utility and are yet to be extensively evaluated on specificity by assessing model performance in a heterogeneous aging population of multiple diseases. This validation process is critical to determine whether the classification model is indeed disease-specific, a general indication of ill health, or an overfit.</p><p>This study developed a microarray gene expression processing pipeline with reproducibility and clinical utility in mind. New subjects could be independently processed and predicted through the same classification models without using any prior knowledge on gene expression variation of the data used to develop the classification model and without making any alteration to the classification models itself. XGBoost classification models were developed using the typical approach of training in blood transcriptomic profiling from AD and cognitively healthy controls. The models were evaluated in an independent testing set mimicking a heterogeneous aging population consisting of AD, related mental disorders (PD, multiple sclerosis [MS], bipolar disorder [BD], SCZ), common elderly health disorders and other related diseases (coronary artery disease [CD], rheumatoid arthritis [RA], chronic obstructive pulmonary disease [COPD]), and cognitively healthy subjects to assess the models ability to distinguish AD from related diseases and otherwise healthy subjects. In addition, a second approach was used where XGBoost classification models were developed using AD, mental health disorders, common elderly health disorders, and cognitively healthy subjects. The second approach used independent non-AD samples, and was evaluated on the same independent testing set as the first approach to investigate the effects on model performance when incorporating additional related disorders into the AD classification development process.</p></sec><sec id="sec0010"><title>METHODS</title><sec id="sec0015"><title>Data acquisition</title><p>Microarray gene expression studies were sourced from publicly available repositories Gene Expression Omnibus (GEO) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/geo/">https://www.ncbi.nlm.nih.gov/geo/</ext-link>) and ArrayExpress (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ebi.ac.uk/arrayexpress/">https://www.ebi.ac.uk/arrayexpress/</ext-link>) in May 2018. Study inclusion criteria were: 1) microarray gene expression profiling must be performed on a related, common elderly health, or mental health disorder; 2) RNA was extracted from whole blood or a component of blood; 3) study must contain at least ten human subjects; and 4) data was generated on either the Illumina or Affymetrix microarray platform using an expression BeadArray containing at least 20,000 probes. The microarray platform was restricted to Affymetrix and Illumina only, as replication between the two platforms is generally very high [<xref rid="ref015" ref-type="bibr">15–18</xref>], and expression BeadArrays restricted to a minimum of 20,000 probes to maximize the overlap of genes across studies, while also optimizing the number studies available for inclusion.</p></sec><sec id="sec0020"><title>Data processing</title><p>The data processing pipeline was designed with reproducibility and clinical utility in mind. New subjects could be independently processed and predicted through the same classification models without using any prior knowledge on gene expression variation of the data used to develop the classification model and without making any alteration to the classification models itself. All data processing was undertaken in RStudio (version 1.1.447) using R (version 3.4.4). Microarray gene expression studies were acquired from public repositories using the R packages “GEOquery” (version 2.46.15) and “ArrayExpress” (version 1.38.0). For longitudinal studies involving treatment effects, placebo subjects or initial gene expression profiling from baseline subjects before treatment were used. Studies consisting of multiple disorders were separated by disease into datasets consisting of diseased subjects and corresponding healthy controls if available.</p><p>Raw gene expression data generated on the Affymetrix platform were “mas5” background corrected using the R package “affy” (version 1.42.3), log2 transformed and then Robust Spline Normalized (RSN) using the R package “lumi” (version 2.16.0). Datasets generated on the Illumina platform were available in either a “raw format” containing summary probes and control intensities with corresponding p-values or a “processed format” where data had already been processed and consisted of a subset of probes and samples deemed suitable by corresponding study authors. When acquiring studies, preference was given to “raw format” data where possible, and when available, was “normexp” background corrected, log2 transformed, and quantile normalized using the “limma” R package (version 3.20.9).</p><p>Sex was then predicted using the R package “massiR” (version 1.0.1) and subjects with discrepancies between predicted and recorded sex removed from further analysis. Then, within each gender and disease diagnosis group of a dataset, probes above the “X” percentile of the log2 expression scale in over 80% of the samples were deemed “reliably detected”. To account for the variation of redundant probes across different BeadArrays, the “X” percentile threshold value was manually adjusted until a variety of robust literature defined house-keeping genes were correctly defined as expressed or unexpressed in their corresponding gender groups [<xref rid="ref019" ref-type="bibr">19</xref>]. Any probe labelled as “reliably detected” in any group (based on gender and diagnosis) was taken forward for further analysis from all samples within that dataset. This process substantially eliminates noise [<xref rid="ref020" ref-type="bibr">20</xref>] and ensures disease and gender-specific signatures are captured within each dataset.</p><p>Next, to ensure homogeneity within biological groups, outlying samples were iteratively identified and removed using the fundamental network concepts described in [<xref rid="ref021" ref-type="bibr">21</xref>]. Finally, to enable cross-platform probes to be comparable, platform-specific probe identifiers were annotated to their corresponding universal Entrez gene identifiers using the appropriate BeadArray R annotation files; “hgu133plus2.db”, “hgu133a.db”, “hugene10sttranscriptcluster.db”, “illuminaHumanv4.db”, and “illuminaHumanv3.db”.</p></sec><sec id="sec0025"><title>Cross-platform normalization and sample correlation analysis</title><p>A rescaling technique, the YuGene transform, was applied to each dataset independently to enable transcriptomic information between datasets to be directly comparable. YuGene assigns modified cumulative proportion value to each measurement, without losing essential underlying information on data distributions, allowing the transformation of independent studies and individual samples [<xref rid="ref022" ref-type="bibr">22</xref>]. This enables new data to be added without global renormalization and allows the training and testing set to be independently rescaled. Common “reliably detected” probes across all processed datasets that contained both female and male subjects were extracted from each dataset and independently rescaled using the R package YuGene (version 1.1.5). YuGene transformation assigns a value between 0 and 1 to each gene, where 1 is highly expressed. As samples originated from publicly available datasets, potential duplicate samples may exist in this study. Therefore, correlation analysis was performed on all samples using the common probes to investigate duplicate samples across different studies.</p></sec><sec id="sec0030"><title>Training set and testing set assignment</title><p>Multiple datasets from the same disease were available, allowing entire datasets to be assigned to either the “Training Set” for classification model development or the “Testing Set” for independent external validation. Larger datasets from the same disease were prioritized to the training set, allowing the machine learning algorithm to learn in a larger discovery set.</p><p>Individual subjects within the training and testing set were assigned a “0” class if the subject was AD or “1” if the subject was non-AD (includes healthy controls and non-AD diseased subjects). Grouping the non-AD subjects into a single class effectively mimics a large heterogeneous aging population where subjects may have a related mental disorder, neurodegenerative disease, common elderly health disorder, or are considered relatively healthy.</p></sec><sec id="sec0035"><title>Classification model development</title><p>Two types of classification models were created. The first was developed using the typical approach, training in AD subjects and their associated cognitively healthy control samples only. This model is referred to as the “AD vs Healthy Control” classification model. The second classification model was developed using the same AD and healthy control samples used for the “AD vs Healthy Control” classification; however, additional related disorders and their associated healthy controls were introduced as additional controls. This model is referred to as the “AD vs Mixed Control” classification model.</p><p>The control group of the “AD vs Mixed Control” classification model consisted of multiple diseases and their complementary healthy controls; however, the number of samples across the individual diseases in this mixed control group were unbalanced. As all non-AD samples would be assigned a “1”, the disorder with the largest number of samples would influence the classification model development process more. Therefore, to address this issue, all the complementary healthy subjects from all diseased dataset were assumed to be disease-free and were pooled to create a “pooled controls” set. Then, samples within each disorder were upsampled with replacement to match the total number of samples in the “pooled controls” group (excludes AD). This process balances the number of samples across disorders in the mixed control group, which essentially balances the probability of a sample being selected from any one of the non-AD diseases or “pooled controls” during the classification model development process. This process is further illustrated in <xref ref-type="fig" rid="jad-74-jad191163-g001">Fig. 1</xref>.</p><fig id="jad-74-jad191163-g001" orientation="portrait" position="float"><label>Fig.1</label><caption><p>Overview of study design. Two types of XGBoost classification models were developed, optimized, and evaluated. The first (“AD vs Healthy Control”) used the typical approach, training in Alzheimer’s disease (AD) and cognitively healthy controls (HC), while the second (“AD vs Mixed Control”) was trained in AD and a mixed controls group. The mixed control group consisted of Parkinson’s disease (PD), multiple sclerosis (MS), amyotrophic lateral sclerosis (ALS), bipolar disorder (BD), schizophrenia (SCZ), coronary artery disease (CD), rheumatoid arthritis (RA), chronic obstructive pulmonary disease (not represented in the figure), and cognitively healthy subjects. The individual groups within the mixed controls were upsampled with replacement to avoid sampling biases during model development. To account for the randomness, a thousand “AD vs Healthy Control” and a thousand “AD vs Mixed Control” classification models were developed and evaluated. cv, cross-validation; RFE, recursive feature elimination.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="jad-74-jad191163-g001.jpg"/></fig><p>Classification models were built using the tree boosting algorithm, XGBoost, as implemented in the R package “xgboost” (version 0.6.4.1) [<xref rid="ref023" ref-type="bibr">23</xref>]. The tree learning algorithm uses parallel and distributed computing, is approximately 10 times faster than existing methods, and allows several hyperparameters to be tuned to reduce the possibility of overfitting [<xref rid="ref024" ref-type="bibr">24</xref>]. Default tuning parameters were set to eta = 0.3, max_depth = 6, gamma = 0, min_child_weight = 1, subsample = 1, colsample_bytree = 1, objective = “binary:logistic”, nrounds = 10000, early_stopping_rounds parameters = 20 and eval_metric = ”logloss”. Due to the unbalanced classes between AD and non-AD samples, the scale_pos_weight function was incorporated to assign weights to the smallest class, ensuring the machine learning algorithm did not bias towards the largest class during the classification model development. The initial model was built and internally evaluated using 10-fold cross-validation with stratification which calculates a test logloss mean at each nrounds iteration, stopping if an improvement to the test logloss means is not achieved in the last 20 iterations. The nrounds iteration that achieved the optimal test logloss mean was used to build the initial classification model, reducing the chance for an “overfit” model.</p><p>During the internal cross-validation process, each feature (gene) was assigned an importance value (“variable importance feature”), which is based on how well the gene contributed to the correct prediction of individuals in the training set. The higher the variable importance value for a gene, the more useful that gene was in distinguishing AD subjects from non-AD individuals. The genes contributing to the initial XGBoost model were each assigned a variable importance value. The least two variable important features were then iteratively removed, classification models re-built, and logloss performance measures re-evaluated. This process was repeated through all available baseline features, with the minimum logloss from all iterations used to determine the most predictive genes. This process is referred to as “recursive feature elimination” and has been shown to improve classification model performance and reduce model complexity by removing weak and non-predictive features [<xref rid="ref025" ref-type="bibr">25</xref>].</p><p>Following the identification of the most predictive genes, the classification model was further refined by iteratively tuning through the following hyperparameter values: max_depth (2 : 20, 1), min_child_weight (1 : 10, 1), gamma (0 : 10, 1), subsample (0.5 : 1, 0.1), colsample_bytree (0.5 : 1, 0.1), alpha (0 : 1, 0.1),), lambda (0 : 1, 0.1), and eta (0.01 : 0.2, 0.01), while performing a 10-fold cross-validation with stratification and evaluating the test logloss mean to select the optimum hyperparameters. Finally, for reproducibility purposes, the same seed number was consistently used throughout the upsampling and model development process. However, to account for the randomness introduced during the bootstrap upsampling and model development processes, and to provide an insight into the stability of the results, a thousand “AD vs Healthy Control” and a thousand “AD vs Mixed Control” classification models were developed, refined, and evaluated. Upsampling and model development was performed using a different seed number ranging from 1 : 1000. This would ensure the subjects that were upsampled were randomized across the 1,000 different “AD vs Mixed Control” classification models, and as each classification model was initially developed using a different randomized number, this would result in 1,000 different classification models that attempt to solve the same problem.</p></sec><sec id="sec0040"><title>Classification model evaluation</title><p>Each classification model was validated on the independent unseen testing set, predicting the diagnosis of all subjects as a probability ranging from 0 to 1, where AD≤0.5 &gt; non-AD. The prediction accuracy, sensitivity, specificity, PPV, and NPV were calculated to evaluate the overall classification model’s performance. To aid in the interpretation of the sensitivity and specificity of the classifiers, AUC scores were generated using the R package “ROCR” (version 1.07) with the following recommended diagnostic interpretations used: “excellent” (AUC = 0.9–1.0), “very good” (AUC = 0.8–0.9), “good” (AUC = 0.7–0.8), “sufficient“ (AUC = 0.6–0.7), “bad” (AUC = 0.5–0.6), and “test not useful” when AUC value is &lt; 0.5 [<xref rid="ref026" ref-type="bibr">26</xref>].</p><p>Furthermore, the clinical utility metrics were calculated to evaluate the clinical utility of the classification models. The positive Clinical Utility Index (CUI+) was calculated as PPV <sup>*</sup> (sensitivity/100) and the negative Clinical Utility Index (CUI –) calculated as NPV <sup>*</sup> (sensitivity/100). The Clinical Utility Index (CUI) essentially corrects the PPV and NPV values for occurrence of that test in each respective population and scores can be converted into qualitative grades as recommended: “excellent utility” (CUI≥0.81), “good utility” (CUI≥0.64) and “satisfactory utility” (CUI≥0.49) and “poor utility” (CUI &lt; 0.49) [<xref rid="ref027" ref-type="bibr">27</xref>]. As a thousand “AD vs Healthy Control” and a thousand “AD vs Mixed Control” classification models were evaluated, the average performance for each metric is calculated along with the 95% confidence interval (CI). An overview of the classification model development and evaluation process is provided in <xref ref-type="fig" rid="jad-74-jad191163-g001">Fig. 1</xref>.</p></sec><sec id="sec0045"><title>The biological importance of predictive features</title><p>The “AD vs Mixed Control” classification models contain a list of ranked genes derived from analyzing multiple disorders, which collectively attempt to differentiate AD from non-AD subjects. The predictive genes were analyzed using an Over-Representation Analysis (ORA) implemented through the ConsensusPathDB (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://cpdb.molgen.mpg.de">http://cpdb.molgen.mpg.de</ext-link>) web-based platform (version 33) [<xref rid="ref028" ref-type="bibr">28</xref>] in November 2018 to assess their collective biological significance. For pathway enrichment analysis, a background gene list was included, and a minimum overlap of the query signature and database was set as 2.</p></sec><sec sec-type="data-availability" id="sec0050"><title>Data availability</title><p>The data used in this study were all publicly available with accession details provided in <xref rid="jad-74-jad191163-t001" ref-type="table">Table 1</xref>. All analysis scripts used in this study are available at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://doi.org/10.5281/zenodo.3371459">https://doi.org/10.5281/zenodo.3371459</ext-link>.</p><table-wrap id="jad-74-jad191163-t001" orientation="portrait" position="float"><label>Table 1</label><caption><p>Dataset demographics</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1">Disorder</td><td rowspan="1" colspan="1">Study ID (associated publication)</td><td rowspan="1" colspan="1">Platform</td><td rowspan="1" colspan="1">BeadArray</td><td rowspan="1" colspan="1">Tissue source</td><td colspan="4" align="center" rowspan="1">Demographics before QC</td><td colspan="2" align="center" rowspan="1">Samples removed during QC</td><td colspan="4" align="center" rowspan="1">Demographics after QC</td><td rowspan="1" colspan="1">Training and testing set assignment</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">No. probes</td><td rowspan="1" colspan="1">Case sex (M/F)</td><td rowspan="1" colspan="1">Control sex (M/F)</td><td rowspan="1" colspan="1">No. samples</td><td rowspan="1" colspan="1">No. gender mismatches</td><td rowspan="1" colspan="1">No. outlying sample</td><td rowspan="1" colspan="1">No. probes</td><td rowspan="1" colspan="1">Case sex (M/F)</td><td rowspan="1" colspan="1">Control sex (M/F)</td><td rowspan="1" colspan="1">No. samples</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">Alzheimer’s Disease</td><td rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE63060">GSE63060</ext-link> ([<xref rid="ref031" ref-type="bibr">31</xref>])</td><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">HT-12 v3.0</td><td rowspan="1" colspan="1">WB</td><td rowspan="1" colspan="1">38323</td><td rowspan="1" colspan="1">46/99</td><td rowspan="1" colspan="1">42/62</td><td rowspan="1" colspan="1">249</td><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">10</td><td rowspan="1" colspan="1">5364</td><td rowspan="1" colspan="1">45/93</td><td rowspan="1" colspan="1">40/59</td><td rowspan="1" colspan="1">237</td><td rowspan="1" colspan="1">Training</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE63061">GSE63061</ext-link> ([<xref rid="ref031" ref-type="bibr">31</xref>])</td><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">HT-12 v4.0</td><td rowspan="1" colspan="1">WB</td><td rowspan="1" colspan="1">32049</td><td rowspan="1" colspan="1">51/81</td><td rowspan="1" colspan="1">55/87</td><td rowspan="1" colspan="1">274</td><td rowspan="1" colspan="1">5</td><td rowspan="1" colspan="1">4</td><td rowspan="1" colspan="1">5241</td><td rowspan="1" colspan="1">48/79</td><td rowspan="1" colspan="1">54/84</td><td rowspan="1" colspan="1">265</td><td rowspan="1" colspan="1">Testing</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">E-GEOD-6613 ([<xref rid="ref032" ref-type="bibr">32</xref>])</td><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">HG U133A</td><td rowspan="1" colspan="1">WB</td><td rowspan="1" colspan="1">22283</td><td rowspan="1" colspan="1">8/15</td><td rowspan="1" colspan="1">11/11</td><td rowspan="1" colspan="1">45</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">4184</td><td rowspan="1" colspan="1">8/14</td><td rowspan="1" colspan="1">11/11</td><td rowspan="1" colspan="1">44</td><td rowspan="1" colspan="1">Training</td></tr><tr><td rowspan="1" colspan="1">Parkinson’s Disease</td><td rowspan="1" colspan="1">E-GEOD-6613 ([<xref rid="ref032" ref-type="bibr">32</xref>])</td><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">HG U133A</td><td rowspan="1" colspan="1">WB</td><td rowspan="1" colspan="1">22283</td><td rowspan="1" colspan="1">38/12</td><td rowspan="1" colspan="1">0/0</td><td rowspan="1" colspan="1">50</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">3674</td><td rowspan="1" colspan="1">38/12</td><td rowspan="1" colspan="1">0/0</td><td rowspan="1" colspan="1">50</td><td rowspan="1" colspan="1">Training</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">E-GEOD-72267 ([<xref rid="ref033" ref-type="bibr">33</xref>])</td><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">HG U133A 2.0</td><td rowspan="1" colspan="1">PBMC</td><td rowspan="1" colspan="1">22277</td><td rowspan="1" colspan="1">23/17</td><td rowspan="1" colspan="1">8/11</td><td rowspan="1" colspan="1">59</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">8742</td><td rowspan="1" colspan="1">23/17</td><td rowspan="1" colspan="1">8/11</td><td rowspan="1" colspan="1">59</td><td rowspan="1" colspan="1">Testing</td></tr><tr><td rowspan="1" colspan="1">Multiple Sclerosis</td><td rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE24427">GSE24427</ext-link> ([<xref rid="ref034" ref-type="bibr">34</xref>])</td><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">HG U133A</td><td rowspan="1" colspan="1">WB</td><td rowspan="1" colspan="1">22283</td><td rowspan="1" colspan="1">9/16</td><td rowspan="1" colspan="1">0/0</td><td rowspan="1" colspan="1">25</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">6633</td><td rowspan="1" colspan="1">9/16</td><td rowspan="1" colspan="1">0/0</td><td rowspan="1" colspan="1">25</td><td rowspan="1" colspan="1">Testing</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">E-GEOD-16214 ([<xref rid="ref035" ref-type="bibr">35</xref>])</td><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">HG U133 plus 2.0</td><td rowspan="1" colspan="1">PBMC</td><td rowspan="1" colspan="1">54675</td><td rowspan="1" colspan="1">11/71</td><td rowspan="1" colspan="1">0/0</td><td rowspan="1" colspan="1">82</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">8098</td><td rowspan="1" colspan="1">11/68</td><td rowspan="1" colspan="1">0/0</td><td rowspan="1" colspan="1">79</td><td rowspan="1" colspan="1">Training</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">E-GEOD-41890 ([<xref rid="ref036" ref-type="bibr">36</xref>])</td><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">Exon 1.0 ST</td><td rowspan="1" colspan="1">PBMC</td><td rowspan="1" colspan="1">33297</td><td rowspan="1" colspan="1">20/24</td><td rowspan="1" colspan="1">12/12</td><td rowspan="1" colspan="1">68</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">8157</td><td rowspan="1" colspan="1">19/24</td><td rowspan="1" colspan="1">12/12</td><td rowspan="1" colspan="1">67</td><td rowspan="1" colspan="1">Training</td></tr><tr><td rowspan="1" colspan="1">Schizophrenia</td><td rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE38484">GSE38484</ext-link> ([<xref rid="ref037" ref-type="bibr">37</xref>])</td><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">HT-12 v3.0</td><td rowspan="1" colspan="1">WB</td><td rowspan="1" colspan="1">48743</td><td rowspan="1" colspan="1">76/30</td><td rowspan="1" colspan="1">42/54</td><td rowspan="1" colspan="1">202</td><td rowspan="1" colspan="1">9</td><td rowspan="1" colspan="1">5</td><td rowspan="1" colspan="1">6700</td><td rowspan="1" colspan="1">69/28</td><td rowspan="1" colspan="1">39/52</td><td rowspan="1" colspan="1">188</td><td rowspan="1" colspan="1">Training</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">E-GEOD-27383 ([<xref rid="ref038" ref-type="bibr">38</xref>])</td><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">HG U133 plus 2.0</td><td rowspan="1" colspan="1">WB</td><td rowspan="1" colspan="1">54675</td><td rowspan="1" colspan="1">43/0</td><td rowspan="1" colspan="1">29/0</td><td rowspan="1" colspan="1">72</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">11297</td><td rowspan="1" colspan="1">42/0</td><td rowspan="1" colspan="1">29/0</td><td rowspan="1" colspan="1">71</td><td rowspan="1" colspan="1">Testing</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE38481">GSE38481</ext-link> ([<xref rid="ref037" ref-type="bibr">37</xref>])</td><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">Human-6 v3</td><td rowspan="1" colspan="1">WB</td><td rowspan="1" colspan="1">24526</td><td rowspan="1" colspan="1">4/11</td><td rowspan="1" colspan="1">16/6</td><td rowspan="1" colspan="1">37</td><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">8106</td><td rowspan="1" colspan="1">11/3</td><td rowspan="1" colspan="1">15/5</td><td rowspan="1" colspan="1">34</td><td rowspan="1" colspan="1">Testing</td></tr><tr><td rowspan="1" colspan="1">Bipolar Disorder</td><td rowspan="1" colspan="1">E-GEOD-46449 ([<xref rid="ref039" ref-type="bibr">39</xref>])</td><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">HG U133 plus 2.0</td><td rowspan="1" colspan="1">L</td><td rowspan="1" colspan="1">54675</td><td rowspan="1" colspan="1">28/0</td><td rowspan="1" colspan="1">25/0</td><td rowspan="1" colspan="1">53</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">9882</td><td rowspan="1" colspan="1">28/0</td><td rowspan="1" colspan="1">25/0</td><td rowspan="1" colspan="1">53</td><td rowspan="1" colspan="1">Training</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE23848">GSE23848</ext-link> ([<xref rid="ref040" ref-type="bibr">40</xref>])</td><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">Human-6 v2</td><td rowspan="1" colspan="1">WB</td><td rowspan="1" colspan="1">48701</td><td rowspan="1" colspan="1">6/14</td><td rowspan="1" colspan="1">5/10</td><td rowspan="1" colspan="1">35</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">7211</td><td rowspan="1" colspan="1">6/14</td><td rowspan="1" colspan="1">5/10</td><td rowspan="1" colspan="1">35</td><td rowspan="1" colspan="1">Testing</td></tr><tr><td rowspan="1" colspan="1">Cardiovascular Disease</td><td rowspan="1" colspan="1">E-GEOD-46097 ([<xref rid="ref041" ref-type="bibr">41</xref>])</td><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">HG U133A 2.0</td><td rowspan="1" colspan="1">PBMC</td><td rowspan="1" colspan="1">22277</td><td rowspan="1" colspan="1">102/36</td><td rowspan="1" colspan="1">60/180</td><td rowspan="1" colspan="1">378</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">24</td><td rowspan="1" colspan="1">7676</td><td rowspan="1" colspan="1">94/36</td><td rowspan="1" colspan="1">57/167</td><td rowspan="1" colspan="1">354</td><td rowspan="1" colspan="1">Training</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE59867">GSE59867</ext-link> ([<xref rid="ref042" ref-type="bibr">42</xref>])</td><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">Exon 1.0 ST</td><td rowspan="1" colspan="1">WB</td><td rowspan="1" colspan="1">33297</td><td rowspan="1" colspan="1">85/26</td><td rowspan="1" colspan="1">0/0</td><td rowspan="1" colspan="1">111</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">7936</td><td rowspan="1" colspan="1">82/26</td><td rowspan="1" colspan="1">0/0</td><td rowspan="1" colspan="1">108</td><td rowspan="1" colspan="1">Testing</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">E-GEOD-12288 ([<xref rid="ref043" ref-type="bibr">43</xref>])</td><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">HG U113A</td><td rowspan="1" colspan="1">WB</td><td rowspan="1" colspan="1">22283</td><td rowspan="1" colspan="1">88/22</td><td rowspan="1" colspan="1">84/28</td><td rowspan="1" colspan="1">222</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">8</td><td rowspan="1" colspan="1">4815</td><td rowspan="1" colspan="1">83/22</td><td rowspan="1" colspan="1">82/27</td><td rowspan="1" colspan="1">214</td><td rowspan="1" colspan="1">Training</td></tr><tr><td rowspan="1" colspan="1">Rheumatoid Arthritis</td><td rowspan="1" colspan="1">E-GEOD-74143 ([<xref rid="ref044" ref-type="bibr">44</xref>])</td><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">HT HG U113 plus</td><td rowspan="1" colspan="1">WB</td><td rowspan="1" colspan="1">54715</td><td rowspan="1" colspan="1">81/296</td><td rowspan="1" colspan="1">0/0</td><td rowspan="1" colspan="1">377</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">23</td><td rowspan="1" colspan="1">8112</td><td rowspan="1" colspan="1">80/273</td><td rowspan="1" colspan="1">0/0</td><td rowspan="1" colspan="1">353</td><td rowspan="1" colspan="1">Training</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">E-GEOD-54629 ([<xref rid="ref045" ref-type="bibr">45</xref>])</td><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">Exon 1.0 ST</td><td rowspan="1" colspan="1">WB</td><td rowspan="1" colspan="1">33297</td><td rowspan="1" colspan="1">11/58</td><td rowspan="1" colspan="1">0/0</td><td rowspan="1" colspan="1">69</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">11931</td><td rowspan="1" colspan="1">11/58</td><td rowspan="1" colspan="1">0/0</td><td rowspan="1" colspan="1">69</td><td rowspan="1" colspan="1">Testing</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">E-GEOD-42296 ([<xref rid="ref046" ref-type="bibr">46</xref>])</td><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">Exon 1.0 ST</td><td rowspan="1" colspan="1">PBMC</td><td rowspan="1" colspan="1">33297</td><td rowspan="1" colspan="1">4/15</td><td rowspan="1" colspan="1">0/0</td><td rowspan="1" colspan="1">19</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">10417</td><td rowspan="1" colspan="1">4/15</td><td rowspan="1" colspan="1">0/0</td><td rowspan="1" colspan="1">19</td><td rowspan="1" colspan="1">Testing</td></tr><tr><td rowspan="1" colspan="1">Chronic Obstructive Pulmonary Disease</td><td rowspan="1" colspan="1">E-GEOD-54837 ([<xref rid="ref047" ref-type="bibr">47</xref>])</td><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">HG U133 plus 2.0</td><td rowspan="1" colspan="1">WB</td><td rowspan="1" colspan="1">54675</td><td rowspan="1" colspan="1">91/45</td><td rowspan="1" colspan="1">57/33</td><td rowspan="1" colspan="1">226</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">16</td><td rowspan="1" colspan="1">5531</td><td rowspan="1" colspan="1">83/44</td><td rowspan="1" colspan="1">52/31</td><td rowspan="1" colspan="1">210</td><td rowspan="1" colspan="1">Training</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">E-GEOD-42057 ([<xref rid="ref048" ref-type="bibr">48</xref>])</td><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">HG U133 plus 2.0</td><td rowspan="1" colspan="1">WB</td><td rowspan="1" colspan="1">54675</td><td rowspan="1" colspan="1">52/42</td><td rowspan="1" colspan="1">22/20</td><td rowspan="1" colspan="1">136</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">4</td><td rowspan="1" colspan="1">6445</td><td rowspan="1" colspan="1">49/39</td><td rowspan="1" colspan="1">21/20</td><td rowspan="1" colspan="1">129</td><td rowspan="1" colspan="1">Testing</td></tr><tr><td rowspan="1" colspan="1">ALS</td><td rowspan="1" colspan="1">E-TABM-940</td><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">HG U133 plus 2.0</td><td rowspan="1" colspan="1">WB</td><td rowspan="1" colspan="1">54675</td><td rowspan="1" colspan="1">27/26</td><td rowspan="1" colspan="1">18/19</td><td rowspan="1" colspan="1">90</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">10</td><td rowspan="1" colspan="1">10442</td><td rowspan="1" colspan="1">27/25</td><td rowspan="1" colspan="1">15/10</td><td rowspan="1" colspan="1">77</td><td rowspan="1" colspan="1">Training</td></tr><tr><td rowspan="1" colspan="1">Total</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">904/956</td><td rowspan="1" colspan="1">486/533</td><td rowspan="1" colspan="1">2879</td><td rowspan="1" colspan="1">25</td><td rowspan="1" colspan="1">114</td><td rowspan="1" colspan="1">870/906</td><td rowspan="1" colspan="1">465/49</td><td rowspan="1" colspan="1">2740</td></tr></tbody></table><table-wrap-foot><p>Each study is accompanied by its corresponding publication (if available), where individual study design can be obtained. When possible, datasets were obtained in their raw format, except for <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE63060">GSE63060</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE63061">GSE63061</ext-link>, E-GEOD-41890, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE23848">GSE23848</ext-link>, E-GEOD74143, E-GEOD-54629, and E-GEOD-42296 which were only available in a processed form where the dataset had already been background corrected, log2 transformed, and normalized by techniques stated in corresponding publications. Multiple datasets from the same disease existed in this study. The dataset with the largest number of diseased subjects was prioritized into the training set for better discovery. Study IDs initiating with “GSE” and “E-GEOD” were obtained from GEO and ArrayExpress, respectively. I, Illumina; A, Affymetrix; WB, whole blood; PBMC, peripheral blood mononuclear cell; L, lymphocytes.</p></table-wrap-foot></table-wrap></sec></sec><sec id="sec0055"><title>RESULTS</title><sec id="sec0060"><title>Summary of data processing</title><p>Twenty-one publicly available studies were identified, acquired, and processed. Separating studies by disease status resulted in 22 datasets, which consisted of 3 AD, 3 MS, 3 SCZ, 3 CD, 3 RA, 2 COPD, 2 BD, 2 PD, and 1 ALS orientated dataset. Fifteen datasets contained both diseased and complementary healthy subjects, and the remaining 7 contained only diseased subjects. An overview of the demographics of each dataset is provided in <xref rid="jad-74-jad191163-t001" ref-type="table">Table 1</xref>.</p><p>Independently processing the 22 datasets resulted in a total of 2,740 samples after quality control (QC), of which 287 samples were AD. Since 11 different BeadArrays had been used to expression profile the 9 different diseases, and as 7 datasets were only available in a “processed format” (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE63060">GSE63060</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE63061">GSE63061</ext-link>, E-GEOD-41890, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE23848">GSE23848</ext-link>, E-GEOD74143, E-GEOD-54629, and E-GEOD-42296), each dataset varied in the number of “reliably detected” genes after QC (detailed in <xref rid="jad-74-jad191163-t001" ref-type="table">Table 1</xref>). Initially, any probe deemed “reliably detected” in any one of the 22 datasets was compiled, resulting in 7,452 genes. In theory, this would ensure all measurable sex and disease-specific genes were potentially captured within the data. However, following the independent transformation of each dataset, platform and BeadArray-specific batch effects were observed. This can be primarily explained by different platforms having different probe designs to target different transcripts of the same gene, leading to significant discrepancies and even absence in the measurement of the same gene by different platforms [<xref rid="ref015" ref-type="bibr">15</xref>]. Therefore, to address this platform and BeadArray-specific batch effect, 1,681 common “reliably detected” genes across all datasets that contained both male and female subjects (20 datasets) were extracted from each dataset and independently YuGene transformed. Essentially, these 1,681 genes are expressed at a level deemed “reliably detected” in all 11 different BeadArrays and across both male and female subjects. The expression distribution of the,1681 genes in each subject is shown in <xref ref-type="fig" rid="jad-74-jad191163-g002">Figure 2</xref>. The variation across the 1,681 “reliably detected” genes prior to YuGene transform is significantly different across samples and datasets (<xref ref-type="fig" rid="jad-74-jad191163-g002">Fig. 2</xref>a,b), making the data from different datasets and microarray platforms incomparable. However, this was addressed by independently normalizing each sample using only the 1,681 “reliably detected” common genes, which resulted in a more evenly distributed gene expression profile across all samples (<xref ref-type="fig" rid="jad-74-jad191163-g002">Fig. 2</xref>c,d), a characteristic desired by machine learning algorithms.</p><fig id="jad-74-jad191163-g002" orientation="portrait" position="float"><label>Fig.2</label><caption><p>Distribution of gene expression across all 2,740 subjects in this study. Plots a) and c) are boxplots, where each vertical line represents an individual, while plots b) and d) represents the expression density of the same 2,740 subjects where each line represents a different individual. Plots a) and b) shows the variation of the gene expression across subjects prior to YuGene transformation, providing evidence of batch effects between samples and datasets. In contrast, plots c) and d) reveals a more evenly distributed gene expression profile across all 2,740 subjects when extracting the 1,681 common “reliably detected” genes, and independently YuGene transforming each sample.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="jad-74-jad191163-g002.jpg"/></fig><p>Correlation analysis was then performed on all samples, which suggested all samples were highly correlated, with the maximum per sample correlation coefficients ranging from 0.86–0.99. No sample was deemed to be a duplicate, and therefore, no additional sample was removed following QC.</p></sec><sec id="sec0065"><title>Training set and testing set demographics</title><p>Multiple datasets from the same disease were obtained in this study, with the largest dataset from each disease assigned to the training set to improve discovery. However, three AD datasets were available, and the two largest datasets were generated on the Illumina platform with the third originating from the Affymetrix platform. To address any subtle differences in gene expression, which may still exist in the data due to platform differences, the largest Illumina AD and the Affymetrix AD datasets were both assigned to the training set.</p><p>Following dataset assignment, the training set consisted of 160 AD subjects and 1,766 non-AD subjects, while the testing set consisted of 127 AD subjects and 687 Non-AD subjects. The Non-AD group in both the training and testing set consisted of subjects with either PD, MS, SCZ, BD, CD, RA, COPD, or were relatively healthy. Only one ALS dataset suitable for this study was identified and was deemed too small to split into the training and testing set. Therefore, the ALS dataset was assigned to the training set, allowing the machine learning algorithm to learn multiple disease expression signatures, which could further aid in differentiating AD from Non-AD subjects.</p><p>Upsampling was performed on the mixed control group to balance the number of samples across the individual diseases, preventing bias toward the majority classes during model development. The “pooled controls” contained 702 samples, and was the largest group in the training set; therefore, the remaining diseases were upsampled to the same number. This resulted in the “AD vs Mixed Controls” being trained on 160 AD samples and 6,318 non-AD samples. An overview of subjects in the training and testing set is provided in <xref rid="jad-74-jad191163-t002" ref-type="table">Table 2</xref>.</p><table-wrap id="jad-74-jad191163-t002" orientation="portrait" position="float"><label>Table 2</label><caption><p>Overview Training and Testing set subjects</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1">Dataset</td><td colspan="2" align="center" rowspan="1">Training set</td><td rowspan="1" colspan="1">Testing set</td><td rowspan="1" colspan="1">Class assignment for XGBoost</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">AD vs Healthy Control</td><td rowspan="1" colspan="1">AD vs Mixed Control</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">Alzheimer’s Disease</td><td rowspan="1" colspan="1">160<sup>*</sup></td><td rowspan="1" colspan="1">160<sup>*</sup></td><td rowspan="1" colspan="1">127</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Parkinson’s Disease</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">702 (50)</td><td rowspan="1" colspan="1">40</td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">Multiple Sclerosis</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">702 (122<sup>*</sup>)</td><td rowspan="1" colspan="1">25</td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">Schizophrenia</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">702 (97<sup>*</sup>)</td><td rowspan="1" colspan="1">56<sup>*</sup></td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">Bipolar Disorder</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">702 (28)</td><td rowspan="1" colspan="1">20</td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">Cardiovascular Disease</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">702 (235<sup>*</sup>)</td><td rowspan="1" colspan="1">108</td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">Rheumatoid Arthritis</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">702 (353)</td><td rowspan="1" colspan="1">88<sup>*</sup></td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">Chronic Obstructive Pulmonary Disease</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">702 (127)</td><td rowspan="1" colspan="1">88</td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">ALS</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">702 (52)</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">Pooled Controls</td><td rowspan="1" colspan="1">127<sup>*</sup></td><td rowspan="1" colspan="1">702<sup>*</sup></td><td rowspan="1" colspan="1">262</td><td rowspan="1" colspan="1">1</td></tr></tbody></table><table-wrap-foot><p>Entire datasets from each disease were assigned to either the “Training Set” for classification model development or the “Testing Set” for validation purposes. Datasets with the larger number of diseased subjects were prioritized into the training set to increase discovery. Two types of classification models were developed, the first (“AD vs Healthy Control”) was developed using only the 160 AD and associated 127 healthy control samples, and the second (“AD vs Mixed Controls”) was developed using the same 160 AD samples, and 6,318 upsampled mixed controls. The pooled controls in the “AD vs Healthy Control” training set originates only from AD datasets. Sample numbers provided in brackets are before upsampling. Sample numbers with an asterisk (<sup>*</sup>) indicates multiple datasets were available, and subject numbers shown are a sum across these datasets.</p></table-wrap-foot></table-wrap></sec><sec id="sec0070"><title>The “AD vs Healthy Control” classification model development and performance</title><p>The “AD vs Healthy Control” classification models were developed using the only two AD datasets (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE63060">GSE63060</ext-link> and E-GEOD-6613) available in the training set, which consisted of 160 AD and 127 cognitively healthy controls. A thousand models were developed, refined and evaluated, each using a different seed number. The models were initially built using default parameters, however, after model refinement, an average of 57 predictive genes (95% CI = 18–101) were selected with optimum hyperparameters identified as eta = 0.13 (95% CI = 0.02–0.2), max_depth = 6.3 (95% CI = 5–10), gamma = 0.2 (95% CI = 0–1.5), min_child_weight = 1.01 (95% CI = 1–1), subsample = 0.99 (95% CI = 0.95–1), colsample_bytree = 0.99 (95% CI = 0.8–1), alpha = 0.1 (95% CI = 0–0.8), lambda = 0.9 (95% CI = 0.2–1), and nrounds = 54.4 (95% CI = 18–211).</p><p>The “AD vs Healthy Control” classification models were evaluated in the independent testing set and achieved an average sensitivity of 48.7% (95% CI = 34.7–64.6), a specificity of 41.9% (95% CI = 26.8–54.3), and a balanced accuracy of 45.3% (95% CI = 36.0–56.0). Additional classification performance metrics are provided in <xref rid="jad-74-jad191163-t003" ref-type="table">Table 3</xref>. As this model was developed and evaluated a thousand times, each sample in the testing set was predicted a thousand times, each by a different classification model. The raw probability predictions of all the samples in the testing set by each of the thousand “AD vs Healthy Control” classification models are shown in <xref ref-type="fig" rid="jad-74-jad191163-g003">Figure 3</xref>a, where high misclassification can be observed in all disease groups and controls, demonstrating an increased false-positive rate and the inability of the classification models to confidently assign a positive (0) or negative (1) class to each subject.</p><table-wrap id="jad-74-jad191163-t003" orientation="portrait" position="float"><label>Table 3</label><caption><p>Classification model performance</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">AD vs Healthy Control</td><td rowspan="1" colspan="1">AD vs Mixed Control</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">Sensitivity</td><td rowspan="1" colspan="1">48.7% (34.7–64.6)</td><td rowspan="1" colspan="1">40.8% (27.5–52.0)</td></tr><tr><td rowspan="1" colspan="1">Specificity</td><td rowspan="1" colspan="1">41.9% (26.8–54.3)</td><td rowspan="1" colspan="1">95.22% (93.3–97.1)</td></tr><tr><td rowspan="1" colspan="1">PPV</td><td rowspan="1" colspan="1">13.6% (9.9–18.5)</td><td rowspan="1" colspan="1">61.35% (53.8–69.6)</td></tr><tr><td rowspan="1" colspan="1">NPV</td><td rowspan="1" colspan="1">81.1% (73.3–87.7)</td><td rowspan="1" colspan="1">89.7% (87.8–91.4)</td></tr><tr><td rowspan="1" colspan="1">Balanced Accuracy</td><td rowspan="1" colspan="1">45.3% (36.0–56.0)</td><td rowspan="1" colspan="1">67.99% (61.9–72.9)</td></tr><tr><td rowspan="1" colspan="1">AUC</td><td rowspan="1" colspan="1">0.45 (0.34–0.60)</td><td rowspan="1" colspan="1">0.86 (0.82–0.90)</td></tr><tr><td rowspan="1" colspan="1">AUC Rating</td><td rowspan="1" colspan="1">Test not useful</td><td rowspan="1" colspan="1">Very Good</td></tr><tr><td rowspan="1" colspan="1">CUI+ve</td><td rowspan="1" colspan="1">0.07 (0.04–0.12)</td><td rowspan="1" colspan="1">0.25 (0.16–0.32)</td></tr><tr><td rowspan="1" colspan="1">CUI+ve Rating</td><td rowspan="1" colspan="1">Poor</td><td rowspan="1" colspan="1">Poor</td></tr><tr><td rowspan="1" colspan="1">CUI –ve</td><td rowspan="1" colspan="1">0.34 (0.2–0.46)</td><td rowspan="1" colspan="1">0.85 (0.84–0.87)</td></tr><tr><td rowspan="1" colspan="1">CUI –ve Rating</td><td rowspan="1" colspan="1">Poor</td><td rowspan="1" colspan="1">Excellent</td></tr></tbody></table><table-wrap-foot><p>The table provides the average performance measurements form validating a thousand “AD vs Healthy Control” and a thousand “AD vs Mixed Control” classification models on the same testing set. A students T-test between the “AD vs Healthy Control” and “AD vs Mixed Control” classification performances reveals a significant difference for all metrics (p &lt; 2.20e<sup>–16</sup>). The values provided in brackets () are the 95% confidence interval.</p></table-wrap-foot></table-wrap><fig id="jad-74-jad191163-g003" orientation="portrait" position="float"><label>Fig.3</label><caption><p>Testing set raw prediction comparison by (a) the thousand “AD vs Healthy Control” classification models and (b) the thousand “AD vs Mixed Control” Classification models. Samples with a probability of≤0.5 are predicted to be AD. Controls represent pooled non-diseased subjects from all datasets. AD, Alzheimer’s disease; BD, bipolar disease; CD, coronary artery disease; COPD, chronic obstructive pulmonary disease; MS, multiple sclerosis; PD, Parkinson’s disease; RA, rheumatoid arthritis; SCZ, schizophrenia.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="jad-74-jad191163-g003.jpg"/></fig><p>The average AUC was calculated as 0.45 (95% CI = 0.34–0.60), which translates to “test is not useful” as a diagnostic test [<xref rid="ref026" ref-type="bibr">26</xref>]. The average positive (CUI+ve) and negative (CUI –ve) clinical utility values are calculated as 0.07 (95% CI = 0.04–012) and 0.34 (95% CI = 0.2–0.46), respectively. These clinical utility scores suggest the classification model is “poor” at detecting the presence and absence of AD, and based on current validation results, has no real clinical utility [<xref rid="ref027" ref-type="bibr">27</xref>].</p></sec><sec id="sec0075"><title>The “AD vs Mixed Control” classification model development and performance</title><p>The thousand “AD vs Mixed Control” classification models were developed using the entire training set, which, after bootstrap upsampling, consisted of 160 AD and 6,318 non-AD subjects. The models were initially built using default parameters; however, after model refinement, an average of 89.4 predictive genes (95% CI = 66.0–116.0) were selected with the optimum hyperparameters identified as eta = 0.12 (95% CI = 0.01–0.20), max_depth = 4.1 (95% CI = 2–5), gamma = 0 (95% CI = 0–0), min_child_weight = 1 (95% CI = 1–1), subsample = 1 (95% CI = 0.95–1), colsample_bytree = 0.77 (95% CI = 0.5–1), alpha = 0.02 (95% CI = 0–0.1), lambda = 0.9 (95% CI = 0.1–1), and nrounds = 1173.1 (95% CI = 297.9–6956.3).</p><p>The “AD vs Mixed Control” classification models were evaluated in the testing set and achieved an average 40.8% (95% CI = 27.5–52.0) sensitivity, 95.2% (95% CI = 93.3–97.1) specificity, and a balanced accuracy of 68.0% (95% CI = 61.9–72.9). Additional classification performance metrics are provided in <xref rid="jad-74-jad191163-t003" ref-type="table">Table 3</xref>. A students T-test detects a significant difference (<italic toggle="yes">p</italic> &lt; 2.20e<sup>–16</sup>) between all of the “AD vs Healthy Control” and “AD vs Mixed Control” performance metrics. The “AD vs Mixed Control” classification performance outperforms the typical “AD vs Healthy Control” classification models in all performance metrics, except for sensitivity, where a decrease in performance is observed from 48.7% to 40.8%. Nevertheless, due to the “AD vs Mixed Control” classification model predicting less false positives, an increase in the average PPV (61.4%, 95% CI = 53.8–69.6) is observed when compared to the “AD vs Healthy Control” classification models average PPV (13.6%, 95% CI = 9.9–18.5). This is further emphasized in <xref ref-type="fig" rid="jad-74-jad191163-g003">Fig. 3</xref>b, where the raw probability predictions for all individuals in the testing set are more correctly and confidently predicted by the “AD vs Mixed Control” Classification models when compared to the typical “AD vs Healthy Control” classification models.</p><p>The “AD vs Mixed Control” classification model average AUC score is 0.86 (95% CI = 0.82–0.9) which translates to a “very good” diagnostic test [<xref rid="ref026" ref-type="bibr">26</xref>]; however, the average clinical utility values (CUI+ve = 0.25 [95% CI = 01.6–032] and CUI –ve = 0.85 [95% CI = 0.84–0.87]) suggests this classification model is “poor” in detecting AD but “excellent” to rule out “AD” [<xref rid="ref027" ref-type="bibr">27</xref>].</p></sec><sec id="sec0080"><title>The “AD vs Mixed Control” classification model’s predictive features</title><p>The thousand “AD vs Mixed Control” classification models identified, on average, 89 predictive features (genes) to discriminate between AD and non-AD subjects with an average balanced accuracy of 68% (95% CI = 61.9–72.9). Only 800 of the 1,681 available genes were selected by anyone of the thousand models as a predictive feature, with 11 being consistently selected by all one thousand models. These 11 genes are KDM3B, TH1L, RARA, SPEN, NDUFA1, THYN1, UBR4, BSDC1, LDHB, LPP, and BAG5. Gene set enrichment on these genes identified “The citric acid (TCA) cycle and respiratory electron transport” (<italic toggle="yes">q</italic>-value = 0.03) and HIV Infection (<italic toggle="yes">q</italic>-value = 0.03) as the only biological pathways significantly enriched; however, when incorporating a background gene list (the 1,681 genes available for selection by the classification model algorithm), no pathway was significantly enriched.</p></sec></sec><sec id="sec0085"><title>DISCUSSION</title><p>Previous attempts to identify a blood-derived gene expression signature for AD diagnosis have relied on the typical approach of training machine learning algorithms on AD and cognitively healthy subjects only. This may inadvertently lead to classification models learning expression signatures that may be of general illness rather than being disease-specific. Validating such a classification model in a heterogeneous aging population may fail to distinguish AD from similar mental health disorders, neurodegenerative diseases, and common elderly health disorders. To explore this potential issue, two AD classification models were developed and evaluated. The first model (“AD vs Healthy Control”) was developed in 160 AD and 127 complementary cognitive healthy subjects, and the second (“AD vs Mixed Control”) was developed in 160 AD and 6,318 upsampled non-AD subjects comprising of PD, MS, BD, SCZ, CD, RA, COPD, ALS, and healthy subjects.</p><p>Both types of classification models were evaluated in the same external independent cohort comprising of AD, PD, MS, BD, SCZ, CD, RA, COPD, and healthy subjects totaling 814 subjects. A thousand “AD vs Healthy Control” and a thousand “AD vs Mixed Control” classification models were developed, refined, and evaluated to account for the randomness introduced during the bootstrap upsampling and the model development process.</p><sec id="sec0090"><title>The “AD vs Healthy Control” classification models perform poorly in a heterogeneous aging population</title><p>The typical approach of developing a classification model trained on AD and complementary cognitive healthy control subjects produced models with an average sensitivity of 48.7% (95% CI = 34.7–64.6) in an independent cohort of 127 AD subjects. On average, these models perform worse than a previous attempt which attained a sensitivity of 56.8% when validated in an independent testing set of 118 AD subjects [<xref rid="ref011" ref-type="bibr">11</xref>]. However, the study in question only built and evaluated a single model and in this study, 97/1000 models attained a higher sensitivity. Nevertheless, on average, the “AD vs Healthy Control” models in this study are very much similar to identifying AD samples based on complete randomness alone (assumed to be 50%). Furthermore, when evaluating these models in a heterogeneous aging population, a process often neglected by previous studies, low average specificity of 41.9% (95% CI = 26.8–54.3) was attained, which equates to a very low average PPV of only 13.6% (26.8–54.3). This is reiterated in the high misclassification of PD, MS, BD, SCZ, CD, RA, COPD, and healthy subjects as AD in the testing set. Since misclassification was observed in all groups, including large portions of the healthy controls, the “AD vs Healthy Control” classification models are most likely not capturing signals of AD, dementia, or general illness, but is most likely a result of technical noise, individual study batch effects, and overfitting. This is mirrored in the model’s performance metrics, which translates to a “poor” clinical utility in detecting the presence and absence of AD. Overall, the typical approach of AD classification model development failed to accurately distinguish AD subjects in a heterogeneous aging population consisting of PD, MS, BD, SCZ, CD, RA, COPD, ALS, and relatively healthy controls.</p></sec><sec id="sec0095"><title>The “AD vs Mixed Control” classification models outperforms the typical “AD vs Healthy Control” classification models</title><p>The “AD vs Mixed Control” classification models attained a validation PPV average of 61.4% (95% CI = 53.8–69.6) and an NPV average of 89.7% (95% CI = 87.8–91.4), which outperforms the validation PPV average of 13.6% (26.8–54.3) and NPV average of 81.1% (73.3–87.7) achieved by the “AD vs Healthy Control” classification models. However, this improvement was at the cost of sensitivity, which was reduced from an average of 48.7% (“AD vs Healthy Control”) to an average of 40.8% (“AD vs Mixed Control”). Nevertheless, an overall increase in the clinical utility of the “AD vs Mixed Control” classification model was measured and according to the recommended CUI interpretations in [<xref rid="ref027" ref-type="bibr">27</xref>], the model is “poor” in “ruling in” AD but “excellent” in “ruling out” AD.</p><p>The increase performance of the “AD vs Mixed Control” classification model is most likely the result of incorporating additional related mental health and common elderly health disorders into the classification model development process, which allowed the machine learning algorithm to learn more complex relationships between genes to differentiate between AD and non-AD subjects. This is reflected in the average 57 (95% CI = 18–101) genes and 54 (95% CI = 18–211) nrounds (trees) being used for prediction in the “AD vs Healthy Control” classification models, which is increased to an average 89 (95% CI = 66–116) genes and 1173 (95% CI = 298–6956) nrounds for the “AD vs Mixed Control” classification models. Together with the CUI interpretations, the classification model seems to have learned expression signatures that are typically not AD, rather than identifying AD. Although this has improved the ability to distinguish AD from other related diseases and cognitively healthy controls, the sensitivity of the model was reduced and needs to be further improved for this type of research to be beneficial in the clinical setting.</p></sec><sec id="sec0100"><title>Predictive features consist of age-related markers</title><p>Age is one of the most significant risk factors for AD, and the prevalence of the disease is known to increase with age. A meta-analysis study investigating blood transcriptional changes associated with age in 14,983 humans, identified 1,496 differentially expressed genes with chronical age [<xref rid="ref029" ref-type="bibr">29</xref>], of which two genes (LDHB and LPP) are consistently used as a predictive feature in all one thousand “AD vs Mixed Control” classification models. The datasets used in this study were publicly available, and as such, were accompanied with limited phenotypic information, including age. Therefore, age was not accounted for during the classification model developmental process. However, as this study uses a variety of common elderly health disorders, in addition to the 3 AD datasets, and study designs generally incorporate complementary age-matched controls, it is highly unlikely the classification model is predicting age alone but is more likely using a combination of signals including age to distinguish AD. Without age information for all subjects, this study is unable to conclude how age is influencing the model prediction process.</p></sec><sec id="sec0105"><title>Limitations</title><p>All data used in this study were publicly available, and as such, many were accompanied by limited phenotypic information, including sex, which was predicted based on gene expression when missing. Therefore, this study was unable to incorporate additional phenotypic information during the classification model building process, which has been shown to improve model performance [<xref rid="ref011" ref-type="bibr">11</xref>]. Information such as comorbidities, age, and medications are unknowns, which could be affecting model performances in this study. For instance, control subjects in this study that originated from non-AD datasets were screened negative for their corresponding disease of interest but were not screened for cognitive function, i.e., control subjects from the CD datasets were included in their retrospective dataset if they did not have CD, they were not necessarily checked for cognitive impairment. Therefore, some misclassified control subjects may indeed be on the AD spectrum, and it is important to note subjects from the pooled control group were most misclassified as AD by the “AD vs Mixed Control” classification models. However, it is also important to note the training set used to develop the “AD vs Mixed Control” classification model also contains these controls which have not been screened for AD. If these controls or age-related disease subjects are comorbid with AD, the classification model may have inadvertently learned to be biased toward a subgroup of AD subjects with no comorbid with any other disease, hence the low sensitivity validation performance when introducing additional datasets into the classification model developmental process.</p><p>This study involved a number of subjects clinically diagnosed with a health issue, and therefore were most likely on some sort of therapeutic treatment to manage or treat the underlying disease, another piece of vital information generally missing from publicly available datasets and from this study. As therapeutic drugs have been well-known to affect gene expression profiling, including memantine, a common drug used to treat AD symptoms [<xref rid="ref030" ref-type="bibr">30</xref>], the “AD vs Mixed Control” classification models may have inadvertently learned gene expression perturbations due to therapeutic treatment rather than disease biology, and would, therefore, fail in the clinical setting to diagnose AD subjects who are not already on medication. To address this issue along with co-morbidity, clear and detailed phenotypic information would be needed for all subjects, which is encouraged for future studies planning to submit genetic data to the public domain.</p><p>Finally, this study used datasets generated on 11 different microarray BeadArrays, resulting in datasets ranging from 22277–54715 probes prior to any QC. Coupled with differences in BeadArrays designs across platforms, the overlap of genes was drastically reduced to 1,681 common “reliable detected” genes across all datasets, and most likely may have also inadvertently lost some disease-specific changes. To address this issue, these subjects need to be expression profiled on the same microarray platform and ideally the same expression BeadArray, which currently does not exist in the public domain. However, the advances in sequencing technologies, which can capture expression changes across the whole transcriptome, can potentially solve this issue and future studies are encouraged to replicate this study design with RNA-Seq data with detailed phenotypic information when/if available, albeit, this may bring new challenges.</p></sec><sec id="sec0110"><title>Conclusion</title><p>This study relied on publicly available microarray gene expression data, which too often lacks detailed phenotypic information for appropriate data analysis and needs to be addressed by future studies. Nevertheless, with the available phenotypic information and limited common “reliably detected” genes across the different microarray platforms and BeadArrays, this study demonstrated the typical approach of developing an AD blood-based gene expression classification model using only AD and complementary healthy controls fails to accurately distinguish AD from a heterogeneous aging population. However, by incorporating additional related mental health and common elderly health disorders from different microarray platforms and expression chips into the classification model development process can result in a model with improved “predictive power” in distinguishing AD from a heterogeneous aging population. Nevertheless, further improvement is still required in order to identify a robust blood transcriptomic signature more specific to AD.</p></sec></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>This study presents independent research supported by the NIHR BioResource Centre Maudsley at South London and Maudsley NHS Foundation Trust (SLaM) &amp; Institute of Psychiatry, Psychology and Neuroscience (IoPPN), King’s College London. The views expressed are those of the author(s) and not necessarily those of the NHS, NIHR, Department of Health or King’s College London.</p><p>RJBD and SJN are supported by: 1) Health Data Research UK, which is funded by the UK Medical Research Council, Engineering and Physical Sciences Research Council, Economic and Social Research Council, Department of Health and Social Care (England), Chief Scientist Office of the Scottish Government Health and Social Care Directorates, Health and Social Care Research and Development Division (Welsh Government), Public Health Agency (Northern Ireland), British Heart Foundation and Wellcome Trust; and 2) The National Institute for Health Research University College London Hospitals Biomedical Research Centre.</p><p content-type="COI-statement">Authors’ disclosures available online (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.j-alz.com/manuscript-disclosures/19-1163r1">https://www.j-alz.com/manuscript-disclosures/19-1163r1</ext-link>).</p></ack><ref-list><title>REFERENCES</title><ref id="ref001"><label>[1]</label><mixed-citation publication-type="journal">(<year>2018</year>) <article-title>2018 Alzheimer’s disease facts and figures includes a special report on the financial and personal benefits of early diagnosis</article-title>. <source>Alzheimers Dement</source>
+<volume>14</volume>, <fpage>367</fpage>–<lpage>429</lpage>.</mixed-citation></ref><ref id="ref002"><label>[2]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Han</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeng</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feng</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cao</surname>
+<given-names>H-YY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yi</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jin</surname>
+<given-names>L-WW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y-JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lei</surname>
+<given-names>H</given-names>
+</string-name> (<year>2013</year>) <article-title>Characteristic transformation of blood transcriptome in Alzheimer’s disease</article-title>. <source>J Alzheimers Dis</source>
+<volume>35</volume>, <fpage>373</fpage>–<lpage>86</lpage>.<pub-id pub-id-type="pmid">23411692</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-121963</pub-id></mixed-citation></ref><ref id="ref003"><label>[3]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Lunnon</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sattlecker</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Furney</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coppola</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Simmons</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Proitsi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lupton</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lourdusamy</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnston</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soininen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kłoszewska</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mecocci</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsolaki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vellas</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Geschwind</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lovestone</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dobson</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hodges</surname>
+<given-names>A</given-names>
+</string-name> (<year>2013</year>) <article-title>A blood gene expression marker of early Alzheimer’s disease</article-title>. <source>J Alzheimers Dis</source>
+<volume>33</volume>, <fpage>737</fpage>–<lpage>753</lpage>.<pub-id pub-id-type="pmid">23042217</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-2012-121363</pub-id></mixed-citation></ref><ref id="ref004"><label>[4]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Henriksen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O’Bryant</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hampel</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trojanowski</surname>
+<given-names>JQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Montine</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jeromin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blennow</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lönneborg</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wyss-Coray</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soares</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bazenet</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sjögren</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lovestone</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karsdal</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weiner</surname>
+<given-names>MW</given-names>
+</string-name> (<year>2014</year>) <article-title>The future of blood-based biomarkers for Alzheimer’s disease</article-title>. <source>Alzheimers Dement</source>
+<volume>10</volume>, <fpage>115</fpage>–<lpage>131</lpage>.<pub-id pub-id-type="pmid">23850333</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2013.01.013</pub-id><pub-id pub-id-type="pmcid">PMC4128378</pub-id></mixed-citation></ref><ref id="ref005"><label>[5]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Thambisetty</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lovestone</surname>
+<given-names>S</given-names>
+</string-name> (<year>2010</year>) <article-title>Blood-based biomarkers of Alzheimer’s disease: Challenging but feasible</article-title>. <source>Biomark Med</source>
+<volume>4</volume>, <fpage>65</fpage>–<lpage>79</lpage>.<pub-id pub-id-type="pmid">20387303</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2217/bmm.09.84</pub-id><pub-id pub-id-type="pmcid">PMC2863057</pub-id></mixed-citation></ref><ref id="ref006"><label>[6]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Nakamura</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaneko</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Villemagne</surname>
+<given-names>VL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kato</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Doecke</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Doré</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fowler</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Q-X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martins</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rowe</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tomita</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matsuzaki</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ishii</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ishii</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arahata</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iwamoto</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ito</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tanaka</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masters</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yanagisawa</surname>
+<given-names>K</given-names>
+</string-name> (<year>2018</year>) <article-title>High performance plasma amyloid-β biomarkers for Alzheimer’s disease</article-title>. <source>Nature</source>
+<volume>554</volume>, <fpage>249</fpage>–<lpage>254</lpage>.<pub-id pub-id-type="pmid">29420472</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature25456</pub-id></mixed-citation></ref><ref id="ref007"><label>[7]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Kiddle</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sattlecker</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Proitsi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Simmons</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Westman</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bazenet</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nelson</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hodges</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnston</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soininen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kłoszewska</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mecocci</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsolaki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vellas</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Newhouse</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lovestone</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dobson</surname>
+<given-names>RJB</given-names>
+</string-name> (<year>2014</year>) <article-title>Candidate blood proteome markers of Alzheimer’s disease onset and progression: A systematic review and replication study</article-title>. <source>J Alzheimers Dis</source>
+<volume>38</volume>, <fpage>515</fpage>–<lpage>531</lpage>.<pub-id pub-id-type="pmid">24121966</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-130380</pub-id></mixed-citation></ref><ref id="ref008"><label>[8]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Chiam</surname>
+<given-names>JTW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dobson</surname>
+<given-names>RJB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kiddle</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sattlecker</surname>
+<given-names>M</given-names>
+</string-name> (<year>2014</year>) <article-title>Are blood-based protein biomarkers for Alzheimer’s disease also involved in other brain disorders? A systematic review</article-title>. <source>J Alzheimers Dis</source>
+<volume>43</volume>, <fpage>303</fpage>–<lpage>314</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-140816</pub-id><pub-id pub-id-type="pmid">25096613</pub-id></mixed-citation></ref><ref id="ref009"><label>[9]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Rye</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Booij</surname>
+<given-names>BB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grave</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lindahl</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kristiansen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andersen</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horndalsveen</surname>
+<given-names>PO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nygaard H</surname>
+<given-names>a.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Naik</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoprekstad</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wetterberg</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nilsson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aarsland</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lönneborg</surname>
+<given-names>A</given-names>
+</string-name> (<year>2011</year>) <article-title>A novel blood test for the early detection of Alzheimer’s disease</article-title>. <source>J Alzheimers Dis</source>
+<volume>23</volume>, <fpage>121</fpage>–<lpage>129</lpage>.<pub-id pub-id-type="pmid">20930265</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-2010-101521</pub-id></mixed-citation></ref><ref id="ref010"><label>[10]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Booij</surname>
+<given-names>BB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lindahl</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wetterberg</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Skaane</surname>
+<given-names>NV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sæbø</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feten</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rye</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kristiansen</surname>
+<given-names>LI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hagen</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jensen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bårdsen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Winblad</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lönneborg</surname>
+<given-names>A</given-names>
+</string-name> (<year>2011</year>) <article-title>A gene expression pattern in blood for the early detection of Alzheimer’s disease</article-title>. <source>J Alzheimers Dis</source>
+<volume>23</volume>, <fpage>109</fpage>–<lpage>119</lpage>.<pub-id pub-id-type="pmid">20930264</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-2010-101518</pub-id></mixed-citation></ref><ref id="ref011"><label>[11]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Voyle</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Keohane</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Newhouse</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lunnon</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnston</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soininen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kloszewska</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mecocci</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsolaki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vellas</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lovestonea</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hodges</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kiddle</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dobson</surname>
+<given-names>RJB</given-names>
+</string-name> (<year>2016</year>) <article-title>A pathway based classification method for analyzing gene expression for Alzheimer’s disease diagnosis</article-title>. <source>J Alzheimers Dis</source>
+<volume>49</volume>, <fpage>659</fpage>–<lpage>669</lpage>.<pub-id pub-id-type="pmid">26484910</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-150440</pub-id><pub-id pub-id-type="pmcid">PMC4927941</pub-id></mixed-citation></ref><ref id="ref012"><label>[12]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Roed</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grave</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lindahl</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rian</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horndalsveen</surname>
+<given-names>PO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lannfelt</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nilsson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swenson</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lönneborg</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sjögren</surname>
+<given-names>M</given-names>
+</string-name> (<year>2013</year>) <article-title>Prediction of mild cognitive impairment that evolves into alzheimer’s disease dementia within two years using a gene expression signature in blood: A pilot study</article-title>. <source>J Alzheimers Dis</source>
+<volume>35</volume>, <fpage>611</fpage>–<lpage>621</lpage>.<pub-id pub-id-type="pmid">23478308</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-122404</pub-id></mixed-citation></ref><ref id="ref013"><label>[13]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Fehlbaum-Beurdeley</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jarrige-Le Prado</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pallares</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carrière</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guihal</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soucaille</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rouet</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drouin</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sol</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jordan</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lei</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Einstein</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schweighoffer</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bracco</surname>
+<given-names>L</given-names>
+</string-name> (<year>2010</year>) <article-title>Toward an Alzheimer’s disease diagnosis via high-resolution blood gene expression</article-title>. <source>Alzheimers Dement</source>
+<volume>6</volume>, <fpage>25</fpage>–<lpage>38</lpage>.<pub-id pub-id-type="pmid">20129318</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2009.07.001</pub-id></mixed-citation></ref><ref id="ref014"><label>[14]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Huynh</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohan</surname>
+<given-names>C</given-names>
+</string-name> (<year>2017</year>) <article-title>Alzheimer’s disease: Biomarkers in the genome, blood, and cerebrospinal fluid</article-title>. <source>Front Neurol</source>
+<volume>8</volume>, <fpage>102</fpage>.<pub-id pub-id-type="pmid">28373857</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fneur.2017.00102</pub-id><pub-id pub-id-type="pmcid">PMC5357660</pub-id></mixed-citation></ref><ref id="ref015"><label>[15]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Barnes</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Freudenberg</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thompson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aronow</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pavlidis</surname>
+<given-names>P</given-names>
+</string-name> (<year>2005</year>) <article-title>Experimental comparison and cross-validation of the Affymetrix and Illumina gene expression analysis platforms</article-title>. <source>Nucleic Acids Res</source>
+<volume>33</volume>, <fpage>5914</fpage>–<lpage>5923</lpage>.<pub-id pub-id-type="pmid">16237126</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gki890</pub-id><pub-id pub-id-type="pmcid">PMC1258170</pub-id></mixed-citation></ref><ref id="ref016"><label>[16]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Maouche</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poirier</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Godefroy</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olaso</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gut</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Collet</surname>
+<given-names>J-P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Montalescot</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cambien</surname>
+<given-names>F</given-names>
+</string-name> (<year>2008</year>) <article-title>Performance comparison of two microarray platforms to assess differential gene expression in human monocyte and macrophage cells</article-title>. <source>BMC Genomics</source>
+<volume>9</volume>, <fpage>302</fpage>.<pub-id pub-id-type="pmid">18578872</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-2164-9-302</pub-id><pub-id pub-id-type="pmcid">PMC2464609</pub-id></mixed-citation></ref><ref id="ref017"><label>[17]</label><mixed-citation publication-type="journal">
+<collab>MAQC Consortium</collab>, <string-name name-style="western">
+<surname>Shi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reid</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>WD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shippy</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Warrington</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baker</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Collins</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Longueville</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kawasaki</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>KY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>YA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Willey</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Setterquist</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fischer</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tong</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dragan</surname>
+<given-names>YP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dix</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frueh</surname>
+<given-names>FW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goodsaid</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herman</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jensen</surname>
+<given-names>RV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lobenhofer</surname>
+<given-names>EK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Puri</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schrf</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thierry-Mieg</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolber</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amur</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barbacioru</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lucas</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bertholet</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boysen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bromley</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brown</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brunner</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Canales</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cao</surname>
+<given-names>XM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cebula</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chu</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chudin</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Corson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Corton</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Croner</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davies</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davison</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delenstarr</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deng</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dorris</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eklund</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fan</surname>
+<given-names>XH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fulmer-Smentek</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fuscoe</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gallagher</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ge</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hager</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haje</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Han</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Han</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harbottle</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harris</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hatchwell</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hauser</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hester</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hong</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hurban</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jackson</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ji</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Knight</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuo</surname>
+<given-names>WP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>LeClerc</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levy</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>QZ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lombardi</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Magnuson</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maqsodi</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McDaniel</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mei</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Myklebost</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ning</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Novoradovskaya</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Orr</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Osborn</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Papallo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patterson</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perkins</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peters</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peterson</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Philips</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pine</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pusztai</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qian</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ren</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosenzweig</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Samaha</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schena</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schroth</surname>
+<given-names>GP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shchegrova</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Staedtler</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Su</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Szallasi</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tezak</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thierry-Mieg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thompson</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tikhonova</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Turpaz</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vallanat</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walker</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolfinger</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wong</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiao</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhong</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zong</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Slikker</surname>
+<given-names>W</given-names>
+<suffix>Jr.</suffix>
+</string-name> (<year>2006</year>) <article-title>The MicroArray Quality Control (MAQC) project shows inter- and intraplatform reproducibility of gene expression measurements</article-title>. <source>Nat Biotechnol</source>
+<volume>24</volume>, <fpage>1151</fpage>–<lpage>1161</lpage>.<pub-id pub-id-type="pmid">16964229</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nbt1239</pub-id><pub-id pub-id-type="pmcid">PMC3272078</pub-id></mixed-citation></ref><ref id="ref018"><label>[18]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hsueh</surname>
+<given-names>H-M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delongchamp</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>C-J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsai</surname>
+<given-names>C-A</given-names>
+</string-name> (<year>2007</year>) <article-title>Reproducibility of microarray data: A further analysis of microarray quality control (MAQC) data</article-title>. <source>BMC Bioinformatics</source>
+<volume>8</volume>, <fpage>412</fpage>.<pub-id pub-id-type="pmid">17961233</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-2105-8-412</pub-id><pub-id pub-id-type="pmcid">PMC2204045</pub-id></mixed-citation></ref><ref id="ref019"><label>[19]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Chang</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shu</surname>
+<given-names>WY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsai</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hsu</surname>
+<given-names>IC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hsu</surname>
+<given-names>IC</given-names>
+</string-name> (<year>2011</year>) <article-title>Identification of human housekeeping genes and tissue-selective genes by microarray meta-analysis</article-title>. <source>PLoS One</source>
+<volume>6</volume>, <fpage>e22859</fpage>.<pub-id pub-id-type="pmid">21818400</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0022859</pub-id><pub-id pub-id-type="pmcid">PMC3144958</pub-id></mixed-citation></ref><ref id="ref020"><label>[20]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Lazar</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meganck</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taminau</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steenhoff</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coletta</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Molter</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weiss-Solís</surname>
+<given-names>DY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duque</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bersini</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nowé</surname>
+<given-names>A</given-names>
+</string-name> (<year>2013</year>) <article-title>Batch effect removal methods for microarray gene expression data integration: A survey</article-title>. <source>Brief Bioinform</source>
+<volume>14</volume>, <fpage>469</fpage>–<lpage>490</lpage>.<pub-id pub-id-type="pmid">22851511</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bib/bbs037</pub-id></mixed-citation></ref><ref id="ref021"><label>[21]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Oldham</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Langfelder</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horvath</surname>
+<given-names>S</given-names>
+</string-name> (<year>2012</year>) <article-title>Network methods for describing sample relationships in genomic datasets: Application to Huntington’s disease</article-title>. <source>BMC Syst Biol</source>
+<volume>6</volume>, <fpage>63</fpage>.<pub-id pub-id-type="pmid">22691535</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1752-0509-6-63</pub-id><pub-id pub-id-type="pmcid">PMC3441531</pub-id></mixed-citation></ref><ref id="ref022"><label>[22]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>LêCao</surname>
+<given-names>K-A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rohart</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McHugh</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Korn</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wells</surname>
+<given-names>CA</given-names>
+</string-name> (<year>2014</year>) <article-title>YuGene: A simple approach to scale gene expression data derived from different platforms for integrated analyses</article-title>. <source>Genomics</source>
+<volume>103</volume>, <fpage>239</fpage>–<lpage>251</lpage>.<pub-id pub-id-type="pmid">24667244</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ygeno.2014.03.001</pub-id></mixed-citation></ref><ref id="ref023"><label>[23]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guestrin</surname>
+<given-names>C</given-names>
+</string-name> (<year>2016</year>) <article-title>XGBoost: A Scalable Tree Boosting System</article-title>.</mixed-citation></ref><ref id="ref024"><label>[24]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Dhaliwal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nahid</surname>
+<given-names>A-A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abbas</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dhaliwal</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nahid</surname>
+<given-names>A-A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abbas</surname>
+<given-names>R</given-names>
+</string-name> (<year>2018</year>) <article-title>Effective intrusion detection system using XGBoost</article-title>. <source>Information</source>
+<volume>9</volume>, <fpage>149</fpage>.</mixed-citation></ref><ref id="ref025"><label>[25]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Guyon</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weston</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barnhill</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Labs</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bank</surname>
+<given-names>R</given-names>
+</string-name> (<year>2013</year>) <article-title>Tracking cellulase behaviors</article-title>. <source>Biotechnol Bioeng</source>
+<volume>110</volume>, fmvi.</mixed-citation></ref><ref id="ref026"><label>[26]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Šimundić</surname>
+<given-names>AM</given-names>
+</string-name> (<year>2009</year>) <article-title>Measures of diagnostic accuracy: Basic definitions</article-title>. <source>EJIFCC</source>
+<volume>19</volume>, <fpage>203</fpage>–<lpage>211</lpage>.<pub-id pub-id-type="pmid">27683318</pub-id><pub-id pub-id-type="pmcid">PMC4975285</pub-id></mixed-citation></ref><ref id="ref027"><label>[27]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Mitchell</surname>
+<given-names>AJ</given-names>
+</string-name> (<year>2011</year>) <article-title>Sensitivity×PPV is a recognized test called the clinical utility index (CUI+)</article-title>. <source>Eur J Epidemiol</source>
+<volume>26</volume>, <fpage>251</fpage>–<lpage>252</lpage>; author reply 252.<pub-id pub-id-type="pmid">21442261</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10654-011-9561-x</pub-id></mixed-citation></ref><ref id="ref028"><label>[28]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Kamburov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wierling</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lehrach</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herwig</surname>
+<given-names>R</given-names>
+</string-name> (<year>2009</year>) <article-title>ConsensusPathDB - A database for integrating human functional interaction networks</article-title>. <source>Nucleic Acids Res</source>
+<volume>37</volume>, <fpage>623</fpage>–<lpage>628</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkn698</pub-id><pub-id pub-id-type="pmcid">PMC2686562</pub-id><pub-id pub-id-type="pmid">18940869</pub-id></mixed-citation></ref><ref id="ref029"><label>[29]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Peters</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Joehanes</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pilling</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schurmann</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Conneely</surname>
+<given-names>KN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Powell</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reinmaa</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sutphin</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhernakova</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schramm</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>YA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kobes</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tukiainen</surname>
+<given-names>T</given-names>
+</string-name>, <collab>NABEC/UKBEC Consortium</collab>, <string-name name-style="western">
+<surname>Ramos</surname>
+<given-names>YF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Göring</surname>
+<given-names>HHH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fornage</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gharib</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stranger</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Jager</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aviv</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levy</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murabito</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Munson</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huan</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hofman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Uitterlinden</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rivadeneira</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Rooij</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stolk</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Broer</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verbiest</surname>
+<given-names>MMPJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jhamai</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arp</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Metspalu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tserel</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Milani</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Samani</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peterson</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kasela</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Codd</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peters</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ward-Caviness</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herder</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Waldenberger</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roden</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singmann</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeilinger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Illig</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Homuth</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grabe</surname>
+<given-names>H-J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Völzke</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steil</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kocher</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murray</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Melzer</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yaghootkar</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bandinelli</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moses</surname>
+<given-names>EK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kent</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Curran</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams-Blangero</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Westra</surname>
+<given-names>H-J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McRae</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kardia</surname>
+<given-names>SLR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hovatta</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perola</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ripatti</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salomaa</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Henders</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martin</surname>
+<given-names>NG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehta</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Binder</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nylocks</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kennedy</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klengel</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ding</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suchy-Dicey</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Enquobahrie</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brody</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rotter</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y-DI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Houwing-Duistermaat</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kloppenburg</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Slagboom</surname>
+<given-names>PE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Helmer</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>den Hollander</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bean</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raj</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bakhshi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>QP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oyston</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Psaty</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tracy</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Montgomery</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Turner</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blangero</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meulenbelt</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ressler</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Franke</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kettunen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Visscher</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neely</surname>
+<given-names>GG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Korstanje</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanson</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prokisch</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferrucci</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Esko</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Teumer</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Meurs</surname>
+<given-names>JBJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>AD</given-names>
+</string-name> (<year>2015</year>) <article-title>The transcriptional landscape of age in human peripheral blood</article-title>. <source>Nat Commun</source>
+<volume>6</volume>, <fpage>8570</fpage>.<pub-id pub-id-type="pmid">26490707</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncomms9570</pub-id><pub-id pub-id-type="pmcid">PMC4639797</pub-id></mixed-citation></ref><ref id="ref030"><label>[30]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Huang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nguyen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ibrahim</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shantharam</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yue</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>JY</given-names>
+</string-name> (<year>2015</year>) <article-title>DMAP: A connectivity map database to enable identification of novel drug repositioning candidates</article-title>. <source>BMC Bioinformatics</source>
+<volume>16</volume>, <fpage>S4</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-2105-16-S13-S4</pub-id><pub-id pub-id-type="pmcid">PMC4597058</pub-id><pub-id pub-id-type="pmid">26423722</pub-id></mixed-citation></ref><ref id="ref031"><label>[31]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Sood</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gallagher</surname>
+<given-names>IJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lunnon</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rullman</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Keohane</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crossland</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Phillips</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cederholm</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jensen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Loon</surname>
+<given-names>LJC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lannfelt</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kraus</surname>
+<given-names>WE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Atherton</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Howard</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gustafsson</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hodges</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Timmons</surname>
+<given-names>JA</given-names>
+</string-name> (<year>2015</year>) <article-title>A novel multi-tissue RNA diagnostic of healthy ageing relates to cognitive health status</article-title>. <source>Genome Biol</source>
+<volume>16</volume>, <fpage>185</fpage>.<pub-id pub-id-type="pmid">26343147</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13059-015-0750-x</pub-id><pub-id pub-id-type="pmcid">PMC4561473</pub-id></mixed-citation></ref><ref id="ref032"><label>[32]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Scherzer</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eklund</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morse</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Locascio</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fefer</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schwarzschild</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schlossmacher</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hauser</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vance</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sudarsky</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Standaert</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Growdon</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jensen</surname>
+<given-names>RV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gullans</surname>
+<given-names>SR</given-names>
+</string-name> (<year>2007</year>) <article-title>Molecular markers of early Parkinson’s disease based on gene expression in blood</article-title>. <source>Proc Natl Acad Sci U S A</source>
+<volume>104</volume>, <fpage>955</fpage>–<lpage>960</lpage>.<pub-id pub-id-type="pmid">17215369</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0610204104</pub-id><pub-id pub-id-type="pmcid">PMC1766335</pub-id></mixed-citation></ref><ref id="ref033"><label>[33]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Calligaris</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Banica</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roncaglia</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robotti</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Finaurini</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vlachouli</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Antonutti</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iorio</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carissimo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cattaruzza</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ceiner</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lazarevic</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cucca</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pangher</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marengo</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>di Bernardo</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pizzolato</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gustincich</surname>
+<given-names>S</given-names>
+</string-name> (<year>2015</year>) <article-title>Blood transcriptomics of drug-naïve sporadic Parkinson’s disease patients</article-title>. <source>BMC Genomics</source>
+<volume>16</volume>, <fpage>876</fpage>.<pub-id pub-id-type="pmid">26510930</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12864-015-2058-3</pub-id><pub-id pub-id-type="pmcid">PMC4625854</pub-id></mixed-citation></ref><ref id="ref034"><label>[34]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Goertsches</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hecker</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koczan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Serrano-Fernandez</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moeller</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thiesen</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zettl</surname>
+<given-names>UK</given-names>
+</string-name> (<year>2010</year>) <article-title>Long-term genome-wide blood RNA expression profiles yield novel molecular response candidates for IFN-beta-1b treatment in relapsing remitting MS</article-title>. <source>Pharmacogenomics</source>
+<volume>11</volume>, <fpage>147</fpage>–<lpage>161</lpage>.<pub-id pub-id-type="pmid">20136355</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2217/pgs.09.152</pub-id></mixed-citation></ref><ref id="ref035"><label>[35]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>De Jager</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jia</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Bakker</surname>
+<given-names>PIW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ottoboni</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aggarwal</surname>
+<given-names>NT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piccio</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raychaudhuri</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tran</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aubin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Briskin</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romano</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baranzini</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCauley</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pericak-Vance</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haines</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gibson</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Naeglin</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Uitdehaag</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matthews</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kappos</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Polman</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McArdle</surname>
+<given-names>WL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Strachan</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Evans</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cross</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daly</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Compston</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sawcer</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weiner</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hauser</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hafler</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oksenberg</surname>
+<given-names>JR</given-names>
+</string-name> (<year>2009</year>) <article-title>Meta-analysis of genome scans and replication identify CD6, IRF8 and TNFRSF1A as new multiple sclerosis susceptibility loci</article-title>. <source>Nat Genet</source>
+<volume>41</volume>, <fpage>776</fpage>–<lpage>782</lpage>.<pub-id pub-id-type="pmid">19525953</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ng.401</pub-id><pub-id pub-id-type="pmcid">PMC2757648</pub-id></mixed-citation></ref><ref id="ref036"><label>[36]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Irizar</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muñoz-Culla</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sepú Lveda</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sáenz-Cuesta</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prada</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Castillo-Triviño</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zamora-Ló Pez</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Munain</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olascoaga</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Otaegui</surname>
+<given-names>D</given-names>
+</string-name> (<year>2014</year>) <article-title>Transcriptomic profile reveals gender-specific molecular mechanisms driving multiple sclerosis progression</article-title>. <source>PLoS One</source>
+<volume>9</volume>, <fpage>e90482</fpage>.<pub-id pub-id-type="pmid">24587374</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0090482</pub-id><pub-id pub-id-type="pmcid">PMC3938749</pub-id></mixed-citation></ref><ref id="ref037"><label>[37]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>de Jong</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boks</surname>
+<given-names>MPM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fuller</surname>
+<given-names>TF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Strengman</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janson</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Kovel</surname>
+<given-names>CGF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ori</surname>
+<given-names>APS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mulder</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blom</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Glenthøj</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schubart</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cahn</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kahn</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horvath</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ophoff</surname>
+<given-names>RA</given-names>
+</string-name> (<year>2012</year>) <article-title>A gene co-expression network in whole blood of schizophrenia patients is independent of antipsychotic-use and enriched for brain-expressed genes</article-title>. <source>PLoS One</source>
+<volume>7</volume>, <fpage>e39498</fpage>.<pub-id pub-id-type="pmid">22761806</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0039498</pub-id><pub-id pub-id-type="pmcid">PMC3384650</pub-id></mixed-citation></ref><ref id="ref038"><label>[38]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>van Beveren</surname>
+<given-names>NJM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buitendijk</surname>
+<given-names>GHS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swagemakers</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krab</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Röder</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Haan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van der Spek</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elgersma</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2012</year>) <article-title>Marked reduction of AKT1 expression and deregulation of AKT1-associated pathways in peripheral blood mononuclear cells of schizophrenia patients</article-title>. <source>PLoS One</source>
+<volume>7</volume>, <fpage>e32618</fpage>.<pub-id pub-id-type="pmid">22393424</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0032618</pub-id><pub-id pub-id-type="pmcid">PMC3290567</pub-id></mixed-citation></ref><ref id="ref039"><label>[39]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Clelland</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Read</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Panek</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nadrich</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bancroft</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clelland</surname>
+<given-names>JD</given-names>
+</string-name> (<year>2013</year>) <article-title>Utilization of never-medicated bipolar disorder patients towards development and validation of a peripheral biomarker profile</article-title>. <source>PLoS One</source>
+<volume>8</volume>, <fpage>e69082</fpage>.<pub-id pub-id-type="pmid">23826396</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0069082</pub-id><pub-id pub-id-type="pmcid">PMC3691117</pub-id></mixed-citation></ref><ref id="ref040"><label>[40]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Beech</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lowthert</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leffert</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mason</surname>
+<given-names>PN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taylor</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Umlauf</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maloney</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muralidharan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lorberg</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Newton</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mane</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Epperson</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sinha</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blumberg</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhagwagar</surname>
+<given-names>Z</given-names>
+</string-name> (<year>2010</year>) <article-title>Increased peripheral blood expression of electron transport chain genes in bipolar depression</article-title>. <source>Bipolar Disord</source>
+<volume>12</volume>, <fpage>813</fpage>–<lpage>824</lpage>.<pub-id pub-id-type="pmid">21176028</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1399-5618.2010.00882.x</pub-id><pub-id pub-id-type="pmcid">PMC3076072</pub-id></mixed-citation></ref><ref id="ref041"><label>[41]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Ellsworth</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Croft</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weyandt</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sturtz</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blackburn</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burke</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haberkorn</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McDyer</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jellema</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Laar</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mamula</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vernalis</surname>
+<given-names>MN</given-names>
+</string-name> (<year>2014</year>) <article-title>Intensive cardiovascular risk reduction induces sustainable changes in expression of genes and pathways important to vascular function</article-title>. <source>Circ Cardiovasc Genet</source>
+<volume>7</volume>, <fpage>151</fpage>–<lpage>160</lpage>.<pub-id pub-id-type="pmid">24563419</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCGENETICS.113.000121</pub-id></mixed-citation></ref><ref id="ref042"><label>[42]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Maciejak</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kiliszek</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Michalak</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tulacz</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Opolski</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matlak</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dobrzycki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Segiet</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gora</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burzynska</surname>
+<given-names>B</given-names>
+</string-name> (<year>2015</year>) <article-title>Gene expression profiling reveals potential prognostic biomarkers associated with the progression of heart failure</article-title>. <source>Genome Med</source>
+<volume>7</volume>, <fpage>26</fpage>.<pub-id pub-id-type="pmid">25984239</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13073-015-0149-z</pub-id><pub-id pub-id-type="pmcid">PMC4432772</pub-id></mixed-citation></ref><ref id="ref043"><label>[43]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Sinnaeve</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Donahue</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grass</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seo</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vonderscher</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chibout</surname>
+<given-names>S-D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kraus</surname>
+<given-names>WE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sketch</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nelson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ginsburg</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goldschmidt-Clermont</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Granger</surname>
+<given-names>CB</given-names>
+</string-name> (<year>2009</year>) <article-title>Gene expression patterns in peripheral blood correlate with the extent of coronary artery disease</article-title>. <source>PLoS One</source>
+<volume>4</volume>, <fpage>e7037</fpage>.<pub-id pub-id-type="pmid">19750006</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0007037</pub-id><pub-id pub-id-type="pmcid">PMC2736586</pub-id></mixed-citation></ref><ref id="ref044"><label>[44]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Walsh</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Whitaker</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cherkas</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lamberth</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brodmerkel</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Curran</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dobrin</surname>
+<given-names>R</given-names>
+</string-name> (<year>2016</year>) <article-title>Integrative genomic deconvolution of rheumatoid arthritis GWAS loci into gene and cell type associations</article-title>. <source>Genome Biol</source>
+<volume>17</volume>, <fpage>79</fpage>.<pub-id pub-id-type="pmid">27140173</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13059-016-0948-6</pub-id><pub-id pub-id-type="pmcid">PMC4853861</pub-id></mixed-citation></ref><ref id="ref045"><label>[45]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Sellam</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marion-Thore</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dumont</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jacques</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garchon</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rouanet</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taoufik</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hendel-Chavez</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sibilia</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tebib</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Le Loët</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Combe</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dougados</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mariette</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chiocchia</surname>
+<given-names>G</given-names>
+</string-name> (<year>2014</year>) <article-title>Use of whole-blood transcriptomic profiling to highlight several pathophysiologic pathways associated with response to rituximab in patients with rheumatoid arthritis: Data from a randomized, controlled, open-label trial</article-title>. <source>Arthritis Rheumatol</source>
+<volume>66</volume>, <fpage>2015</fpage>–<lpage>2025</lpage>.<pub-id pub-id-type="pmid">24756903</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/art.38671</pub-id></mixed-citation></ref><ref id="ref046"><label>[46]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Mesko</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poliska</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Váncsa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Szekanecz</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palatka</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hollo</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horvath</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steiner</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zahuczky</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Podani</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nagy</surname>
+<given-names>L</given-names>
+</string-name> (<year>2013</year>) <article-title>Peripheral blood derived gene panels predict response to infliximab in rheumatoid arthritis and Crohn’s disease</article-title>. <source>Genome Med</source>
+<volume>5</volume>, <fpage>59</fpage>.<pub-id pub-id-type="pmid">23809696</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/gm463</pub-id><pub-id pub-id-type="pmcid">PMC4064310</pub-id></mixed-citation></ref><ref id="ref047"><label>[47]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Singh</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fox</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tal-Singer</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bates</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Riley</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Celli</surname>
+<given-names>B</given-names>
+</string-name> (<year>2014</year>) <article-title>Altered gene expression in blood and sputum in copd frequent exacerbators in the eclipse cohort</article-title>. <source>PLoS One</source>
+<volume>9</volume>, <fpage>e107381</fpage>.<pub-id pub-id-type="pmid">25265030</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0107381</pub-id><pub-id pub-id-type="pmcid">PMC4179270</pub-id></mixed-citation></ref><ref id="ref048"><label>[48]</label><mixed-citation publication-type="journal">
+<string-name name-style="western">
+<surname>Bahr</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hughes</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Armstrong</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reisdorph</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coldren</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Edwards</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schnell</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kedl</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>LaFlamme</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reisdorph</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kechris</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bowler</surname>
+<given-names>RP</given-names>
+</string-name> (<year>2013</year>) <article-title>Peripheral blood mononuclear cell gene expression in chronic obstructive pulmonary disease</article-title>. <source>Am J Respir Cell Mol Biol</source>
+<volume>49</volume>, <fpage>316</fpage>–<lpage>323</lpage>.<pub-id pub-id-type="pmid">23590301</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1165/rcmb.2012-0230OC</pub-id><pub-id pub-id-type="pmcid">PMC3824029</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

@@ -1,0 +1,9 @@
+accession,geo_accession,sample_id,reason,evidence,source_file,status
+GSE99039,GSM2631208,E7R_037b04,diagnosis label AMBIGUOUS: 'HD_HD_BATCH',GEO sample characteristics (char:disease label),GEO sample records,PROPOSED_FOR_REVIEW_NOT_APPLIED
+GSE99039,GSM2631209,E7R_037b05,diagnosis label AMBIGUOUS: 'HD_HD_BATCH',GEO sample characteristics (char:disease label),GEO sample records,PROPOSED_FOR_REVIEW_NOT_APPLIED
+GSE99039,GSM2631210,E7R_037b06,diagnosis label AMBIGUOUS: 'HD_HD_BATCH',GEO sample characteristics (char:disease label),GEO sample records,PROPOSED_FOR_REVIEW_NOT_APPLIED
+GSE99039,GSM2631211,E7R_037c16,diagnosis label AMBIGUOUS: 'HD_HD_BATCH',GEO sample characteristics (char:disease label),GEO sample records,PROPOSED_FOR_REVIEW_NOT_APPLIED
+GSE99039,GSM2631212,E7R_037c17,diagnosis label AMBIGUOUS: 'HD_HD_BATCH',GEO sample characteristics (char:disease label),GEO sample records,PROPOSED_FOR_REVIEW_NOT_APPLIED
+GSE99039,GSM2631213,E7R_037c23,diagnosis label AMBIGUOUS: 'HD_HD_BATCH',GEO sample characteristics (char:disease label),GEO sample records,PROPOSED_FOR_REVIEW_NOT_APPLIED
+GSE99039,GSM2631214,E7R_037d06,diagnosis label AMBIGUOUS: 'HD_HD_BATCH',GEO sample characteristics (char:disease label),GEO sample records,PROPOSED_FOR_REVIEW_NOT_APPLIED
+GSE99039,GSM2631215,E7R_037d12,diagnosis label AMBIGUOUS: 'HD_HD_BATCH',GEO sample characteristics (char:disease label),GEO sample records,PROPOSED_FOR_REVIEW_NOT_APPLIED

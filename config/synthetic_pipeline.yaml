@@ -1,0 +1,35 @@
+# Synthetic end-to-end pipeline (SYNTHETIC DATA ONLY; no real cohort data are read).
+# Run: python scripts/run_synthetic_pipeline.py --config config/synthetic_pipeline.yaml
+run_name: synthetic_demo
+seed: 20261011
+# Default output: reports/synthetic_pipeline/<run_name>_seed<seed>/ (cleared and rewritten each run)
+
+synthetic:            # generator settings (biomarker_project.synthetic_data.SyntheticSpec)
+  n_ad: 60
+  n_ctl: 60
+  n_mci: 20           # generated, then removed by the contrast-label rule (not analysed)
+  n_features: 2000
+  n_up: 25            # planted AD - CTL effect +effect_log2
+  n_down: 25          # planted AD - CTL effect -effect_log2
+  effect_log2: 1.0
+  n_age: 20
+  age_effect_per_year: 0.03
+  n_sex: 10
+  sex_effect_male: 2.0
+  noise_sd: 0.5
+  include_sex_probes: true    # XIST + 13 Y probes (approved R8 probe IDs) so R8 can run
+  n_recorded_sex_swaps: 3     # planted recorded-sex errors (expected R8 two-axis discordant)
+
+analysis:
+  case: AD
+  control: CTL
+  covariates: [age, sex]   # demonstration design only; the real covariate set is governed by the SAP
+  covariate_levels:
+    sex: [F, M]
+  fdr_level: 0.05
+  ci_level: 0.95
+  method: limma            # D8: lmFit + eBayes(trend=TRUE, robust=FALSE) via R/limma_de.R; "ols" = numpy reference
+
+qc:
+  enabled: true               # QC Stage A on SYNTHETIC cohorts only; blocked for real cohorts (v7:625)
+  boundary_fixtures: true     # also run the deterministic R8/R9 boundary cohorts (qc_fixtures.py)

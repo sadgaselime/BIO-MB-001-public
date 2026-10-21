@@ -1,0 +1,26 @@
+{
+  "c2_expression_candidates": "not handled here (Tier B step 6, after QC Stage A)",
+  "candidate_source": "C1 (metadata)",
+  "characteristic_keys_seen": [
+    "age",
+    "ethnicity",
+    "gender",
+    "included in case -control study",
+    "status",
+    "tissue"
+  ],
+  "cohort": "GSE63060",
+  "fields_examined": [
+    "!Sample_description",
+    "!Sample_geo_accession",
+    "!Sample_title",
+    "all other !Sample_* values except characteristics values and !Sample_contact_* (for 'replicate')",
+    "characteristics keys only (for 'replicate')"
+  ],
+  "n_candidates": 0,
+  "review_date": null,
+  "reviewer": "not applicable (no candidates)",
+  "rule_reference": "v6 \u00a74; D18 (v7:621), approved 2026-10-18",
+  "status": "complete: no C1 candidates; no reviewer decision required",
+  "tier_b_step": 4
+}

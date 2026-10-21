@@ -1,0 +1,119 @@
+{
+  "retrieved_for": "BIO-MB-001 Phase 2C v1",
+  "sources": [
+    {
+      "file": "pubmed_22466004.xml",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=22466004&retmode=xml",
+      "what": "PubMed record + abstract: Lunnon K et al., J Alzheimers Dis 2012;30:685-710, doi 10.3233/JAD-2012-111592",
+      "sha256": "045cc8b18f27be77cec5705c9cfbc830247f3c36b9b67dc5e0a28c766870fec8",
+      "bytes": 9277,
+      "retrieved_at_utc": "2026-10-09T15:03:49+00:00"
+    },
+    {
+      "file": "pubmed_23042217.xml",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=23042217&retmode=xml",
+      "what": "PubMed record + abstract: Lunnon K et al., J Alzheimers Dis 2013;33:737-53, doi 10.3233/JAD-2012-121363",
+      "sha256": "81086523a399f84dc412a51e12bc4c328fca390b89bb9369f59909618b7b6a40",
+      "bytes": 9168,
+      "retrieved_at_utc": "2026-10-09T15:03:50+00:00"
+    },
+    {
+      "file": "pubmed_19906259.xml",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=19906259&retmode=xml",
+      "what": "PubMed record + abstract: Lovestone S et al., Ann N Y Acad Sci 2009;1180:36-46, doi 10.1111/j.1749-6632.2009.05064.x",
+      "sha256": "3dbc46818bff77725c22ef959485d413b4b397f680dc7d7ade446a0c77af4ab1",
+      "bytes": 5973,
+      "retrieved_at_utc": "2026-10-09T15:03:52+00:00"
+    },
+    {
+      "file": "epmc_22466004.json",
+      "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:22466004%20AND%20SRC:MED&format=json&resultType=core",
+      "what": "Europe PMC availability record (not open access; subscription required)",
+      "sha256": "b4f0488c11d41ace7b0abbd9b7f68e8cab0722ee4dae99a28156c0ad53b46a75",
+      "bytes": 9417,
+      "retrieved_at_utc": "2026-10-09T15:04:03+00:00"
+    },
+    {
+      "file": "epmc_23042217.json",
+      "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:23042217%20AND%20SRC:MED&format=json&resultType=core",
+      "what": "Europe PMC availability record (not open access; subscription required)",
+      "sha256": "a544a85604e6d8034bfd484a362c1936d9d7dc395758e3a87c1fe3c0ed534748",
+      "bytes": 8661,
+      "retrieved_at_utc": "2026-10-09T15:04:04+00:00"
+    },
+    {
+      "file": "epmc_19906259.json",
+      "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:19906259%20AND%20SRC:MED&format=json&resultType=core",
+      "what": "Europe PMC availability record (not open access; subscription required)",
+      "sha256": "8d91cb3f1b1f47c6dfa1bb9489e38d15094644a652ba8a4a7ba918a23eb3eb03",
+      "bytes": 5449,
+      "retrieved_at_utc": "2026-10-09T15:04:05+00:00"
+    },
+    {
+      "file": "PMC7175937.xml",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=7175937&retmode=xml",
+      "what": "Full text: Patel H, Iniesta R, Stahl D, Dobson RJB, Newhouse SJ. J Alzheimers Dis 2020 (PMID 32065794, doi 10.3233/JAD-191163); CC BY-NC 4.0",
+      "sha256": "feaad22a444fcae2a1a8ef61f2803b567fb6ad3a47fdd95588d143eddd1918af",
+      "bytes": 187980,
+      "retrieved_at_utc": "2026-10-09T15:05:55+00:00"
+    },
+    {
+      "file": "GSE144858_series_brief.soft.txt",
+      "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE144858&targ=self&form=text&view=brief",
+      "what": "GEO series record (AddNeuroMed blood DNA methylation; PMID 32745807)",
+      "sha256": "cafcff2c4294535210fd00b7d8d36101e5d5889bfaa17b8724cbfb10a9f1434d",
+      "bytes": 11693,
+      "retrieved_at_utc": "2026-10-09T15:05:03+00:00"
+    },
+    {
+      "file": "GSE144858_samples_brief.soft.txt",
+      "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE144858&targ=gsm&form=text&view=brief",
+      "what": "GEO sample records for GSE144858 (metadata only)",
+      "sha256": "a10cb4b9af437fd073f16341f58ef7f4a7415e729cad2d92c34211218872f140",
+      "bytes": 558485,
+      "retrieved_at_utc": "2026-10-09T15:05:17+00:00"
+    },
+    {
+      "file": "gds_addneuromed_summary.json",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gds&id=<ids from esearch db=gds term=AddNeuroMed>&retmode=json",
+      "what": "GEO search result: series mentioning AddNeuroMed (4 found)",
+      "sha256": "5e962546d80cdd881d3c2beab72e0261c456ddb327931378400992817627f940",
+      "bytes": 94165,
+      "retrieved_at_utc": "2026-10-09T15:04:52+00:00"
+    },
+    {
+      "file": "mismatch_candidates_summary.json",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pmc&id=<ids from esearch db=pmc term=GSE63060 AND (mismatch* OR mislabel* OR \"sample swap*\" OR \"sample identity\")>&retmode=json",
+      "what": "PMC full-text search candidates (8)",
+      "sha256": "a3970d484bf90353bf87daa7039a7999e7c2071eb7756f450be557eef6abd9f5",
+      "bytes": 7049,
+      "retrieved_at_utc": "2026-10-09T15:05:36+00:00"
+    }
+  ],
+  "checked_not_stored": [
+    {
+      "source_url": "https://doi.org/10.3233/JAD-2012-111592 -> journals.sagepub.com",
+      "finding": "HTTP 403 bot-detection challenge; full text not accessed (not bypassed)"
+    },
+    {
+      "source_url": "https://doi.org/10.3233/JAD-2012-121363 -> journals.sagepub.com",
+      "finding": "HTTP 403 bot-detection challenge; full text not accessed (not bypassed)"
+    },
+    {
+      "source_url": "https://doi.org/10.1111/j.1749-6632.2009.05064.x -> nyaspubs.onlinelibrary.wiley.com",
+      "finding": "HTTP 403 bot-detection challenge; full text not accessed (not bypassed)"
+    },
+    {
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gds&term=22466004[PMID] (and 23042217, 19906259)",
+      "finding": "0 GEO series linked to any of the three papers"
+    },
+    {
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=13360218&retmode=xml",
+      "finding": "Diagnostics 2026 (PMID 42449859): uses all 329 GSE63060 samples as a cross-sectional cohort; no conversion, timing, exclusion or ID information; not stored"
+    },
+    {
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pmc&term=GSE63060",
+      "finding": "161 PMC full-text articles mention GSE63060; 31 also mention outlier exclusion/removal; not reviewed individually"
+    }
+  ]
+}

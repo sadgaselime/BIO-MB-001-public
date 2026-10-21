@@ -1,0 +1,398 @@
+platform	probe_id	package_gene_id	option_a_class	option_a_gene_id	history_chain	accession_route_gene	accessions	M2_result	M1_result
+illuminaHumanv3	ILMN_1652015	158696	eligible_via_history_replacement	2258	158696>2258	2258	NR_026935	different	concordant
+illuminaHumanv3	ILMN_1656743	117153	eligible_via_history_replacement	4253	117153>4253	4253	NM_054024	different	concordant
+illuminaHumanv3	ILMN_1657288	375513	eligible_direct	375513		106660613	NR_003660	different	discordant
+illuminaHumanv3	ILMN_1658254	158696	eligible_via_history_replacement	2258	158696>2258	2258	NR_026935	different	concordant
+illuminaHumanv3	ILMN_1660196	643923	eligible_via_history_replacement	55531	643923>55531	55531	NR_028328	different	concordant
+illuminaHumanv3	ILMN_1661495	643314	eligible_via_history_replacement	23499	643314>23499	23499	NM_015038	different	concordant
+illuminaHumanv3	ILMN_1662086	2978	eligible_direct	2978		118142757	NM_000409	different	discordant
+illuminaHumanv3	ILMN_1665508	26148	eligible_via_history_replacement	84458	26148>84458	84458	NM_015652	different	concordant
+illuminaHumanv3	ILMN_1669287	414767	eligible_via_history_replacement	102724845	414767>102724845	102724845	NR_024081	different	concordant
+illuminaHumanv3	ILMN_1669507	9220	eligible_via_history_replacement	399687	9220>399687	399687	NM_004740	different	concordant
+illuminaHumanv3	ILMN_1677435	158696	eligible_via_history_replacement	2258	158696>2258	2258	NR_026935	different	concordant
+illuminaHumanv3	ILMN_1688703	284083	eligible_via_history_replacement	5414	284083>5414	5414	NM_001038704	different	concordant
+illuminaHumanv3	ILMN_1697476	643763	eligible_via_history_replacement	286183	643763>286183	286183	NR_027378	different	concordant
+illuminaHumanv3	ILMN_1697691	401388	eligible_via_history_replacement	7979	401388>7979	7979	NM_001201450;NM_001201451	different	concordant
+illuminaHumanv3	ILMN_1698445	114299	eligible_via_history_replacement	445815	114299>445815	445815	NM_001037293;NM_053016	different	concordant
+illuminaHumanv3	ILMN_1701565	80761	eligible_via_history_replacement	105375355	80761>105375355	105375355	NM_030570	different	concordant
+illuminaHumanv3	ILMN_1706441	80761	eligible_via_history_replacement	105375355	80761>105375355	105375355	NM_030570;NM_182684	different	concordant
+illuminaHumanv3	ILMN_1717975	50626	eligible_direct	50626		84773	NM_001129888;NM_032687	different	discordant
+illuminaHumanv3	ILMN_1722670	66004	eligible_direct	66004		432355	NM_177458	different	discordant
+illuminaHumanv3	ILMN_1729962	100506627	eligible_via_history_replacement	341019	100506627>341019	341019	NM_020869	different	concordant
+illuminaHumanv3	ILMN_1730516	83935	eligible_via_history_replacement	143872	83935>143872	143872	NM_032021	different	concordant
+illuminaHumanv3	ILMN_1737663	129790	eligible_via_history_replacement	100506380	129790>100506380	100506380	NR_026865	different	concordant
+illuminaHumanv3	ILMN_1737754	11217	eligible_via_history_replacement	445815	11217>445815	445815	NM_001004065;NM_001198656	different	concordant
+illuminaHumanv3	ILMN_1740308	158696	eligible_via_history_replacement	2258	158696>2258	2258	NR_026935	different	concordant
+illuminaHumanv3	ILMN_1743232	84953	eligible_via_history_replacement	9645	84953>9645	9645	NM_032867	different	concordant
+illuminaHumanv3	ILMN_1757561	85009	eligible_via_history_replacement	9759	85009>9759	9759	NR_026664	different	concordant
+illuminaHumanv3	ILMN_1762883	9718	eligible_direct	9718		110599564	NM_032331	different	discordant
+illuminaHumanv3	ILMN_1770130	387638	eligible_via_history_replacement	10529	387638>10529	10529	NM_001010896;NM_001177483	different	concordant
+illuminaHumanv3	ILMN_1770410	554223	eligible_via_history_replacement	352962	554223>352962	352962	NM_001207043	different	concordant
+illuminaHumanv3	ILMN_1772739	143188	eligible_via_history_replacement	143187	143188>143187	143187	NR_015409	different	concordant
+illuminaHumanv3	ILMN_1776240	51207	eligible_direct	51207		128854680	NM_001007271	different	discordant
+illuminaHumanv3	ILMN_1781236	554223	eligible_via_history_replacement	352962	554223>352962	352962	NM_001207043	different	concordant
+illuminaHumanv3	ILMN_1784428	401884	eligible_via_history_replacement	147081	401884>147081	147081	NR_026680;NR_027295	different	concordant
+illuminaHumanv3	ILMN_1793435	23285	eligible_via_history_replacement	284697	23285>284697	284697	NM_015237	different	concordant
+illuminaHumanv3	ILMN_1794672	286223	eligible_via_history_replacement	1903	286223>1903	1903	NM_001001938;NM_001142413	different	concordant
+illuminaHumanv3	ILMN_1800227	64788	eligible_direct	64788		115804232	NR_033645;NR_036442	different	discordant
+illuminaHumanv3	ILMN_1802518	147172	eligible_direct	147172		107133515	NR_015341	different	discordant
+illuminaHumanv3	ILMN_1803024	80761	eligible_via_history_replacement	105375355	80761>105375355	105375355	NM_030570;NM_182684	different	concordant
+illuminaHumanv3	ILMN_1845757	100506136	eligible_via_history_replacement	7979	100506136>7979	7979	NR_038948	different	concordant
+illuminaHumanv3	ILMN_2055634	9220	eligible_via_history_replacement	399687	9220>399687	399687	NM_004740	different	concordant
+illuminaHumanv3	ILMN_2075221	284083	eligible_via_history_replacement	5414	284083>5414	5414	NM_001038704	different	concordant
+illuminaHumanv3	ILMN_2158665	117153	eligible_via_history_replacement	4253	117153>4253	4253	NM_054024	different	concordant
+illuminaHumanv3	ILMN_2185339	220074	eligible_direct	220074		120356739	NM_001145307;NM_001205138;NM_145309	different	discordant
+illuminaHumanv3	ILMN_2188155	645840	eligible_via_history_replacement	114112	645840>114112	114112	NM_001039783	different	concordant
+illuminaHumanv3	ILMN_2209671	100506627	eligible_via_history_replacement	341019	100506627>341019	341019	NM_020869	different	concordant
+illuminaHumanv3	ILMN_2228749	643923	eligible_via_history_replacement	55531	643923>55531	55531	NR_028328	different	concordant
+illuminaHumanv3	ILMN_2264177	80761	eligible_via_history_replacement	105375355	80761>105375355	105375355	NM_182684	different	concordant
+illuminaHumanv3	ILMN_2284941	10061	eligible_direct	10061		114483834	NM_005692	different	discordant
+illuminaHumanv3	ILMN_2353276	80761	eligible_via_history_replacement	105375355	80761>105375355	105375355	NM_030570;NM_182684	different	concordant
+illuminaHumanv3	ILMN_2369403	114299	eligible_via_history_replacement	445815	114299>445815	445815	NM_001037293;NM_053016	different	concordant
+illuminaHumanv4	ILMN_1652015	158696	eligible_via_history_replacement	2258	158696>2258	2258	NR_026935	different	concordant
+illuminaHumanv4	ILMN_1656743	117153	eligible_via_history_replacement	4253	117153>4253	4253	NM_054024	different	concordant
+illuminaHumanv4	ILMN_1657288	375513	eligible_direct	375513		106660613	NR_003660	different	discordant
+illuminaHumanv4	ILMN_1658254	158696	eligible_via_history_replacement	2258	158696>2258	2258	NR_026935	different	concordant
+illuminaHumanv4	ILMN_1660196	643923	eligible_via_history_replacement	55531	643923>55531	55531	NR_028328	different	concordant
+illuminaHumanv4	ILMN_1661495	643314	eligible_via_history_replacement	23499	643314>23499	23499	NM_015038	different	concordant
+illuminaHumanv4	ILMN_1662086	2978	eligible_direct	2978		118142757	NM_000409	different	discordant
+illuminaHumanv4	ILMN_1665508	26148	eligible_via_history_replacement	84458	26148>84458	84458	NM_015652	different	concordant
+illuminaHumanv4	ILMN_1669287	414767	eligible_via_history_replacement	102724845	414767>102724845	102724845	NR_024081	different	concordant
+illuminaHumanv4	ILMN_1669507	9220	eligible_via_history_replacement	399687	9220>399687	399687	NM_004740	different	concordant
+illuminaHumanv4	ILMN_1677435	158696	eligible_via_history_replacement	2258	158696>2258	2258	NR_026935	different	concordant
+illuminaHumanv4	ILMN_1688703	284083	eligible_via_history_replacement	5414	284083>5414	5414	NM_001038704	different	concordant
+illuminaHumanv4	ILMN_1697476	643763	eligible_via_history_replacement	286183	643763>286183	286183	NR_027378	different	concordant
+illuminaHumanv4	ILMN_1697691	401388	eligible_via_history_replacement	7979	401388>7979	7979	NM_001201450;NM_001201451	different	concordant
+illuminaHumanv4	ILMN_1698445	114299	eligible_via_history_replacement	445815	114299>445815	445815	NM_001037293;NM_053016	different	concordant
+illuminaHumanv4	ILMN_1701565	80761	eligible_via_history_replacement	105375355	80761>105375355	105375355	NM_030570	different	concordant
+illuminaHumanv4	ILMN_1706441	80761	eligible_via_history_replacement	105375355	80761>105375355	105375355	NM_030570;NM_182684	different	concordant
+illuminaHumanv4	ILMN_1717975	50626	eligible_direct	50626		84773	NM_001129888;NM_032687	different	discordant
+illuminaHumanv4	ILMN_1722670	66004	eligible_direct	66004		432355	NM_177458	different	discordant
+illuminaHumanv4	ILMN_1729962	100506627	eligible_via_history_replacement	341019	100506627>341019	341019	NM_020869	different	concordant
+illuminaHumanv4	ILMN_1730516	83935	eligible_via_history_replacement	143872	83935>143872	143872	NM_032021	different	concordant
+illuminaHumanv4	ILMN_1737663	129790	eligible_via_history_replacement	100506380	129790>100506380	100506380	NR_026865	different	concordant
+illuminaHumanv4	ILMN_1737754	11217	eligible_via_history_replacement	445815	11217>445815	445815	NM_001004065;NM_001198656	different	concordant
+illuminaHumanv4	ILMN_1740308	158696	eligible_via_history_replacement	2258	158696>2258	2258	NR_026935	different	concordant
+illuminaHumanv4	ILMN_1743232	84953	eligible_via_history_replacement	9645	84953>9645	9645	NM_032867	different	concordant
+illuminaHumanv4	ILMN_1757561	85009	eligible_via_history_replacement	9759	85009>9759	9759	NR_026664	different	concordant
+illuminaHumanv4	ILMN_1762883	9718	eligible_direct	9718		110599564	NM_032331	different	discordant
+illuminaHumanv4	ILMN_1770130	387638	eligible_via_history_replacement	10529	387638>10529	10529	NM_001010896;NM_001177483	different	concordant
+illuminaHumanv4	ILMN_1770410	554223	eligible_via_history_replacement	352962	554223>352962	352962	NM_001207043	different	concordant
+illuminaHumanv4	ILMN_1772739	143188	eligible_via_history_replacement	143187	143188>143187	143187	NR_015409	different	concordant
+illuminaHumanv4	ILMN_1776240	51207	eligible_direct	51207		128854680	NM_001007271	different	discordant
+illuminaHumanv4	ILMN_1781236	554223	eligible_via_history_replacement	352962	554223>352962	352962	NM_001207043	different	concordant
+illuminaHumanv4	ILMN_1784428	401884	eligible_via_history_replacement	147081	401884>147081	147081	NR_026680;NR_027295	different	concordant
+illuminaHumanv4	ILMN_1793435	23285	eligible_via_history_replacement	284697	23285>284697	284697	NM_015237	different	concordant
+illuminaHumanv4	ILMN_1794672	286223	eligible_via_history_replacement	1903	286223>1903	1903	NM_001001938;NM_001142413	different	concordant
+illuminaHumanv4	ILMN_1800227	64788	eligible_direct	64788		115804232	NR_033645;NR_036442	different	discordant
+illuminaHumanv4	ILMN_1802518	147172	eligible_direct	147172		107133515	NR_015341	different	discordant
+illuminaHumanv4	ILMN_1803024	80761	eligible_via_history_replacement	105375355	80761>105375355	105375355	NM_030570;NM_182684	different	concordant
+illuminaHumanv4	ILMN_1845757	100506136	eligible_via_history_replacement	7979	100506136>7979	7979	NR_038948	different	concordant
+illuminaHumanv4	ILMN_2055634	9220	eligible_via_history_replacement	399687	9220>399687	399687	NM_004740	different	concordant
+illuminaHumanv4	ILMN_2075221	284083	eligible_via_history_replacement	5414	284083>5414	5414	NM_001038704	different	concordant
+illuminaHumanv4	ILMN_2158665	117153	eligible_via_history_replacement	4253	117153>4253	4253	NM_054024	different	concordant
+illuminaHumanv4	ILMN_2185339	220074	eligible_direct	220074		120356739	NM_001145307;NM_001205138;NM_145309	different	discordant
+illuminaHumanv4	ILMN_2188155	645840	eligible_via_history_replacement	114112	645840>114112	114112	NM_001039783	different	concordant
+illuminaHumanv4	ILMN_2209671	100506627	eligible_via_history_replacement	341019	100506627>341019	341019	NM_020869	different	concordant
+illuminaHumanv4	ILMN_2228749	643923	eligible_via_history_replacement	55531	643923>55531	55531	NR_028328	different	concordant
+illuminaHumanv4	ILMN_2264177	80761	eligible_via_history_replacement	105375355	80761>105375355	105375355	NM_182684	different	concordant
+illuminaHumanv4	ILMN_2284941	10061	eligible_direct	10061		114483834	NM_005692	different	discordant
+illuminaHumanv4	ILMN_2353276	80761	eligible_via_history_replacement	105375355	80761>105375355	105375355	NM_030570;NM_182684	different	concordant
+illuminaHumanv4	ILMN_2369403	114299	eligible_via_history_replacement	445815	114299>445815	445815	NM_001037293;NM_053016	different	concordant
+illuminaHumanv4	ILMN_3180409	100130093	eligible_via_history_replacement	116841	100130093>116841	116841	NR_024485;NR_024486	different	concordant
+illuminaHumanv4	ILMN_3237645	220074	eligible_direct	220074		120356739	NM_001205138;NM_145309	different	discordant
+illuminaHumanv4	ILMN_3237698	147172	eligible_direct	147172		107133515	NR_015341	different	discordant
+illuminaHumanv4	ILMN_3241987	25787	eligible_via_history_replacement	26220	25787>26220	26220	NR_024159	different	concordant
+illuminaHumanv4	ILMN_3242362	92973	eligible_via_history_replacement	51754	92973>51754	51754	NR_024006	different	concordant
+illuminaHumanv4	ILMN_3242407	338809	eligible_via_history_replacement	440107	338809>440107	440107	NM_001037671;NM_001178097	different	concordant
+illuminaHumanv4	ILMN_3242930	140849	eligible_via_history_replacement	107126285	140849>107126285	107126285	NR_040415	different	concordant
+illuminaHumanv4	ILMN_3245166	100127889	eligible_via_history_replacement	387707	100127889>387707	387707	NM_001130446	different	concordant
+illuminaHumanv4	ILMN_3245600	147172	eligible_direct	147172		107133515	NR_015341	different	discordant
+illuminaHumanv4	ILMN_3246247	339044	eligible_direct	339044		131696449	NR_036447	different	discordant
+illuminaHumanv4	ILMN_3249624	339044	eligible_direct	339044		131696449	NR_036447	different	discordant
+illuminaHumanv4	ILMN_3268717	146880	eligible_direct	146880		109286553	NR_026899	different	discordant
+illuminaHumanv4	ILMN_3294213	114299	eligible_via_history_replacement	445815	114299>445815	445815	NM_001037293;NM_053016	different	concordant
+illuminaHumanv4	ILMN_3311025	26222	eligible_via_history_replacement	26220	26222>26220	26220	NR_026651	different	concordant
+lumi HT-12 v4 R2	ILMN_1655952	375690	eligible_direct	375690		100287171	NM_182905	different	discordant
+lumi HT-12 v4 R2	ILMN_1656233	389517	eligible_via_history_replacement	728524	389517>728524	728524	NR_003664	different	concordant
+lumi HT-12 v4 R2	ILMN_1656361	201175	eligible_via_history_replacement	201176	201175>201176	201176	NM_174919	different	concordant
+lumi HT-12 v4 R2	ILMN_1656420	79014	eligible_via_history_replacement	100132341	79014>100132341	100132341	NM_024048	different	concordant
+lumi HT-12 v4 R2	ILMN_1656743	117153	eligible_via_history_replacement	4253	117153>4253	4253	NM_054024	different	concordant
+lumi HT-12 v4 R2	ILMN_1657572	51402	eligible_via_history_replacement	100506164	51402>100506164	100506164	NM_016153	different	concordant
+lumi HT-12 v4 R2	ILMN_1657913	149469	eligible_via_history_replacement	23334	149469>23334	23334	NM_001012960	different	concordant
+lumi HT-12 v4 R2	ILMN_1660196	643923	eligible_via_history_replacement	55531	643923>55531	55531	NM_001039772	different	concordant
+lumi HT-12 v4 R2	ILMN_1660600	389517	eligible_via_history_replacement	728524	389517>728524	728524	NR_003664	different	concordant
+lumi HT-12 v4 R2	ILMN_1660913	284296	eligible_via_history_replacement	729956	284296>729956	729956	NM_175908	different	concordant
+lumi HT-12 v4 R2	ILMN_1661495	643314	eligible_via_history_replacement	23499	643314>23499	23499	NM_015038	different	concordant
+lumi HT-12 v4 R2	ILMN_1662086	2978	eligible_direct	2978		118142757	NM_000409	different	discordant
+lumi HT-12 v4 R2	ILMN_1662391	389517	eligible_via_history_replacement	728524	389517>728524	728524	NR_003664	different	concordant
+lumi HT-12 v4 R2	ILMN_1662989	440083	eligible_via_history_replacement	653247	440083>653247	653247	NM_006248	different	concordant
+lumi HT-12 v4 R2	ILMN_1663005	115648	eligible_via_history_replacement	284443	115648>284443	284443	NM_145326	different	concordant
+lumi HT-12 v4 R2	ILMN_1664231	10431	eligible_via_history_replacement	100652748	10431>100652748	100287932	NM_006327	different	discordant
+lumi HT-12 v4 R2	ILMN_1664351	400850	eligible_via_history_replacement	9885	400850>9885	9885	NM_001001691	different	concordant
+lumi HT-12 v4 R2	ILMN_1664918	158852	eligible_via_history_replacement	728911	158852>728911	728911	NM_152582	different	concordant
+lumi HT-12 v4 R2	ILMN_1665390	389517	eligible_via_history_replacement	728524	389517>728524	728524	NR_003664	different	concordant
+lumi HT-12 v4 R2	ILMN_1665508	26148	eligible_via_history_replacement	84458	26148>84458	84458	NM_015652	different	concordant
+lumi HT-12 v4 R2	ILMN_1667737	284176	eligible_via_history_replacement	8632	284176>8632	8632	NM_173628	different	concordant
+lumi HT-12 v4 R2	ILMN_1669507	9220	eligible_via_history_replacement	399687	9220>399687	399687	NM_004740	different	concordant
+lumi HT-12 v4 R2	ILMN_1673746	10431	eligible_via_history_replacement	100652748	10431>100652748	100287932	NM_006327	different	discordant
+lumi HT-12 v4 R2	ILMN_1675258	441268	eligible_via_history_replacement	107986827	441268>107986827	107986827	NM_001013725	different	concordant
+lumi HT-12 v4 R2	ILMN_1675507	11217	eligible_via_history_replacement	445815	11217>445815	445815	NM_001004065	different	concordant
+lumi HT-12 v4 R2	ILMN_1675632	54076	eligible_via_history_replacement	100505929	54076>100505929	100505929	NM_001005521	different	concordant
+lumi HT-12 v4 R2	ILMN_1676660	284944	eligible_via_history_replacement	1768	284944>1768	1768	NM_173645	different	concordant
+lumi HT-12 v4 R2	ILMN_1677572	405752	eligible_via_history_replacement	83856	405752>83856	83856	NM_207647	different	concordant
+lumi HT-12 v4 R2	ILMN_1678310	645840	eligible_via_history_replacement	114112	645840>114112	114112	NM_001039783	different	concordant
+lumi HT-12 v4 R2	ILMN_1679003	79951	eligible_via_history_replacement	4297	79951>4297	4297	NM_024891	different	concordant
+lumi HT-12 v4 R2	ILMN_1679555	10431	eligible_via_history_replacement	100652748	10431>100652748	100287932	NM_006327	different	discordant
+lumi HT-12 v4 R2	ILMN_1679558	283874	eligible_via_history_replacement	100507321	283874>100507321	100507321	NM_001012731	different	concordant
+lumi HT-12 v4 R2	ILMN_1680432	85287	eligible_via_history_replacement	100132476	85287>100132476	100132476	NM_033061	different	concordant
+lumi HT-12 v4 R2	ILMN_1680665	63930	eligible_direct	63930		100144596	NM_022099	different	discordant
+lumi HT-12 v4 R2	ILMN_1680689	100133171	eligible_via_history_replacement	728695	100133171>728695	728695	NM_145664	different	concordant
+lumi HT-12 v4 R2	ILMN_1682463	283174	eligible_via_history_replacement	22997	283174>22997	22997	NM_001001873	different	concordant
+lumi HT-12 v4 R2	ILMN_1683716	374500	eligible_direct	374500		100887750	NR_002816	different	discordant
+lumi HT-12 v4 R2	ILMN_1683806	414308	eligible_via_history_replacement	4360	414308>4360	4360	NM_001009567	different	concordant
+lumi HT-12 v4 R2	ILMN_1684341	54921	eligible_direct	54921		113455421	NM_001040144	different	discordant
+lumi HT-12 v4 R2	ILMN_1685680	64173	eligible_via_history_replacement	100505741	64173>100505741	100505741	NM_001081472	different	concordant
+lumi HT-12 v4 R2	ILMN_1685705	56988	eligible_via_history_replacement	100507249	56988>100507249	100507249	NM_020237	different	concordant
+lumi HT-12 v4 R2	ILMN_1687835	222521	eligible_via_history_replacement	221264	222521>221264	221264	NM_173559	different	concordant
+lumi HT-12 v4 R2	ILMN_1688703	284083	eligible_via_history_replacement	5414	284083>5414	5414	NM_001038704	different	concordant
+lumi HT-12 v4 R2	ILMN_1689807	401217	eligible_via_history_replacement	100288254	401217>100288254	100288254	NM_001007542	different	concordant
+lumi HT-12 v4 R2	ILMN_1689869	728932	eligible_via_history_replacement	51463	728932>51463	51463	NM_001097616	different	concordant
+lumi HT-12 v4 R2	ILMN_1691212	401013	eligible_via_history_replacement	344148	401013>344148	344148	NM_207481	different	concordant
+lumi HT-12 v4 R2	ILMN_1691959	11217	eligible_via_history_replacement	445815	11217>445815	445815	NM_001004065	different	concordant
+lumi HT-12 v4 R2	ILMN_1692160	85411	eligible_via_history_replacement	54438	85411>54438	54438	NM_033069	different	concordant
+lumi HT-12 v4 R2	ILMN_1692903	284747	eligible_via_history_replacement	100130934	284747>100130934	100130934	NM_173643	different	concordant
+lumi HT-12 v4 R2	ILMN_1696318	285023	eligible_via_history_replacement	100130691	285023>100130691	100130691	NM_182585	different	concordant
+lumi HT-12 v4 R2	ILMN_1696510	728932	eligible_via_history_replacement	51463	728932>51463	51463	NM_001097616	different	concordant
+lumi HT-12 v4 R2	ILMN_1696826	283294	eligible_via_history_replacement	144132	283294>144132	144132	NM_173589	different	concordant
+lumi HT-12 v4 R2	ILMN_1697691	401388	eligible_via_history_replacement	7979	401388>7979	7979	NM_207503	different	concordant
+lumi HT-12 v4 R2	ILMN_1698445	114299	eligible_via_history_replacement	445815	114299>445815	445815	NM_053016	different	concordant
+lumi HT-12 v4 R2	ILMN_1698938	100036519	eligible_via_history_replacement	349334	100036519>349334	349334	NM_001099279	different	concordant
+lumi HT-12 v4 R2	ILMN_1699912	389517	eligible_via_history_replacement	728524	389517>728524	728524	NR_003664	different	concordant
+lumi HT-12 v4 R2	ILMN_1700461	80755	eligible_direct	80755		100885850	NM_025267	different	discordant
+lumi HT-12 v4 R2	ILMN_1700466	389517	eligible_via_history_replacement	728524	389517>728524	728524	NR_003664	different	concordant
+lumi HT-12 v4 R2	ILMN_1701565	80761	eligible_via_history_replacement	105375355	80761>105375355	105375355	NM_030570	different	concordant
+lumi HT-12 v4 R2	ILMN_1701776	8385	eligible_via_history_replacement	653166	8385>653166	653166	NM_003552	different	concordant
+lumi HT-12 v4 R2	ILMN_1702797	541469	eligible_via_history_replacement	90522	541469>90522	90522	NM_001013617	different	concordant
+lumi HT-12 v4 R2	ILMN_1705550	100036519	eligible_via_history_replacement	349334	100036519>349334	349334	NM_001099279	different	concordant
+lumi HT-12 v4 R2	ILMN_1706441	80761	eligible_via_history_replacement	105375355	80761>105375355	105375355	NM_030570	different	concordant
+lumi HT-12 v4 R2	ILMN_1706842	399879	eligible_via_history_replacement	29099	399879>29099	29099	NM_207428	different	concordant
+lumi HT-12 v4 R2	ILMN_1707318	643210	eligible_via_history_replacement	79813	643210>79813	79813	NM_001039765	different	concordant
+lumi HT-12 v4 R2	ILMN_1708714	149421	eligible_via_history_replacement	3925	149421>3925	3925	NM_152497	different	concordant
+lumi HT-12 v4 R2	ILMN_1708941	374467	eligible_via_history_replacement	144535	374467>144535	144535	NM_198520	different	concordant
+lumi HT-12 v4 R2	ILMN_1709722	83954	eligible_via_history_replacement	387316	83954>387316	387316	NM_032030	different	concordant
+lumi HT-12 v4 R2	ILMN_1711339	10646	eligible_via_history_replacement	25788	10646>25788	25788	NM_006550	different	concordant
+lumi HT-12 v4 R2	ILMN_1712269	90462	discontinued_no_replacement		90462	100289635	NM_183238	different	not_in_M1 (Option A not eligible)
+lumi HT-12 v4 R2	ILMN_1713235	374408	eligible_via_history_replacement	100287896	374408>100287896	100287896	NM_198519	different	concordant
+lumi HT-12 v4 R2	ILMN_1715505	115669	eligible_via_history_replacement	319089	115669>319089	319089	NM_001007795	different	concordant
+lumi HT-12 v4 R2	ILMN_1715902	554045	eligible_via_history_replacement	100288711	554045>100288711	100288711	NM_001099853	different	concordant
+lumi HT-12 v4 R2	ILMN_1716517	149469	eligible_via_history_replacement	23334	149469>23334	23334	NM_001012961	different	concordant
+lumi HT-12 v4 R2	ILMN_1716546	201252	eligible_via_history_replacement	284001	201252>284001	284001	NM_152675	different	concordant
+lumi HT-12 v4 R2	ILMN_1717324	146174	eligible_via_history_replacement	730094	146174>730094	730094	NM_173501	different	concordant
+lumi HT-12 v4 R2	ILMN_1717975	50626	eligible_direct	50626		84773	NM_032687	different	discordant
+lumi HT-12 v4 R2	ILMN_1718172	285135	eligible_via_history_replacement	401024	285135>401024	401024	NM_173651	different	concordant
+lumi HT-12 v4 R2	ILMN_1718202	85287	eligible_via_history_replacement	100132476	85287>100132476	100132476	NM_033061	different	concordant
+lumi HT-12 v4 R2	ILMN_1719237	389517	eligible_via_history_replacement	728524	389517>728524	728524	NR_003664	different	concordant
+lumi HT-12 v4 R2	ILMN_1719398	149469	eligible_via_history_replacement	23334	149469>23334	23334	NM_182518	different	concordant
+lumi HT-12 v4 R2	ILMN_1720266	91431	eligible_via_history_replacement	55345	91431>55345	55345	NM_001099776	different	concordant
+lumi HT-12 v4 R2	ILMN_1720600	84821	eligible_via_history_replacement	144453	84821>144453	144453	NM_032735	different	concordant
+lumi HT-12 v4 R2	ILMN_1721430	387790	eligible_via_history_replacement	100506127	387790>100506127	100506127	NM_001013634	different	concordant
+lumi HT-12 v4 R2	ILMN_1722670	66004	eligible_direct	66004		432355	NM_177458	different	discordant
+lumi HT-12 v4 R2	ILMN_1722966	401252	eligible_via_history_replacement	101929163	401252>101929163	101929163	NM_001013681	different	concordant
+lumi HT-12 v4 R2	ILMN_1723735	25781	eligible_via_history_replacement	140710	25781>140710	140710	NM_152257	different	concordant
+lumi HT-12 v4 R2	ILMN_1724149	4950	eligible_via_history_replacement	100506658	4950>100506658	100506658	NM_002538	different	concordant
+lumi HT-12 v4 R2	ILMN_1724783	257054	eligible_via_history_replacement	728294	257054>728294	728294	NM_152783	different	concordant
+lumi HT-12 v4 R2	ILMN_1729962	196296	eligible_via_history_replacement	341019	196296>341019	341019	NM_198462	different	concordant
+lumi HT-12 v4 R2	ILMN_1730516	83935	eligible_via_history_replacement	143872	83935>143872	143872	NM_032021	different	concordant
+lumi HT-12 v4 R2	ILMN_1732143	400077	eligible_via_history_replacement	100287569	400077>100287569	100287569	NM_207436	different	concordant
+lumi HT-12 v4 R2	ILMN_1732267	196296	eligible_via_history_replacement	341019	196296>341019	341019	NM_198462	different	concordant
+lumi HT-12 v4 R2	ILMN_1733221	349236	eligible_via_history_replacement	10507	349236>10507	10507	NM_182635	different	concordant
+lumi HT-12 v4 R2	ILMN_1733259	140	eligible_direct	140		57413	NM_001081976	different	discordant
+lumi HT-12 v4 R2	ILMN_1736479	440321	eligible_via_history_replacement	100132565	440321>100132565	100132565	NM_001012452	different	concordant
+lumi HT-12 v4 R2	ILMN_1737561	88523	eligible_via_history_replacement	10443	88523>10443	10443	NM_033111	different	concordant
+lumi HT-12 v4 R2	ILMN_1737663	129790	eligible_via_history_replacement	100506380	129790>100506380	100506380	NM_032625	different	concordant
+lumi HT-12 v4 R2	ILMN_1737754	11217	eligible_via_history_replacement	445815	11217>445815	445815	NM_001004065	different	concordant
+lumi HT-12 v4 R2	ILMN_1739631	728603	eligible_via_history_replacement	728798	728603>728798	728798	NM_001042516	different	concordant
+lumi HT-12 v4 R2	ILMN_1741244	92454	eligible_via_history_replacement	155435	92454>155435	155435	NM_053043	different	concordant
+lumi HT-12 v4 R2	ILMN_1743232	84953	eligible_via_history_replacement	9645	84953>9645	9645	NM_032867	different	concordant
+lumi HT-12 v4 R2	ILMN_1743345	158947	eligible_via_history_replacement	100131755	158947>100131755	100131755	NM_152583	different	concordant
+lumi HT-12 v4 R2	ILMN_1743853	284861	eligible_via_history_replacement	642633	284861>642633	642633	NM_201565	different	concordant
+lumi HT-12 v4 R2	ILMN_1744701	84227	eligible_via_history_replacement	353299	84227>353299	353299	NM_032267	different	concordant
+lumi HT-12 v4 R2	ILMN_1745567	10571	eligible_via_history_replacement	11039	10571>11039	11039	NM_006780	different	concordant
+lumi HT-12 v4 R2	ILMN_1746369	642980	eligible_via_history_replacement	541578	642980>541578	541578	NM_001039761	different	concordant
+lumi HT-12 v4 R2	ILMN_1747084	401271	eligible_via_history_replacement	221264	401271>221264	221264	NM_001001706	different	concordant
+lumi HT-12 v4 R2	ILMN_1749317	339457	eligible_via_history_replacement	85452	339457>85452	85452	NM_001003808	different	concordant
+lumi HT-12 v4 R2	ILMN_1749867	403113	eligible_via_history_replacement	90576	403113>90576	90576	NM_203381	different	concordant
+lumi HT-12 v4 R2	ILMN_1753190	56959	eligible_via_history_replacement	375748	56959>375748	375748	NM_020207	different	concordant
+lumi HT-12 v4 R2	ILMN_1754249	442535	eligible_via_history_replacement	6976	442535>6976	6976	NM_001013738	different	concordant
+lumi HT-12 v4 R2	ILMN_1756826	378464	eligible_via_history_replacement	729967	378464>729967	729967	NM_194270	different	concordant
+lumi HT-12 v4 R2	ILMN_1757427	9503	eligible_via_history_replacement	653067	9503>653067	653067	NM_020411	different	concordant
+lumi HT-12 v4 R2	ILMN_1762506	441390	eligible_via_history_replacement	100506422	441390>100506422	100506422	NM_001004352	different	concordant
+lumi HT-12 v4 R2	ILMN_1762534	170063	eligible_via_history_replacement	286464	170063>286464	286464	NM_152632	different	concordant
+lumi HT-12 v4 R2	ILMN_1762883	9718	eligible_direct	9718		110599564	NM_032331	different	discordant
+lumi HT-12 v4 R2	ILMN_1763408	56267	eligible_direct	56267		494115	NM_019610	different	discordant
+lumi HT-12 v4 R2	ILMN_1766219	26236	eligible_via_history_replacement	100505879	26236>100505879	100505879	NM_014354	different	concordant
+lumi HT-12 v4 R2	ILMN_1766316	440321	eligible_via_history_replacement	100132565	440321>100132565	100132565	NM_001012452	different	concordant
+lumi HT-12 v4 R2	ILMN_1766370	284345	eligible_via_history_replacement	653583	284345>653583	653583	NM_198850	different	concordant
+lumi HT-12 v4 R2	ILMN_1767377	153561	eligible_via_history_replacement	728411	153561>728411	728411	NM_207331	different	concordant
+lumi HT-12 v4 R2	ILMN_1767805	114035	eligible_via_history_replacement	391267	114035>391267	391267	NM_153750	different	concordant
+lumi HT-12 v4 R2	ILMN_1768877	221016	eligible_via_history_replacement	79741	221016>79741	79741	NM_145023	different	concordant
+lumi HT-12 v4 R2	ILMN_1769556	79614	eligible_via_history_replacement	4883	79614>4883	4883	NM_024563	different	concordant
+lumi HT-12 v4 R2	ILMN_1770065	375347	eligible_via_history_replacement	201625	375347>201625	201625	NM_198564	different	concordant
+lumi HT-12 v4 R2	ILMN_1770130	387638	eligible_via_history_replacement	10529	387638>10529	10529	NM_001010896	different	concordant
+lumi HT-12 v4 R2	ILMN_1771618	285754	eligible_via_history_replacement	221262	285754>221262	221262	NM_173671	different	concordant
+lumi HT-12 v4 R2	ILMN_1772575	84537	eligible_via_history_replacement	84536	84537>84536	84536	NM_058189	different	concordant
+lumi HT-12 v4 R2	ILMN_1772582	339010	eligible_via_history_replacement	102724631	339010>102724631	102724631	NM_207355	different	concordant
+lumi HT-12 v4 R2	ILMN_1773493	10431	eligible_via_history_replacement	100652748	10431>100652748	100287932	NM_006327	different	discordant
+lumi HT-12 v4 R2	ILMN_1774650	8385	eligible_via_history_replacement	653166	8385>653166	653166	NM_003552	different	concordant
+lumi HT-12 v4 R2	ILMN_1775357	84127	eligible_via_history_replacement	92017	84127>92017	92017	NM_032167	different	concordant
+lumi HT-12 v4 R2	ILMN_1776240	51207	eligible_direct	51207		128854680	NM_001007271	different	discordant
+lumi HT-12 v4 R2	ILMN_1776569	728603	eligible_via_history_replacement	728798	728603>728798	728798	NM_001042516	different	concordant
+lumi HT-12 v4 R2	ILMN_1776842	400169	eligible_via_history_replacement	113622	400169>113622	113622	NM_001003399	different	concordant
+lumi HT-12 v4 R2	ILMN_1776905	340843	eligible_via_history_replacement	653567	340843>653567	653567	NM_001013629	different	concordant
+lumi HT-12 v4 R2	ILMN_1778087	244	eligible_via_history_replacement	728113	244>728113	728113	NM_001630	different	concordant
+lumi HT-12 v4 R2	ILMN_1778617	6880	eligible_direct	6880		102157402	NM_001015891	different	discordant
+lumi HT-12 v4 R2	ILMN_1778980	441136	eligible_via_history_replacement	346157	441136>346157	346157	NM_001013719	different	concordant
+lumi HT-12 v4 R2	ILMN_1779780	54921	eligible_direct	54921		113455421	NM_001040144	different	discordant
+lumi HT-12 v4 R2	ILMN_1781999	10061	eligible_direct	10061		114483834	NM_005692	different	discordant
+lumi HT-12 v4 R2	ILMN_1784582	4197	eligible_via_history_replacement	2122	4197>2122	2122	NM_004991	different	concordant
+lumi HT-12 v4 R2	ILMN_1784905	284222	eligible_via_history_replacement	63895	284222>63895	63895	NM_173817	different	concordant
+lumi HT-12 v4 R2	ILMN_1786559	400863	eligible_via_history_replacement	100506334	400863>100506334	100506334	NM_207472	different	concordant
+lumi HT-12 v4 R2	ILMN_1787185	9718	eligible_direct	9718		110599583	NM_014693	different	discordant
+lumi HT-12 v4 R2	ILMN_1787314	65068	eligible_via_history_replacement	130026	65068>130026	130026	NM_178231	different	concordant
+lumi HT-12 v4 R2	ILMN_1787931	389517	eligible_via_history_replacement	728524	389517>728524	728524	NR_003664	different	concordant
+lumi HT-12 v4 R2	ILMN_1788439	441193	eligible_via_history_replacement	84629	441193>84629	84629	NM_001013722	different	concordant
+lumi HT-12 v4 R2	ILMN_1788711	378465	eligible_via_history_replacement	65125	378465>65125	65125	NM_213655	different	concordant
+lumi HT-12 v4 R2	ILMN_1789058	148646	eligible_via_history_replacement	388591	148646>388591	388591	NM_173795	different	concordant
+lumi HT-12 v4 R2	ILMN_1789436	54530	eligible_via_history_replacement	163486	54530>163486	163486	NM_019049	different	concordant
+lumi HT-12 v4 R2	ILMN_1791968	399980	eligible_via_history_replacement	101929637	399980>101929637	101929637	NM_207432	different	concordant
+lumi HT-12 v4 R2	ILMN_1792031	643736	eligible_via_history_replacement	100996465	643736>100996465	100996465	NM_001039768	different	concordant
+lumi HT-12 v4 R2	ILMN_1792191	440321	eligible_via_history_replacement	100132565	440321>100132565	100132565	NM_001012452	different	concordant
+lumi HT-12 v4 R2	ILMN_1793347	57653	eligible_direct	57653		100499483	NM_020893	different	discordant
+lumi HT-12 v4 R2	ILMN_1793570	283135	eligible_via_history_replacement	100505621	283135>100505621	100505621	NM_173578	different	concordant
+lumi HT-12 v4 R2	ILMN_1793572	114035	eligible_via_history_replacement	391267	114035>391267	391267	NM_153750	different	concordant
+lumi HT-12 v4 R2	ILMN_1794672	286223	eligible_via_history_replacement	1903	286223>1903	1903	NM_001001938	different	concordant
+lumi HT-12 v4 R2	ILMN_1795702	145781	eligible_direct	145781		100820829	NM_152451	different	discordant
+lumi HT-12 v4 R2	ILMN_1797409	401281	eligible_via_history_replacement	105378085	401281>105378085	105378085	NM_207501	different	concordant
+lumi HT-12 v4 R2	ILMN_1797471	4328	eligible_via_history_replacement	64386	4328>64386	64386	NM_004142	different	concordant
+lumi HT-12 v4 R2	ILMN_1797579	158318	eligible_via_history_replacement	100289124	158318>100289124	100289124	NM_001024608	different	concordant
+lumi HT-12 v4 R2	ILMN_1797929	4276	eligible_via_history_replacement	100507436	4276>100507436	100507436	NM_000247	different	concordant
+lumi HT-12 v4 R2	ILMN_1803024	80761	eligible_via_history_replacement	105375355	80761>105375355	105375355	NM_030570	different	concordant
+lumi HT-12 v4 R2	ILMN_1804306	285840	eligible_via_history_replacement	653639	285840>653639	653639	NR_001444	different	concordant
+lumi HT-12 v4 R2	ILMN_1806093	64163	eligible_via_history_replacement	163590	64163>163590	163590	NM_022347	different	concordant
+lumi HT-12 v4 R2	ILMN_1807579	441120	eligible_via_history_replacement	285679	441120>285679	285679	NM_001013718	different	concordant
+lumi HT-12 v4 R2	ILMN_1807686	55264	eligible_via_history_replacement	140290	55264>140290	140290	NM_018277	different	concordant
+lumi HT-12 v4 R2	ILMN_1808018	400556	eligible_via_history_replacement	100289580	400556>100289580	100289580	NM_207451	different	concordant
+lumi HT-12 v4 R2	ILMN_1808835	221016	eligible_via_history_replacement	79741	221016>79741	79741	NM_001026383	different	concordant
+lumi HT-12 v4 R2	ILMN_1810628	23273	eligible_via_history_replacement	158471	23273>158471	158471	NM_015225	different	concordant
+lumi HT-12 v4 R2	ILMN_1811227	400145	eligible_via_history_replacement	100288208	400145>100288208	100288208	NM_001013669	different	concordant
+lumi HT-12 v4 R2	ILMN_2048659	6435	eligible_via_history_replacement	653509	6435>653509	653509	NM_005411	different	concordant
+lumi HT-12 v4 R2	ILMN_2052433	55410	eligible_via_history_replacement	83869	55410>83869	83869	NR_001544	different	concordant
+lumi HT-12 v4 R2	ILMN_2052438	55410	eligible_via_history_replacement	83869	55410>83869	83869	NR_001544	different	concordant
+lumi HT-12 v4 R2	ILMN_2052495	284944	eligible_via_history_replacement	1768	284944>1768	1768	NM_173645	different	concordant
+lumi HT-12 v4 R2	ILMN_2055634	9220	eligible_via_history_replacement	399687	9220>399687	399687	NM_004740	different	concordant
+lumi HT-12 v4 R2	ILMN_2063051	399879	eligible_via_history_replacement	29099	399879>29099	29099	NM_207428	different	concordant
+lumi HT-12 v4 R2	ILMN_2066296	389517	eligible_via_history_replacement	728524	389517>728524	728524	NM_001032389	different	concordant
+lumi HT-12 v4 R2	ILMN_2067453	643736	eligible_via_history_replacement	100996465	643736>100996465	100996465	NM_001039768	different	concordant
+lumi HT-12 v4 R2	ILMN_2072622	79584	eligible_via_history_replacement	100288413	79584>100288413	100288413	NM_024534	different	concordant
+lumi HT-12 v4 R2	ILMN_2075221	284083	eligible_via_history_replacement	5414	284083>5414	5414	NM_001038704	different	concordant
+lumi HT-12 v4 R2	ILMN_2075603	219928	eligible_via_history_replacement	116535	219928>116535	116535	NM_145015	different	concordant
+lumi HT-12 v4 R2	ILMN_2079059	85282	eligible_via_history_replacement	653240	85282>653240	653240	NM_033059	different	concordant
+lumi HT-12 v4 R2	ILMN_2079322	642980	eligible_via_history_replacement	541578	642980>541578	541578	NM_001039761	different	concordant
+lumi HT-12 v4 R2	ILMN_2082893	440157	eligible_via_history_replacement	503639	440157>503639	503639	NM_001013701	different	concordant
+lumi HT-12 v4 R2	ILMN_2084912	440053	eligible_via_history_replacement	728957	440053>728957	728957	NM_001039615	different	concordant
+lumi HT-12 v4 R2	ILMN_2090567	374500	eligible_direct	374500		100887750	NR_002816	different	discordant
+lumi HT-12 v4 R2	ILMN_2109536	440321	eligible_via_history_replacement	100132565	440321>100132565	100132565	NM_001012452	different	concordant
+lumi HT-12 v4 R2	ILMN_2110829	441743	eligible_via_history_replacement	729480	441743>729480	729480	NM_001045548	different	concordant
+lumi HT-12 v4 R2	ILMN_2115073	8385	eligible_via_history_replacement	653166	8385>653166	653166	NM_003552	different	concordant
+lumi HT-12 v4 R2	ILMN_2121774	123887	eligible_via_history_replacement	653808	123887>653808	653808	NM_152338	different	concordant
+lumi HT-12 v4 R2	ILMN_2125590	401252	eligible_via_history_replacement	101929163	401252>101929163	101929163	NM_001013681	different	concordant
+lumi HT-12 v4 R2	ILMN_2129102	401217	eligible_via_history_replacement	100288254	401217>100288254	100288254	NM_001007542	different	concordant
+lumi HT-12 v4 R2	ILMN_2130003	56267	eligible_direct	56267		494115	NM_019610	different	discordant
+lumi HT-12 v4 R2	ILMN_2132119	120329	eligible_via_history_replacement	100506742	120329>100506742	100506742	NR_000035	different	concordant
+lumi HT-12 v4 R2	ILMN_2134416	375347	eligible_via_history_replacement	201625	375347>201625	201625	NM_198564	different	concordant
+lumi HT-12 v4 R2	ILMN_2141030	641522	eligible_via_history_replacement	100506084	641522>100506084	100506084	NM_001039083	different	concordant
+lumi HT-12 v4 R2	ILMN_2146233	441120	eligible_via_history_replacement	285679	441120>285679	285679	NM_001013718	different	concordant
+lumi HT-12 v4 R2	ILMN_2147503	55849	eligible_via_history_replacement	79868	55849>79868	79868	NM_018466	different	concordant
+lumi HT-12 v4 R2	ILMN_2150049	401263	eligible_via_history_replacement	442213	401263>442213	442213	NM_207499	different	concordant
+lumi HT-12 v4 R2	ILMN_2150446	642265	eligible_via_history_replacement	647060	642265>647060	647060	NM_001040065	different	concordant
+lumi HT-12 v4 R2	ILMN_2155719	440673	eligible_via_history_replacement	100132406	440673>100132406	100132406	NM_001039703	different	concordant
+lumi HT-12 v4 R2	ILMN_2158665	117153	eligible_via_history_replacement	4253	117153>4253	4253	NM_054024	different	concordant
+lumi HT-12 v4 R2	ILMN_2160718	283294	eligible_via_history_replacement	144132	283294>144132	144132	NM_173589	different	concordant
+lumi HT-12 v4 R2	ILMN_2167961	400844	eligible_via_history_replacement	100287792	400844>100287792	100287792	NM_001001690	different	concordant
+lumi HT-12 v4 R2	ILMN_2168215	51402	eligible_via_history_replacement	100506164	51402>100506164	100506164	NM_016153	different	concordant
+lumi HT-12 v4 R2	ILMN_2171596	441257	eligible_via_history_replacement	728524	441257>728524	728524	NM_001023562	different	concordant
+lumi HT-12 v4 R2	ILMN_2171597	441257	eligible_via_history_replacement	728524	441257>728524	728524	NM_001023562	different	concordant
+lumi HT-12 v4 R2	ILMN_2177823	399563	eligible_via_history_replacement	23254	399563>23254	23254	NM_201628	different	concordant
+lumi HT-12 v4 R2	ILMN_2185339	220074	eligible_direct	220074		120356739	NM_145309	different	discordant
+lumi HT-12 v4 R2	ILMN_2185576	653866	eligible_via_history_replacement	730394	653866>730394	730394	NM_001042490	different	concordant
+lumi HT-12 v4 R2	ILMN_2186983	244	eligible_via_history_replacement	728113	244>728113	728113	NM_001630	different	concordant
+lumi HT-12 v4 R2	ILMN_2188155	645840	eligible_via_history_replacement	114112	645840>114112	114112	NM_001039783	different	concordant
+lumi HT-12 v4 R2	ILMN_2199926	26636	eligible_via_history_replacement	26637	26636>26637	100506759	NR_002163	different	discordant
+lumi HT-12 v4 R2	ILMN_2209671	196296	eligible_via_history_replacement	341019	196296>341019	341019	NM_198462	different	concordant
+lumi HT-12 v4 R2	ILMN_2228749	643923	eligible_via_history_replacement	55531	643923>55531	55531	NM_001039772	different	concordant
+lumi HT-12 v4 R2	ILMN_2229913	768329	eligible_via_history_replacement	548594	768329>548594	548594	NM_001015070	different	concordant
+lumi HT-12 v4 R2	ILMN_2239772	653401	eligible_via_history_replacement	728917	653401>728917	728917	NM_001080422	different	concordant
+lumi HT-12 v4 R2	ILMN_2240811	728603	eligible_via_history_replacement	728798	728603>728798	728798	NM_001042516	different	concordant
+lumi HT-12 v4 R2	ILMN_2250853	149469	eligible_via_history_replacement	23334	149469>23334	23334	NM_182518	different	concordant
+lumi HT-12 v4 R2	ILMN_2255088	4950	eligible_via_history_replacement	100506658	4950>100506658	100506658	NM_002538	different	concordant
+lumi HT-12 v4 R2	ILMN_2258977	9503	eligible_via_history_replacement	653067	9503>653067	653067	NM_133431	different	concordant
+lumi HT-12 v4 R2	ILMN_2258982	9503	eligible_via_history_replacement	653067	9503>653067	653067	NM_133431	different	concordant
+lumi HT-12 v4 R2	ILMN_2264177	80761	eligible_via_history_replacement	105375355	80761>105375355	105375355	NM_182684	different	concordant
+lumi HT-12 v4 R2	ILMN_2275248	9718	eligible_direct	9718		110599583	NM_014693	different	discordant
+lumi HT-12 v4 R2	ILMN_2283094	728603	eligible_via_history_replacement	728798	728603>728798	728798	NM_001042515	different	concordant
+lumi HT-12 v4 R2	ILMN_2284941	10061	eligible_direct	10061		114483834	NM_005692	different	discordant
+lumi HT-12 v4 R2	ILMN_2289093	57714	eligible_via_history_replacement	57674	57714>57674	57674	NM_020954	different	concordant
+lumi HT-12 v4 R2	ILMN_2307978	653401	eligible_via_history_replacement	728917	653401>728917	728917	NM_001080422	different	concordant
+lumi HT-12 v4 R2	ILMN_2309733	728603	eligible_via_history_replacement	728798	728603>728798	728798	NM_001042516	different	concordant
+lumi HT-12 v4 R2	ILMN_2343332	6880	eligible_direct	6880		102157402	NM_016283	different	discordant
+lumi HT-12 v4 R2	ILMN_2343765	9503	eligible_via_history_replacement	653067	9503>653067	653067	NM_133431	different	concordant
+lumi HT-12 v4 R2	ILMN_2343774	9503	eligible_via_history_replacement	653067	9503>653067	653067	NM_133431	different	concordant
+lumi HT-12 v4 R2	ILMN_2346316	653129	eligible_via_history_replacement	26095	653129>26095	26095	NM_001042389	different	concordant
+lumi HT-12 v4 R2	ILMN_2353276	80761	eligible_via_history_replacement	105375355	80761>105375355	105375355	NM_182684	different	concordant
+lumi HT-12 v4 R2	ILMN_2366998	54921	eligible_direct	54921		113455421	NM_001040144	different	discordant
+lumi HT-12 v4 R2	ILMN_2369403	114299	eligible_via_history_replacement	445815	114299>445815	445815	NM_001037293	different	concordant
+lumi HT-12 v4 R2	ILMN_2373207	9718	eligible_direct	9718		110599583	NM_014693	different	discordant
+lumi HT-12 v4 R2	ILMN_2378404	165057	eligible_via_history_replacement	100652824	165057>100652824	100652824	NM_001080445	different	concordant
+lumi HT-12 v4 R2	ILMN_2382974	221016	eligible_via_history_replacement	79741	221016>79741	79741	NM_001026383	different	concordant
+lumi HT-12 v4 R2	ILMN_2402581	145781	eligible_direct	145781		100820829	NM_001018100	different	discordant
+lumi HT-12 v4 R2	ILMN_3180409	100130093	eligible_via_history_replacement	116841	100130093>116841	116841	NR_024486	different	concordant
+lumi HT-12 v4 R2	ILMN_3181503	641522	eligible_via_history_replacement	100506084	641522>100506084	100506084	NM_001039083	different	concordant
+lumi HT-12 v4 R2	ILMN_3229269	727735	eligible_via_history_replacement	101060389	727735>101060389	101060389	NM_001123390	different	concordant
+lumi HT-12 v4 R2	ILMN_3230683	400509	eligible_via_history_replacement	100652781	400509>100652781	100652781	NM_001012391	different	concordant
+lumi HT-12 v4 R2	ILMN_3231502	641522	eligible_via_history_replacement	100506084	641522>100506084	100506084	NM_001039083	different	concordant
+lumi HT-12 v4 R2	ILMN_3231785	400736	eligible_direct	400736		729528	NM_001024661	different	discordant
+lumi HT-12 v4 R2	ILMN_3231952	641522	eligible_via_history_replacement	100506084	641522>100506084	100506084	NM_001103154	different	concordant
+lumi HT-12 v4 R2	ILMN_3235239	100128003	eligible_via_history_replacement	199990	100128003>199990	199990	NR_024445	different	concordant
+lumi HT-12 v4 R2	ILMN_3235727	100128641	eligible_via_history_replacement	340895	100128641>340895	340895	NM_001142308	different	concordant
+lumi HT-12 v4 R2	ILMN_3235775	553137	eligible_via_history_replacement	100422737	553137>100422737	100422737	NR_015365	different	concordant
+lumi HT-12 v4 R2	ILMN_3236116	136542	eligible_via_history_replacement	100289017	136542>100289017	100289017	NR_024346	different	concordant
+lumi HT-12 v4 R2	ILMN_3236732	100129637	eligible_via_history_replacement	54758	100129637>54758	54758	NR_024488	different	concordant
+lumi HT-12 v4 R2	ILMN_3237645	220074	eligible_direct	220074		120356739	NM_145309	different	discordant
+lumi HT-12 v4 R2	ILMN_3238814	100170939	eligible_via_history_replacement	11039	100170939>11039	11039	NR_024054	different	concordant
+lumi HT-12 v4 R2	ILMN_3239440	643832	discontinued_no_replacement		643832	102724473	NM_001098413	different	not_in_M1 (Option A not eligible)
+lumi HT-12 v4 R2	ILMN_3240226	791120	eligible_via_history_replacement	155060	791120>155060	155060	NR_015357	different	concordant
+lumi HT-12 v4 R2	ILMN_3240314	100129885	eligible_via_history_replacement	642658	100129885>642658	642658	NM_001008271	different	concordant
+lumi HT-12 v4 R2	ILMN_3241071	374467	eligible_via_history_replacement	144535	374467>144535	144535	NM_198520	different	concordant
+lumi HT-12 v4 R2	ILMN_3241987	25787	eligible_via_history_replacement	26220	25787>26220	26220	NR_024159	different	concordant
+lumi HT-12 v4 R2	ILMN_3242253	653501	eligible_via_history_replacement	401509	653501>401509	401509	NR_003528	different	concordant
+lumi HT-12 v4 R2	ILMN_3242275	339010	eligible_via_history_replacement	102724631	339010>102724631	102724631	NM_207355	different	concordant
+lumi HT-12 v4 R2	ILMN_3242362	92973	eligible_via_history_replacement	51754	92973>51754	51754	NR_024006	different	concordant
+lumi HT-12 v4 R2	ILMN_3242407	338809	eligible_via_history_replacement	440107	338809>440107	440107	NM_001037671	different	concordant
+lumi HT-12 v4 R2	ILMN_3242753	728936	eligible_via_history_replacement	284565	728936>284565	284565	NM_001102663	different	concordant
+lumi HT-12 v4 R2	ILMN_3242842	441362	eligible_direct	441362		100288527	NR_003594	different	discordant
+lumi HT-12 v4 R2	ILMN_3242883	728404	eligible_via_history_replacement	119016	728404>119016	119016	NM_001077686	different	concordant
+lumi HT-12 v4 R2	ILMN_3243598	728939	eligible_via_history_replacement	100034743	728939>100034743	100034743	NR_003377	different	concordant
+lumi HT-12 v4 R2	ILMN_3243914	100124692	eligible_via_history_replacement	93432	100124692>93432	93432	NR_003717	different	concordant
+lumi HT-12 v4 R2	ILMN_3245020	375690	eligible_direct	375690		100287171	NM_182905	different	discordant
+lumi HT-12 v4 R2	ILMN_3245166	100127889	eligible_via_history_replacement	387707	100127889>387707	387707	NM_001130446	different	concordant
+lumi HT-12 v4 R2	ILMN_3245600	147172	eligible_direct	147172		107133515	NR_015341	different	discordant
+lumi HT-12 v4 R2	ILMN_3248586	100133144	eligible_via_history_replacement	100134869	100133144>100134869	100134869	NR_024474	different	concordant
+lumi HT-12 v4 R2	ILMN_3249142	123887	eligible_via_history_replacement	653808	123887>653808	653808	NM_152338	different	concordant
+lumi HT-12 v4 R2	ILMN_3249203	728875	eligible_via_history_replacement	728855	728875>728855	728855	NR_024584	different	concordant
+lumi HT-12 v4 R2	ILMN_3251361	728912	eligible_via_history_replacement	200030	728912>200030	200030	NM_001101663	different	concordant
+lumi HT-12 v4 R2	ILMN_3299047	653048	eligible_via_history_replacement	653067	653048>653067	653067	NM_001097597	different	concordant
+lumi HT-12 v4 R2	ILMN_3305152	653219	eligible_via_history_replacement	653220	653219>653220	653220	NM_001097593	different	concordant
+lumi HT-12 v4 R2	ILMN_3305887	727735	eligible_via_history_replacement	101060389	727735>101060389	101060389	NM_001123390	different	concordant
+lumi HT-12 v4 R2	ILMN_3307897	4197	eligible_via_history_replacement	2122	4197>2122	2122	NM_004991	different	concordant
+lumi HT-12 v4 R2	ILMN_3311025	26222	eligible_via_history_replacement	26220	26222>26220	26220	NR_026651	different	concordant

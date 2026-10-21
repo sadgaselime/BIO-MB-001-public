@@ -1,0 +1,4 @@
+source_column,assigned_target,status,reasons_not_assigned,spearman_best,margin,probes_with_rank_difference,evidence_type,geo_accession,diagnosis
+<EMPTY_HEADER@col317>,4856050008_B,CONTENT_MATCH_UNIQUE,[],0.9999999999999999,0.1635021619600593,0,inferred from data content (rank identity); not documented by the submitter,GSM1539292,AD
+<EMPTY_HEADER@col323>,4856050008_K,CONTENT_MATCH_UNIQUE,[],1.0,0.1341646006432229,0,inferred from data content (rank identity); not documented by the submitter,GSM1539294,AD
+<EMPTY_HEADER@col329>,4856050048_A,CONTENT_MATCH_UNIQUE,[],1.0,0.16696606497688748,0,inferred from data content (rank identity); not documented by the submitter,GSM1539298,AD

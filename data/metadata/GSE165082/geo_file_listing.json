@@ -1,0 +1,19 @@
+{
+  "retrieved_at": "2026-10-09T13:36:12+00:00",
+  "entries": [
+    {
+      "location": "matrix",
+      "name": "GSE165082_series_matrix.txt.gz",
+      "size_label": "3.9K",
+      "modified": "2026-08-06 01:07",
+      "configured": true
+    },
+    {
+      "location": "suppl",
+      "name": "GSE165082_PD-CC.counts.txt.gz",
+      "size_label": "1.1M",
+      "modified": "2021-01-19 09:48",
+      "configured": true
+    }
+  ]
+}

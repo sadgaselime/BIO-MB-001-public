@@ -1,0 +1,468 @@
+{
+  "path": "data/raw/GSE165081/filelist.txt",
+  "file_name": "filelist.txt",
+  "status": "INSPECTED",
+  "format": "geo_filelist",
+  "compression": "none",
+  "size_bytes": 4875,
+  "n_rows": 61,
+  "n_columns": 5,
+  "delimiter": "\t",
+  "header_line_number": null,
+  "feature_id_column": null,
+  "annotation_columns": [],
+  "sample_columns": [],
+  "candidate_sample_ids": [],
+  "measurement_types": {},
+  "duplicate_column_headers": [],
+  "empty_header_sample_columns": [],
+  "duplicate_sample_ids": [],
+  "n_unique_feature_ids": null,
+  "duplicate_feature_ids": {},
+  "missing_feature_ids": null,
+  "missing_values": {},
+  "value_summary": {},
+  "metadata": {
+    "entries": [
+      {
+        "Archive/File": "Archive",
+        "Name": "GSE165081_RAW.tar",
+        "Time": "05/14/2021 17:01:47",
+        "Size": "431288320",
+        "Type": "TAR"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GPL13534_450K_Manifest_header_Descriptions.xlsx.gz",
+        "Time": "05/13/2011 18:58:35",
+        "Size": "7559",
+        "Type": "XLSX"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GPL13534_HumanMethylation450_15017482_v.1.1.bpm.txt.gz",
+        "Time": "05/13/2011 18:59:25",
+        "Size": "64012079",
+        "Type": "TXT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GPL13534_HumanMethylation450_15017482_v.1.1.csv.gz",
+        "Time": "05/13/2011 19:00:17",
+        "Size": "63979757",
+        "Type": "CSV"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GPL13534_HumanMethylation450_15017482_v.1.2.bpm.gz",
+        "Time": "09/05/2012 10:56:53",
+        "Size": "64012092",
+        "Type": "BPM"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025781_9370847138_R04C02_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:15",
+        "Size": "4273606",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025781_9370847138_R04C02_Red.idat.gz",
+        "Time": "01/19/2021 09:47:15",
+        "Size": "4300167",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025782_9370847138_R05C02_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:16",
+        "Size": "4281464",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025782_9370847138_R05C02_Red.idat.gz",
+        "Time": "01/19/2021 09:47:17",
+        "Size": "4307560",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025783_7507867051_R04C01_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:17",
+        "Size": "4255195",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025783_7507867051_R04C01_Red.idat.gz",
+        "Time": "01/19/2021 09:47:18",
+        "Size": "4286704",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025784_9370847138_R06C02_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:18",
+        "Size": "4279846",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025784_9370847138_R06C02_Red.idat.gz",
+        "Time": "01/19/2021 09:47:19",
+        "Size": "4317112",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025785_7507867137_R06C01_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:20",
+        "Size": "4266055",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025785_7507867137_R06C01_Red.idat.gz",
+        "Time": "01/19/2021 09:47:20",
+        "Size": "4332593",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025786_7507867051_R05C01_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:21",
+        "Size": "4262334",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025786_7507867051_R05C01_Red.idat.gz",
+        "Time": "01/19/2021 09:47:21",
+        "Size": "4287581",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025787_7507867051_R01C02_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:22",
+        "Size": "4216814",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025787_7507867051_R01C02_Red.idat.gz",
+        "Time": "01/19/2021 09:47:23",
+        "Size": "4270432",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025788_7507867051_R06C01_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:23",
+        "Size": "4268235",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025788_7507867051_R06C01_Red.idat.gz",
+        "Time": "01/19/2021 09:47:24",
+        "Size": "4285331",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025789_9379082059_R02C02_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:24",
+        "Size": "4248592",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025789_9379082059_R02C02_Red.idat.gz",
+        "Time": "01/19/2021 09:47:25",
+        "Size": "4290545",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025790_9379082059_R03C02_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:25",
+        "Size": "4270461",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025790_9379082059_R03C02_Red.idat.gz",
+        "Time": "01/19/2021 09:47:26",
+        "Size": "4310068",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025791_7507867051_R02C02_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:27",
+        "Size": "4239322",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025791_7507867051_R02C02_Red.idat.gz",
+        "Time": "01/19/2021 09:47:27",
+        "Size": "4279039",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025792_7507867098_R01C01_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:28",
+        "Size": "4195939",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025792_7507867098_R01C01_Red.idat.gz",
+        "Time": "01/19/2021 09:47:28",
+        "Size": "4248184",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025793_7507867139_R06C02_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:29",
+        "Size": "4281620",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025793_7507867139_R06C02_Red.idat.gz",
+        "Time": "01/19/2021 09:47:29",
+        "Size": "4303920",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025794_7507867051_R03C02_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:30",
+        "Size": "4255901",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025794_7507867051_R03C02_Red.idat.gz",
+        "Time": "01/19/2021 09:47:30",
+        "Size": "4289451",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025795_7507867098_R02C01_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:31",
+        "Size": "4223622",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025795_7507867098_R02C01_Red.idat.gz",
+        "Time": "01/19/2021 09:47:32",
+        "Size": "4268757",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025796_7507867137_R02C02_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:32",
+        "Size": "4251536",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025796_7507867137_R02C02_Red.idat.gz",
+        "Time": "01/19/2021 09:47:33",
+        "Size": "4281129",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025797_7507867137_R03C02_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:33",
+        "Size": "4264843",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025797_7507867137_R03C02_Red.idat.gz",
+        "Time": "01/19/2021 09:47:34",
+        "Size": "4293450",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025798_7507867098_R04C02_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:35",
+        "Size": "4268425",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025798_7507867098_R04C02_Red.idat.gz",
+        "Time": "01/19/2021 09:47:35",
+        "Size": "4293240",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025799_7507867098_R05C02_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:36",
+        "Size": "4274810",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025799_7507867098_R05C02_Red.idat.gz",
+        "Time": "01/19/2021 09:47:36",
+        "Size": "4299222",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025800_7507867137_R06C02_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:37",
+        "Size": "4313050",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025800_7507867137_R06C02_Red.idat.gz",
+        "Time": "01/19/2021 09:47:37",
+        "Size": "4322730",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025801_7507867098_R06C02_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:38",
+        "Size": "4279875",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025801_7507867098_R06C02_Red.idat.gz",
+        "Time": "01/19/2021 09:47:39",
+        "Size": "4283250",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025802_7507867098_R03C01_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:39",
+        "Size": "4238133",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025802_7507867098_R03C01_Red.idat.gz",
+        "Time": "01/19/2021 09:47:40",
+        "Size": "4269497",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025803_7507867139_R01C01_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:40",
+        "Size": "4198825",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025803_7507867139_R01C01_Red.idat.gz",
+        "Time": "01/19/2021 09:47:41",
+        "Size": "4251449",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025804_7507867139_R04C02_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:42",
+        "Size": "4263734",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025804_7507867139_R04C02_Red.idat.gz",
+        "Time": "01/19/2021 09:47:42",
+        "Size": "4294884",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025805_7507867139_R02C01_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:43",
+        "Size": "4226382",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025805_7507867139_R02C01_Red.idat.gz",
+        "Time": "01/19/2021 09:47:43",
+        "Size": "4266489",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025806_7507867139_R03C01_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:44",
+        "Size": "4245183",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025806_7507867139_R03C01_Red.idat.gz",
+        "Time": "01/19/2021 09:47:44",
+        "Size": "4278782",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025807_7507867137_R01C02_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:45",
+        "Size": "4222965",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025807_7507867137_R01C02_Red.idat.gz",
+        "Time": "01/19/2021 09:47:46",
+        "Size": "4264225",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025808_7507867137_R05C02_Grn.idat.gz",
+        "Time": "01/19/2021 09:47:46",
+        "Size": "4269999",
+        "Type": "IDAT"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM5025808_7507867137_R05C02_Red.idat.gz",
+        "Time": "01/19/2021 09:47:47",
+        "Size": "4316446",
+        "Type": "IDAT"
+      }
+    ],
+    "n_entries": 61,
+    "type_counts": {
+      "TAR": 1,
+      "XLSX": 1,
+      "TXT": 1,
+      "CSV": 1,
+      "BPM": 1,
+      "IDAT": 56
+    }
+  },
+  "table_kind": "file_manifest",
+  "limitations": [],
+  "error": null
+}

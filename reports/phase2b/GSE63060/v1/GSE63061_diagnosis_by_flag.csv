@@ -1,0 +1,9 @@
+diagnosis_raw,no,yes,All
+AD,99,40,139
+CTL,62,72,134
+CTL to AD,1,0,1
+MCI,79,30,109
+MCI to CTL,1,0,1
+OTHER,1,0,1
+borderline MCI,3,0,3
+All,246,142,388

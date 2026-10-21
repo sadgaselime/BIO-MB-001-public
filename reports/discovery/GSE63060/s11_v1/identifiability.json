@@ -1,0 +1,32 @@
+{
+  "E": 0.762722051778543,
+  "VIF": 1.3110935991271835,
+  "decision": "PROCEED",
+  "mixed_units": 25,
+  "n": 205,
+  "r_N": 36,
+  "residual_df": 168,
+  "scores": {
+    "B_lineage": {
+      "markers": 9,
+      "present": 7
+    },
+    "Monocytic_lineage": {
+      "markers": 7,
+      "present": 7
+    },
+    "NK_cells": {
+      "markers": 9,
+      "present": 8
+    },
+    "Neutrophils": {
+      "markers": 15,
+      "present": 14
+    },
+    "T_cells": {
+      "markers": 16,
+      "present": 14
+    }
+  },
+  "stop_reasons": []
+}

@@ -1,0 +1,4 @@
+diagnosis_raw,count,mean,median,min,max
+AD,145,75.4,76.0,58,88
+CTL,104,72.4,73.0,52,87
+MCI,80,74.4,74.0,63,90

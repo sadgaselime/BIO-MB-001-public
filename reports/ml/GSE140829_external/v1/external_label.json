@@ -1,0 +1,6 @@
+{
+  "cohort": "GSE140829",
+  "final_model_sha256": "e4f7f18e73795610d598abb676608dc2ad6edee291e4a9bfcf35be35cc239e51",
+  "label": "replication cohort, independence from AddNeuroMed participants unverified (D10); cross-platform (GPL6947 -> GPL15988); applied once, no re-fitting or tuning; exploratory; not 'independent' validation (D10); DeLong intervals approximate; no diagnostic-accuracy claim",
+  "model_source": "reports/ml/GSE63060/v1"
+}

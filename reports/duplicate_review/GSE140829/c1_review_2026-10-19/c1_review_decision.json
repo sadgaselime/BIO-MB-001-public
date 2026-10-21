@@ -1,0 +1,33 @@
+{
+  "c1_manifest_sha256": "f3f6b4889ba1106e351d7a2dbcd3c848ccaebd93921252799d2a7f4403a940b6",
+  "c1_output": "reports/duplicate_review/GSE140829/c1_v1",
+  "c1_review_table_sha256": "0067d77aa76bba0e23113fdd31489e74185d5a1ec257ecb1f58429de4a0f4dbf",
+  "cohort": "GSE140829",
+  "decisions": {
+    "D-1u_retained_flagged": {
+      "annotation": "replicate 1",
+      "n": 583,
+      "rule": "D18 item (iii)"
+    },
+    "D-2_option_c_Q3": {
+      "gsms": [
+        "GSM4187770",
+        "GSM4187771",
+        "GSM4187772",
+        "GSM4187773"
+      ],
+      "primary": "excluded",
+      "rule": "D-2 option (c), approved 2026-10-15 (v7:621)",
+      "sensitivity": "S14 only",
+      "tier": "Q3"
+    },
+    "description_field": "deposited replicate annotation, not a participant code"
+  },
+  "partner_identification": "left to C2 (R9 A2 pairs); never inferred from age, sex, diagnosis or batch",
+  "rationale": "rules as approved; no discretionary choice",
+  "review_date": "2026-10-19",
+  "reviewer": "PI (designated project reviewer for GSE140829; explicit PI instruction 2026-10-19)",
+  "sap_record": "reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md:621 (GSE140829 C1 review \u00a7)",
+  "schema": "bio-mb-001/c1-review-decision/v1",
+  "status": "complete: C1 review recorded"
+}

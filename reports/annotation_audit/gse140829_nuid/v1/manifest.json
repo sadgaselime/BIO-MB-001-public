@@ -1,0 +1,108 @@
+{
+  "command": ".venv/bin/python -I scripts/annotation_gse140829_nuid.py --version v1",
+  "created_utc": "2026-10-19T15:19:01Z",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "nuid_a0_classification.tsv": "6a36d676099f373e36d2782f525a0923da87ce5fd3c100e40f82fc087e9a14db",
+      "nuid_mapping_summary.json": "0a546a8fca5097c801771de5f514ab74f3114e30835b8f52fe79d96f71b1b3a6"
+    },
+    "runs_compared": 2
+  },
+  "equivalence": null,
+  "identity": {
+    "aggregate_sha256": "1d944d41607016519a67971efeb31a4fd24541d263f5e95db926e4126bd08057",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "1498fa48e9cfe38ee5a3e52416460a179e31105d4d5be111a4ec025ed16180d5",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 96,
+    "record_file": "code_identity.json",
+    "record_sha256": "86346df71215c601e4fa129e8bbc468b425966140e7c4020ca566ebaf2ab5842"
+  },
+  "identity_verification": {
+    "environment_modules": 0,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/annotation_gse140829_nuid.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea"
+      },
+      "executed_files": 2,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 4,
+    "status": "PASS",
+    "verified_utc": "2026-10-19T15:19:01Z"
+  },
+  "inputs": {
+    "data/raw/GSE140829/GSE140829_series_matrix.txt.gz": "be4f08a2cb01fe912a764df66fd654dec70d9e1ecd36bded00b675b27e7f83f3",
+    "reference/bioconductor_3.23/illuminaHumanv4.db_1.26.0.tar.gz": "362848d6e78c7fa6206e1a4c68a4b68c1ea065267d550114837bc3b9d833ee85",
+    "reference/bioconductor_3.23/lumiHumanIDMapping_1.10.1.tar.gz": "6414e94a243eea6a126e582a68fadd41798bb5fccc03fcc99380a01f40634948",
+    "reports/annotation_audit/annotation_pin/v1/manifest.json": "d48309e7f900f5434e592317b32fa8c09ed2661b2da470f7e7662ef12bebe930",
+    "reports/annotation_audit/illumina_a0/v2/a0_probe_classification.tsv": "6da6cf2c1d7d1911c17301d60c1f153f91856f405f7fde1faf6f553b3013ae7c"
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-19T15:19:01Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "v1",
+    "run_id": "d7f86d276f6a",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-19T15:18:57Z"
+  },
+  "output_sha256": {
+    "code_identity.json": "86346df71215c601e4fa129e8bbc468b425966140e7c4020ca566ebaf2ab5842",
+    "nuid_a0_classification.tsv": "6a36d676099f373e36d2782f525a0923da87ce5fd3c100e40f82fc087e9a14db",
+    "nuid_mapping_summary.json": "0a546a8fca5097c801771de5f514ab74f3114e30835b8f52fe79d96f71b1b3a6"
+  },
+  "status": "D19-1 nuID mapping for GSE140829 (v7:622). Annotation only; no expression value read; no analysis.",
+  "summary": {
+    "a0_class_counts": {
+      "eligible": 33804,
+      "excluded_multi_entrez": 1719,
+      "unmapped_no_package_gene": 11291,
+      "unmapped_not_in_snapshot": 194
+    },
+    "eligible_entrez_genes": 20838,
+    "features": 47008,
+    "problems": {},
+    "translated": 47008
+  },
+  "validation": [
+    {
+      "check": "Series Matrix has 47008 unique features",
+      "pass": true
+    },
+    {
+      "check": "every feature translated to exactly one ILMN ID (a)",
+      "pass": true
+    },
+    {
+      "check": "no disagreement with lumiHumanIDMapping (b) or sequence decoding (c)",
+      "pass": true
+    },
+    {
+      "check": "ILMN IDs are unique across features",
+      "pass": true
+    }
+  ]
+}

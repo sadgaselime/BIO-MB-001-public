@@ -1,0 +1,88 @@
+{
+  "command": ".venv/bin/python -I scripts/ml_apply_gse63061.py --version v1 --ml-version v1",
+  "created_utc": "2026-10-20T07:48:30Z",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "external_auc_difference_vs_B1.tsv": "279c02ad834b4c279ddc19321469d0f9551ad377249b780ef9938b0ee03fbb3f",
+      "external_gene_coverage.tsv": "c2dd4e324e7cfd93c78d09a7095a516dc51f5d82eccad342f1227176bd0c69d9",
+      "external_label.json": "a334c829ca686584e139d4e01a0c96dad3d189dedd1c30c8579f8b6ae25f19b9",
+      "external_metrics.tsv": "3bb63d9237d9a18acbd22a9a1fa6ef803219ee59caa5283906c42b47cbf28d4c",
+      "external_predictions.tsv": "373f2c496d11cdf31f5de622db20cfdb391462fc4dc9c99c1a597b66fb4f10ee"
+    },
+    "runs_compared": 2
+  },
+  "equivalence": null,
+  "identity": {
+    "aggregate_sha256": "f08ea5f393cb0410c5fa4ca643c1c8c44baa189fc514879e6e6b03d852530e84",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "1498fa48e9cfe38ee5a3e52416460a179e31105d4d5be111a4ec025ed16180d5",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 97,
+    "record_file": "code_identity.json",
+    "record_sha256": "aedf78e7f61285bd2d473c265d89ab8f6185dd37347fa441ad80536f48f66fed"
+  },
+  "identity_verification": {
+    "environment_modules": 409,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/ml_apply_gse63061.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "scripts/discovery_fit_gse63060.py": "36533e4d775027e75afc4bce5d49dc330d4097ac1bb5057f3096ba6b64e48da7",
+        "scripts/ml_gse63060.py": "b991f25673984d0afabff159339b500d1eaeaffa491c93cfcf1e2164b8d42639",
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea",
+        "src/biomarker_project/differential_expression.py": "3525cdefd3274e19e0d8a5bc9f937bca6c817c4f5933b87dac2df4c75612925a",
+        "src/biomarker_project/expression_adjudication.py": "266f14367cdd295e4f51e95569636ca4fdf8e12ec27f67685c3e7328db597e82",
+        "src/biomarker_project/limma_backend.py": "0031b76cda1129e7cd35a2b7357f2c8b0fd9788ecdea590766cfa872352e7350",
+        "src/biomarker_project/qc_r8.py": "d971ff8aec990fbe01c9c202048c846e6ee15d66dcb3998d242e28fd6ab28032"
+      },
+      "executed_files": 8,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 8,
+    "status": "PASS",
+    "verified_utc": "2026-10-20T07:48:30Z"
+  },
+  "inputs": {
+    "data/raw/GSE63061/GSE63061_series_matrix.txt.gz": "c6de1af5bd36bca3de0921d53051bdefd05666f6e94a6906a26c8cb461dd55f5",
+    "reports/ml/GSE63060/v1/manifest.json": "ebb7c816af15e07216e32dd3bbe76ccdca3d708dd22a3bebbc51ca04400e0fc0",
+    "reports/validation/GSE63061/v1/manifest.json": "d340593ab6d8ae03b68517f71f235ed978b3e6255d5a2f4ec3e99d38a16bfc69"
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-20T07:48:30Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "v1",
+    "run_id": "f81c8aef9955",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-20T07:47:02Z"
+  },
+  "output_sha256": {
+    "code_identity.json": "aedf78e7f61285bd2d473c265d89ab8f6185dd37347fa441ad80536f48f66fed",
+    "external_auc_difference_vs_B1.tsv": "279c02ad834b4c279ddc19321469d0f9551ad377249b780ef9938b0ee03fbb3f",
+    "external_gene_coverage.tsv": "c2dd4e324e7cfd93c78d09a7095a516dc51f5d82eccad342f1227176bd0c69d9",
+    "external_label.json": "a334c829ca686584e139d4e01a0c96dad3d189dedd1c30c8579f8b6ae25f19b9",
+    "external_metrics.tsv": "3bb63d9237d9a18acbd22a9a1fa6ef803219ee59caa5283906c42b47cbf28d4c",
+    "external_predictions.tsv": "373f2c496d11cdf31f5de622db20cfdb391462fc4dc9c99c1a597b66fb4f10ee"
+  },
+  "status": "Exploratory ML: frozen GSE63060 model applied once to GSE63061 (approved protocol, v7:603)."
+}

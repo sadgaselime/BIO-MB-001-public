@@ -1,0 +1,10 @@
+source,group,location,paper_n,geo_n,paper_male_female,geo_male_female,paper_mean_age,geo_mean_age,n_and_sex_identical
+Lunnon 2013,controls (training+validation) vs GEO CTL,2013 Table 1 p.741,104,104,42/62,42/62,72.37,72.38,True
+Lunnon 2013,AD + MCIc vs GEO AD,2013 Table 1 p.741,145,145,46/99,46/99,75.29,75.4,True
+Lunnon 2013,AD only vs GEO AD,2013 Table 1 p.741,104,145,32/72,46/99,75.4,75.4,False
+Lunnon 2013,MCInc vs GEO MCI,2013 Table 1 p.741,77,80,39/38,41/39,74.3,74.45,False
+Lunnon 2012,Control vs GEO CTL,2012 Table 1 p.688,105,104,43/62,42/62,72.4,72.38,False
+Lunnon 2012,AD + MCI-AD vs GEO AD,2012 Table 1 p.688,146,145,46/100,46/99,75.17,75.4,False
+Lunnon 2012,MCI-MCI vs GEO MCI,2012 Table 1 p.688,78,80,39/39,41/39,74.3,74.45,False
+Lunnon 2012,total chips in final analysis vs GEO samples,2012 p.688 text + Table 1,329,329,,,,,True
+Lunnon 2013,total subjects after QC vs GEO samples,2013 p.740,326,329,,,,,False

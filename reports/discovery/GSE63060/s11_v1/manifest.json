@@ -1,0 +1,114 @@
+{
+  "command": ".venv/bin/python -I scripts/s11_cell_composition_gse63060.py --version v1",
+  "created_utc": "2026-10-21T11:54:29Z",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "cell_scores.tsv": "5857391b642deb5944966210290de4c8dc6d26921848d62ac65685ca7cc4da66",
+      "gene_level_results_S11.tsv": "78fac1dc1e4b88c35f8ae7bb8a9eb31a5bbfff2848de6327e432963cc7c155cb",
+      "identifiability.json": "01587cd300a871a34a7a83f9ea6dc25c8a61b66ef70dad2a9c784ef5e267cf31",
+      "limma_session_info.txt": "d0f8badffb62f2e62aa24e4b049c9848915f7adde854f5ee7147f1ec42411fd7",
+      "s11_summary.json": "64aa8d4ed29ed823297f6d5c77bb6712686e2985b7921b40a522ceb772edda5b"
+    },
+    "runs_compared": 2
+  },
+  "equivalence": null,
+  "identity": {
+    "aggregate_sha256": "6102d1f2e1bb834a0ecd02bccbd9b9341706e2f8932c56356b8d97ac84525532",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "1498fa48e9cfe38ee5a3e52416460a179e31105d4d5be111a4ec025ed16180d5",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 107,
+    "record_file": "code_identity.json",
+    "record_sha256": "a44f36464d7373bc32eb5face099993da0ad2a22f4544f76dcfe0d421e4cae17"
+  },
+  "identity_verification": {
+    "environment_modules": 410,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/s11_cell_composition_gse63060.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "scripts/discovery_fit_gse63060.py": "36533e4d775027e75afc4bce5d49dc330d4097ac1bb5057f3096ba6b64e48da7",
+        "scripts/discovery_sensitivity_gse63060.py": "a2836fae637678b8da36bbf24cc54c7dba5337077058b3256952aa5883581bf7",
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea",
+        "src/biomarker_project/differential_expression.py": "3525cdefd3274e19e0d8a5bc9f937bca6c817c4f5933b87dac2df4c75612925a",
+        "src/biomarker_project/expression_adjudication.py": "266f14367cdd295e4f51e95569636ca4fdf8e12ec27f67685c3e7328db597e82",
+        "src/biomarker_project/limma_backend.py": "0031b76cda1129e7cd35a2b7357f2c8b0fd9788ecdea590766cfa872352e7350"
+      },
+      "executed_files": 7,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 7,
+    "status": "PASS",
+    "verified_utc": "2026-10-21T11:54:29Z"
+  },
+  "inputs": {
+    "data/raw/GSE63060/GSE63060_series_matrix.txt.gz": "342421d07105d786d623a4b86dc4a21b764da352e4facc7a032fbd36b0f19371",
+    "reference/mcpcounter_6b85a67/genes.txt": "408f6c5d02c8f9bd2f1599c598367881853520934f8ce398a4886a8b296922bb",
+    "reports/discovery/GSE63060/fit_v1": "d00d70fa03539d99e86a7143ea9029f9fc3515458d70481cc2982ef062888ed7",
+    "reports/discovery/GSE63060/prep_v1": "fcc71f7c82d557b5c4e9ab0ffd15aa7b590b655fecd4c0c74f9408ff5736fb53",
+    "reports/lock/GSE63060/v1": "45ba91d0e44dcee9924d27f6c3dc0fbd20ac37ec502c85d14e39c62d20c612df",
+    "sap_sha256": "47686945f78a4d75023408255ad1ef6faa3df5db57384e081c9c0b68281b1b62"
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-21T11:54:29Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "s11_v1",
+    "run_id": "07b33d0d77c4",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-21T11:53:16Z"
+  },
+  "output_sha256": {
+    "cell_scores.tsv": "5857391b642deb5944966210290de4c8dc6d26921848d62ac65685ca7cc4da66",
+    "code_identity.json": "a44f36464d7373bc32eb5face099993da0ad2a22f4544f76dcfe0d421e4cae17",
+    "gene_level_results_S11.tsv": "78fac1dc1e4b88c35f8ae7bb8a9eb31a5bbfff2848de6327e432963cc7c155cb",
+    "identifiability.json": "01587cd300a871a34a7a83f9ea6dc25c8a61b66ef70dad2a9c784ef5e267cf31",
+    "limma_session_info.txt": "d0f8badffb62f2e62aa24e4b049c9848915f7adde854f5ee7147f1ec42411fd7",
+    "s11_summary.json": "64aa8d4ed29ed823297f6d5c77bb6712686e2985b7921b40a522ceb772edda5b"
+  },
+  "r_environment": {
+    "found_BiocManager": "1.30.27",
+    "found_R": "4.6.1",
+    "found_bioc": "3.23",
+    "found_limma": "3.68.5",
+    "found_renv": "1.3.1",
+    "found_statmod": "1.5.2",
+    "pinned_BiocManager": "1.30.27",
+    "pinned_R": "4.6.1",
+    "pinned_bioc": "3.23",
+    "pinned_limma": "3.68.5",
+    "pinned_renv": "1.3.1",
+    "pinned_statmod": "1.5.2"
+  },
+  "status": "S11 (cell composition, D21 K1) for GSE63060. METHOD CHOSEN 2026-10-21, AFTER PRIMARY RESULTS (D21 K1); family B; never alters the lock. The SAP remains a proposed draft.",
+  "validation": [
+    {
+      "check": "population is 145 AD + 60 CTL (approved)",
+      "pass": true
+    },
+    {
+      "check": "G3 matrix has 17,425 genes",
+      "pass": true
+    }
+  ]
+}

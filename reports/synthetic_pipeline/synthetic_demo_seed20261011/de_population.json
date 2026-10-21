@@ -1,0 +1,12 @@
+{
+  "population": "AD + CTL contrast set after the contrast-label rule only (QC-unfiltered)",
+  "is_primary_population": false,
+  "reason": "synthetic demonstration; the primary population (Base - Q1 - ..., v7:375) is not formed because the exclusion-list approval scope is unresolved (v5:123-129; v7:552)",
+  "n_analysed": 120,
+  "q1_candidates_included": [
+    "SYN-S0005",
+    "SYN-S0098",
+    "SYN-S0105"
+  ],
+  "p3_candidates_included": []
+}

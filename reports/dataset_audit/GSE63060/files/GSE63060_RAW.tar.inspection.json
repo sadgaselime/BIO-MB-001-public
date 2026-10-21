@@ -1,0 +1,44 @@
+{
+  "path": "data/raw/GSE63060/GSE63060_RAW.tar",
+  "file_name": "GSE63060_RAW.tar",
+  "status": "INSPECTED_WITH_LIMITATIONS",
+  "format": "tar_archive",
+  "compression": "none",
+  "size_bytes": 6543360,
+  "n_rows": 1,
+  "n_columns": null,
+  "delimiter": null,
+  "header_line_number": null,
+  "feature_id_column": null,
+  "annotation_columns": [],
+  "sample_columns": [],
+  "candidate_sample_ids": [],
+  "measurement_types": {},
+  "duplicate_column_headers": [],
+  "empty_header_sample_columns": [],
+  "duplicate_sample_ids": [],
+  "n_unique_feature_ids": null,
+  "duplicate_feature_ids": {},
+  "missing_feature_ids": null,
+  "missing_values": {},
+  "value_summary": {},
+  "metadata": {
+    "members": [
+      {
+        "name": "GPL6947_HumanHT-12_V3_0_R1_11283641_A.bgx.gz",
+        "size": 6537561,
+        "type": "file"
+      }
+    ],
+    "n_members": 1,
+    "extension_counts": {
+      ".bgx": 1
+    },
+    "members_truncated": false
+  },
+  "table_kind": "archive",
+  "limitations": [
+    "archive members listed only; contents not extracted or inspected"
+  ],
+  "error": null
+}

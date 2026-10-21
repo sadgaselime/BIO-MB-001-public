@@ -1,0 +1,161 @@
+{
+  "command": ".venv/bin/python -I scripts/eligibility_gse63060.py --version v1",
+  "created_utc": "2026-10-18T18:04:50Z",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "eligibility_log.tsv": "fc2509df7a795dac3506796dd0a33693d782cdd16ca3c9598f2baf7cee44780b",
+      "eligibility_summary.tsv": "479e10f435fc451289b4fe1be1f134e8635c5e9a31cc92385ff0694790b71dbd",
+      "r11_supplementary_columns.tsv": "07ed4b9a2fa10c77ee1023cb83caf2f8f7c4c5cc4ad1df8303faa12c01bf851d"
+    },
+    "runs_compared": 2
+  },
+  "equivalence": null,
+  "expected_counts_D2": {
+    "AD": 145,
+    "CTL": 104,
+    "MCI": 80,
+    "universe": 329
+  },
+  "identity": {
+    "aggregate_sha256": "731d8b251ec347c6ff9020b38316fe37135de4a4495e51e7e740491e8a12ccd0",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "fa51c7b9d10dd468fbeed8b2ad83b832eb8acc83adb828dc25361cbbc4359951",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 69,
+    "record_file": "code_identity.json",
+    "record_sha256": "a484d1053d40dc08299c28089b43408e29a6af68340413ce6ad526099a3f779a"
+  },
+  "identity_verification": {
+    "environment_modules": 0,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/eligibility_gse63060.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea"
+      },
+      "executed_files": 2,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 4,
+    "status": "PASS",
+    "verified_utc": "2026-10-18T18:04:50Z"
+  },
+  "inputs": {
+    "annotation_pin": {
+      "dir": "reports/annotation_audit/annotation_pin/v1",
+      "manifest_sha256": "d48309e7f900f5434e592317b32fa8c09ed2661b2da470f7e7662ef12bebe930",
+      "record_sha256": "cde8ccd7d87b3622227a1b174599c4786fa94906159707fc4e498c72f3253a67"
+    },
+    "files": {
+      "data/processed/GSE63060/phenotype_table.tsv": {
+        "sha256": "090d7809452961eba60d0e5f28ae60f391f9fbca8c559dab83db32ecaa09ecd9"
+      },
+      "data/raw/GSE63060/GSE63060_non-normalized.txt.gz": {
+        "manifest_sha256": "163acd963f21ce51495b85d4a0187bb7ae6b11904f3b1d49114bfa39494931b7",
+        "sha256": "163acd963f21ce51495b85d4a0187bb7ae6b11904f3b1d49114bfa39494931b7"
+      },
+      "data/raw/GSE63060/GSE63060_normalized.txt.gz": {
+        "manifest_sha256": "3a0d9f03e0e2e4b05c5a64cb218c030f17965f7a31ee06aa91514f8c210ce25a",
+        "sha256": "3a0d9f03e0e2e4b05c5a64cb218c030f17965f7a31ee06aa91514f8c210ce25a"
+      },
+      "data/raw/GSE63060/GSE63060_series_matrix.txt.gz": {
+        "manifest_sha256": "342421d07105d786d623a4b86dc4a21b764da352e4facc7a032fbd36b0f19371",
+        "sha256": "342421d07105d786d623a4b86dc4a21b764da352e4facc7a032fbd36b0f19371"
+      }
+    }
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-18T18:04:50Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "v1",
+    "run_id": "260b97c2eacb",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-18T18:04:50Z"
+  },
+  "not_applied_here": {
+    "D18": "duplicate review, Tier B step 4",
+    "R2-COV": "complete-case per statistical model, at model time",
+    "R7/D4": "no age-based exclusion; age is a covariate (D4)",
+    "R8/R9": "QC Stage A (D5/D22), Tier B step 5"
+  },
+  "output_sha256": {
+    "code_identity.json": "a484d1053d40dc08299c28089b43408e29a6af68340413ce6ad526099a3f779a",
+    "eligibility_log.tsv": "fc2509df7a795dac3506796dd0a33693d782cdd16ca3c9598f2baf7cee44780b",
+    "eligibility_summary.tsv": "479e10f435fc451289b4fe1be1f134e8635c5e9a31cc92385ff0694790b71dbd",
+    "r11_supplementary_columns.tsv": "07ed4b9a2fa10c77ee1023cb83caf2f8f7c4c5cc4ad1df8303faa12c01bf851d"
+  },
+  "rules_applied": [
+    "R1",
+    "R2-ID",
+    "R3",
+    "R4",
+    "R5",
+    "R11",
+    "R12 (recorded, not used)",
+    "R13 (this log)"
+  ],
+  "rules_documented_only": {
+    "R10": "inherited submitter QC not independently auditable (no sample-level records)",
+    "R6": "no converter-based exclusion or relabelling; code letters unused"
+  },
+  "status": "Tier B step 3: GSE63060 pre-QC eligibility under D2 (v7:605). Metadata only; no expression value read; no QC, duplicate review, model or analysis. Approves nothing.",
+  "validation": [
+    {
+      "check": "R1: universe equals the expected 329 GSM columns",
+      "pass": true
+    },
+    {
+      "check": "R1: table column header equals !Sample_geo_accession in order",
+      "pass": true
+    },
+    {
+      "check": "R2-ID: GSM, barcode and participant code unique",
+      "pass": true
+    },
+    {
+      "check": "D2 pre-QC count AD = 145",
+      "pass": true
+    },
+    {
+      "check": "D2 pre-QC count CTL = 104",
+      "pass": true
+    },
+    {
+      "check": "D2 count MCI = 80",
+      "pass": true
+    },
+    {
+      "check": "R11: no supplementary column became a sample",
+      "pass": true
+    },
+    {
+      "check": "phenotype table has the same GSM set",
+      "pass": true
+    },
+    {
+      "check": "phenotype table agrees on barcode, participant code and status",
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "GSE63060": {
+    "M": 2.119577523508658,
+    "S": 0.09505375086275614,
+    "flag_threshold_z": 1.8344162709203893,
+    "k": 3.0,
+    "min_arrays": 10,
+    "n_a0_failures": 0,
+    "n_a1_failures": 0,
+    "n_a2_pairs": 0,
+    "n_a3_failures": 0,
+    "n_arrays": 329,
+    "n_flagged": 2,
+    "n_probes": 38323,
+    "n_probes_dropped_nonfinite": 0,
+    "n_referred_d18": 0,
+    "n_scored": 329,
+    "near_identical_tolerance": "1 - 1e-8",
+    "status": "completed",
+    "stop_stage": null
+  }
+}

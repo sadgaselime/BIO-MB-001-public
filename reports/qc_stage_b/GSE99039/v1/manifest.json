@@ -1,0 +1,113 @@
+{
+  "command": ".venv/bin/python -I scripts/qc_stage_b_gse63060.py --version v1",
+  "created_utc": "2026-10-20T11:39:21Z",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "counts_by_chip.tsv": "cbf1105f91bef2f6ba419b4fe423bf6649c9f20f908a18a1c80887ef6f75c804",
+      "counts_by_diagnosis.tsv": "1145b4da87621bc88430d68e135baa6ec9c59a6742c2fa42ebcc352992ec8cef",
+      "exclusion_list.tsv": "1551ab37d2ade028e16907aa6917821db006e8b43c9df010a63e41b8547e6b82",
+      "retained_flags.tsv": "71dcd6753890a0a904181596d2167639afc3f548c9e38d345e985aaff93070fa",
+      "summary.tsv": "4015c6423bb4a45c901d7d96b9ac48412058744ca3edab5464e2fe086726fc59"
+    },
+    "runs_compared": 2
+  },
+  "equivalence": null,
+  "identity": {
+    "aggregate_sha256": "37dec4b3c902cb2f5d77be14bcab2341b6fbc209b74e013720e403548796339c",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "1498fa48e9cfe38ee5a3e52416460a179e31105d4d5be111a4ec025ed16180d5",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 103,
+    "record_file": "code_identity.json",
+    "record_sha256": "d85e2984ba0e232a04ffca49c4ad6a40d1ce06372685c4ca46bbdf60531ef43c"
+  },
+  "identity_verification": {
+    "environment_modules": 410,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/qc_stage_b_gse63060.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea"
+      },
+      "executed_files": 2,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 4,
+    "status": "PASS",
+    "verified_utc": "2026-10-20T11:39:21Z"
+  },
+  "inputs": {
+    "reports/duplicate_review/GSE99039/c1_v1": {
+      "manifest_sha256": "06f811b26a200cd4198e89180207f28d586e56a8e4d09e5e5e0eb07206539176"
+    },
+    "reports/eligibility/GSE99039/v1": {
+      "manifest_sha256": "16467d8596ea202420500dcddb0d74175e2a2040536b6bb8688a8fc3ea81f748"
+    },
+    "reports/qc_stage_a/GSE99039/v1": {
+      "manifest_sha256": "c47e6f7a3d0f3fde3a897b38126879a98034bbabed96c0e92b92710c61fdeab0"
+    }
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-20T11:39:21Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "v1",
+    "run_id": "f8f5007e89f3",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-20T11:39:20Z"
+  },
+  "output_sha256": {
+    "code_identity.json": "d85e2984ba0e232a04ffca49c4ad6a40d1ce06372685c4ca46bbdf60531ef43c",
+    "counts_by_chip.tsv": "cbf1105f91bef2f6ba419b4fe423bf6649c9f20f908a18a1c80887ef6f75c804",
+    "counts_by_diagnosis.tsv": "1145b4da87621bc88430d68e135baa6ec9c59a6742c2fa42ebcc352992ec8cef",
+    "exclusion_list.tsv": "1551ab37d2ade028e16907aa6917821db006e8b43c9df010a63e41b8547e6b82",
+    "retained_flags.tsv": "71dcd6753890a0a904181596d2167639afc3f548c9e38d345e985aaff93070fa",
+    "summary.tsv": "4015c6423bb4a45c901d7d96b9ac48412058744ca3edab5464e2fe086726fc59"
+  },
+  "r8_cohort_status": "completed \u2014 informative",
+  "status": "Tier B step 5 Stage B for GSE99039: descriptive counts and the rule-applied exclusion list. RULE-APPLIED \u2014 AWAITING PI EXCLUSION-LIST APPROVAL (v5:123\u2013129); not applied to any model.",
+  "summary": {
+    "P1 (outside primary contrast)": 57,
+    "P2": 0,
+    "P3": 0,
+    "Q1": 15,
+    "Q1 among IPD/GPD/GENETIC_UNAFFECTED/CONTROL": 13,
+    "R1 universe": 558,
+    "excluded (any tier)": 70,
+    "primary population CONTROL (proposed, pending approval)": 229,
+    "primary population GENETIC_UNAFFECTED (proposed, pending approval)": 22,
+    "primary population GPD (proposed, pending approval)": 40,
+    "primary population IPD (proposed, pending approval)": 197,
+    "retained flagged arrays in proposed primary population": 33
+  },
+  "validation": [
+    {
+      "check": "every eligible array has a QC Stage A row",
+      "pass": true
+    },
+    {
+      "check": "primary population + excluded = universe",
+      "pass": true
+    }
+  ]
+}

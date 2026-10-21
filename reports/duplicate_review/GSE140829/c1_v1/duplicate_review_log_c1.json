@@ -1,0 +1,26 @@
+{
+  "c2_expression_candidates": "not handled here (Tier B step 6, after QC Stage A)",
+  "candidate_source": "C1 (metadata)",
+  "characteristic_keys_seen": [
+    "",
+    "Sex",
+    "age_at_draw",
+    "apoe_status",
+    "batch",
+    "connectivity_zscore",
+    "diagnosis"
+  ],
+  "cohort": "GSE140829",
+  "fields_examined": [
+    "!Sample_geo_accession",
+    "!Sample_title",
+    "all other !Sample_* values except characteristics values and !Sample_contact_* (for 'replicate')",
+    "characteristics keys only (for 'replicate')"
+  ],
+  "n_candidates": 587,
+  "review_date": null,
+  "reviewer": "PENDING: designated project reviewer not yet named",
+  "rule_reference": "v6 \u00a74; D18 (v7:621), approved 2026-10-18",
+  "status": "C1 candidates found: review by the designated project reviewer pending (D18 (iv)); not complete",
+  "tier_b_step": 4
+}

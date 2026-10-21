@@ -1,0 +1,68 @@
+{
+  "authorization": "explicit PI instruction 2026-10-21 ('approve MCP-counter download'); D21 option K1 (v7:624)",
+  "classes_not_used": [
+    "CD8 T cells",
+    "Cytotoxic lymphocytes",
+    "Myeloid dendritic cells",
+    "Endothelial cells",
+    "Fibroblasts"
+  ],
+  "commit": "6b85a671cfa8385798cea6147b6613a172e47ff5",
+  "coverage_by_cohort_G3": {
+    "GSE140829": {
+      "B_lineage": "8/9",
+      "Monocytic_lineage": "7/7",
+      "NK_cells": "9/9",
+      "Neutrophils": "14/15",
+      "T_cells": "14/16"
+    },
+    "GSE63060": {
+      "B_lineage": "7/9",
+      "Monocytic_lineage": "7/7",
+      "NK_cells": "8/9",
+      "Neutrophils": "14/15",
+      "T_cells": "14/16"
+    },
+    "GSE63061": {
+      "B_lineage": "7/9",
+      "Monocytic_lineage": "7/7",
+      "NK_cells": "9/9",
+      "Neutrophils": "14/15",
+      "T_cells": "14/16"
+    },
+    "GSE99039": {
+      "B_lineage": "9/9",
+      "Monocytic_lineage": "7/7",
+      "NK_cells": "8/9",
+      "Neutrophils": "15/15",
+      "T_cells": "15/16"
+    }
+  },
+  "files": {
+    "License.txt": {
+      "bytes": 6488,
+      "sha256": "a2a7150a5cc1cbe08d513b7bae7c45362e34e8bb2851b31434f527a16817e2f0",
+      "url": "https://raw.githubusercontent.com/ebecht/MCPcounter/6b85a671cfa8385798cea6147b6613a172e47ff5/Signatures/License.txt"
+    },
+    "genes.txt": {
+      "bytes": 5342,
+      "sha256": "408f6c5d02c8f9bd2f1599c598367881853520934f8ce398a4886a8b296922bb",
+      "url": "https://raw.githubusercontent.com/ebecht/MCPcounter/6b85a671cfa8385798cea6147b6613a172e47ff5/Signatures/genes.txt"
+    }
+  },
+  "k1_classes_used": {
+    "B_lineage": 9,
+    "Monocytic_lineage": 7,
+    "NK_cells": 9,
+    "Neutrophils": 15,
+    "T_cells": 16
+  },
+  "license": "CC0 1.0 Universal (Signatures/License.txt)",
+  "overlap_with_locked_signature": [
+    "CD3D"
+  ],
+  "resource": "MCP-counter marker gene list (Becht et al. 2016, Genome Biology)",
+  "retrieved_utc": "2026-10-21T11:45:52Z",
+  "source_repository": "https://github.com/ebecht/MCPcounter",
+  "status": "verified; never edited"
+}

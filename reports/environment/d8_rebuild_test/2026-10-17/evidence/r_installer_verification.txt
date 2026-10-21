@@ -1,0 +1,17 @@
+105066342 bytes
+SHA1(R-4.6.1-arm64.pkg)= fc9f4ada15589e8e037b9bf05563d21e97181635
+67f6eea4ced4ce48f0a0d4fa3a1cac43d1859a05a88993ee3dff7c52e7edbc4b  R-4.6.1-arm64.pkg
+Package "R-4.6.1-arm64.pkg":
+   Status: signed by a developer certificate issued by Apple for distribution
+   Notarization: trusted by the Apple notary service
+   Signed with a trusted timestamp on: 2026-06-25 21:58:22 +0000
+   Certificate Chain:
+    1. Developer ID Installer: Simon Urbanek (VZLD955F6P)
+R-4.6.1-arm64.pkg: accepted
+source=Notarized Developer ID
+origin=Developer ID Installer: Simon Urbanek (VZLD955F6P)
+package-id: org.R-project.R.fw.pkg
+version: 4.6.1
+volume: /
+location: Library/Frameworks
+install-time: 1791804668

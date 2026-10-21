@@ -1,0 +1,488 @@
+{
+  "status": "Assessment only; no Illumina mapping policy selected or approved; D17 and D19 unchanged",
+  "supersedes_presentation_of": "reports/annotation_audit/illumina_route_decision_matrix/v1 (unchanged)",
+  "review": "reports/annotation_audit/illumina_route_decision_matrix/REVIEW_v1.md",
+  "generator_sha256": {
+    "scripts/annotation_illumina_route_decision_matrix_v2.py": "29b7a2170213108dab79859b05a8c098da7a0a2cbc1cc414f66b622d97e50281",
+    "scripts/annotation_illumina_route_comparison.py": "09f1675d17e0ab23d54b7a42d6f42b624640ffbd0191a84a7c31ebeb47319193",
+    "src/biomarker_project/gene_history_reconciliation.py": "f4c10e21be1c4b6e8d7e3d017eef6283ab727b3b3be9c31eae0b5548f85358b3",
+    "tests/test_illumina_route_decision_matrix_v2.py": "ae1d67af186433cd2ee2f814b2f4fd12fa0dafeec5d67cebb1e9788b65e06de4"
+  },
+  "environment": {
+    "python": "3.13.9",
+    "implementation": "CPython"
+  },
+  "command": ".venv/bin/python scripts/annotation_illumina_route_decision_matrix_v2.py --version v2",
+  "inputs_sha256": {
+    "reference/bioconductor_3.23/download_manifest.json": "be6325084aef83d39e1fe5637d1a94c911ed02325b8afd4b1a8d126cea471653",
+    "reference/bioconductor_3.23/illuminaHumanv3.db_1.26.0.tar.gz": "cea0c9cd155197154d57400cb3f18108e451cf26e714c39698d68e45cd503a1b",
+    "reference/bioconductor_3.23/illuminaHumanv4.db_1.26.0.tar.gz": "362848d6e78c7fa6206e1a4c68a4b68c1ea065267d550114837bc3b9d833ee85",
+    "reference/bioconductor_3.23/lumiHumanIDMapping_1.10.1.tar.gz": "6414e94a243eea6a126e582a68fadd41798bb5fccc03fcc99380a01f40634948",
+    "reference/bioconductor_3.23/org.Hs.eg.db_3.23.1.tar.gz": "470620665cf49d0319422731164f377e3e74253989f1d33a8a1d100cc3d49cfe",
+    "reports/annotation_audit/illumina_option_a/v1/counts_manifest_PROVISIONAL.json": "38c799d7eb1d57d81a5e78102a9ebfe66e47c6ef45f4454fd6c0acbaf1c6e86f",
+    "reports/annotation_audit/illumina_option_a/v1/illuminaHumanv3_probe_classification_PROVISIONAL.tsv": "8214b0078512282701525617f81872ce189004df663079e96157cda8fe279de4",
+    "reports/annotation_audit/illumina_option_a/v1/illuminaHumanv4_probe_classification_PROVISIONAL.tsv": "fc73bebe9b614759cced5dcf553084e87091e2959a41866eff277b0916175153",
+    "reports/annotation_audit/illumina_option_a/v1/lumi_HT12_v4_R2_probe_classification_PROVISIONAL.tsv": "cd8edfd1016c1bf8f45a70a18cfda4c649c8b3e75fe55b9f23a3f138132fd739",
+    "reports/annotation_audit/illumina_route_comparison/v3/REPORT.md": "0b21a7a42878acc0a6163376e95c1d0bcdc35818cb9dc6e666fa95faa5a76906",
+    "reports/annotation_audit/illumina_route_comparison/v3/comparison_manifest.json": "f3c58d207446e0de2a180e8b04ecdada485ad00ac4e3f1718bf9c7e567955628",
+    "reports/annotation_audit/illumina_route_comparison/v3/metric_reconciliation_probes.tsv": "d345ff888498ebce676af7de0941bf5512bfa12e73a31b00f55d3f14b1f3f3b0",
+    "reports/annotation_audit/illumina_route_comparison/v3/route_comparison_metrics.tsv": "d693ab9d653e37a6307e1ddf91433504bedb1589c3ade3f00f39bc6209dacc4e",
+    "reports/annotation_audit/illumina_route_decision_matrix/REVIEW_v1.md": "a130d99f9fd31438c9506727f1d2d2096969025424fdf288d078529f09359f96",
+    "reports/annotation_audit/illumina_route_decision_matrix/v1/DECISION_MATRIX.md": "19ff46b8d4531e9000f2810f7fb98b71894450acc917df589af9296a72ef6ae9",
+    "reports/annotation_audit/illumina_route_decision_matrix/v1/decision_matrix.tsv": "4471726cf51d8c1e2ed278cb695c8d43fb344b51e7164a7bbc2794c36b0b166f",
+    "reports/annotation_audit/illumina_route_decision_matrix/v1/decision_matrix_manifest.json": "64224abae9bf4bc64772be053341b075f12316b5af99c6e434cf605704b7384b",
+    "reports/annotation_audit/ncbi_gene_history/SOURCE_RETENTION.md": "ccfb25341831adcde1be3a29457feb3a5783d5c64691471e2637ef2d8605076f",
+    "reports/annotation_audit/ncbi_gene_history/v1/gene_history_reconciliation.tsv": "42451a70752436a65c9caeab076317c0cf5523b13410003cc29f52df3f24f8f2",
+    "reports/annotation_audit/ncbi_gene_history/v1/reconciliation_manifest.json": "42746d098c2d3a5b42c6788b08d38ab373097c545ff1b263dfdc36bbf6101492"
+  },
+  "package_provenance": {
+    "illuminaHumanv3.db_1.26.0.tar.gz": {
+      "metadata_raw": {
+        "EGSOURCEDATE": "2015-Mar17",
+        "EGSOURCENAME": "Entrez Gene",
+        "CHIPNAME": "HumanHT12v3"
+      },
+      "description_version": "1.26.0",
+      "description_packaged": "2015-04-07 15:19:38 UTC; dunnin01"
+    },
+    "illuminaHumanv4.db_1.26.0.tar.gz": {
+      "metadata_raw": {
+        "EGSOURCEDATE": "2015-Mar17",
+        "EGSOURCENAME": "Entrez Gene",
+        "CHIPNAME": "HumanHT12v4"
+      },
+      "description_version": "1.26.0",
+      "description_packaged": "2015-04-07 15:39:45 UTC; dunnin01"
+    },
+    "lumiHumanIDMapping_1.10.1.tar.gz": {
+      "metadata_raw": {
+        "REFSEQ VERSION": " "
+      },
+      "description_version": "1.10.1",
+      "description_packaged": "2016-04-21 13:21:07 UTC; vobencha",
+      "ht12_v4_tables": {
+        "HumanHT12_V4_0_R1_15002873_B": {
+          "rows": 47231,
+          "distinct_probe_ids": 47231,
+          "probe_ids_also_in_R2_B": 47231,
+          "shared_probe_ids_with_same_nuID": 47231
+        },
+        "HumanHT12_V4_0_R2_15002873_B": {
+          "rows": 47323,
+          "distinct_probe_ids": 47323,
+          "probe_ids_also_in_R2_B": 47323,
+          "shared_probe_ids_with_same_nuID": 47323
+        },
+        "HumanHT12_V4_0_R2_15002873_B_WGDASL": {
+          "rows": 29377,
+          "distinct_probe_ids": 29377,
+          "probe_ids_also_in_R2_B": 29320,
+          "shared_probe_ids_with_same_nuID": 29320
+        }
+      },
+      "representation": {
+        "R2_B_rows": 47323,
+        "R2_B_distinct_probe_ids": 47323,
+        "R2_B_nuIDs_missing_from_mapping": 0,
+        "mapping_rows": 105521,
+        "mapping_distinct_nuIDs": 105521,
+        "EntrezID_values_with_non_digit_characters": 0,
+        "Accession_values_with_separators": 0
+      }
+    },
+    "org.Hs.eg.db_3.23.1.tar.gz": {
+      "metadata_raw": {
+        "EGSOURCEDATE": "2026-Mar18",
+        "EGSOURCENAME": "Entrez Gene"
+      },
+      "description_version": "3.23.1",
+      "description_packaged": "2026-03-23 01:48:12 UTC; exouser"
+    }
+  },
+  "definitions": {
+    "option_a": "package Entrez IDs + gene-history procedure (View A, cutoff 20260318); approved for GPL570 only (D6-F); provisional for Illumina",
+    "accession_route": "unversioned accession match to org.Hs.eg.db 3.23.1 (accessions ∪ refseq); unique match only",
+    "M1": "probes both routes assign; agreement vs post-gene-history Option A gene",
+    "M2": "probes with one package Entrez ID and a unique accession-route gene; agreement vs the package's original ID",
+    "probe_denominator": "all probes of the platform table (lumi: HumanHT12_V4_0_R2_15002873_B rows)",
+    "gene_counts": "distinct current Entrez IDs; successor and historical source genes counted separately",
+    "statuses": {
+      "decisive": "settles the choice on its own (none qualify)",
+      "supportive": "informative evidence that does not settle the choice",
+      "unresolved": "comparative merit cannot be judged from retained evidence; required whenever advantage is 'not determinable'"
+    },
+    "advantages": [
+      "Option A",
+      "accession route",
+      "neither",
+      "not determinable",
+      "restates C01 (not counted)"
+    ],
+    "advantage_entries_independent": false,
+    "weighting": "none",
+    "reconstruction": {
+      "full": "full: recomputed from retained raw sources (package and org.Hs.eg.db tarballs)",
+      "partial": "partial: accession-route side full; Option A side depends on the retained gene-history v1 records (raw NCBI gene_history.gz not retained, so those records cannot be rebuilt independently)"
+    }
+  },
+  "reconstructability": {
+    "raw_gene_history_retained": false,
+    "raw_gene_history_sha256_recorded": "bcb85c8fdd4791ad674e69481b794677953d0ecd9efb8547af4371845c59a602",
+    "retained_gene_history_records": "reports/annotation_audit/ncbi_gene_history/v1/gene_history_reconciliation.tsv",
+    "note": "Option A replacement-dependent figures trace to the retained gene-history v1 records (the human records the audit used, kept verbatim in gene_history_reconciliation.tsv); the raw NCBI gene_history.gz (SHA-256 bcb85c8f…) is not retained and cannot be re-obtained byte-identically (ncbi_gene_history/SOURCE_RETENTION.md)."
+  },
+  "validation": {
+    "status": "OK",
+    "checks": [
+      {
+        "check": "input: v3 route_comparison_metrics.tsv SHA-256 equals the v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "input: v3 REPORT.md SHA-256 equals the v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "input: v3 metric_reconciliation_probes.tsv SHA-256 equals the v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "input: v3 validation status is OK",
+        "status": "OK"
+      },
+      {
+        "check": "input: illuminaHumanv3.db_1.26.0.tar.gz SHA-256 equals the v3 manifest and reference/download_manifest.json",
+        "status": "OK"
+      },
+      {
+        "check": "input: illuminaHumanv4.db_1.26.0.tar.gz SHA-256 equals the v3 manifest and reference/download_manifest.json",
+        "status": "OK"
+      },
+      {
+        "check": "input: lumiHumanIDMapping_1.10.1.tar.gz SHA-256 equals the v3 manifest and reference/download_manifest.json",
+        "status": "OK"
+      },
+      {
+        "check": "input: org.Hs.eg.db_3.23.1.tar.gz SHA-256 equals the v3 manifest and reference/download_manifest.json",
+        "status": "OK"
+      },
+      {
+        "check": "input: Option A illuminaHumanv3_probe_classification_PROVISIONAL.tsv SHA-256 equals its manifest and the v3 record",
+        "status": "OK"
+      },
+      {
+        "check": "input: Option A illuminaHumanv4_probe_classification_PROVISIONAL.tsv SHA-256 equals its manifest and the v3 record",
+        "status": "OK"
+      },
+      {
+        "check": "input: Option A lumi_HT12_v4_R2_probe_classification_PROVISIONAL.tsv SHA-256 equals its manifest and the v3 record",
+        "status": "OK"
+      },
+      {
+        "check": "input: gene-history v1 manifest SHA-256 equals the one recorded by Option A v1",
+        "status": "OK"
+      },
+      {
+        "check": "input: gene-history v1 table SHA-256 equals its manifest",
+        "status": "OK"
+      },
+      {
+        "check": "input: gene-history View A cutoff is 20260318",
+        "status": "OK"
+      },
+      {
+        "check": "preserved: REVIEW_v1.md SHA-256 equals the value at review completion (a130d99f…)",
+        "status": "OK"
+      },
+      {
+        "check": "preserved: v1 decision_matrix_manifest.json SHA-256 equals the value recorded in REVIEW_v1.md",
+        "status": "OK"
+      },
+      {
+        "check": "preserved: v1 DECISION_MATRIX.md SHA-256 equals the v1 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "preserved: v1 decision_matrix.tsv SHA-256 equals the v1 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: [raw] package probe table reproduces the Option A v1 probe set, gene counts and package gene IDs",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: [raw] package Entrez IDs absent from org.Hs.eg.db 3.23.1 genes = gene-history v1 'absent_from_baseline' IDs for this package",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: [raw + retained gene-history records] per-probe Option A class and gene reconstructed = Option A v1 table",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: [raw] eligible_direct probes = single package gene present in org.Hs.eg.db 3.23.1",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: Option A metrics (eligible, direct, via replacement, no replacement, unexplained, genes, multi-probe genes, collisions) recomputed from the Option A v1 table = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: [raw] multi-gene and no-gene probe counts = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: [raw] accession classes from the independent org.Hs.eg.db map = classes from the v3 map, probe by probe",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: [raw] accession classes, unique probes and distinct genes = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: [raw] C03 accession-route multi-probe genes: independent map = v3 map; probe sum = unique probes; gene count = distinct genes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: [raw] accession inputs (values, version-suffixed values, probes with >1 accession) = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: M1 both / concordant / discordant = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: single-route and ambiguous-under-accession Option A probes = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: gene overlap = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: M2 total / same / different and M1 subset of M2 = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: M2 -> M1 transition counts = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: probes outside M1 = v3 manifest list",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: every non-(same -> concordant) transition matches v3/metric_reconciliation_probes.tsv probe by probe",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: C09 unresolved = all probes - C01 assigned (both routes)",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: C10 single-route difference = C01 coverage difference",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: ambiguity cross-tabulation partitions the package-multi-gene and accession-ambiguous probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: [raw] package probe table reproduces the Option A v1 probe set, gene counts and package gene IDs",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: [raw] package Entrez IDs absent from org.Hs.eg.db 3.23.1 genes = gene-history v1 'absent_from_baseline' IDs for this package",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: [raw + retained gene-history records] per-probe Option A class and gene reconstructed = Option A v1 table",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: [raw] eligible_direct probes = single package gene present in org.Hs.eg.db 3.23.1",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: Option A metrics (eligible, direct, via replacement, no replacement, unexplained, genes, multi-probe genes, collisions) recomputed from the Option A v1 table = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: [raw] multi-gene and no-gene probe counts = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: [raw] accession classes from the independent org.Hs.eg.db map = classes from the v3 map, probe by probe",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: [raw] accession classes, unique probes and distinct genes = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: [raw] C03 accession-route multi-probe genes: independent map = v3 map; probe sum = unique probes; gene count = distinct genes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: [raw] accession inputs (values, version-suffixed values, probes with >1 accession) = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: M1 both / concordant / discordant = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: single-route and ambiguous-under-accession Option A probes = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: gene overlap = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: M2 total / same / different and M1 subset of M2 = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: M2 -> M1 transition counts = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: probes outside M1 = v3 manifest list",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: every non-(same -> concordant) transition matches v3/metric_reconciliation_probes.tsv probe by probe",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: C09 unresolved = all probes - C01 assigned (both routes)",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: C10 single-route difference = C01 coverage difference",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: ambiguity cross-tabulation partitions the package-multi-gene and accession-ambiguous probes",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: [raw] package probe table reproduces the Option A v1 probe set, gene counts and package gene IDs",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: [raw] package Entrez IDs absent from org.Hs.eg.db 3.23.1 genes = gene-history v1 'absent_from_baseline' IDs for this package",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: [raw + retained gene-history records] per-probe Option A class and gene reconstructed = Option A v1 table",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: [raw] eligible_direct probes = single package gene present in org.Hs.eg.db 3.23.1",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: Option A metrics (eligible, direct, via replacement, no replacement, unexplained, genes, multi-probe genes, collisions) recomputed from the Option A v1 table = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: [raw] multi-gene and no-gene probe counts = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: [raw] accession classes from the independent org.Hs.eg.db map = classes from the v3 map, probe by probe",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: [raw] accession classes, unique probes and distinct genes = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: [raw] C03 accession-route multi-probe genes: independent map = v3 map; probe sum = unique probes; gene count = distinct genes",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: [raw] accession inputs (values, version-suffixed values, probes with >1 accession) = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: M1 both / concordant / discordant = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: single-route and ambiguous-under-accession Option A probes = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: gene overlap = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: M2 total / same / different and M1 subset of M2 = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: M2 -> M1 transition counts = v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: probes outside M1 = v3 manifest list",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: every non-(same -> concordant) transition matches v3/metric_reconciliation_probes.tsv probe by probe",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: C09 unresolved = all probes - C01 assigned (both routes)",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: C10 single-route difference = C01 coverage difference",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: ambiguity cross-tabulation partitions the package-multi-gene and accession-ambiguous probes",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: [raw] source representation is single-valued (one R2_B row per probe ID, every nuID mapped, one mapping row per nuID, no multi-value EntrezID/Accession), so the C08/C12 zeros are structural",
+        "status": "OK"
+      },
+      {
+        "check": "matrix: every platform has exactly C01–C15",
+        "status": "OK"
+      },
+      {
+        "check": "matrix: statuses and advantages use the allowed vocabularies",
+        "status": "OK"
+      },
+      {
+        "check": "matrix: no criterion has status 'decisive'",
+        "status": "OK"
+      },
+      {
+        "check": "matrix: every 'not determinable' advantage has status 'unresolved'",
+        "status": "OK"
+      },
+      {
+        "check": "matrix: C09 and C10 are marked as restating C01",
+        "status": "OK"
+      },
+      {
+        "check": "matrix: no empty cell",
+        "status": "OK"
+      }
+    ]
+  },
+  "determinism": {
+    "in_process_runs_compared": 2,
+    "in_process_identical": true,
+    "independent_process_identical": true,
+    "output_sha256": {
+      "DECISION_MATRIX.md": "1bf76b3f6ad6d400181670b1e263de2fb3ad9a011ee299792ce305bdff3aae47",
+      "decision_matrix.tsv": "4ea0049b5f8693ac2bb0e190d72f9b7917fcf1473fa4c34ba943f3977ddd0691"
+    }
+  }
+}

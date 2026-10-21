@@ -1,0 +1,61 @@
+{
+  "left_label": "expression",
+  "right_label": "phenotype",
+  "key_description": "expression column/sample ID == GEO title",
+  "n_left_ids": 28,
+  "n_right_records": 28,
+  "n_matched": 28,
+  "matched": [
+    "MAYO_011",
+    "MAYO_012",
+    "MAYO_015",
+    "MAYO_016",
+    "MAYO_021",
+    "MAYO_022",
+    "MAYO_023",
+    "MAYO_024",
+    "MAYO_025",
+    "MAYO_026",
+    "MAYO_027",
+    "MAYO_028",
+    "MAYO_029",
+    "MAYO_030",
+    "MAYO_031",
+    "MAYO_036",
+    "MAYO_038",
+    "MAYO_039",
+    "MAYO_040",
+    "MAYO_041",
+    "MAYO_043",
+    "MAYO_045",
+    "MAYO_046",
+    "MAYO_047",
+    "MAYO_048",
+    "MAYO_049",
+    "MAYO_050",
+    "MAYO_051"
+  ],
+  "left_only": [],
+  "right_only": [],
+  "duplicate_left_ids": {},
+  "duplicate_right_ids": {},
+  "normalization_changes": [],
+  "right_records_without_key": [],
+  "missing_diagnosis": [],
+  "ambiguous_diagnosis": [],
+  "unmapped_diagnosis": [],
+  "group_counts_all_records": {
+    "HC": 14,
+    "PD": 14
+  },
+  "group_counts_matched": {
+    "HC": 14,
+    "PD": 14
+  },
+  "raw_label_counts_all_records": {
+    "Control": 14,
+    "PD": 14
+  },
+  "near_miss_hints": [],
+  "exact_one_to_one": true
+}

@@ -1,0 +1,18 @@
+{
+  "n_flagged_controls": 67,
+  "n_flagged_male_controls": 26,
+  "n_three_male_removals_tested": 2600,
+  "n_matching_table1_mean_70.2_sd_3.7": 0,
+  "highest_achievable_mean_age": 70.047,
+  "totals": {
+    "GSE63060": {
+      "all_samples": 329,
+      "flag_yes": 155
+    },
+    "GSE63061": {
+      "all_samples": 388,
+      "flag_yes": 142
+    }
+  },
+  "superseries_GSE63063_total_expected": 717
+}

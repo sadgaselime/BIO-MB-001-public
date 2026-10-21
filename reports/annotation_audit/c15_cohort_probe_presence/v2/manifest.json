@@ -1,0 +1,292 @@
+{
+  "command": ".venv/bin/python -I scripts/c15_cohort_probe_presence.py --version v2",
+  "created_utc": "2026-10-18T17:52:21Z",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "presence_counts.tsv": "d110318ee9a2a4e76cb6bcbeee5cdcaa8a2a133a29b6d8ac5b5c65bf52adf8da",
+      "probe_presence.tsv": "3e83d3204e000d797f17f1e6b0ad359df87496c8c2a4e84035497c71afa18e17"
+    },
+    "runs_compared": 2
+  },
+  "environment": {
+    "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+    "python": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+  },
+  "equivalence": {
+    "identical": true,
+    "reference": "reports/annotation_audit/c15_cohort_probe_presence/v1",
+    "tables": {
+      "presence_counts.tsv": {
+        "identical": true,
+        "reference_sha256": "d110318ee9a2a4e76cb6bcbeee5cdcaa8a2a133a29b6d8ac5b5c65bf52adf8da",
+        "sha256": "d110318ee9a2a4e76cb6bcbeee5cdcaa8a2a133a29b6d8ac5b5c65bf52adf8da"
+      },
+      "probe_presence.tsv": {
+        "identical": true,
+        "reference_sha256": "3e83d3204e000d797f17f1e6b0ad359df87496c8c2a4e84035497c71afa18e17",
+        "sha256": "3e83d3204e000d797f17f1e6b0ad359df87496c8c2a4e84035497c71afa18e17"
+      }
+    }
+  },
+  "generator_sha256": "60857f1078c18668b157f0d3a0b39b9495940e64bfee852477b5676aefe7c6b9",
+  "identity": {
+    "aggregate_sha256": "42eaf15b2223da78bfd559dfa44b7fe18b2e5442fd8bf4b0acb5e2688b7c16bb",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "fa51c7b9d10dd468fbeed8b2ad83b832eb8acc83adb828dc25361cbbc4359951",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 67,
+    "record_file": "code_identity.json",
+    "record_sha256": "dce0c1689f092a007fb1ffca92022bc8ba461ba5134dd22d67c44d206acd6f40"
+  },
+  "identity_verification": {
+    "environment_modules": 0,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/c15_cohort_probe_presence.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "scripts/annotation_illumina_route_comparison.py": "09f1675d17e0ab23d54b7a42d6f42b624640ffbd0191a84a7c31ebeb47319193",
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea",
+        "src/biomarker_project/gene_history_reconciliation.py": "f4c10e21be1c4b6e8d7e3d017eef6283ab727b3b3be9c31eae0b5548f85358b3"
+      },
+      "executed_files": 4,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 5,
+    "status": "PASS",
+    "verified_utc": "2026-10-18T17:52:22Z"
+  },
+  "inputs": {
+    "annotation": {
+      "reference/bioconductor_3.23/illuminaHumanv3.db_1.26.0.tar.gz": "cea0c9cd155197154d57400cb3f18108e451cf26e714c39698d68e45cd503a1b",
+      "reference/bioconductor_3.23/illuminaHumanv4.db_1.26.0.tar.gz": "362848d6e78c7fa6206e1a4c68a4b68c1ea065267d550114837bc3b9d833ee85",
+      "reference/bioconductor_3.23/org.Hs.eg.db_3.23.1.tar.gz": "470620665cf49d0319422731164f377e3e74253989f1d33a8a1d100cc3d49cfe",
+      "reports/annotation_audit/gpl570_option_a/v1/probe_set_classification.tsv": "9e5f23fa8b10b3e120b518873905b79e5f338ca07ec83357e173d3a2ddea8d9c",
+      "reports/annotation_audit/illumina_option_a/v1/illuminaHumanv3_probe_classification_PROVISIONAL.tsv": "8214b0078512282701525617f81872ce189004df663079e96157cda8fe279de4",
+      "reports/annotation_audit/illumina_option_a/v1/illuminaHumanv4_probe_classification_PROVISIONAL.tsv": "fc73bebe9b614759cced5dcf553084e87091e2959a41866eff277b0916175153",
+      "reports/annotation_audit/illumina_option_a/v1/lumi_HT12_v4_R2_probe_classification_PROVISIONAL.tsv": "cd8edfd1016c1bf8f45a70a18cfda4c649c8b3e75fe55b9f23a3f138132fd739"
+    },
+    "references": {
+      "reports/annotation_audit/illumina_route_comparison/v3/metric_reconciliation_probes.tsv": "d345ff888498ebce676af7de0941bf5512bfa12e73a31b00f55d3f14b1f3f3b0",
+      "reports/annotation_audit/illumina_route_comparison/v3/route_comparison_metrics.tsv": "d693ab9d653e37a6307e1ddf91433504bedb1589c3ade3f00f39bc6209dacc4e"
+    },
+    "series_matrix": {
+      "GSE63060": {
+        "audit_platform_id": "GPL6947",
+        "bytes": 62803860,
+        "expected_unique_ids": 38323,
+        "path": "data/raw/GSE63060/GSE63060_series_matrix.txt.gz",
+        "sha256": "342421d07105d786d623a4b86dc4a21b764da352e4facc7a032fbd36b0f19371"
+      },
+      "GSE63061": {
+        "audit_platform_id": "GPL10558",
+        "bytes": 63713724,
+        "expected_unique_ids": 32049,
+        "path": "data/raw/GSE63061/GSE63061_series_matrix.txt.gz",
+        "sha256": "c6de1af5bd36bca3de0921d53051bdefd05666f6e94a6906a26c8cb461dd55f5"
+      },
+      "GSE99039": {
+        "audit_platform_id": "GPL570",
+        "bytes": 63827685,
+        "expected_unique_ids": 54675,
+        "path": "data/raw/GSE99039/GSE99039_series_matrix.txt.gz",
+        "sha256": "197b7272a8a5040c2843cbefd44f8bd43e9b7820562732d5b1ffd30841bfcb50"
+      }
+    }
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-18T17:52:22Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "v2",
+    "run_id": "23efa02fdaed",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-18T17:52:09Z"
+  },
+  "output_sha256": {
+    "REPORT.md": "d0e258caa0979d6a7c91eb5d97e4aaaa3fb4f1ca09bb2d77be5f9a9de8b87f37",
+    "code_identity.json": "dce0c1689f092a007fb1ffca92022bc8ba461ba5134dd22d67c44d206acd6f40",
+    "presence_counts.tsv": "d110318ee9a2a4e76cb6bcbeee5cdcaa8a2a133a29b6d8ac5b5c65bf52adf8da",
+    "probe_presence.tsv": "3e83d3204e000d797f17f1e6b0ad359df87496c8c2a4e84035497c71afa18e17"
+  },
+  "regeneration_vs_route_comparison_v3": {
+    "illuminaHumanv3": {
+      "both_assign": 29294,
+      "classes": {
+        "accession_unmatched": 1379,
+        "ambiguous": 1152,
+        "no_accession": 17719,
+        "unique": 29326
+      },
+      "discordant": 10,
+      "reconciliation_probes": 50
+    },
+    "illuminaHumanv4": {
+      "both_assign": 33761,
+      "classes": {
+        "accession_unmatched": 2390,
+        "ambiguous": 1680,
+        "no_accession": 10226,
+        "unique": 33811
+      },
+      "discordant": 16,
+      "reconciliation_probes": 64
+    }
+  },
+  "route_logic_sha256": "09f1675d17e0ab23d54b7a42d6f42b624640ffbd0191a84a7c31ebeb47319193",
+  "scope": {
+    "cohorts": [
+      "GSE63060",
+      "GSE63061",
+      "GSE99039"
+    ],
+    "excluded": "GSE140829 (D19)",
+    "expression_values": "not parsed, stored or analysed; each data row is cut at its first tab"
+  },
+  "status": "C15 metadata-only probe-presence evidence; decision support only; approves nothing",
+  "validation": [
+    {
+      "check": "illuminaHumanv3: regenerated accession classes equal route-comparison v3 ({'accession_unmatched': 1379, 'ambiguous': 1152, 'no_accession': 17719, 'unique': 29326})",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv3: both-assign count equals v3 (29294)",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv3: discordant count equals v3 (10)",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv3: reconciliation probe set equals v3 (50 probes)",
+      "pass": true
+    },
+    {
+      "check": "GSE63060: Series Matrix table opened and closed",
+      "pass": true
+    },
+    {
+      "check": "GSE63060: Series Matrix platform is GPL6947",
+      "pass": true
+    },
+    {
+      "check": "GSE63060: no duplicate probe IDs",
+      "pass": true
+    },
+    {
+      "check": "GSE63060: no empty probe IDs",
+      "pass": true
+    },
+    {
+      "check": "GSE63060: probe IDs = dataset-audit inspection count",
+      "pass": true
+    },
+    {
+      "check": "GSE63060: annotation table probe IDs unique",
+      "pass": true
+    },
+    {
+      "check": "GSE63060: present route categories + absent-from-table sum to Series Matrix IDs",
+      "pass": true
+    },
+    {
+      "check": "GSE63060: present Option A classes sum to Series Matrix IDs",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv4: regenerated accession classes equal route-comparison v3 ({'accession_unmatched': 2390, 'ambiguous': 1680, 'no_accession': 10226, 'unique': 33811})",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv4: both-assign count equals v3 (33761)",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv4: discordant count equals v3 (16)",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv4: reconciliation probe set equals v3 (64 probes)",
+      "pass": true
+    },
+    {
+      "check": "GSE63061: Series Matrix table opened and closed",
+      "pass": true
+    },
+    {
+      "check": "GSE63061: Series Matrix platform is GPL10558",
+      "pass": true
+    },
+    {
+      "check": "GSE63061: no duplicate probe IDs",
+      "pass": true
+    },
+    {
+      "check": "GSE63061: no empty probe IDs",
+      "pass": true
+    },
+    {
+      "check": "GSE63061: probe IDs = dataset-audit inspection count",
+      "pass": true
+    },
+    {
+      "check": "GSE63061: annotation table probe IDs unique",
+      "pass": true
+    },
+    {
+      "check": "GSE63061: present route categories + absent-from-table sum to Series Matrix IDs",
+      "pass": true
+    },
+    {
+      "check": "GSE63061: present Option A classes sum to Series Matrix IDs",
+      "pass": true
+    },
+    {
+      "check": "GSE99039: Series Matrix table opened and closed",
+      "pass": true
+    },
+    {
+      "check": "GSE99039: Series Matrix platform is GPL570",
+      "pass": true
+    },
+    {
+      "check": "GSE99039: no duplicate probe IDs",
+      "pass": true
+    },
+    {
+      "check": "GSE99039: no empty probe IDs",
+      "pass": true
+    },
+    {
+      "check": "GSE99039: probe IDs = dataset-audit inspection count",
+      "pass": true
+    },
+    {
+      "check": "GSE99039: annotation table probe IDs unique",
+      "pass": true
+    },
+    {
+      "check": "GSE99039: present Option A classes sum to Series Matrix IDs",
+      "pass": true
+    }
+  ]
+}

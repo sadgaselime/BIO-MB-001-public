@@ -1,0 +1,27 @@
+Background. Blood transcriptomic signatures of Alzheimer's disease (AD) have been reported repeatedly, but their
+reproducibility across cohorts, their specificity relative to other neurodegenerative diseases and their value for
+classifying individuals remain uncertain.
+
+Methods. We analysed four public whole-blood microarray datasets under a written, decision-logged analysis plan:
+GSE63060 (discovery), GSE63061 (a related cohort with possible participant overlap), GSE140829 (replication) and GSE99039
+(Parkinson's disease). Samples were selected by pre-specified eligibility and quality-control rules, including a two-axis
+sex-concordance check. Differential expression used limma with age, sex and chip or batch adjustment. A 200-gene signature
+was locked in the discovery cohort before any other cohort was modelled, and then tested with a composite score test, a
+per-gene test and direction agreement. Specificity was tested two-sided against Parkinson's disease, with Holm correction
+across three contrasts. A ridge classifier was trained with nested, chip-grouped cross-validation and applied once, frozen,
+to the other cohorts. Leukocyte composition was assessed with marker-based indices: in discovery, as a sensitivity analysis
+whose method was chosen after the primary results; externally, post hoc.
+
+Results. In GSE63060 (145 AD, 60 controls), 1,401 of 17,425 genes were associated with AD (FDR < 0.05); the result was
+robust across 14 sensitivity analyses. The locked signature was dominated by lower expression of oxidative-phosphorylation
+and ribosomal genes. It shifted strongly toward AD in GSE63061 (one-sided p = 3.0 × 10⁻¹⁴) and weakly in GSE140829 (201 AD,
+248 controls; p = 0.0019; 43 of 200 genes replicated). In idiopathic Parkinson's disease the score shifted in the AD
+direction (two-sided p = 0.018; Holm-adjusted p = 0.053), so specificity was neither demonstrated nor excluded. The
+classifier reached a cross-validated AUROC of 0.841 (permutation p = 0.005), 0.769 in GSE63061, and 0.525 (95% CI
+0.471–0.579) in GSE140829. Composition adjustment left the signature intact in discovery but halved the GSE140829 shift
+(p = 0.041; 1 gene replicated) and reduced the Parkinson's shift to +0.08 (p = 0.27).
+
+Conclusions. A blood transcriptomic AD signal reproduces across cohorts only as a modest group-level shift. Outside the
+discovery cohort it is largely accounted for by leukocyte composition, it may be shared with Parkinson's disease, and it
+does not support individual-level classification in an external cohort. Agreement within one consortium substantially
+overstated external evidence.

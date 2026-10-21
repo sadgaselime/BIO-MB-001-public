@@ -1,0 +1,133 @@
+{
+  "command": ".venv/bin/python -I scripts/eligibility_gse140829.py --version v1",
+  "created_utc": "2026-10-19T15:19:01Z",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "eligibility_log.tsv": "171656b1ac79fc9e20df399102e777f57e44d899c6c7d56738386f016b902f84",
+      "eligibility_summary.tsv": "7879f828e59d9dccbd7500623da07a154b77ffb244756bd66190adf726fa19b5",
+      "r11_supplementary_columns.tsv": "047838d4c174e1b64f404f6b270dacc015adba6801b30d6aa9b03cac873752c6"
+    },
+    "runs_compared": 2
+  },
+  "equivalence": null,
+  "expected_counts": {
+    "AD": 204,
+    "CTL": 249,
+    "MCI": 134,
+    "R5": 0,
+    "universe": 587
+  },
+  "fields_not_read": [
+    "char:connectivity_zscore",
+    "char:apoe_status"
+  ],
+  "identity": {
+    "aggregate_sha256": "1d944d41607016519a67971efeb31a4fd24541d263f5e95db926e4126bd08057",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "1498fa48e9cfe38ee5a3e52416460a179e31105d4d5be111a4ec025ed16180d5",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 96,
+    "record_file": "code_identity.json",
+    "record_sha256": "93deb0e90cdc52c33d3f43a962cf2293a36b025c54d0e965ff8abaee6be6a1e0"
+  },
+  "identity_verification": {
+    "environment_modules": 0,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/eligibility_gse140829.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea"
+      },
+      "executed_files": 2,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 4,
+    "status": "PASS",
+    "verified_utc": "2026-10-19T15:19:01Z"
+  },
+  "inputs": {
+    "data/processed/GSE140829/phenotype_table.tsv": "0929e1cc367d930b4c807062d9048ad88e43335f645c2ad44615512b6adb8130",
+    "data/raw/GSE140829/GSE140829_final_normalized_data.txt.gz": "28613d74484a130cfe7f00034db6ae7358983adb50a1e8b01fb2d1e17ae1798b",
+    "data/raw/GSE140829/GSE140829_raw_data.txt.gz": "de2ba7864b0c1b4350203e8fcc3d10382e990b3e5e98c5a1a4973ef8a7fd7938",
+    "data/raw/GSE140829/GSE140829_series_matrix.txt.gz": "be4f08a2cb01fe912a764df66fd654dec70d9e1ecd36bded00b675b27e7f83f3",
+    "sap_sha256": "65c7ebc25bdaf28dfd6c77848d40089f1171457a053927c2313179f7347142b2"
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-19T15:19:01Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "v1",
+    "run_id": "dc6ba50a760f",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-19T15:19:01Z"
+  },
+  "output_sha256": {
+    "code_identity.json": "93deb0e90cdc52c33d3f43a962cf2293a36b025c54d0e965ff8abaee6be6a1e0",
+    "eligibility_log.tsv": "171656b1ac79fc9e20df399102e777f57e44d899c6c7d56738386f016b902f84",
+    "eligibility_summary.tsv": "7879f828e59d9dccbd7500623da07a154b77ffb244756bd66190adf726fa19b5",
+    "r11_supplementary_columns.tsv": "047838d4c174e1b64f404f6b270dacc015adba6801b30d6aa9b03cac873752c6"
+  },
+  "status": "Tier B step 3: GSE140829 pre-QC eligibility under the GSE140829 eligibility rules (v7:605). Metadata only; no expression value read; no QC, duplicate review, model or analysis.",
+  "validation": [
+    {
+      "check": "R1: universe equals 587",
+      "pass": true
+    },
+    {
+      "check": "R1: table column header equals !Sample_geo_accession in order",
+      "pass": true
+    },
+    {
+      "check": "R2-ID: GSM and barcode unique and present",
+      "pass": true
+    },
+    {
+      "check": "AD = 204",
+      "pass": true
+    },
+    {
+      "check": "CTL = 249",
+      "pass": true
+    },
+    {
+      "check": "MCI = 134",
+      "pass": true
+    },
+    {
+      "check": "R5 excluded = 0",
+      "pass": true
+    },
+    {
+      "check": "age, sex and batch recorded for every array",
+      "pass": true
+    },
+    {
+      "check": "phenotype table has the same GSM set",
+      "pass": true
+    },
+    {
+      "check": "phenotype table agrees on diagnosis, sex and batch",
+      "pass": true
+    }
+  ]
+}

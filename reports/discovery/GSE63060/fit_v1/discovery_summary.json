@@ -1,0 +1,20 @@
+{
+  "gene_level": {
+    "df_total_median": 179.3010275845055,
+    "min_p": 6.479150495708564e-17,
+    "n_down_AD": 739,
+    "n_estimable": 17425,
+    "n_q_lt_0.05": 1401,
+    "n_tested": 17425,
+    "n_up_AD": 662
+  },
+  "probe_level": {
+    "df_total_median": 183.0833543309832,
+    "min_p": 4.574184510941476e-17,
+    "n_down_AD": 933,
+    "n_estimable": 38323,
+    "n_q_lt_0.05": 1744,
+    "n_tested": 38323,
+    "n_up_AD": 811
+  }
+}

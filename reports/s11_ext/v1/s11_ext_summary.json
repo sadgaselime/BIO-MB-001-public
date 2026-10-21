@@ -1,0 +1,258 @@
+{
+  "GSE140829": {
+    "C-a": {
+      "n": 200,
+      "n_replicated_q_lt_0.05": 1
+    },
+    "C-b": {
+      "concordant": 155,
+      "discordant": 45,
+      "measurable": 200,
+      "proportion_concordant": 0.775
+    },
+    "C-c": {
+      "bound_agrees_with_test": true,
+      "ci_high_two_sided_95": 0.2474928120251813,
+      "ci_low_two_sided_95": -0.0146954527477747,
+      "coefficient": "AD_vs_CTL",
+      "consistent_direction_shift": true,
+      "decision_rule": "reject H0: theta <= 0 iff p_one_sided < 0.05 (equivalently L_c > 0)",
+      "df": 424,
+      "estimate": 0.1163986796387032,
+      "lower_bound_one_sided_95": 0.006454843785104,
+      "p_one_sided": 0.040834046300447,
+      "std_error": 0.0666950650879569,
+      "t_statistic": 1.745236765046972
+    },
+    "coverage": true,
+    "identifiability": {
+      "E": 0.8692957722615711,
+      "VIF": 1.1503564516348528,
+      "decision": "PROCEED",
+      "mixed_units": 16,
+      "n": 449,
+      "r_N": 24,
+      "residual_df": 424,
+      "stop_reasons": []
+    },
+    "primary_for_comparison": {
+      "C-a_n_replicated": 43,
+      "C-b_overall": {
+        "concordant": 183,
+        "discordant": 17,
+        "measurable": 200,
+        "proportion_concordant": 0.915
+      },
+      "C-c": {
+        "estimate": 0.2483497636322701,
+        "lower_bound_one_sided_95": 0.1078462009892527,
+        "p_one_sided": 0.0018793360090214
+      }
+    },
+    "scores_used": {
+      "B_lineage": {
+        "markers": 9,
+        "present": 8
+      },
+      "Monocytic_lineage": {
+        "markers": 7,
+        "present": 7
+      },
+      "NK_cells": {
+        "markers": 9,
+        "present": 9
+      },
+      "Neutrophils": {
+        "markers": 15,
+        "present": 14
+      },
+      "T_cells": {
+        "markers": 16,
+        "present": 14
+      }
+    }
+  },
+  "GSE99039": {
+    "GENETIC_UNAFFECTED": {
+      "Q1": {
+        "category": "association not demonstrated",
+        "ci_high_two_sided_95": 0.5632111663964212,
+        "ci_low_two_sided_95": -0.100802004129966,
+        "df": 190,
+        "estimate": 0.2312045811332276,
+        "p_holm_three_contrasts": 0.5135160154535003,
+        "p_two_sided": 0.1711720051511668,
+        "sign_relative_to_AD_signature": "same direction as AD",
+        "std_error": 0.1683152556666346,
+        "t_statistic": 1.373640079251946
+      },
+      "counts": {
+        "CONTROL": 208,
+        "disease": 19
+      },
+      "identifiability": {
+        "E": 0.6385846889669522,
+        "VIF": 1.5659630073776347,
+        "decision": "PROCEED",
+        "mixed_units": 7,
+        "n": 227,
+        "r_N": 36,
+        "residual_df": 190,
+        "stop_reasons": []
+      },
+      "per_gene": {
+        "association not demonstrated": 190
+      },
+      "primary_for_comparison": {
+        "category": "association not demonstrated",
+        "estimate": 0.1889625986796731,
+        "p_holm_three_contrasts": 0.739327286974482,
+        "p_two_sided": 0.369663643487241
+      },
+      "role": "secondary, descriptive only (D13)",
+      "scores_used": {
+        "B_lineage": {
+          "markers": 9,
+          "present": 9
+        },
+        "Monocytic_lineage": {
+          "markers": 7,
+          "present": 7
+        },
+        "NK_cells": {
+          "markers": 9,
+          "present": 8
+        },
+        "Neutrophils": {
+          "markers": 15,
+          "present": 15
+        },
+        "T_cells": {
+          "markers": 16,
+          "present": 15
+        }
+      }
+    },
+    "GPD": {
+      "Q1": {
+        "category": "association not demonstrated",
+        "ci_high_two_sided_95": 0.3721494847790075,
+        "ci_low_two_sided_95": -0.0722195601740102,
+        "df": 209,
+        "estimate": 0.1499649623024986,
+        "p_holm_three_contrasts": 0.5135160154535003,
+        "p_two_sided": 0.1847718819130852,
+        "sign_relative_to_AD_signature": "same direction as AD",
+        "std_error": 0.1127051015851067,
+        "t_statistic": 1.330596043953307
+      },
+      "counts": {
+        "CONTROL": 208,
+        "disease": 40
+      },
+      "identifiability": {
+        "E": 0.7498792522804619,
+        "VIF": 1.3335480305114382,
+        "decision": "PROCEED",
+        "mixed_units": 15,
+        "n": 248,
+        "r_N": 38,
+        "residual_df": 209,
+        "stop_reasons": []
+      },
+      "per_gene": {
+        "association not demonstrated": 190
+      },
+      "primary_for_comparison": {
+        "category": "association not demonstrated",
+        "estimate": 0.1014083274399557,
+        "p_holm_three_contrasts": 0.739327286974482,
+        "p_two_sided": 0.4699969875479522
+      },
+      "role": "secondary",
+      "scores_used": {
+        "B_lineage": {
+          "markers": 9,
+          "present": 9
+        },
+        "Monocytic_lineage": {
+          "markers": 7,
+          "present": 7
+        },
+        "NK_cells": {
+          "markers": 9,
+          "present": 8
+        },
+        "Neutrophils": {
+          "markers": 15,
+          "present": 15
+        },
+        "T_cells": {
+          "markers": 16,
+          "present": 15
+        }
+      }
+    },
+    "IPD": {
+      "Q1": {
+        "category": "association not demonstrated",
+        "ci_high_two_sided_95": 0.2220314067369509,
+        "ci_low_two_sided_95": -0.0616371498227206,
+        "df": 350,
+        "estimate": 0.0801971284571151,
+        "p_holm_three_contrasts": 0.5135160154535003,
+        "p_two_sided": 0.2668735631716614,
+        "sign_relative_to_AD_signature": "same direction as AD",
+        "std_error": 0.0721155186681286,
+        "t_statistic": 1.1120647807606794
+      },
+      "counts": {
+        "CONTROL": 208,
+        "disease": 183
+      },
+      "identifiability": {
+        "E": 0.6778439464090323,
+        "VIF": 1.4752658119875994,
+        "decision": "PROCEED",
+        "mixed_units": 22,
+        "n": 391,
+        "r_N": 40,
+        "residual_df": 350,
+        "stop_reasons": []
+      },
+      "per_gene": {
+        "association not demonstrated": 190
+      },
+      "primary_for_comparison": {
+        "category": "association not demonstrated",
+        "estimate": 0.2021492810392012,
+        "p_holm_three_contrasts": 0.052608014009262,
+        "p_two_sided": 0.017536004669754
+      },
+      "role": "primary",
+      "scores_used": {
+        "B_lineage": {
+          "markers": 9,
+          "present": 9
+        },
+        "Monocytic_lineage": {
+          "markers": 7,
+          "present": 7
+        },
+        "NK_cells": {
+          "markers": 9,
+          "present": 8
+        },
+        "Neutrophils": {
+          "markers": 15,
+          "present": 15
+        },
+        "T_cells": {
+          "markers": 16,
+          "present": 15
+        }
+      }
+    }
+  },
+  "label": "S11-ext: POST HOC (approved 2026-10-21 after the GSE140829 and GSE99039 results); family B; never replaces a primary result"
+}

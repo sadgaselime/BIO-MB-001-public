@@ -1,0 +1,6 @@
+accession,geo_accession,sample_id,reason,evidence,source_file,status
+GSE63060,,4856076038_D,column in GSE63060_normalized.txt.gz has no matching phenotype record,ID reconciliation,GSE63060_normalized.txt.gz,PROPOSED_FOR_REVIEW_NOT_APPLIED
+GSE63060,GSM1539292,4856050008_B,phenotype record has no column in GSE63060_non-normalized.txt.gz,ID reconciliation,GSE63060_non-normalized.txt.gz,PROPOSED_FOR_REVIEW_NOT_APPLIED
+GSE63060,GSM1539294,4856050008_K,phenotype record has no column in GSE63060_non-normalized.txt.gz,ID reconciliation,GSE63060_non-normalized.txt.gz,PROPOSED_FOR_REVIEW_NOT_APPLIED
+GSE63060,GSM1539298,4856050048_A,phenotype record has no column in GSE63060_non-normalized.txt.gz,ID reconciliation,GSE63060_non-normalized.txt.gz,PROPOSED_FOR_REVIEW_NOT_APPLIED
+GSE63060,,4856076038_D,column in GSE63060_non-normalized.txt.gz has no matching phenotype record,ID reconciliation,GSE63060_non-normalized.txt.gz,PROPOSED_FOR_REVIEW_NOT_APPLIED

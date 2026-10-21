@@ -1,0 +1,68 @@
+{
+  "comparison_all_genes": {
+    "n_down_AD": 539,
+    "n_genes_tested": 17425,
+    "n_q_lt_0.05": 857,
+    "n_up_AD": 318,
+    "of_which_same_sign": 1401,
+    "of_which_same_sign_and_q_lt_0.05": 783,
+    "primary_significant_genes_compared": 1401,
+    "spearman_t_vs_primary": 0.9242563785660829
+  },
+  "comparison_locked_genes": {
+    "excluded_marker_genes": [
+      "915"
+    ],
+    "median_abs_estimate_ratio_s11_over_primary": 0.8419119728310739,
+    "n_locked_compared": 199,
+    "q_lt_0.05_and_same_sign": 199,
+    "same_sign_as_locked": 199,
+    "spearman_t_vs_primary": 0.9366118471143597
+  },
+  "identifiability": "PROCEED",
+  "label": "METHOD CHOSEN 2026-10-21, AFTER PRIMARY RESULTS (D21 K1); family B; never alters the lock",
+  "score_means_by_group_descriptive": {
+    "B_lineage": {
+      "AD": 0.0016474458896060147,
+      "CTL": -0.003981327566545965
+    },
+    "Monocytic_lineage": {
+      "AD": 0.03042151988408752,
+      "CTL": -0.07351867305320942
+    },
+    "NK_cells": {
+      "AD": 0.04046930409078404,
+      "CTL": -0.097800818219388
+    },
+    "Neutrophils": {
+      "AD": 0.048981092512803914,
+      "CTL": -0.11837097357261443
+    },
+    "T_cells": {
+      "AD": -0.029675837033184185,
+      "CTL": 0.07171660616353011
+    }
+  },
+  "scores_used": {
+    "B_lineage": {
+      "markers": 9,
+      "present": 7
+    },
+    "Monocytic_lineage": {
+      "markers": 7,
+      "present": 7
+    },
+    "NK_cells": {
+      "markers": 9,
+      "present": 8
+    },
+    "Neutrophils": {
+      "markers": 15,
+      "present": 14
+    },
+    "T_cells": {
+      "markers": 16,
+      "present": 14
+    }
+  }
+}

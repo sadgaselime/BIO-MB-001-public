@@ -1,0 +1,1 @@
+Pre-install copy of renv.lock, 2026-10-19, before adding R glmnet (explicit PI authorization: install route "R glmnet (Recommended)").

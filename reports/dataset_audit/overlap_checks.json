@@ -1,0 +1,144 @@
+{
+  "generated_at": "2026-10-09T14:09:05+00:00",
+  "checks": [
+    {
+      "id": "ADDNEUROMED-PARTICIPANT-CODES",
+      "datasets": "GSE63060, GSE63061",
+      "field": "description",
+      "note": "Compares participant-style codes in GSM descriptions across AddNeuroMed batches.",
+      "pairs": [
+        {
+          "datasets": [
+            "GSE63060",
+            "GSE63061"
+          ],
+          "n_values": [
+            329,
+            388
+          ],
+          "n_shared": 0,
+          "shared_values": []
+        }
+      ],
+      "status": "NO_SHARED_IDENTIFIERS_FOUND",
+      "detail": "no identical values; this does NOT establish participant independence (identifiers may be coded differently between deposits)"
+    },
+    {
+      "id": "ADDNEUROMED-ARRAY-BARCODES",
+      "datasets": "GSE63060, GSE63061",
+      "field": "title",
+      "note": "Compares array barcodes (chip_position) across batches.",
+      "pairs": [
+        {
+          "datasets": [
+            "GSE63060",
+            "GSE63061"
+          ],
+          "n_values": [
+            329,
+            388
+          ],
+          "n_shared": 0,
+          "shared_values": []
+        }
+      ],
+      "status": "NO_SHARED_IDENTIFIERS_FOUND",
+      "detail": "no identical values; this does NOT establish participant independence (identifiers may be coded differently between deposits)"
+    },
+    {
+      "id": "AD-COHORTS-ARRAY-BARCODES",
+      "datasets": "GSE63060, GSE63061, GSE140829",
+      "field": "title ~ (\\d+_[A-Z])",
+      "note": "Shared array barcodes would indicate re-deposited hybridizations.",
+      "pairs": [
+        {
+          "datasets": [
+            "GSE63060",
+            "GSE63061"
+          ],
+          "n_values": [
+            329,
+            388
+          ],
+          "n_shared": 0,
+          "shared_values": []
+        },
+        {
+          "datasets": [
+            "GSE63060",
+            "GSE140829"
+          ],
+          "n_values": [
+            329,
+            587
+          ],
+          "n_shared": 0,
+          "shared_values": []
+        },
+        {
+          "datasets": [
+            "GSE63061",
+            "GSE140829"
+          ],
+          "n_values": [
+            388,
+            587
+          ],
+          "n_shared": 0,
+          "shared_values": []
+        }
+      ],
+      "status": "NO_SHARED_IDENTIFIERS_FOUND",
+      "detail": "no identical values; this does NOT establish participant independence (identifiers may be coded differently between deposits)"
+    },
+    {
+      "id": "PD-STUDY-RNA-VS-METHYLATION",
+      "datasets": "GSE165082, GSE165081",
+      "field": "title ~ (\\d{3})",
+      "note": "Numeric participant codes (e.g. 011_PD vs MAYO_011). Matching numbers are a lead for participant correspondence across modalities, not proof.",
+      "pairs": [
+        {
+          "datasets": [
+            "GSE165082",
+            "GSE165081"
+          ],
+          "n_values": [
+            26,
+            28
+          ],
+          "n_shared": 26,
+          "shared_values": [
+            "011",
+            "012",
+            "015",
+            "016",
+            "021",
+            "022",
+            "023",
+            "024",
+            "025",
+            "026",
+            "027",
+            "028",
+            "029",
+            "030",
+            "031",
+            "036",
+            "038",
+            "039",
+            "040",
+            "041",
+            "043",
+            "045",
+            "047",
+            "049",
+            "050",
+            "051"
+          ]
+        }
+      ],
+      "status": "POSSIBLE_OVERLAP_FLAGGED",
+      "detail": "GSE165082/GSE165081: 26 shared of [26, 28] (e.g. ['011', '012', '015', '016', '021'])"
+    }
+  ]
+}

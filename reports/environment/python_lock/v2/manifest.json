@@ -1,0 +1,179 @@
+{
+ "status": "D8 Python third-party dependency lock. Promoted under PI decision D8-2 (2026-10-18). This record does not approve D8 (D8-8 pending).",
+ "created_utc": "2026-10-17T20:06:34Z",
+ "scope": {
+  "platform": "macOS arm64 (recorded host: macOS 26.6.2, build 25G83)",
+  "python": "CPython 3.13.9",
+  "interpreter_conda_record": {
+   "name": "python",
+   "version": "3.13.9",
+   "build": "hc7d8306_100_cp313",
+   "build_number": 100,
+   "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+   "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/python-3.13.9-hc7d8306_100_cp313.conda",
+   "md5": "ac919b137a1a058007791c3080915c19",
+   "sha256": "180ada515b86b90587fb719e949440012a11a4f32855255b95993a5d079b764d",
+   "subdir": "osx-arm64",
+   "timestamp": 1761074235000
+  },
+  "not_covered": [
+   "any other OS or architecture",
+   "any other Python version",
+   "biomarker-project (local package; out of D8 environment scope per D8-3)",
+   "Anaconda base pip-only packages (out of scope per D8-4)"
+  ]
+ },
+ "index": {
+  "url": "https://pypi.org/simple",
+  "basis": "inferred: no global, user or site pip configuration exists (pip config list -v, 2026-10-17); the original index was not recorded by the installer"
+ },
+ "lock_file": {
+  "path": "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt",
+  "sha256": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b",
+  "requirement_lines_identical_to": "reports/environment/d8_rebuild_test/2026-10-17/evidence/requirements.hashes.TEST.txt",
+  "tested_lock_sha256": "a7dc1ed210fcd2d5fbe103beceb02099ff1c565ad7141ae0915cdce084b2350f"
+ },
+ "packages": [
+  {
+   "name": "certifi",
+   "version": "2026.7.22",
+   "wheel": "certifi-2026.7.22-py3-none-any.whl",
+   "sha256": "62f22742b58a1a33014a2b6b706588a8d7e2a88ae7bd1a6ebe8c992928483775",
+   "url": "https://files.pythonhosted.org/packages/0b/a7/71ac2cff56fec219ed242bb11b8efb69fcc4bec75db06fb7bfe35de520e6/certifi-2026.7.22-py3-none-any.whl"
+  },
+  {
+   "name": "charset-normalizer",
+   "version": "3.5.2",
+   "wheel": "charset_normalizer-3.5.2-cp313-cp313-macosx_10_13_universal2.whl",
+   "sha256": "6045373d5a89a5ec71afde535db987ca28e76dfa276c2d4c818265b375d4b055",
+   "url": "https://files.pythonhosted.org/packages/91/da/3c5a7798c046df7d2d68ad653cf5b6c5a8bfee225055a843c6f2f42aac1a/charset_normalizer-3.5.2-cp313-cp313-macosx_10_13_universal2.whl"
+  },
+  {
+   "name": "idna",
+   "version": "3.20",
+   "wheel": "idna-3.20-py3-none-any.whl",
+   "sha256": "ab7ae7122974553370f0bdb919e1a960b2cd1bc1ef0276416d896db81c14582c",
+   "url": "https://files.pythonhosted.org/packages/58/a2/bb081bab032533a855d44de1d56f8e8426114ff1ba5d1f07a438a0a654f8/idna-3.20-py3-none-any.whl"
+  },
+  {
+   "name": "iniconfig",
+   "version": "2.3.1",
+   "wheel": "iniconfig-2.3.1-py3-none-any.whl",
+   "sha256": "9121e2c1fdb355232495be3194c8dfe87ccc2d5dee45947b78e68f499790d7a7",
+   "url": "https://files.pythonhosted.org/packages/56/43/4ca9e49d27a1fcf6bece6f6aec0ea46bb9112489b93d4b688fb415457bdb/iniconfig-2.3.1-py3-none-any.whl"
+  },
+  {
+   "name": "numpy",
+   "version": "2.5.3",
+   "wheel": "numpy-2.5.3-cp313-cp313-macosx_14_0_arm64.whl",
+   "sha256": "f9a2353b37a1a9e78fd82b27ad7e2a32a2d036604d18f02b05e3136c62ca3b09",
+   "url": "https://files.pythonhosted.org/packages/ab/2a/98282aa5b8f58b1157d440bb6282eed47e3632a5de53a714fbab17e659fe/numpy-2.5.3-cp313-cp313-macosx_14_0_arm64.whl"
+  },
+  {
+   "name": "packaging",
+   "version": "26.3",
+   "wheel": "packaging-26.3-py3-none-any.whl",
+   "sha256": "d7193f7c8e4e93f444fde0262bf90af30e16fa0ad0ad44cb553c87339b23cd1c",
+   "url": "https://files.pythonhosted.org/packages/63/34/ba1c580383c9eada3711951fef0795c80b829a078d72188184bcab9dd527/packaging-26.3-py3-none-any.whl"
+  },
+  {
+   "name": "pandas",
+   "version": "3.0.6",
+   "wheel": "pandas-3.0.6-cp313-cp313-macosx_11_0_arm64.whl",
+   "sha256": "60d81f9e1799b36f3739e7fff44d1fbb2e8fd5a271b3863e03de9715fccda0fa",
+   "url": "https://files.pythonhosted.org/packages/ea/ca/87f8548f73d452aab35e4a90f8b39ae303295e0f2ef0b4055c44d6b3f1be/pandas-3.0.6-cp313-cp313-macosx_11_0_arm64.whl"
+  },
+  {
+   "name": "pip",
+   "version": "26.2.1",
+   "wheel": "pip-26.2.1-py3-none-any.whl",
+   "sha256": "71138adf1f4ca900cdb7d289c21b7494329f2332b6d85f0e1c42108c0384ed3e",
+   "url": "https://files.pythonhosted.org/packages/f3/6e/1736e5b4ae2b778ef2f81c47d797de9f891d4d8acb047a24ca37a60294dd/pip-26.2.1-py3-none-any.whl"
+  },
+  {
+   "name": "pluggy",
+   "version": "1.6.0",
+   "wheel": "pluggy-1.6.0-py3-none-any.whl",
+   "sha256": "e920276dd6813095e9377c0bc5566d94c932c33b27a3e3945d8389c374dd4746",
+   "url": "https://files.pythonhosted.org/packages/54/20/4d324d65cc6d9205fabedc306948156824eb9f0ee1633355a8f7ec5c66bf/pluggy-1.6.0-py3-none-any.whl"
+  },
+  {
+   "name": "Pygments",
+   "version": "2.21.0",
+   "wheel": "pygments-2.21.0-py3-none-any.whl",
+   "sha256": "2363c69b61c4a97c838da3b130dcd6468f4848992b21a82f2a63ec34377137d9",
+   "url": "https://files.pythonhosted.org/packages/71/46/17f022dd3e953bf20a04a028a21ec746d942f8d2af30fa0f124fa0e6a684/pygments-2.21.0-py3-none-any.whl"
+  },
+  {
+   "name": "pytest",
+   "version": "9.1.1",
+   "wheel": "pytest-9.1.1-py3-none-any.whl",
+   "sha256": "37a86b45efb9a47a61a36449063e8e18d0cab3161329fc099eb21783169c4f0c",
+   "url": "https://files.pythonhosted.org/packages/24/25/1de2678b631f5a49215c6c96fff41ba892b0a34df68d6d80292b1b48aa7f/pytest-9.1.1-py3-none-any.whl"
+  },
+  {
+   "name": "python-dateutil",
+   "version": "2.9.0.post0",
+   "wheel": "python_dateutil-2.9.0.post0-py2.py3-none-any.whl",
+   "sha256": "a8b2bc7bffae282281c8140a97d3aa9c14da0b136dfe83f850eea9a5f7470427",
+   "url": "https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl"
+  },
+  {
+   "name": "PyYAML",
+   "version": "6.0.3",
+   "wheel": "pyyaml-6.0.3-cp313-cp313-macosx_11_0_arm64.whl",
+   "sha256": "2283a07e2c21a2aa78d9c4442724ec1eb15f5e42a723b99cb3d822d48f5f7ad1",
+   "url": "https://files.pythonhosted.org/packages/b1/16/95309993f1d3748cd644e02e38b75d50cbc0d9561d21f390a76242ce073f/pyyaml-6.0.3-cp313-cp313-macosx_11_0_arm64.whl"
+  },
+  {
+   "name": "requests",
+   "version": "2.34.2",
+   "wheel": "requests-2.34.2-py3-none-any.whl",
+   "sha256": "2a0d60c172f83ac6ab31e4554906c0f3b3588d37b5cb939b1c061f4907e278e0",
+   "url": "https://files.pythonhosted.org/packages/a0/f4/c67b0b3f1b9245e8d266f0f112c500d50e5b4e83cb6f3b71b6528104182a/requests-2.34.2-py3-none-any.whl"
+  },
+  {
+   "name": "six",
+   "version": "1.17.0",
+   "wheel": "six-1.17.0-py2.py3-none-any.whl",
+   "sha256": "4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274",
+   "url": "https://files.pythonhosted.org/packages/b7/ce/149a00dd41f10bc29e5921b496af8b574d8413afcd5e30dfa0ed46c2cc5e/six-1.17.0-py2.py3-none-any.whl"
+  },
+  {
+   "name": "urllib3",
+   "version": "2.8.0",
+   "wheel": "urllib3-2.8.0-py3-none-any.whl",
+   "sha256": "0cf3cae568d36aa9576b28dfb35f11328f1cb974ca7647d9475ebb86c75ac6e3",
+   "url": "https://files.pythonhosted.org/packages/92/9d/c4e665119135114480843e7ab388fa94d8480650450e6f8e26b70d323a4c/urllib3-2.8.0-py3-none-any.whl"
+  }
+ ],
+ "n_packages": 16,
+ "dependency_closure": "All active Requires-Dist of the 16 packages and of biomarker-project (including the dev extra) are satisfied within the set under CPython 3.13.9/darwin/arm64; inactive markers: colorama (win32), exceptiongroup and tomli (python<3.11), tzdata (win32, emscripten), numpy>=2.3.3 (python>=3.14). Source: reports/environment/d8_closure_review/2026-10-17/D8_CLOSURE_REVIEW.md section 5.",
+ "verification_evidence": {
+  "reports/environment/d8_rebuild_test/2026-10-17/D8_REBUILD_TEST_REPORT.md": "f19cc744b3968f44134af61d25d06ab3d22096e79101eea276d0028e2d9b2de7",
+  "reports/environment/d8_rebuild_test/2026-10-17/SHA256SUMS": "49b4744c53c7bec30ea9e29d0680f9245f8d5caf656721f1065ef0b365ac9025",
+  "reports/environment/d8_rebuild_test/2026-10-17/evidence/python_wheel_resolution.tsv": "b79c8543a4d6a17f258e72fff106f14a4f8473a360fb33fbaf84d3682181acea",
+  "reports/environment/d8_rebuild_test/2026-10-17/evidence/venv_pip_install.log": "52f05459fba842030c795cde1960f1aa093ca2247c7108b7302bd9aff2181a47",
+  "reports/environment/d8_rebuild_test/2026-10-17/evidence/venv_rebuilt_freeze.txt": "5ed16d61b0bdc41b734b3944b44a60046026f4c575836e605358b5c742c52f12",
+  "reports/environment/d8_rebuild_test/2026-10-17/evidence/venv_installed_file_comparison.json": "f19658c25ac2a8f52985d2fe60ff5e10c814accb88197dc2e981c20d5d801dc9",
+  "reports/environment/d8_rebuild_test/2026-10-17/evidence/test_scripts/wheel_lock.py": "a77ae5e87a04db8e82ba78af4a8d2b2e21482c92d7cc4e21b1a9cfb571612ece",
+  "reports/environment/d8_closure_review/2026-10-17/D8_CLOSURE_REVIEW.md": "217d59b1617c01c9a9d7c30c81c1ab62d9e0b69f0a5ad32ab6e287d0cebdd9cf"
+ },
+ "verified_properties": [
+  "each hash equals the PyPI-published SHA-256 of the wheel and was re-verified on download (2026-10-17)",
+  "the lock installed with --require-hashes into an isolated venv created from the rebuilt conda-layer interpreter (exit 0)",
+  "installed freeze equals requirements.snapshot.txt minus biomarker-project",
+  "3,567 hashed installed files across the 16 packages identical to the existing .venv (scope: RECORD rows with a hash, excluding .pyc, INSTALLER, REQUESTED, direct_url.json, RECORD and bin/ scripts)"
+ ],
+ "source_records_sha256": {
+  "reports/environment/python_lock/v1/requirements.snapshot.txt": "f7bffbf3fd57bdc1553adac9d045fb366eea67fc2814751f2155fe20f846560e",
+  "reports/environment/python_lock/v1/pip_inspect.json": "47aa44f1fe6514c299fc8b3ad173fdb2eaeff4f92fa516f87822921cec2587e9",
+  "reports/environment/d8_readonly_checks/v1/d8_readonly_checks.json": "98561cf9a31251be5855aec066e8f95299197931adf3ee8fc6602bc9b22209ac",
+  "pyproject.toml": "ca8c8bae73d6f4b894915914ad23b16b7f181f769b8c76e733362bcc9d5e1cfd"
+ },
+ "not_claimed": [
+  "numerical reproducibility of analyses",
+  "availability of the wheels in the future",
+  "coverage outside the stated platform and Python version"
+ ]
+}

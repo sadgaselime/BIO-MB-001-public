@@ -1,0 +1,18 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.13.9, pytest-9.1.1, pluggy-1.6.0 -- /Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python
+rootdir: /Users/sadgasalim/Documents/BIO-MB-001
+configfile: pyproject.toml
+collecting ... collected 10 items
+
+tests/test_code_identity.py::test_unchanged_tree_is_deterministic_and_verifies PASSED [ 10%]
+tests/test_code_identity.py::test_aggregate_reproducible_from_manifest PASSED [ 20%]
+tests/test_code_identity.py::test_changed_file PASSED                    [ 30%]
+tests/test_code_identity.py::test_added_untracked_file_is_hashed PASSED  [ 40%]
+tests/test_code_identity.py::test_removed_and_renamed_files PASSED       [ 50%]
+tests/test_code_identity.py::test_mode_change_detected_but_not_in_aggregate PASSED [ 60%]
+tests/test_code_identity.py::test_exclusions_and_out_of_scope_paths PASSED [ 70%]
+tests/test_code_identity.py::test_paths_are_posix_relative_nfc_and_byte_ordered PASSED [ 80%]
+tests/test_code_identity.py::test_record_tampering_and_head_change PASSED [ 90%]
+tests/test_code_identity.py::test_environment_records_and_non_git_tree PASSED [100%]
+
+============================== 10 passed in 1.31s ==============================

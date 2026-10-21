@@ -1,0 +1,90 @@
+{
+  "command": ".venv/bin/python -I scripts/duplicate_review_c1_gse63060.py --version v1",
+  "created_utc": "2026-10-18T21:35:10Z",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "c1_review_table.tsv": "220b3cf62ca97ada44b11a0fa49dc4ded82add81aeb4d4f43108d6f675db01a9"
+    },
+    "runs_compared": 2
+  },
+  "equivalence": null,
+  "identity": {
+    "aggregate_sha256": "127132e910df7c979decb5f054d1d680db545d4bf5289571403a736ba6155ecf",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "fa51c7b9d10dd468fbeed8b2ad83b832eb8acc83adb828dc25361cbbc4359951",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 86,
+    "record_file": "code_identity.json",
+    "record_sha256": "8a80fcf4724a18fc2dc763171725fe9da17ee67c11434073ddf76e7d99f00256"
+  },
+  "identity_verification": {
+    "environment_modules": 0,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/duplicate_review_c1_gse63060.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea"
+      },
+      "executed_files": 2,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 4,
+    "status": "PASS",
+    "verified_utc": "2026-10-18T21:35:10Z"
+  },
+  "inputs": {
+    "data/raw/GSE63061/GSE63061_series_matrix.txt.gz": {
+      "manifest_sha256": "c6de1af5bd36bca3de0921d53051bdefd05666f6e94a6906a26c8cb461dd55f5",
+      "sha256": "c6de1af5bd36bca3de0921d53051bdefd05666f6e94a6906a26c8cb461dd55f5"
+    },
+    "reports/eligibility/GSE63061/v1": {
+      "eligibility_log_sha256": "6ecfb88e2d1ddef79e5f0779f6cbbc92e803cd5c2c6415082eca2b6d4f6d163c",
+      "manifest_sha256": "ef6301ba4dfb998ebc14c454221c18c7bbbdbffddfd254c826bad90de262f5c1"
+    }
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-18T21:35:10Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "c1_v1",
+    "run_id": "4a97c7c6a5fe",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-18T21:35:10Z"
+  },
+  "output_sha256": {
+    "c1_review_table.tsv": "220b3cf62ca97ada44b11a0fa49dc4ded82add81aeb4d4f43108d6f675db01a9",
+    "code_identity.json": "8a80fcf4724a18fc2dc763171725fe9da17ee67c11434073ddf76e7d99f00256",
+    "duplicate_review_log_c1.json": "9d3a90d5ca074f0ab968d1c66f9192d6d7682e5eff3c9c02a2da9938b683c482"
+  },
+  "status": "Tier B step 4 (C1 metadata) for GSE63061: complete: no C1 candidates; no reviewer decision required. Approves nothing; no analysis.",
+  "validation": [
+    {
+      "check": "universe equals the eligibility log GSMs, in order",
+      "pass": true
+    },
+    {
+      "check": "review table carries no diagnosis or phenotype column",
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,1117 @@
+side,source,original_id,normalized_id,status,duplicate_count,geo_accession,diagnosis_raw,diagnosis_canonical,diagnosis_status
+expression,GSE99039_series_matrix.txt.gz,GSM2630758,GSM2630758,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630759,GSM2630759,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630760,GSM2630760,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630761,GSM2630761,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630762,GSM2630762,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630763,GSM2630763,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630764,GSM2630764,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630765,GSM2630765,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630766,GSM2630766,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630767,GSM2630767,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630768,GSM2630768,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630769,GSM2630769,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630770,GSM2630770,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630771,GSM2630771,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630772,GSM2630772,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630773,GSM2630773,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630774,GSM2630774,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630775,GSM2630775,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630776,GSM2630776,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630777,GSM2630777,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630778,GSM2630778,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630779,GSM2630779,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630780,GSM2630780,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630781,GSM2630781,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630782,GSM2630782,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630783,GSM2630783,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630784,GSM2630784,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630785,GSM2630785,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630786,GSM2630786,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630787,GSM2630787,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630788,GSM2630788,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630789,GSM2630789,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630790,GSM2630790,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630791,GSM2630791,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630792,GSM2630792,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630793,GSM2630793,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630794,GSM2630794,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630795,GSM2630795,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630796,GSM2630796,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630797,GSM2630797,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630798,GSM2630798,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630799,GSM2630799,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630800,GSM2630800,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630801,GSM2630801,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630802,GSM2630802,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630803,GSM2630803,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630804,GSM2630804,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630805,GSM2630805,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630806,GSM2630806,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630807,GSM2630807,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630808,GSM2630808,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630809,GSM2630809,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630810,GSM2630810,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630811,GSM2630811,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630812,GSM2630812,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630813,GSM2630813,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630814,GSM2630814,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630815,GSM2630815,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630816,GSM2630816,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630817,GSM2630817,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630818,GSM2630818,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630819,GSM2630819,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630820,GSM2630820,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630821,GSM2630821,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630822,GSM2630822,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630823,GSM2630823,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630824,GSM2630824,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630825,GSM2630825,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630826,GSM2630826,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630827,GSM2630827,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630828,GSM2630828,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630829,GSM2630829,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630830,GSM2630830,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630831,GSM2630831,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630832,GSM2630832,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630833,GSM2630833,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630834,GSM2630834,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630835,GSM2630835,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630836,GSM2630836,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630837,GSM2630837,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630838,GSM2630838,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630839,GSM2630839,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630840,GSM2630840,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630841,GSM2630841,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630842,GSM2630842,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630843,GSM2630843,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630844,GSM2630844,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630845,GSM2630845,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630846,GSM2630846,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630847,GSM2630847,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630848,GSM2630848,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630849,GSM2630849,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630850,GSM2630850,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630851,GSM2630851,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630852,GSM2630852,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630853,GSM2630853,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630854,GSM2630854,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630855,GSM2630855,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630856,GSM2630856,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630857,GSM2630857,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630858,GSM2630858,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630859,GSM2630859,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630860,GSM2630860,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630861,GSM2630861,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630862,GSM2630862,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630863,GSM2630863,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630864,GSM2630864,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630865,GSM2630865,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630866,GSM2630866,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630867,GSM2630867,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630868,GSM2630868,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630869,GSM2630869,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630870,GSM2630870,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630871,GSM2630871,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630872,GSM2630872,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630873,GSM2630873,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630874,GSM2630874,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630875,GSM2630875,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630876,GSM2630876,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630877,GSM2630877,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630878,GSM2630878,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630879,GSM2630879,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630880,GSM2630880,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630881,GSM2630881,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630882,GSM2630882,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630883,GSM2630883,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630884,GSM2630884,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630885,GSM2630885,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630886,GSM2630886,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630887,GSM2630887,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630888,GSM2630888,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630889,GSM2630889,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630890,GSM2630890,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630891,GSM2630891,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630892,GSM2630892,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630893,GSM2630893,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630894,GSM2630894,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630895,GSM2630895,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630896,GSM2630896,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630897,GSM2630897,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630898,GSM2630898,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630899,GSM2630899,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630900,GSM2630900,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630901,GSM2630901,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630902,GSM2630902,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630903,GSM2630903,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630904,GSM2630904,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630905,GSM2630905,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630906,GSM2630906,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630907,GSM2630907,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630908,GSM2630908,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630909,GSM2630909,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630910,GSM2630910,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630911,GSM2630911,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630912,GSM2630912,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630913,GSM2630913,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630914,GSM2630914,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630915,GSM2630915,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630916,GSM2630916,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630917,GSM2630917,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630918,GSM2630918,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630919,GSM2630919,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630920,GSM2630920,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630921,GSM2630921,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630922,GSM2630922,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630923,GSM2630923,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630924,GSM2630924,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630925,GSM2630925,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630926,GSM2630926,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630927,GSM2630927,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630928,GSM2630928,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630929,GSM2630929,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630930,GSM2630930,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630931,GSM2630931,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630932,GSM2630932,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630933,GSM2630933,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630934,GSM2630934,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630935,GSM2630935,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630936,GSM2630936,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630937,GSM2630937,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630938,GSM2630938,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630939,GSM2630939,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630940,GSM2630940,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630941,GSM2630941,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630942,GSM2630942,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630943,GSM2630943,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630944,GSM2630944,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630945,GSM2630945,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630946,GSM2630946,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630947,GSM2630947,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630948,GSM2630948,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630949,GSM2630949,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630950,GSM2630950,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630951,GSM2630951,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630952,GSM2630952,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630953,GSM2630953,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630954,GSM2630954,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630955,GSM2630955,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630956,GSM2630956,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630957,GSM2630957,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630958,GSM2630958,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630959,GSM2630959,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630960,GSM2630960,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630961,GSM2630961,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630962,GSM2630962,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630963,GSM2630963,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630964,GSM2630964,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630965,GSM2630965,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630966,GSM2630966,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630967,GSM2630967,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630968,GSM2630968,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630969,GSM2630969,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630970,GSM2630970,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630971,GSM2630971,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630972,GSM2630972,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630973,GSM2630973,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630974,GSM2630974,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630975,GSM2630975,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630976,GSM2630976,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630977,GSM2630977,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630978,GSM2630978,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630979,GSM2630979,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630980,GSM2630980,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630981,GSM2630981,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630982,GSM2630982,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630983,GSM2630983,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630984,GSM2630984,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630985,GSM2630985,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630986,GSM2630986,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630987,GSM2630987,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630988,GSM2630988,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630989,GSM2630989,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630990,GSM2630990,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630991,GSM2630991,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630992,GSM2630992,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630993,GSM2630993,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630994,GSM2630994,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630995,GSM2630995,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630996,GSM2630996,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630997,GSM2630997,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630998,GSM2630998,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2630999,GSM2630999,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631000,GSM2631000,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631001,GSM2631001,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631002,GSM2631002,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631003,GSM2631003,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631004,GSM2631004,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631005,GSM2631005,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631006,GSM2631006,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631007,GSM2631007,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631008,GSM2631008,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631009,GSM2631009,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631010,GSM2631010,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631011,GSM2631011,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631012,GSM2631012,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631013,GSM2631013,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631014,GSM2631014,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631015,GSM2631015,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631016,GSM2631016,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631017,GSM2631017,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631018,GSM2631018,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631019,GSM2631019,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631020,GSM2631020,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631021,GSM2631021,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631022,GSM2631022,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631023,GSM2631023,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631024,GSM2631024,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631025,GSM2631025,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631026,GSM2631026,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631027,GSM2631027,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631028,GSM2631028,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631029,GSM2631029,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631030,GSM2631030,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631031,GSM2631031,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631032,GSM2631032,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631033,GSM2631033,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631034,GSM2631034,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631035,GSM2631035,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631036,GSM2631036,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631037,GSM2631037,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631038,GSM2631038,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631039,GSM2631039,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631040,GSM2631040,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631041,GSM2631041,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631042,GSM2631042,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631043,GSM2631043,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631044,GSM2631044,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631045,GSM2631045,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631046,GSM2631046,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631047,GSM2631047,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631048,GSM2631048,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631049,GSM2631049,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631050,GSM2631050,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631051,GSM2631051,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631052,GSM2631052,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631053,GSM2631053,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631054,GSM2631054,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631055,GSM2631055,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631056,GSM2631056,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631057,GSM2631057,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631058,GSM2631058,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631059,GSM2631059,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631060,GSM2631060,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631061,GSM2631061,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631062,GSM2631062,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631063,GSM2631063,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631064,GSM2631064,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631065,GSM2631065,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631066,GSM2631066,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631067,GSM2631067,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631068,GSM2631068,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631069,GSM2631069,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631070,GSM2631070,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631071,GSM2631071,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631072,GSM2631072,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631073,GSM2631073,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631074,GSM2631074,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631075,GSM2631075,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631076,GSM2631076,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631077,GSM2631077,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631078,GSM2631078,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631079,GSM2631079,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631080,GSM2631080,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631081,GSM2631081,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631082,GSM2631082,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631083,GSM2631083,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631084,GSM2631084,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631085,GSM2631085,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631086,GSM2631086,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631087,GSM2631087,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631088,GSM2631088,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631089,GSM2631089,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631090,GSM2631090,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631091,GSM2631091,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631092,GSM2631092,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631093,GSM2631093,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631094,GSM2631094,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631095,GSM2631095,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631096,GSM2631096,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631097,GSM2631097,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631098,GSM2631098,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631099,GSM2631099,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631100,GSM2631100,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631101,GSM2631101,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631102,GSM2631102,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631103,GSM2631103,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631104,GSM2631104,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631105,GSM2631105,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631106,GSM2631106,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631107,GSM2631107,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631108,GSM2631108,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631109,GSM2631109,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631110,GSM2631110,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631111,GSM2631111,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631112,GSM2631112,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631113,GSM2631113,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631114,GSM2631114,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631115,GSM2631115,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631116,GSM2631116,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631117,GSM2631117,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631118,GSM2631118,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631119,GSM2631119,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631120,GSM2631120,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631121,GSM2631121,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631122,GSM2631122,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631123,GSM2631123,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631124,GSM2631124,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631125,GSM2631125,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631126,GSM2631126,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631127,GSM2631127,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631128,GSM2631128,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631129,GSM2631129,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631130,GSM2631130,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631131,GSM2631131,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631132,GSM2631132,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631133,GSM2631133,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631134,GSM2631134,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631135,GSM2631135,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631136,GSM2631136,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631137,GSM2631137,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631138,GSM2631138,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631139,GSM2631139,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631140,GSM2631140,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631141,GSM2631141,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631142,GSM2631142,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631143,GSM2631143,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631144,GSM2631144,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631145,GSM2631145,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631146,GSM2631146,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631147,GSM2631147,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631148,GSM2631148,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631149,GSM2631149,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631150,GSM2631150,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631151,GSM2631151,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631152,GSM2631152,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631153,GSM2631153,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631154,GSM2631154,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631155,GSM2631155,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631156,GSM2631156,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631157,GSM2631157,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631158,GSM2631158,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631159,GSM2631159,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631160,GSM2631160,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631161,GSM2631161,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631162,GSM2631162,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631163,GSM2631163,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631164,GSM2631164,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631165,GSM2631165,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631166,GSM2631166,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631167,GSM2631167,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631168,GSM2631168,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631169,GSM2631169,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631170,GSM2631170,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631171,GSM2631171,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631172,GSM2631172,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631173,GSM2631173,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631174,GSM2631174,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631175,GSM2631175,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631176,GSM2631176,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631177,GSM2631177,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631178,GSM2631178,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631179,GSM2631179,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631180,GSM2631180,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631181,GSM2631181,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631182,GSM2631182,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631183,GSM2631183,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631184,GSM2631184,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631185,GSM2631185,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631186,GSM2631186,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631187,GSM2631187,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631188,GSM2631188,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631189,GSM2631189,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631190,GSM2631190,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631191,GSM2631191,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631192,GSM2631192,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631193,GSM2631193,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631194,GSM2631194,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631195,GSM2631195,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631196,GSM2631196,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631197,GSM2631197,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631198,GSM2631198,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631199,GSM2631199,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631200,GSM2631200,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631201,GSM2631201,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631202,GSM2631202,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631203,GSM2631203,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631204,GSM2631204,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631205,GSM2631205,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631206,GSM2631206,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631207,GSM2631207,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631208,GSM2631208,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631209,GSM2631209,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631210,GSM2631210,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631211,GSM2631211,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631212,GSM2631212,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631213,GSM2631213,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631214,GSM2631214,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631215,GSM2631215,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631216,GSM2631216,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631217,GSM2631217,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631218,GSM2631218,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631219,GSM2631219,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631220,GSM2631220,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631221,GSM2631221,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631222,GSM2631222,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631223,GSM2631223,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631224,GSM2631224,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631225,GSM2631225,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631226,GSM2631226,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631227,GSM2631227,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631228,GSM2631228,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631229,GSM2631229,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631230,GSM2631230,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631231,GSM2631231,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631232,GSM2631232,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631233,GSM2631233,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631234,GSM2631234,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631235,GSM2631235,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631236,GSM2631236,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631237,GSM2631237,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631238,GSM2631238,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631239,GSM2631239,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631240,GSM2631240,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631241,GSM2631241,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631242,GSM2631242,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631243,GSM2631243,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631244,GSM2631244,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631245,GSM2631245,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631246,GSM2631246,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631247,GSM2631247,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631248,GSM2631248,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631249,GSM2631249,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631250,GSM2631250,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631251,GSM2631251,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631252,GSM2631252,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631253,GSM2631253,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631254,GSM2631254,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631255,GSM2631255,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631256,GSM2631256,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631257,GSM2631257,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631258,GSM2631258,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631259,GSM2631259,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631260,GSM2631260,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631261,GSM2631261,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631262,GSM2631262,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631263,GSM2631263,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631264,GSM2631264,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631265,GSM2631265,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631266,GSM2631266,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631267,GSM2631267,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631268,GSM2631268,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631269,GSM2631269,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631270,GSM2631270,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631271,GSM2631271,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631272,GSM2631272,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631273,GSM2631273,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631274,GSM2631274,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631275,GSM2631275,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631276,GSM2631276,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631277,GSM2631277,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631278,GSM2631278,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631279,GSM2631279,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631280,GSM2631280,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631281,GSM2631281,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631282,GSM2631282,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631283,GSM2631283,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631284,GSM2631284,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631285,GSM2631285,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631286,GSM2631286,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631287,GSM2631287,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631288,GSM2631288,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631289,GSM2631289,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631290,GSM2631290,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631291,GSM2631291,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631292,GSM2631292,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631293,GSM2631293,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631294,GSM2631294,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631295,GSM2631295,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631296,GSM2631296,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631297,GSM2631297,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631298,GSM2631298,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631299,GSM2631299,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631300,GSM2631300,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631301,GSM2631301,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631302,GSM2631302,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631303,GSM2631303,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631304,GSM2631304,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631305,GSM2631305,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631306,GSM2631306,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631307,GSM2631307,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631308,GSM2631308,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631309,GSM2631309,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631310,GSM2631310,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631311,GSM2631311,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631312,GSM2631312,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631313,GSM2631313,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631314,GSM2631314,matched,1,,,,
+expression,GSE99039_series_matrix.txt.gz,GSM2631315,GSM2631315,matched,1,,,,
+phenotype,GEO sample records (GSE99039),GSM2630758,GSM2630758,matched,1,GSM2630758,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630759,GSM2630759,matched,1,GSM2630759,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630760,GSM2630760,matched,1,GSM2630760,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630761,GSM2630761,matched,1,GSM2630761,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630762,GSM2630762,matched,1,GSM2630762,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630763,GSM2630763,matched,1,GSM2630763,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630764,GSM2630764,matched,1,GSM2630764,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630765,GSM2630765,matched,1,GSM2630765,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630766,GSM2630766,matched,1,GSM2630766,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630767,GSM2630767,matched,1,GSM2630767,DRD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630768,GSM2630768,matched,1,GSM2630768,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630769,GSM2630769,matched,1,GSM2630769,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630770,GSM2630770,matched,1,GSM2630770,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630771,GSM2630771,matched,1,GSM2630771,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630772,GSM2630772,matched,1,GSM2630772,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630773,GSM2630773,matched,1,GSM2630773,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630774,GSM2630774,matched,1,GSM2630774,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630775,GSM2630775,matched,1,GSM2630775,CBD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630776,GSM2630776,matched,1,GSM2630776,MSA,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630777,GSM2630777,matched,1,GSM2630777,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630778,GSM2630778,matched,1,GSM2630778,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630779,GSM2630779,matched,1,GSM2630779,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630780,GSM2630780,matched,1,GSM2630780,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630781,GSM2630781,matched,1,GSM2630781,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630782,GSM2630782,matched,1,GSM2630782,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630783,GSM2630783,matched,1,GSM2630783,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630784,GSM2630784,matched,1,GSM2630784,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630785,GSM2630785,matched,1,GSM2630785,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630786,GSM2630786,matched,1,GSM2630786,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630787,GSM2630787,matched,1,GSM2630787,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630788,GSM2630788,matched,1,GSM2630788,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630789,GSM2630789,matched,1,GSM2630789,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630790,GSM2630790,matched,1,GSM2630790,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630791,GSM2630791,matched,1,GSM2630791,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630792,GSM2630792,matched,1,GSM2630792,Vascular dementia,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630793,GSM2630793,matched,1,GSM2630793,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630794,GSM2630794,matched,1,GSM2630794,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630795,GSM2630795,matched,1,GSM2630795,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630796,GSM2630796,matched,1,GSM2630796,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630797,GSM2630797,matched,1,GSM2630797,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630798,GSM2630798,matched,1,GSM2630798,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630799,GSM2630799,matched,1,GSM2630799,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630800,GSM2630800,matched,1,GSM2630800,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630801,GSM2630801,matched,1,GSM2630801,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630802,GSM2630802,matched,1,GSM2630802,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630803,GSM2630803,matched,1,GSM2630803,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630804,GSM2630804,matched,1,GSM2630804,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630805,GSM2630805,matched,1,GSM2630805,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630806,GSM2630806,matched,1,GSM2630806,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630807,GSM2630807,matched,1,GSM2630807,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630808,GSM2630808,matched,1,GSM2630808,PSP,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630809,GSM2630809,matched,1,GSM2630809,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630810,GSM2630810,matched,1,GSM2630810,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630811,GSM2630811,matched,1,GSM2630811,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630812,GSM2630812,matched,1,GSM2630812,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630813,GSM2630813,matched,1,GSM2630813,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630814,GSM2630814,matched,1,GSM2630814,MSA,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630815,GSM2630815,matched,1,GSM2630815,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630816,GSM2630816,matched,1,GSM2630816,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630817,GSM2630817,matched,1,GSM2630817,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630818,GSM2630818,matched,1,GSM2630818,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630819,GSM2630819,matched,1,GSM2630819,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630820,GSM2630820,matched,1,GSM2630820,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630821,GSM2630821,matched,1,GSM2630821,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630822,GSM2630822,matched,1,GSM2630822,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630823,GSM2630823,matched,1,GSM2630823,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630824,GSM2630824,matched,1,GSM2630824,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630825,GSM2630825,matched,1,GSM2630825,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630826,GSM2630826,matched,1,GSM2630826,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630827,GSM2630827,matched,1,GSM2630827,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630828,GSM2630828,matched,1,GSM2630828,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630829,GSM2630829,matched,1,GSM2630829,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630830,GSM2630830,matched,1,GSM2630830,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630831,GSM2630831,matched,1,GSM2630831,MSA,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630832,GSM2630832,matched,1,GSM2630832,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630833,GSM2630833,matched,1,GSM2630833,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630834,GSM2630834,matched,1,GSM2630834,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630835,GSM2630835,matched,1,GSM2630835,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630836,GSM2630836,matched,1,GSM2630836,PSP,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630837,GSM2630837,matched,1,GSM2630837,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630838,GSM2630838,matched,1,GSM2630838,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630839,GSM2630839,matched,1,GSM2630839,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630840,GSM2630840,matched,1,GSM2630840,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630841,GSM2630841,matched,1,GSM2630841,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630842,GSM2630842,matched,1,GSM2630842,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630843,GSM2630843,matched,1,GSM2630843,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630844,GSM2630844,matched,1,GSM2630844,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630845,GSM2630845,matched,1,GSM2630845,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630846,GSM2630846,matched,1,GSM2630846,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630847,GSM2630847,matched,1,GSM2630847,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630848,GSM2630848,matched,1,GSM2630848,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630849,GSM2630849,matched,1,GSM2630849,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630850,GSM2630850,matched,1,GSM2630850,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630851,GSM2630851,matched,1,GSM2630851,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630852,GSM2630852,matched,1,GSM2630852,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630853,GSM2630853,matched,1,GSM2630853,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630854,GSM2630854,matched,1,GSM2630854,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630855,GSM2630855,matched,1,GSM2630855,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630856,GSM2630856,matched,1,GSM2630856,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630857,GSM2630857,matched,1,GSM2630857,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630858,GSM2630858,matched,1,GSM2630858,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630859,GSM2630859,matched,1,GSM2630859,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630860,GSM2630860,matched,1,GSM2630860,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630861,GSM2630861,matched,1,GSM2630861,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630862,GSM2630862,matched,1,GSM2630862,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630863,GSM2630863,matched,1,GSM2630863,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630864,GSM2630864,matched,1,GSM2630864,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630865,GSM2630865,matched,1,GSM2630865,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630866,GSM2630866,matched,1,GSM2630866,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630867,GSM2630867,matched,1,GSM2630867,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630868,GSM2630868,matched,1,GSM2630868,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630869,GSM2630869,matched,1,GSM2630869,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630870,GSM2630870,matched,1,GSM2630870,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630871,GSM2630871,matched,1,GSM2630871,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630872,GSM2630872,matched,1,GSM2630872,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630873,GSM2630873,matched,1,GSM2630873,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630874,GSM2630874,matched,1,GSM2630874,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630875,GSM2630875,matched,1,GSM2630875,DRD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630876,GSM2630876,matched,1,GSM2630876,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630877,GSM2630877,matched,1,GSM2630877,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630878,GSM2630878,matched,1,GSM2630878,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630879,GSM2630879,matched,1,GSM2630879,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630880,GSM2630880,matched,1,GSM2630880,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630881,GSM2630881,matched,1,GSM2630881,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630882,GSM2630882,matched,1,GSM2630882,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630883,GSM2630883,matched,1,GSM2630883,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630884,GSM2630884,matched,1,GSM2630884,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630885,GSM2630885,matched,1,GSM2630885,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630886,GSM2630886,matched,1,GSM2630886,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630887,GSM2630887,matched,1,GSM2630887,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630888,GSM2630888,matched,1,GSM2630888,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630889,GSM2630889,matched,1,GSM2630889,PSP,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630890,GSM2630890,matched,1,GSM2630890,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630891,GSM2630891,matched,1,GSM2630891,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630892,GSM2630892,matched,1,GSM2630892,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630893,GSM2630893,matched,1,GSM2630893,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630894,GSM2630894,matched,1,GSM2630894,PSP,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630895,GSM2630895,matched,1,GSM2630895,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630896,GSM2630896,matched,1,GSM2630896,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630897,GSM2630897,matched,1,GSM2630897,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630898,GSM2630898,matched,1,GSM2630898,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630899,GSM2630899,matched,1,GSM2630899,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630900,GSM2630900,matched,1,GSM2630900,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630901,GSM2630901,matched,1,GSM2630901,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630902,GSM2630902,matched,1,GSM2630902,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630903,GSM2630903,matched,1,GSM2630903,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630904,GSM2630904,matched,1,GSM2630904,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630905,GSM2630905,matched,1,GSM2630905,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630906,GSM2630906,matched,1,GSM2630906,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630907,GSM2630907,matched,1,GSM2630907,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630908,GSM2630908,matched,1,GSM2630908,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630909,GSM2630909,matched,1,GSM2630909,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630910,GSM2630910,matched,1,GSM2630910,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630911,GSM2630911,matched,1,GSM2630911,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630912,GSM2630912,matched,1,GSM2630912,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630913,GSM2630913,matched,1,GSM2630913,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630914,GSM2630914,matched,1,GSM2630914,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630915,GSM2630915,matched,1,GSM2630915,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630916,GSM2630916,matched,1,GSM2630916,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630917,GSM2630917,matched,1,GSM2630917,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630918,GSM2630918,matched,1,GSM2630918,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630919,GSM2630919,matched,1,GSM2630919,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630920,GSM2630920,matched,1,GSM2630920,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630921,GSM2630921,matched,1,GSM2630921,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630922,GSM2630922,matched,1,GSM2630922,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630923,GSM2630923,matched,1,GSM2630923,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630924,GSM2630924,matched,1,GSM2630924,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630925,GSM2630925,matched,1,GSM2630925,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630926,GSM2630926,matched,1,GSM2630926,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630927,GSM2630927,matched,1,GSM2630927,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630928,GSM2630928,matched,1,GSM2630928,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630929,GSM2630929,matched,1,GSM2630929,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630930,GSM2630930,matched,1,GSM2630930,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630931,GSM2630931,matched,1,GSM2630931,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630932,GSM2630932,matched,1,GSM2630932,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630933,GSM2630933,matched,1,GSM2630933,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630934,GSM2630934,matched,1,GSM2630934,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630935,GSM2630935,matched,1,GSM2630935,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630936,GSM2630936,matched,1,GSM2630936,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630937,GSM2630937,matched,1,GSM2630937,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630938,GSM2630938,matched,1,GSM2630938,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630939,GSM2630939,matched,1,GSM2630939,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630940,GSM2630940,matched,1,GSM2630940,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630941,GSM2630941,matched,1,GSM2630941,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630942,GSM2630942,matched,1,GSM2630942,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630943,GSM2630943,matched,1,GSM2630943,MSA,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630944,GSM2630944,matched,1,GSM2630944,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630945,GSM2630945,matched,1,GSM2630945,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630946,GSM2630946,matched,1,GSM2630946,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630947,GSM2630947,matched,1,GSM2630947,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630948,GSM2630948,matched,1,GSM2630948,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630949,GSM2630949,matched,1,GSM2630949,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630950,GSM2630950,matched,1,GSM2630950,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630951,GSM2630951,matched,1,GSM2630951,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630952,GSM2630952,matched,1,GSM2630952,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630953,GSM2630953,matched,1,GSM2630953,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630954,GSM2630954,matched,1,GSM2630954,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630955,GSM2630955,matched,1,GSM2630955,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630956,GSM2630956,matched,1,GSM2630956,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630957,GSM2630957,matched,1,GSM2630957,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630958,GSM2630958,matched,1,GSM2630958,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630959,GSM2630959,matched,1,GSM2630959,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630960,GSM2630960,matched,1,GSM2630960,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630961,GSM2630961,matched,1,GSM2630961,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630962,GSM2630962,matched,1,GSM2630962,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630963,GSM2630963,matched,1,GSM2630963,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630964,GSM2630964,matched,1,GSM2630964,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630965,GSM2630965,matched,1,GSM2630965,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630966,GSM2630966,matched,1,GSM2630966,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630967,GSM2630967,matched,1,GSM2630967,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630968,GSM2630968,matched,1,GSM2630968,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630969,GSM2630969,matched,1,GSM2630969,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630970,GSM2630970,matched,1,GSM2630970,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630971,GSM2630971,matched,1,GSM2630971,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630972,GSM2630972,matched,1,GSM2630972,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630973,GSM2630973,matched,1,GSM2630973,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630974,GSM2630974,matched,1,GSM2630974,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630975,GSM2630975,matched,1,GSM2630975,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630976,GSM2630976,matched,1,GSM2630976,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630977,GSM2630977,matched,1,GSM2630977,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630978,GSM2630978,matched,1,GSM2630978,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630979,GSM2630979,matched,1,GSM2630979,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630980,GSM2630980,matched,1,GSM2630980,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630981,GSM2630981,matched,1,GSM2630981,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630982,GSM2630982,matched,1,GSM2630982,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630983,GSM2630983,matched,1,GSM2630983,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630984,GSM2630984,matched,1,GSM2630984,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630985,GSM2630985,matched,1,GSM2630985,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630986,GSM2630986,matched,1,GSM2630986,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630987,GSM2630987,matched,1,GSM2630987,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630988,GSM2630988,matched,1,GSM2630988,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630989,GSM2630989,matched,1,GSM2630989,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630990,GSM2630990,matched,1,GSM2630990,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630991,GSM2630991,matched,1,GSM2630991,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630992,GSM2630992,matched,1,GSM2630992,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630993,GSM2630993,matched,1,GSM2630993,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630994,GSM2630994,matched,1,GSM2630994,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630995,GSM2630995,matched,1,GSM2630995,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630996,GSM2630996,matched,1,GSM2630996,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630997,GSM2630997,matched,1,GSM2630997,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630998,GSM2630998,matched,1,GSM2630998,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2630999,GSM2630999,matched,1,GSM2630999,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631000,GSM2631000,matched,1,GSM2631000,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631001,GSM2631001,matched,1,GSM2631001,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631002,GSM2631002,matched,1,GSM2631002,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631003,GSM2631003,matched,1,GSM2631003,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631004,GSM2631004,matched,1,GSM2631004,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631005,GSM2631005,matched,1,GSM2631005,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631006,GSM2631006,matched,1,GSM2631006,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631007,GSM2631007,matched,1,GSM2631007,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631008,GSM2631008,matched,1,GSM2631008,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631009,GSM2631009,matched,1,GSM2631009,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631010,GSM2631010,matched,1,GSM2631010,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631011,GSM2631011,matched,1,GSM2631011,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631012,GSM2631012,matched,1,GSM2631012,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631013,GSM2631013,matched,1,GSM2631013,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631014,GSM2631014,matched,1,GSM2631014,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631015,GSM2631015,matched,1,GSM2631015,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631016,GSM2631016,matched,1,GSM2631016,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631017,GSM2631017,matched,1,GSM2631017,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631018,GSM2631018,matched,1,GSM2631018,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631019,GSM2631019,matched,1,GSM2631019,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631020,GSM2631020,matched,1,GSM2631020,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631021,GSM2631021,matched,1,GSM2631021,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631022,GSM2631022,matched,1,GSM2631022,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631023,GSM2631023,matched,1,GSM2631023,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631024,GSM2631024,matched,1,GSM2631024,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631025,GSM2631025,matched,1,GSM2631025,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631026,GSM2631026,matched,1,GSM2631026,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631027,GSM2631027,matched,1,GSM2631027,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631028,GSM2631028,matched,1,GSM2631028,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631029,GSM2631029,matched,1,GSM2631029,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631030,GSM2631030,matched,1,GSM2631030,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631031,GSM2631031,matched,1,GSM2631031,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631032,GSM2631032,matched,1,GSM2631032,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631033,GSM2631033,matched,1,GSM2631033,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631034,GSM2631034,matched,1,GSM2631034,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631035,GSM2631035,matched,1,GSM2631035,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631036,GSM2631036,matched,1,GSM2631036,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631037,GSM2631037,matched,1,GSM2631037,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631038,GSM2631038,matched,1,GSM2631038,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631039,GSM2631039,matched,1,GSM2631039,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631040,GSM2631040,matched,1,GSM2631040,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631041,GSM2631041,matched,1,GSM2631041,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631042,GSM2631042,matched,1,GSM2631042,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631043,GSM2631043,matched,1,GSM2631043,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631044,GSM2631044,matched,1,GSM2631044,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631045,GSM2631045,matched,1,GSM2631045,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631046,GSM2631046,matched,1,GSM2631046,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631047,GSM2631047,matched,1,GSM2631047,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631048,GSM2631048,matched,1,GSM2631048,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631049,GSM2631049,matched,1,GSM2631049,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631050,GSM2631050,matched,1,GSM2631050,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631051,GSM2631051,matched,1,GSM2631051,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631052,GSM2631052,matched,1,GSM2631052,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631053,GSM2631053,matched,1,GSM2631053,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631054,GSM2631054,matched,1,GSM2631054,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631055,GSM2631055,matched,1,GSM2631055,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631056,GSM2631056,matched,1,GSM2631056,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631057,GSM2631057,matched,1,GSM2631057,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631058,GSM2631058,matched,1,GSM2631058,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631059,GSM2631059,matched,1,GSM2631059,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631060,GSM2631060,matched,1,GSM2631060,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631061,GSM2631061,matched,1,GSM2631061,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631062,GSM2631062,matched,1,GSM2631062,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631063,GSM2631063,matched,1,GSM2631063,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631064,GSM2631064,matched,1,GSM2631064,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631065,GSM2631065,matched,1,GSM2631065,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631066,GSM2631066,matched,1,GSM2631066,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631067,GSM2631067,matched,1,GSM2631067,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631068,GSM2631068,matched,1,GSM2631068,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631069,GSM2631069,matched,1,GSM2631069,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631070,GSM2631070,matched,1,GSM2631070,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631071,GSM2631071,matched,1,GSM2631071,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631072,GSM2631072,matched,1,GSM2631072,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631073,GSM2631073,matched,1,GSM2631073,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631074,GSM2631074,matched,1,GSM2631074,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631075,GSM2631075,matched,1,GSM2631075,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631076,GSM2631076,matched,1,GSM2631076,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631077,GSM2631077,matched,1,GSM2631077,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631078,GSM2631078,matched,1,GSM2631078,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631079,GSM2631079,matched,1,GSM2631079,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631080,GSM2631080,matched,1,GSM2631080,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631081,GSM2631081,matched,1,GSM2631081,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631082,GSM2631082,matched,1,GSM2631082,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631083,GSM2631083,matched,1,GSM2631083,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631084,GSM2631084,matched,1,GSM2631084,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631085,GSM2631085,matched,1,GSM2631085,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631086,GSM2631086,matched,1,GSM2631086,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631087,GSM2631087,matched,1,GSM2631087,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631088,GSM2631088,matched,1,GSM2631088,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631089,GSM2631089,matched,1,GSM2631089,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631090,GSM2631090,matched,1,GSM2631090,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631091,GSM2631091,matched,1,GSM2631091,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631092,GSM2631092,matched,1,GSM2631092,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631093,GSM2631093,matched,1,GSM2631093,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631094,GSM2631094,matched,1,GSM2631094,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631095,GSM2631095,matched,1,GSM2631095,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631096,GSM2631096,matched,1,GSM2631096,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631097,GSM2631097,matched,1,GSM2631097,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631098,GSM2631098,matched,1,GSM2631098,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631099,GSM2631099,matched,1,GSM2631099,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631100,GSM2631100,matched,1,GSM2631100,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631101,GSM2631101,matched,1,GSM2631101,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631102,GSM2631102,matched,1,GSM2631102,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631103,GSM2631103,matched,1,GSM2631103,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631104,GSM2631104,matched,1,GSM2631104,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631105,GSM2631105,matched,1,GSM2631105,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631106,GSM2631106,matched,1,GSM2631106,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631107,GSM2631107,matched,1,GSM2631107,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631108,GSM2631108,matched,1,GSM2631108,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631109,GSM2631109,matched,1,GSM2631109,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631110,GSM2631110,matched,1,GSM2631110,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631111,GSM2631111,matched,1,GSM2631111,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631112,GSM2631112,matched,1,GSM2631112,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631113,GSM2631113,matched,1,GSM2631113,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631114,GSM2631114,matched,1,GSM2631114,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631115,GSM2631115,matched,1,GSM2631115,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631116,GSM2631116,matched,1,GSM2631116,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631117,GSM2631117,matched,1,GSM2631117,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631118,GSM2631118,matched,1,GSM2631118,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631119,GSM2631119,matched,1,GSM2631119,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631120,GSM2631120,matched,1,GSM2631120,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631121,GSM2631121,matched,1,GSM2631121,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631122,GSM2631122,matched,1,GSM2631122,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631123,GSM2631123,matched,1,GSM2631123,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631124,GSM2631124,matched,1,GSM2631124,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631125,GSM2631125,matched,1,GSM2631125,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631126,GSM2631126,matched,1,GSM2631126,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631127,GSM2631127,matched,1,GSM2631127,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631128,GSM2631128,matched,1,GSM2631128,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631129,GSM2631129,matched,1,GSM2631129,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631130,GSM2631130,matched,1,GSM2631130,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631131,GSM2631131,matched,1,GSM2631131,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631132,GSM2631132,matched,1,GSM2631132,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631133,GSM2631133,matched,1,GSM2631133,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631134,GSM2631134,matched,1,GSM2631134,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631135,GSM2631135,matched,1,GSM2631135,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631136,GSM2631136,matched,1,GSM2631136,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631137,GSM2631137,matched,1,GSM2631137,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631138,GSM2631138,matched,1,GSM2631138,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631139,GSM2631139,matched,1,GSM2631139,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631140,GSM2631140,matched,1,GSM2631140,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631141,GSM2631141,matched,1,GSM2631141,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631142,GSM2631142,matched,1,GSM2631142,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631143,GSM2631143,matched,1,GSM2631143,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631144,GSM2631144,matched,1,GSM2631144,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631145,GSM2631145,matched,1,GSM2631145,DRD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631146,GSM2631146,matched,1,GSM2631146,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631147,GSM2631147,matched,1,GSM2631147,CBD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631148,GSM2631148,matched,1,GSM2631148,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631149,GSM2631149,matched,1,GSM2631149,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631150,GSM2631150,matched,1,GSM2631150,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631151,GSM2631151,matched,1,GSM2631151,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631152,GSM2631152,matched,1,GSM2631152,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631153,GSM2631153,matched,1,GSM2631153,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631154,GSM2631154,matched,1,GSM2631154,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631155,GSM2631155,matched,1,GSM2631155,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631156,GSM2631156,matched,1,GSM2631156,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631157,GSM2631157,matched,1,GSM2631157,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631158,GSM2631158,matched,1,GSM2631158,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631159,GSM2631159,matched,1,GSM2631159,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631160,GSM2631160,matched,1,GSM2631160,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631161,GSM2631161,matched,1,GSM2631161,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631162,GSM2631162,matched,1,GSM2631162,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631163,GSM2631163,matched,1,GSM2631163,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631164,GSM2631164,matched,1,GSM2631164,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631165,GSM2631165,matched,1,GSM2631165,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631166,GSM2631166,matched,1,GSM2631166,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631167,GSM2631167,matched,1,GSM2631167,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631168,GSM2631168,matched,1,GSM2631168,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631169,GSM2631169,matched,1,GSM2631169,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631170,GSM2631170,matched,1,GSM2631170,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631171,GSM2631171,matched,1,GSM2631171,ATYPICAL_PD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631172,GSM2631172,matched,1,GSM2631172,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631173,GSM2631173,matched,1,GSM2631173,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631174,GSM2631174,matched,1,GSM2631174,PSP,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631175,GSM2631175,matched,1,GSM2631175,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631176,GSM2631176,matched,1,GSM2631176,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631177,GSM2631177,matched,1,GSM2631177,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631178,GSM2631178,matched,1,GSM2631178,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631179,GSM2631179,matched,1,GSM2631179,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631180,GSM2631180,matched,1,GSM2631180,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631181,GSM2631181,matched,1,GSM2631181,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631182,GSM2631182,matched,1,GSM2631182,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631183,GSM2631183,matched,1,GSM2631183,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631184,GSM2631184,matched,1,GSM2631184,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631185,GSM2631185,matched,1,GSM2631185,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631186,GSM2631186,matched,1,GSM2631186,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631187,GSM2631187,matched,1,GSM2631187,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631188,GSM2631188,matched,1,GSM2631188,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631189,GSM2631189,matched,1,GSM2631189,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631190,GSM2631190,matched,1,GSM2631190,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631191,GSM2631191,matched,1,GSM2631191,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631192,GSM2631192,matched,1,GSM2631192,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631193,GSM2631193,matched,1,GSM2631193,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631194,GSM2631194,matched,1,GSM2631194,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631195,GSM2631195,matched,1,GSM2631195,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631196,GSM2631196,matched,1,GSM2631196,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631197,GSM2631197,matched,1,GSM2631197,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631198,GSM2631198,matched,1,GSM2631198,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631199,GSM2631199,matched,1,GSM2631199,MSA,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631200,GSM2631200,matched,1,GSM2631200,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631201,GSM2631201,matched,1,GSM2631201,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631202,GSM2631202,matched,1,GSM2631202,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631203,GSM2631203,matched,1,GSM2631203,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631204,GSM2631204,matched,1,GSM2631204,MSA,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631205,GSM2631205,matched,1,GSM2631205,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631206,GSM2631206,matched,1,GSM2631206,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631207,GSM2631207,matched,1,GSM2631207,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631208,GSM2631208,matched,1,GSM2631208,HD_HD_BATCH,AMBIGUOUS,AMBIGUOUS
+phenotype,GEO sample records (GSE99039),GSM2631209,GSM2631209,matched,1,GSM2631209,HD_HD_BATCH,AMBIGUOUS,AMBIGUOUS
+phenotype,GEO sample records (GSE99039),GSM2631210,GSM2631210,matched,1,GSM2631210,HD_HD_BATCH,AMBIGUOUS,AMBIGUOUS
+phenotype,GEO sample records (GSE99039),GSM2631211,GSM2631211,matched,1,GSM2631211,HD_HD_BATCH,AMBIGUOUS,AMBIGUOUS
+phenotype,GEO sample records (GSE99039),GSM2631212,GSM2631212,matched,1,GSM2631212,HD_HD_BATCH,AMBIGUOUS,AMBIGUOUS
+phenotype,GEO sample records (GSE99039),GSM2631213,GSM2631213,matched,1,GSM2631213,HD_HD_BATCH,AMBIGUOUS,AMBIGUOUS
+phenotype,GEO sample records (GSE99039),GSM2631214,GSM2631214,matched,1,GSM2631214,HD_HD_BATCH,AMBIGUOUS,AMBIGUOUS
+phenotype,GEO sample records (GSE99039),GSM2631215,GSM2631215,matched,1,GSM2631215,HD_HD_BATCH,AMBIGUOUS,AMBIGUOUS
+phenotype,GEO sample records (GSE99039),GSM2631216,GSM2631216,matched,1,GSM2631216,PSP,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631217,GSM2631217,matched,1,GSM2631217,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631218,GSM2631218,matched,1,GSM2631218,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631219,GSM2631219,matched,1,GSM2631219,ATYPICAL_PD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631220,GSM2631220,matched,1,GSM2631220,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631221,GSM2631221,matched,1,GSM2631221,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631222,GSM2631222,matched,1,GSM2631222,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631223,GSM2631223,matched,1,GSM2631223,PD_DEMENTIA,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631224,GSM2631224,matched,1,GSM2631224,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631225,GSM2631225,matched,1,GSM2631225,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631226,GSM2631226,matched,1,GSM2631226,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631227,GSM2631227,matched,1,GSM2631227,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631228,GSM2631228,matched,1,GSM2631228,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631229,GSM2631229,matched,1,GSM2631229,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631230,GSM2631230,matched,1,GSM2631230,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631231,GSM2631231,matched,1,GSM2631231,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631232,GSM2631232,matched,1,GSM2631232,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631233,GSM2631233,matched,1,GSM2631233,PD_DEMENTIA,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631234,GSM2631234,matched,1,GSM2631234,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631235,GSM2631235,matched,1,GSM2631235,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631236,GSM2631236,matched,1,GSM2631236,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631237,GSM2631237,matched,1,GSM2631237,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631238,GSM2631238,matched,1,GSM2631238,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631239,GSM2631239,matched,1,GSM2631239,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631240,GSM2631240,matched,1,GSM2631240,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631241,GSM2631241,matched,1,GSM2631241,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631242,GSM2631242,matched,1,GSM2631242,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631243,GSM2631243,matched,1,GSM2631243,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631244,GSM2631244,matched,1,GSM2631244,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631245,GSM2631245,matched,1,GSM2631245,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631246,GSM2631246,matched,1,GSM2631246,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631247,GSM2631247,matched,1,GSM2631247,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631248,GSM2631248,matched,1,GSM2631248,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631249,GSM2631249,matched,1,GSM2631249,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631250,GSM2631250,matched,1,GSM2631250,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631251,GSM2631251,matched,1,GSM2631251,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631252,GSM2631252,matched,1,GSM2631252,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631253,GSM2631253,matched,1,GSM2631253,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631254,GSM2631254,matched,1,GSM2631254,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631255,GSM2631255,matched,1,GSM2631255,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631256,GSM2631256,matched,1,GSM2631256,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631257,GSM2631257,matched,1,GSM2631257,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631258,GSM2631258,matched,1,GSM2631258,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631259,GSM2631259,matched,1,GSM2631259,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631260,GSM2631260,matched,1,GSM2631260,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631261,GSM2631261,matched,1,GSM2631261,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631262,GSM2631262,matched,1,GSM2631262,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631263,GSM2631263,matched,1,GSM2631263,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631264,GSM2631264,matched,1,GSM2631264,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631265,GSM2631265,matched,1,GSM2631265,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631266,GSM2631266,matched,1,GSM2631266,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631267,GSM2631267,matched,1,GSM2631267,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631268,GSM2631268,matched,1,GSM2631268,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631269,GSM2631269,matched,1,GSM2631269,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631270,GSM2631270,matched,1,GSM2631270,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631271,GSM2631271,matched,1,GSM2631271,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631272,GSM2631272,matched,1,GSM2631272,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631273,GSM2631273,matched,1,GSM2631273,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631274,GSM2631274,matched,1,GSM2631274,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631275,GSM2631275,matched,1,GSM2631275,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631276,GSM2631276,matched,1,GSM2631276,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631277,GSM2631277,matched,1,GSM2631277,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631278,GSM2631278,matched,1,GSM2631278,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631279,GSM2631279,matched,1,GSM2631279,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631280,GSM2631280,matched,1,GSM2631280,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631281,GSM2631281,matched,1,GSM2631281,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631282,GSM2631282,matched,1,GSM2631282,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631283,GSM2631283,matched,1,GSM2631283,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631284,GSM2631284,matched,1,GSM2631284,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631285,GSM2631285,matched,1,GSM2631285,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631286,GSM2631286,matched,1,GSM2631286,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631287,GSM2631287,matched,1,GSM2631287,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631288,GSM2631288,matched,1,GSM2631288,HD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631289,GSM2631289,matched,1,GSM2631289,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631290,GSM2631290,matched,1,GSM2631290,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631291,GSM2631291,matched,1,GSM2631291,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631292,GSM2631292,matched,1,GSM2631292,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631293,GSM2631293,matched,1,GSM2631293,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631294,GSM2631294,matched,1,GSM2631294,GPD,PD_GENETIC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631295,GSM2631295,matched,1,GSM2631295,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631296,GSM2631296,matched,1,GSM2631296,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631297,GSM2631297,matched,1,GSM2631297,IPD,PD,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631298,GSM2631298,matched,1,GSM2631298,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631299,GSM2631299,matched,1,GSM2631299,MSA,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631300,GSM2631300,matched,1,GSM2631300,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631301,GSM2631301,matched,1,GSM2631301,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631302,GSM2631302,matched,1,GSM2631302,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631303,GSM2631303,matched,1,GSM2631303,DRD-DYT5,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631304,GSM2631304,matched,1,GSM2631304,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631305,GSM2631305,matched,1,GSM2631305,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631306,GSM2631306,matched,1,GSM2631306,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631307,GSM2631307,matched,1,GSM2631307,GENETIC_UNAFFECTED,GENETIC_UNAFFECTED,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631308,GSM2631308,matched,1,GSM2631308,DRD-DYT5,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631309,GSM2631309,matched,1,GSM2631309,ATYPICAL_PD,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631310,GSM2631310,matched,1,GSM2631310,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631311,GSM2631311,matched,1,GSM2631311,DRD-DYT5,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631312,GSM2631312,matched,1,GSM2631312,CONTROL,HC,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631313,GSM2631313,matched,1,GSM2631313,PSP,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631314,GSM2631314,matched,1,GSM2631314,PSP,OTHER_NEURO,MAPPED
+phenotype,GEO sample records (GSE99039),GSM2631315,GSM2631315,matched,1,GSM2631315,MSA,OTHER_NEURO,MAPPED

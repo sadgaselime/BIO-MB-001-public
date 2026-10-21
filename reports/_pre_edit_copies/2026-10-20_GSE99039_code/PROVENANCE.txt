@@ -1,0 +1,1 @@
+Pre-edit copies 2026-10-20: GSE99039 support (E-99, R8-570a approved 2026-10-20): optional R8 probe sets; C1 subject_id; QC A/B configuration.

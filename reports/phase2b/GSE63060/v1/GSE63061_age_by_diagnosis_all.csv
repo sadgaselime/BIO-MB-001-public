@@ -1,0 +1,8 @@
+diagnosis_raw,count,mean,median,min,max
+AD,139,77.9,79.0,59,95
+CTL,134,75.3,74.0,63,91
+CTL to AD,1,92.0,92.0,92,92
+MCI,109,78.2,79.0,57,100
+MCI to CTL,1,87.0,87.0,87,87
+OTHER,1,86.0,86.0,86,86
+borderline MCI,3,81.7,80.0,75,90

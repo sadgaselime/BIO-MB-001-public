@@ -1,0 +1,120 @@
+=== binary BiocVersion_3.23.1.tgz DESCRIPTION ===
+Package: BiocVersion
+Version: 3.23.1
+Title: Set the appropriate version of Bioconductor packages
+Description: This package provides repository information for the
+        appropriate version of Bioconductor.
+Authors@R: c(
+    person("Martin", "Morgan", email = "martin.morgan@roswellpark.org",
+        role = "aut"),
+    person("Marcel", "Ramos", email = "marcel.ramos@sph.cuny.edu",
+        role = "ctb"),
+    person("Bioconductor", "Package Maintainer",
+        email  = "maintainer@bioconductor.org",
+        role = c("ctb", "cre")))
+biocViews: Infrastructure
+Depends: R (>= 4.4.0)
+License: Artistic-2.0
+Encoding: UTF-8
+RoxygenNote: 6.0.1
+Repository: https://bioc.r-universe.dev
+Date/Publication: 2025-10-30 15:29:14 UTC
+RemoteUrl: https://github.com/bioc/BiocVersion
+RemoteRef: HEAD
+RemoteSha: 252d7c8f03a39a9b83f6de7e9dbf9a5ee6584365
+NeedsCompilation: no
+Packaged: 2026-03-01 08:31:08 UTC; root
+Author: Martin Morgan [aut],
+  Marcel Ramos [ctb],
+  Bioconductor Package Maintainer [ctb, cre]
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Built: R 4.6.0; ; 2026-03-01 08:32:25 UTC; unix
+
+=== source BiocVersion_3.23.1.tar.gz DESCRIPTION ===
+Package: BiocVersion
+Version: 3.23.1
+Title: Set the appropriate version of Bioconductor packages
+Description: This package provides repository information for the appropriate
+    version of Bioconductor. 
+Authors@R: c(
+    person("Martin", "Morgan", email = "martin.morgan@roswellpark.org",
+        role = "aut"),
+    person("Marcel", "Ramos", email = "marcel.ramos@sph.cuny.edu",
+        role = "ctb"),
+    person("Bioconductor", "Package Maintainer",
+        email  = "maintainer@bioconductor.org",
+        role = c("ctb", "cre")))
+biocViews: Infrastructure
+Depends: R (>= 4.6.0)
+License: Artistic-2.0
+Encoding: UTF-8
+RoxygenNote: 6.0.1
+git_url: https://git.bioconductor.org/packages/BiocVersion
+git_branch: devel
+git_last_commit: 252d7c8
+git_last_commit_date: 2025-10-30
+Repository: Bioconductor 3.23
+Date/Publication: 2025-10-30
+NeedsCompilation: no
+Packaged: 2025-10-30 20:16:05 UTC; biocbuild
+Author: Martin Morgan [aut],
+  Marcel Ramos [ctb],
+  Bioconductor Package Maintainer [ctb, cre]
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+
+=== tar listings ===
+-rw-r--r--  0 runner staff    1118 Mar  1  2026 BiocVersion/DESCRIPTION
+-rw-r--r--  0 runner staff      62 Mar  1  2026 BiocVersion/INDEX
+drwxr-xr-x  0 runner staff       0 Mar  1  2026 BiocVersion/Meta/
+-rw-r--r--  0 runner staff     283 Mar  1  2026 BiocVersion/Meta/Rd.rds
+-rw-r--r--  0 runner staff     122 Mar  1  2026 BiocVersion/Meta/features.rds
+-rw-r--r--  0 runner staff     282 Mar  1  2026 BiocVersion/Meta/hsearch.rds
+-rw-r--r--  0 runner staff     120 Mar  1  2026 BiocVersion/Meta/links.rds
+-rw-r--r--  0 runner staff     198 Mar  1  2026 BiocVersion/Meta/nsInfo.rds
+-rw-r--r--  0 runner staff     946 Mar  1  2026 BiocVersion/Meta/package.rds
+-rw-r--r--  0 runner staff     125 Mar  1  2026 BiocVersion/NAMESPACE
+drwxr-xr-x  0 runner staff       0 Mar  1  2026 BiocVersion/help/
+-rw-r--r--  0 runner staff      28 Mar  1  2026 BiocVersion/help/AnIndex
+-rw-r--r--  0 runner staff    1140 Mar  1  2026 BiocVersion/help/BiocVersion.rdb
+-rw-r--r--  0 runner staff     165 Mar  1  2026 BiocVersion/help/BiocVersion.rdx
+-rw-r--r--  0 runner staff     105 Mar  1  2026 BiocVersion/help/aliases.rds
+-rw-r--r--  0 runner staff     183 Mar  1  2026 BiocVersion/help/paths.rds
+drwxr-xr-x  0 runner staff       0 Mar  1  2026 BiocVersion/html/
+-rw-r--r--  0 runner staff    1133 Mar  1  2026 BiocVersion/html/00Index.html
+-rw-r--r--  0 runner staff    2133 Mar  1  2026 BiocVersion/html/R.css
+-rw-r--r--  0 biocbuild biocbuild 1069 Oct 31  2025 BiocVersion/DESCRIPTION
+-rw-r--r--  0 biocbuild biocbuild  125 Oct 31  2025 BiocVersion/NAMESPACE
+drwxr-xr-x  0 biocbuild biocbuild    0 Oct 22  2025 BiocVersion/man/
+-rw-r--r--  0 biocbuild biocbuild  352 Oct 22  2025 BiocVersion/man/BiocVersion-pkg.Rd
+=== installed project renv library BiocVersion DESCRIPTION ===
+Package: BiocVersion
+Version: 3.23.1
+Title: Set the appropriate version of Bioconductor packages
+Description: This package provides repository information for the appropriate
+    version of Bioconductor. 
+Authors@R: c(
+    person("Martin", "Morgan", email = "martin.morgan@roswellpark.org",
+        role = "aut"),
+    person("Marcel", "Ramos", email = "marcel.ramos@sph.cuny.edu",
+        role = "ctb"),
+    person("Bioconductor", "Package Maintainer",
+        email  = "maintainer@bioconductor.org",
+        role = c("ctb", "cre")))
+biocViews: Infrastructure
+Depends: R (>= 4.6.0)
+License: Artistic-2.0
+Encoding: UTF-8
+RoxygenNote: 6.0.1
+git_url: https://git.bioconductor.org/packages/BiocVersion
+git_branch: devel
+git_last_commit: 252d7c8
+git_last_commit_date: 2025-10-30
+Repository: Bioconductor 3.23
+Date/Publication: 2025-10-30
+NeedsCompilation: no
+Packaged: 2025-10-30 20:16:05 UTC; biocbuild
+Author: Martin Morgan [aut],
+  Marcel Ramos [ctb],
+  Bioconductor Package Maintainer [ctb, cre]
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Built: R 4.6.1; ; 2026-10-12 11:50:38 UTC; unix

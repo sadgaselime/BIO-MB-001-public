@@ -1,0 +1,1175 @@
+side,source,original_id,normalized_id,status,duplicate_count,geo_accession,diagnosis_raw,diagnosis_canonical,diagnosis_status
+expression,GSE140829_raw_data.txt.gz,5872617031_A,5872617031_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872617031_C,5872617031_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872617031_E,5872617031_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641011_B,5872641011_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641011_D,5872641011_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641011_F,5872641011_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641011_G,5872641011_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641011_I,5872641011_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641011_K,5872641011_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641011_L,5872641011_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641012_B,5872641012_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641012_D,5872641012_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641012_F,5872641012_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641012_H,5872641012_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641012_J,5872641012_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641016_B,5872641016_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641016_E,5872641016_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641016_G,5872641016_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641016_K,5872641016_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641016_L,5872641016_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641018_A,5872641018_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641018_D,5872641018_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641018_F,5872641018_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641018_G,5872641018_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641018_L,5872641018_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641031_A,5872641031_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641031_C,5872641031_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641031_H,5872641031_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641031_J,5872641031_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641031_L,5872641031_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641032_B,5872641032_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641032_C,5872641032_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641032_D,5872641032_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641032_E,5872641032_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641032_L,5872641032_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641053_B,5872641053_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641053_H,5872641053_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641053_I,5872641053_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641054_C,5872641054_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641054_D,5872641054_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641054_F,5872641054_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641054_H,5872641054_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641054_I,5872641054_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641054_K,5872641054_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641059_C,5872641059_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641059_D,5872641059_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641059_F,5872641059_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641059_H,5872641059_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641059_I,5872641059_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641059_L,5872641059_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641070_A,5872641070_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641070_B,5872641070_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641070_C,5872641070_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641070_D,5872641070_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5872641070_H,5872641070_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5786049087_D,5786049087_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5786049087_E,5786049087_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5786049087_G,5786049087_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5786049087_H,5786049087_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5937337074_D,5937337074_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5937337074_L,5937337074_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5937337095_B,5937337095_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5937337095_D,5937337095_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5937337095_K,5937337095_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5937337095_L,5937337095_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5937345007_F,5937345007_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5937345007_G,5937345007_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5937345070_F,5937345070_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5937345070_G,5937345070_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5937345070_H,5937345070_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5975106007_A,5975106007_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5975106007_C,5975106007_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5975106007_I,5975106007_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5975106007_J,5975106007_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5975106019_E,5975106019_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5975106019_F,5975106019_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5975106038_E,5975106038_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5975106038_F,5975106038_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5975106040_A,5975106040_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,5975106040_B,5975106040_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6016741002_C,6016741002_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6016741002_I,6016741002_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6016741003_D,6016741003_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6016741003_K,6016741003_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6016741004_F,6016741004_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6016741004_G,6016741004_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6016741006_B,6016741006_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6016741006_C,6016741006_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6016741006_J,6016741006_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6016741006_L,6016741006_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6016741008_A,6016741008_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6016741008_B,6016741008_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6016741008_C,6016741008_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6016741008_J,6016741008_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6016741008_K,6016741008_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6016741009_G,6016741009_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116733070_G,6116733070_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116733070_H,6116733070_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116733001_F,6116733001_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116733001_H,6116733001_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116733118_H,6116733118_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116733120_I,6116733120_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116733120_J,6116733120_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116733120_L,6116733120_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116733121_B,6116733121_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116733121_D,6116733121_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116733125_K,6116733125_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116733125_L,6116733125_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116733138_A,6116733138_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116733138_B,6116733138_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116768119_D,6116768119_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116768119_L,6116768119_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116768127_J,6116768127_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116768129_B,6116768129_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116768129_D,6116768129_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116750051_A,6116750051_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116750051_D,6116750051_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116750051_F,6116750051_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116750051_H,6116750051_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116750051_J,6116750051_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116750051_L,6116750051_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116750081_B,6116750081_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116750081_F,6116750081_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116750081_I,6116750081_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116750081_J,6116750081_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6116750081_K,6116750081_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6260962092_A,6260962092_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6260962092_B,6260962092_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6260962092_C,6260962092_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6260962092_E,6260962092_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6260962092_G,6260962092_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6260962092_H,6260962092_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6260971012_H,6260971012_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303248057_L,6303248057_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303281019_B,6303281019_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303281019_H,6303281019_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303230097_A,6303230097_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303230097_B,6303230097_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303230097_C,6303230097_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303230097_D,6303230097_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303230097_I,6303230097_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303230097_J,6303230097_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303230097_K,6303230097_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303230098_G,6303230098_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303230098_H,6303230098_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303248029_C,6303248029_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303248029_D,6303248029_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303248029_J,6303248029_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303248029_K,6303248029_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303248029_L,6303248029_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303248067_B,6303248067_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303248067_C,6303248067_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6303248067_H,6303248067_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325057_A,6898325057_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325057_B,6898325057_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325057_D,6898325057_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325057_E,6898325057_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325057_F,6898325057_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325060_A,6898325060_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325060_B,6898325060_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325060_E,6898325060_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325060_F,6898325060_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325063_A,6898325063_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325063_B,6898325063_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325063_E,6898325063_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325079_C,6898325079_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325079_D,6898325079_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325080_A,6898325080_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325080_F,6898325080_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325082_A,6898325082_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325082_B,6898325082_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325082_D,6898325082_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325082_E,6898325082_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325083_B,6898325083_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325083_D,6898325083_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325083_E,6898325083_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,6898325083_F,6898325083_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7166142013_A,7166142013_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7166142013_C,7166142013_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7166142013_E,7166142013_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7649540078_B,7649540078_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7649540078_E,7649540078_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7649540078_H,7649540078_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7649540078_J,7649540078_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7649540078_K,7649540078_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7656791031_A,7656791031_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7656791031_B,7656791031_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7656791031_C,7656791031_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7656791031_D,7656791031_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7656791031_E,7656791031_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7656791031_H,7656791031_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7656791031_J,7656791031_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7656791042_B,7656791042_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7656791042_C,7656791042_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7656791042_F,7656791042_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7656791042_H,7656791042_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7656791045_B,7656791045_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7656791045_C,7656791045_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7656791045_E,7656791045_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,7656791045_K,7656791045_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645080_A,8381645080_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645080_B,8381645080_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645080_G,8381645080_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645080_H,8381645080_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645080_I,8381645080_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645080_K,8381645080_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645080_L,8381645080_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645083_C,8381645083_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645083_D,8381645083_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645083_I,8381645083_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645083_K,8381645083_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645083_L,8381645083_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645085_A,8381645085_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645085_D,8381645085_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645085_E,8381645085_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645085_G,8381645085_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645085_H,8381645085_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645085_K,8381645085_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645085_L,8381645085_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645086_D,8381645086_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645086_E,8381645086_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645086_F,8381645086_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645086_G,8381645086_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645086_H,8381645086_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645086_I,8381645086_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645089_C,8381645089_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645089_D,8381645089_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8381645089_H,8381645089_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526007_A,8845526007_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526007_H,8845526007_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526007_I,8845526007_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526007_L,8845526007_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526013_A,8845526013_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526013_C,8845526013_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526013_F,8845526013_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526013_I,8845526013_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526017_A,8845526017_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526017_C,8845526017_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526017_D,8845526017_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526017_E,8845526017_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526017_G,8845526017_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526017_H,8845526017_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526017_I,8845526017_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526017_J,8845526017_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526029_A,8845526029_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526029_B,8845526029_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526029_D,8845526029_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526029_G,8845526029_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526029_H,8845526029_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526029_K,8845526029_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526029_L,8845526029_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526039_A,8845526039_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526039_B,8845526039_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526039_D,8845526039_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526039_G,8845526039_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,8845526039_H,8845526039_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9443362009_B,9443362009_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9443362009_C,9443362009_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9443362009_G,9443362009_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9443362009_I,9443362009_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9443362009_K,9443362009_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9443362011_I,9443362011_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9443362011_J,9443362011_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9443362106_B,9443362106_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9443362106_C,9443362106_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9443362106_H,9443362106_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9443362106_J,9443362106_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9443362106_L,9443362106_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9444048022_A,9444048022_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9444048022_B,9444048022_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9461595121_E,9461595121_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9461595121_F,9461595121_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9461595121_H,9461595121_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9461595121_I,9461595121_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9461595121_L,9461595121_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9463775016_B,9463775016_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9463775016_D,9463775016_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9463775016_F,9463775016_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9463775016_G,9463775016_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9463775016_K,9463775016_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9463775099_B,9463775099_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9463775099_E,9463775099_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9463775099_F,9463775099_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9463775099_J,9463775099_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9463775099_L,9463775099_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9463775101_A,9463775101_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9463775101_D,9463775101_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9463775101_I,9463775101_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9463775101_K,9463775101_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032028_E,9631032028_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032028_I,9631032028_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032033_A,9631032033_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032033_B,9631032033_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032033_C,9631032033_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032033_E,9631032033_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032033_F,9631032033_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032033_G,9631032033_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032033_I,9631032033_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032039_A,9631032039_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032039_B,9631032039_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032039_G,9631032039_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032039_K,9631032039_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032039_L,9631032039_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032042_C,9631032042_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032042_D,9631032042_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032042_E,9631032042_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032042_F,9631032042_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032042_H,9631032042_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032042_K,9631032042_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032043_C,9631032043_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032043_D,9631032043_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032043_E,9631032043_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032043_F,9631032043_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032043_G,9631032043_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032043_H,9631032043_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032043_I,9631032043_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032043_L,9631032043_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032047_B,9631032047_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032047_F,9631032047_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032047_G,9631032047_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032047_H,9631032047_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032047_I,9631032047_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032047_J,9631032047_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032047_L,9631032047_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032049_A,9631032049_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032049_B,9631032049_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032049_F,9631032049_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032049_I,9631032049_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032049_J,9631032049_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032050_A,9631032050_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032050_B,9631032050_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9631032050_C,9631032050_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9665647061_H,9665647061_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9665647061_I,9665647061_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9665647061_L,9665647061_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9665647062_E,9665647062_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9665647062_G,9665647062_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760062_K,9682760062_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760071_A,9682760071_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760071_F,9682760071_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760071_J,9682760071_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760071_K,9682760071_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760072_C,9682760072_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760072_G,9682760072_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760072_H,9682760072_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760072_J,9682760072_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760072_K,9682760072_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760072_L,9682760072_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760073_D,9682760073_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760073_E,9682760073_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760073_G,9682760073_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760073_K,9682760073_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760073_L,9682760073_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760074_B,9682760074_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760074_C,9682760074_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760074_D,9682760074_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760074_F,9682760074_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760074_I,9682760074_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760074_K,9682760074_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760074_L,9682760074_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760076_A,9682760076_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760076_H,9682760076_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760076_L,9682760076_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760079_L,9682760079_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760080_B,9682760080_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760080_C,9682760080_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760080_I,9682760080_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760081_C,9682760081_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760081_D,9682760081_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760081_E,9682760081_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760081_H,9682760081_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9682760081_I,9682760081_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,9703627107_D,9703627107_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230060_B,3999230060_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230060_D,3999230060_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230060_E,3999230060_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230060_F,3999230060_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230060_G,3999230060_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230060_H,3999230060_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230060_J,3999230060_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230060_L,3999230060_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230062_B,3999230062_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230062_J,3999230062_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230062_K,3999230062_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230064_A,3999230064_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230064_B,3999230064_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230064_C,3999230064_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230064_D,3999230064_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230064_E,3999230064_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230071_A,3999230071_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230071_B,3999230071_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230071_D,3999230071_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230071_E,3999230071_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230071_G,3999230071_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230071_L,3999230071_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230075_A,3999230075_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230075_E,3999230075_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230075_F,3999230075_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,3999230075_L,3999230075_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200316700083_A,200316700083_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200316700083_B,200316700083_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200316700083_C,200316700083_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200316700083_D,200316700083_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200316700083_E,200316700083_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200316700083_F,200316700083_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200316700083_G,200316700083_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200316700083_H,200316700083_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680054_A,200363680054_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680054_B,200363680054_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680054_C,200363680054_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680054_E,200363680054_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680054_F,200363680054_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680054_G,200363680054_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680054_H,200363680054_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680054_I,200363680054_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680054_J,200363680054_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680054_K,200363680054_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680054_L,200363680054_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680055_A,200363680055_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680055_B,200363680055_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680055_D,200363680055_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680055_F,200363680055_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680055_G,200363680055_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680055_K,200363680055_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680059_D,200363680059_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680059_F,200363680059_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680059_I,200363680059_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830011_B,200373830011_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830011_C,200373830011_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830011_D,200373830011_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830016_A,200373830016_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830016_C,200373830016_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830016_D,200373830016_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830016_F,200373830016_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830016_I,200373830016_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830016_L,200373830016_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830021_B,200373830021_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830021_D,200373830021_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830021_E,200373830021_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830021_H,200373830021_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830036_A,200373830036_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830036_C,200373830036_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830036_E,200373830036_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830041_A,200373830041_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830041_D,200373830041_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830041_H,200373830041_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830042_E,200373830042_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830042_F,200373830042_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830042_J,200373830042_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830042_L,200373830042_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830048_D,200373830048_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830048_E,200373830048_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830048_I,200373830048_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830048_L,200373830048_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830050_E,200373830050_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830050_J,200373830050_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830050_L,200373830050_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830057_B,200373830057_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830057_C,200373830057_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830057_E,200373830057_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200373830057_K,200373830057_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200400280015_L,200400280015_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200400280016_B,200400280016_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200400280016_J,200400280016_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200400280016_L,200400280016_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200400280017_B,200400280017_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200400280017_I,200400280017_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200400280017_J,200400280017_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200400280017_K,200400280017_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680014_D,200363680014_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680017_J,200363680017_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680018_H,200363680018_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680018_I,200363680018_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680018_J,200363680018_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200363680018_L,200363680018_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661380042_J,200661380042_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661380042_K,200661380042_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920001_C,200661920001_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920002_H,200661920002_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920002_J,200661920002_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920003_A,200661920003_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920003_C,200661920003_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920003_G,200661920003_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920003_I,200661920003_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920003_J,200661920003_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920003_L,200661920003_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920011_C,200661920011_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920011_E,200661920011_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920011_F,200661920011_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920011_G,200661920011_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920011_J,200661920011_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920011_K,200661920011_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920011_L,200661920011_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920014_C,200661920014_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920014_D,200661920014_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920014_F,200661920014_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920014_H,200661920014_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920015_D,200661920015_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920015_E,200661920015_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920015_F,200661920015_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920015_G,200661920015_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920015_H,200661920015_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920031_B,200661920031_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920031_D,200661920031_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920031_E,200661920031_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920031_G,200661920031_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920031_J,200661920031_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920031_L,200661920031_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920037_C,200661920037_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920037_D,200661920037_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920037_F,200661920037_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920037_G,200661920037_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920037_I,200661920037_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920037_J,200661920037_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920039_B,200661920039_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920039_C,200661920039_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920039_D,200661920039_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920039_E,200661920039_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920039_I,200661920039_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920039_J,200661920039_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920039_K,200661920039_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920067_A,200661920067_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920067_D,200661920067_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920067_G,200661920067_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920067_H,200661920067_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920067_I,200661920067_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920067_J,200661920067_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200661920067_L,200661920067_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010002_D,200665010002_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010002_F,200665010002_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010002_K,200665010002_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010002_L,200665010002_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010023_C,200665010023_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010023_E,200665010023_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010023_G,200665010023_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010023_I,200665010023_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010029_A,200665010029_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010029_B,200665010029_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010029_E,200665010029_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010029_G,200665010029_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010029_I,200665010029_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010029_J,200665010029_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010029_K,200665010029_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010029_L,200665010029_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010039_C,200665010039_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010039_D,200665010039_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010039_G,200665010039_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010039_I,200665010039_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010039_J,200665010039_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010039_K,200665010039_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010044_A,200665010044_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010044_C,200665010044_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010044_H,200665010044_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010044_I,200665010044_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010044_L,200665010044_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010052_A,200665010052_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010052_F,200665010052_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010052_J,200665010052_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010062_B,200665010062_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010062_D,200665010062_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010062_G,200665010062_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010062_H,200665010062_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200665010062_K,200665010062_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200667730024_A,200667730024_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200667730024_B,200667730024_B,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200667730024_C,200667730024_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200667730024_D,200667730024_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200667730024_F,200667730024_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200667730024_G,200667730024_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200667730024_H,200667730024_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200667730024_I,200667730024_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200667730024_K,200667730024_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200667730024_L,200667730024_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200795790038_A,200795790038_A,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200795790038_G,200795790038_G,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200795790038_H,200795790038_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200795790038_I,200795790038_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200795790038_J,200795790038_J,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200795790038_K,200795790038_K,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200795790040_F,200795790040_F,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200795790040_L,200795790040_L,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200795790042_C,200795790042_C,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200795790042_D,200795790042_D,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200795790042_E,200795790042_E,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200795790042_H,200795790042_H,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200795790042_I,200795790042_I,matched,1,,,,
+expression,GSE140829_raw_data.txt.gz,200795790042_J,200795790042_J,matched,1,,,,
+phenotype,GEO sample records (GSE140829),200363680054_G,200363680054_G,matched,1,GSM4187187,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5786049087_G,5786049087_G,matched,1,GSM4187188,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),5937345007_F,5937345007_F,matched,1,GSM4187189,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200363680054_L,200363680054_L,matched,1,GSM4187190,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),5872641012_H,5872641012_H,matched,1,GSM4187191,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641070_A,5872641070_A,matched,1,GSM4187192,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5937337095_B,5937337095_B,matched,1,GSM4187193,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641011_I,5872641011_I,matched,1,GSM4187194,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641011_B,5872641011_B,matched,1,GSM4187195,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641054_F,5872641054_F,matched,1,GSM4187196,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),5872641011_G,5872641011_G,matched,1,GSM4187197,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641012_J,5872641012_J,matched,1,GSM4187198,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5786049087_D,5786049087_D,matched,1,GSM4187199,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5786049087_H,5786049087_H,matched,1,GSM4187200,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5937345070_F,5937345070_F,matched,1,GSM4187201,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5786049087_E,5786049087_E,matched,1,GSM4187202,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641018_G,5872641018_G,matched,1,GSM4187203,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),5872641012_D,5872641012_D,matched,1,GSM4187204,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872617031_A,5872617031_A,matched,1,GSM4187205,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641054_C,5872641054_C,matched,1,GSM4187206,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641054_H,5872641054_H,matched,1,GSM4187207,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641070_B,5872641070_B,matched,1,GSM4187208,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641053_H,5872641053_H,matched,1,GSM4187209,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641059_I,5872641059_I,matched,1,GSM4187210,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),5872641070_D,5872641070_D,matched,1,GSM4187211,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),5872641016_K,5872641016_K,matched,1,GSM4187212,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641018_A,5872641018_A,matched,1,GSM4187213,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641031_L,5872641031_L,matched,1,GSM4187214,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641031_A,5872641031_A,matched,1,GSM4187215,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),5872617031_E,5872617031_E,matched,1,GSM4187216,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641031_C,5872641031_C,matched,1,GSM4187217,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),5872617031_C,5872617031_C,matched,1,GSM4187218,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641012_B,5872641012_B,matched,1,GSM4187219,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),5872641011_F,5872641011_F,matched,1,GSM4187220,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641059_H,5872641059_H,matched,1,GSM4187221,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641059_C,5872641059_C,matched,1,GSM4187222,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),5872641054_K,5872641054_K,matched,1,GSM4187223,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641059_D,5872641059_D,matched,1,GSM4187224,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),5872641016_E,5872641016_E,matched,1,GSM4187225,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),5872641032_E,5872641032_E,matched,1,GSM4187226,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641032_D,5872641032_D,matched,1,GSM4187227,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641059_F,5872641059_F,matched,1,GSM4187228,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),5872641011_D,5872641011_D,matched,1,GSM4187229,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641059_L,5872641059_L,matched,1,GSM4187230,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641018_F,5872641018_F,matched,1,GSM4187231,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641053_I,5872641053_I,matched,1,GSM4187232,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641032_B,5872641032_B,matched,1,GSM4187233,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641011_K,5872641011_K,matched,1,GSM4187234,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641054_D,5872641054_D,matched,1,GSM4187235,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641053_B,5872641053_B,matched,1,GSM4187236,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641031_H,5872641031_H,matched,1,GSM4187237,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),5872641031_J,5872641031_J,matched,1,GSM4187238,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6016741004_F,6016741004_F,matched,1,GSM4187239,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6016741006_J,6016741006_J,matched,1,GSM4187240,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6016741006_B,6016741006_B,matched,1,GSM4187241,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),5937345070_G,5937345070_G,matched,1,GSM4187242,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5937345007_G,5937345007_G,matched,1,GSM4187243,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6016741003_K,6016741003_K,matched,1,GSM4187244,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6116733070_G,6116733070_G,matched,1,GSM4187245,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5937337095_K,5937337095_K,matched,1,GSM4187246,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6016741004_G,6016741004_G,matched,1,GSM4187247,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6016741006_C,6016741006_C,matched,1,GSM4187248,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),5937345070_H,5937345070_H,matched,1,GSM4187249,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5937337074_D,5937337074_D,matched,1,GSM4187250,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6116733070_H,6116733070_H,matched,1,GSM4187251,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),5937337074_L,5937337074_L,matched,1,GSM4187252,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5937337095_L,5937337095_L,matched,1,GSM4187253,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),5937337095_D,5937337095_D,matched,1,GSM4187254,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6016741003_D,6016741003_D,matched,1,GSM4187255,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6016741008_A,6016741008_A,matched,1,GSM4187256,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6016741006_L,6016741006_L,matched,1,GSM4187257,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5975106019_E,5975106019_E,matched,1,GSM4187258,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6016741002_I,6016741002_I,matched,1,GSM4187259,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),5975106007_A,5975106007_A,matched,1,GSM4187260,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),5975106007_I,5975106007_I,matched,1,GSM4187261,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5975106040_A,5975106040_A,matched,1,GSM4187262,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),5975106038_E,5975106038_E,matched,1,GSM4187263,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6016741008_J,6016741008_J,matched,1,GSM4187264,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6016741008_B,6016741008_B,matched,1,GSM4187265,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9631032028_I,9631032028_I,matched,1,GSM4187266,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5975106019_F,5975106019_F,matched,1,GSM4187267,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5975106007_J,5975106007_J,matched,1,GSM4187268,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5975106040_B,5975106040_B,matched,1,GSM4187269,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5975106038_F,5975106038_F,matched,1,GSM4187270,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6016741008_K,6016741008_K,matched,1,GSM4187271,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6016741008_C,6016741008_C,matched,1,GSM4187272,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6016741009_G,6016741009_G,matched,1,GSM4187273,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),5975106007_C,5975106007_C,matched,1,GSM4187274,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6016741002_C,6016741002_C,matched,1,GSM4187275,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6116768119_L,6116768119_L,matched,1,GSM4187276,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6116768129_B,6116768129_B,matched,1,GSM4187277,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6116733125_K,6116733125_K,matched,1,GSM4187278,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6116733120_I,6116733120_I,matched,1,GSM4187279,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6116733121_D,6116733121_D,matched,1,GSM4187280,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6116733138_A,6116733138_A,matched,1,GSM4187281,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6116733118_H,6116733118_H,matched,1,GSM4187282,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6116733120_J,6116733120_J,matched,1,GSM4187283,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6116733138_B,6116733138_B,matched,1,GSM4187284,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6116768129_D,6116768129_D,matched,1,GSM4187285,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6116733125_L,6116733125_L,matched,1,GSM4187286,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6116733001_F,6116733001_F,matched,1,GSM4187287,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6116733120_L,6116733120_L,matched,1,GSM4187288,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6116733121_B,6116733121_B,matched,1,GSM4187289,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6116768119_D,6116768119_D,matched,1,GSM4187290,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6116733001_H,6116733001_H,matched,1,GSM4187291,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6116768127_J,6116768127_J,matched,1,GSM4187292,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6260962092_A,6260962092_A,matched,1,GSM4187293,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6116750051_D,6116750051_D,matched,1,GSM4187294,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6116750051_F,6116750051_F,matched,1,GSM4187295,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6116750051_H,6116750051_H,matched,1,GSM4187296,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6116750081_B,6116750081_B,matched,1,GSM4187297,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6116750081_F,6116750081_F,matched,1,GSM4187298,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6116750051_J,6116750051_J,matched,1,GSM4187299,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6116750051_L,6116750051_L,matched,1,GSM4187300,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6260962092_B,6260962092_B,matched,1,GSM4187301,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6116750081_I,6116750081_I,matched,1,GSM4187302,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6116750051_A,6116750051_A,matched,1,GSM4187303,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6116750081_J,6116750081_J,matched,1,GSM4187304,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6116750081_K,6116750081_K,matched,1,GSM4187305,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6260962092_C,6260962092_C,matched,1,GSM4187306,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6260962092_H,6260962092_H,matched,1,GSM4187307,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6260962092_E,6260962092_E,matched,1,GSM4187308,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6260962092_G,6260962092_G,matched,1,GSM4187309,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6260971012_H,6260971012_H,matched,1,GSM4187310,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6303248057_L,6303248057_L,matched,1,GSM4187311,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6303281019_B,6303281019_B,matched,1,GSM4187312,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6303230097_A,6303230097_A,matched,1,GSM4187313,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6303281019_H,6303281019_H,matched,1,GSM4187314,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6303230097_I,6303230097_I,matched,1,GSM4187315,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6303230097_B,6303230097_B,matched,1,GSM4187316,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6303248067_H,6303248067_H,matched,1,GSM4187317,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6303248029_J,6303248029_J,matched,1,GSM4187318,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6303248029_C,6303248029_C,matched,1,GSM4187319,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6303230097_J,6303230097_J,matched,1,GSM4187320,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6303230097_K,6303230097_K,matched,1,GSM4187321,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6303248067_B,6303248067_B,matched,1,GSM4187322,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6303248029_D,6303248029_D,matched,1,GSM4187323,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6303230097_C,6303230097_C,matched,1,GSM4187324,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6303248029_K,6303248029_K,matched,1,GSM4187325,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6303248029_L,6303248029_L,matched,1,GSM4187326,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6303230098_G,6303230098_G,matched,1,GSM4187327,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6303248067_C,6303248067_C,matched,1,GSM4187328,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6898325080_A,6898325080_A,matched,1,GSM4187329,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6303230098_H,6303230098_H,matched,1,GSM4187330,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6303230097_D,6303230097_D,matched,1,GSM4187331,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6898325063_A,6898325063_A,matched,1,GSM4187332,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),7166142013_A,7166142013_A,matched,1,GSM4187333,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6898325060_A,6898325060_A,matched,1,GSM4187334,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6898325082_A,6898325082_A,matched,1,GSM4187335,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6898325057_A,6898325057_A,matched,1,GSM4187336,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6898325060_B,6898325060_B,matched,1,GSM4187337,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6898325083_B,6898325083_B,matched,1,GSM4187338,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6898325082_B,6898325082_B,matched,1,GSM4187339,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6898325057_B,6898325057_B,matched,1,GSM4187340,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),7166142013_C,7166142013_C,matched,1,GSM4187341,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6898325079_C,6898325079_C,matched,1,GSM4187342,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),7166142013_E,7166142013_E,matched,1,GSM4187343,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6898325082_D,6898325082_D,matched,1,GSM4187344,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6898325057_D,6898325057_D,matched,1,GSM4187345,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6898325079_D,6898325079_D,matched,1,GSM4187346,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6898325083_D,6898325083_D,matched,1,GSM4187347,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6898325083_E,6898325083_E,matched,1,GSM4187348,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6898325060_E,6898325060_E,matched,1,GSM4187349,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6898325063_E,6898325063_E,matched,1,GSM4187350,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6898325083_F,6898325083_F,matched,1,GSM4187351,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),6898325060_F,6898325060_F,matched,1,GSM4187352,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6898325057_F,6898325057_F,matched,1,GSM4187353,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),7656791031_A,7656791031_A,matched,1,GSM4187354,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),7656791031_B,7656791031_B,matched,1,GSM4187355,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),7656791031_H,7656791031_H,matched,1,GSM4187356,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),7656791042_B,7656791042_B,matched,1,GSM4187357,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),7656791045_B,7656791045_B,matched,1,GSM4187358,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),7656791042_H,7656791042_H,matched,1,GSM4187359,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),7649540078_H,7649540078_H,matched,1,GSM4187360,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),7649540078_B,7649540078_B,matched,1,GSM4187361,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),7656791031_C,7656791031_C,matched,1,GSM4187362,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),7656791042_C,7656791042_C,matched,1,GSM4187363,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),7656791031_D,7656791031_D,matched,1,GSM4187364,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),7656791045_C,7656791045_C,matched,1,GSM4187365,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),7656791031_J,7656791031_J,matched,1,GSM4187366,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),7656791031_E,7656791031_E,matched,1,GSM4187367,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),7649540078_J,7649540078_J,matched,1,GSM4187368,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),7656791045_E,7656791045_E,matched,1,GSM4187369,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),7649540078_E,7649540078_E,matched,1,GSM4187370,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),7649540078_K,7649540078_K,matched,1,GSM4187371,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),7656791045_K,7656791045_K,matched,1,GSM4187372,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),7656791042_F,7656791042_F,matched,1,GSM4187373,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8381645086_F,8381645086_F,matched,1,GSM4187374,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8381645089_H,8381645089_H,matched,1,GSM4187375,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8381645085_K,8381645085_K,matched,1,GSM4187376,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8381645080_L,8381645080_L,matched,1,GSM4187377,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8381645080_H,8381645080_H,matched,1,GSM4187378,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),8381645085_G,8381645085_G,matched,1,GSM4187379,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8381645085_D,8381645085_D,matched,1,GSM4187380,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8381645083_K,8381645083_K,matched,1,GSM4187381,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),8381645080_I,8381645080_I,matched,1,GSM4187382,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),8381645083_C,8381645083_C,matched,1,GSM4187383,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),8381645086_G,8381645086_G,matched,1,GSM4187384,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8381645080_K,8381645080_K,matched,1,GSM4187385,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8381645086_E,8381645086_E,matched,1,GSM4187386,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8381645085_L,8381645085_L,matched,1,GSM4187387,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8381645085_A,8381645085_A,matched,1,GSM4187388,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8381645083_L,8381645083_L,matched,1,GSM4187389,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),8845526007_L,8845526007_L,matched,1,GSM4187390,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8381645083_D,8381645083_D,matched,1,GSM4187391,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8381645086_H,8381645086_H,matched,1,GSM4187392,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8381645089_C,8381645089_C,matched,1,GSM4187393,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8381645085_E,8381645085_E,matched,1,GSM4187394,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8381645086_D,8381645086_D,matched,1,GSM4187395,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8381645086_I,8381645086_I,matched,1,GSM4187396,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8381645089_D,8381645089_D,matched,1,GSM4187397,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8381645080_A,8381645080_A,matched,1,GSM4187398,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8381645080_B,8381645080_B,matched,1,GSM4187399,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),8381645083_I,8381645083_I,matched,1,GSM4187400,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),8381645080_G,8381645080_G,matched,1,GSM4187401,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200363680018_L,200363680018_L,matched,1,GSM4187402,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),6898325063_B,6898325063_B,matched,1,GSM4187403,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6898325080_F,6898325080_F,matched,1,GSM4187404,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6898325082_E,6898325082_E,matched,1,GSM4187405,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),6898325057_E,6898325057_E,matched,1,GSM4187406,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8381645085_H,8381645085_H,matched,1,GSM4187407,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),8845526007_I,8845526007_I,matched,1,GSM4187408,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),8845526007_H,8845526007_H,matched,1,GSM4187409,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8845526017_C,8845526017_C,matched,1,GSM4187410,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200363680054_F,200363680054_F,matched,1,GSM4187411,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641018_D,5872641018_D,matched,1,GSM4187412,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641054_I,5872641054_I,matched,1,GSM4187413,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641070_H,5872641070_H,matched,1,GSM4187414,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641011_L,5872641011_L,matched,1,GSM4187415,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641032_L,5872641032_L,matched,1,GSM4187416,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),5872641018_L,5872641018_L,matched,1,GSM4187417,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),5872641016_L,5872641016_L,matched,1,GSM4187418,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),5872641032_C,5872641032_C,matched,1,GSM4187419,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641016_G,5872641016_G,matched,1,GSM4187420,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641070_C,5872641070_C,matched,1,GSM4187421,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641016_B,5872641016_B,matched,1,GSM4187422,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),5872641012_F,5872641012_F,matched,1,GSM4187423,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8845526007_A,8845526007_A,matched,1,GSM4187424,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),8845526039_B,8845526039_B,matched,1,GSM4187425,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8845526039_H,8845526039_H,matched,1,GSM4187426,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8845526029_H,8845526029_H,matched,1,GSM4187427,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8845526029_D,8845526029_D,matched,1,GSM4187428,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8845526039_A,8845526039_A,matched,1,GSM4187429,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8845526013_A,8845526013_A,matched,1,GSM4187430,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),8845526017_I,8845526017_I,matched,1,GSM4187431,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8845526017_G,8845526017_G,matched,1,GSM4187432,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8845526017_E,8845526017_E,matched,1,GSM4187433,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8845526013_F,8845526013_F,matched,1,GSM4187434,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),8845526017_H,8845526017_H,matched,1,GSM4187435,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8845526029_A,8845526029_A,matched,1,GSM4187436,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),8845526017_D,8845526017_D,matched,1,GSM4187437,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8845526017_J,8845526017_J,matched,1,GSM4187438,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8845526039_G,8845526039_G,matched,1,GSM4187439,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8845526039_D,8845526039_D,matched,1,GSM4187440,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9631032028_E,9631032028_E,matched,1,GSM4187441,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9443362011_I,9443362011_I,matched,1,GSM4187442,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9443362011_J,9443362011_J,matched,1,GSM4187443,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9443362009_B,9443362009_B,matched,1,GSM4187444,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9443362009_C,9443362009_C,matched,1,GSM4187445,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8845526029_L,8845526029_L,matched,1,GSM4187446,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),8845526029_G,8845526029_G,matched,1,GSM4187447,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8845526029_K,8845526029_K,matched,1,GSM4187448,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8845526013_I,8845526013_I,matched,1,GSM4187449,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),8845526013_C,8845526013_C,matched,1,GSM4187450,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),8845526029_B,8845526029_B,matched,1,GSM4187451,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),8845526017_A,8845526017_A,matched,1,GSM4187452,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9443362009_G,9443362009_G,matched,1,GSM4187453,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9443362009_I,9443362009_I,matched,1,GSM4187454,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9443362009_K,9443362009_K,matched,1,GSM4187455,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9443362106_B,9443362106_B,matched,1,GSM4187456,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9443362106_C,9443362106_C,matched,1,GSM4187457,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9443362106_H,9443362106_H,matched,1,GSM4187458,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9443362106_J,9443362106_J,matched,1,GSM4187459,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9443362106_L,9443362106_L,matched,1,GSM4187460,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9444048022_A,9444048022_A,matched,1,GSM4187461,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9444048022_B,9444048022_B,matched,1,GSM4187462,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9463775099_B,9463775099_B,matched,1,GSM4187463,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9463775099_E,9463775099_E,matched,1,GSM4187464,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9463775099_F,9463775099_F,matched,1,GSM4187465,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9463775099_J,9463775099_J,matched,1,GSM4187466,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9463775099_L,9463775099_L,matched,1,GSM4187467,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9463775016_B,9463775016_B,matched,1,GSM4187468,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9463775016_D,9463775016_D,matched,1,GSM4187469,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9463775016_F,9463775016_F,matched,1,GSM4187470,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9463775016_G,9463775016_G,matched,1,GSM4187471,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9463775016_K,9463775016_K,matched,1,GSM4187472,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9463775101_A,9463775101_A,matched,1,GSM4187473,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9463775101_D,9463775101_D,matched,1,GSM4187474,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9463775101_I,9463775101_I,matched,1,GSM4187475,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9463775101_K,9463775101_K,matched,1,GSM4187476,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200363680055_K,200363680055_K,matched,1,GSM4187477,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9461595121_E,9461595121_E,matched,1,GSM4187478,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9461595121_F,9461595121_F,matched,1,GSM4187479,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9461595121_H,9461595121_H,matched,1,GSM4187480,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9461595121_I,9461595121_I,matched,1,GSM4187481,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9461595121_L,9461595121_L,matched,1,GSM4187482,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9631032033_A,9631032033_A,matched,1,GSM4187483,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9631032033_B,9631032033_B,matched,1,GSM4187484,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9631032033_C,9631032033_C,matched,1,GSM4187485,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200667730024_A,200667730024_A,matched,1,GSM4187486,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9631032033_E,9631032033_E,matched,1,GSM4187487,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9631032033_F,9631032033_F,matched,1,GSM4187488,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9631032033_G,9631032033_G,matched,1,GSM4187489,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9682760081_I,9682760081_I,matched,1,GSM4187490,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9631032033_I,9631032033_I,matched,1,GSM4187491,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9631032039_A,9631032039_A,matched,1,GSM4187492,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9631032039_B,9631032039_B,matched,1,GSM4187493,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9631032039_G,9631032039_G,matched,1,GSM4187494,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9631032039_K,9631032039_K,matched,1,GSM4187495,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9631032039_L,9631032039_L,matched,1,GSM4187496,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9631032042_C,9631032042_C,matched,1,GSM4187497,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9631032042_D,9631032042_D,matched,1,GSM4187498,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9631032042_E,9631032042_E,matched,1,GSM4187499,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9631032042_F,9631032042_F,matched,1,GSM4187500,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9631032042_H,9631032042_H,matched,1,GSM4187501,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9631032042_K,9631032042_K,matched,1,GSM4187502,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9631032043_C,9631032043_C,matched,1,GSM4187503,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9631032043_D,9631032043_D,matched,1,GSM4187504,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9631032043_E,9631032043_E,matched,1,GSM4187505,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9631032043_F,9631032043_F,matched,1,GSM4187506,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9631032043_G,9631032043_G,matched,1,GSM4187507,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9631032043_H,9631032043_H,matched,1,GSM4187508,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9631032043_I,9631032043_I,matched,1,GSM4187509,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9631032043_L,9631032043_L,matched,1,GSM4187510,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9631032047_B,9631032047_B,matched,1,GSM4187511,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9631032047_G,9631032047_G,matched,1,GSM4187512,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9631032047_H,9631032047_H,matched,1,GSM4187513,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9631032047_I,9631032047_I,matched,1,GSM4187514,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9631032047_J,9631032047_J,matched,1,GSM4187515,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9631032047_L,9631032047_L,matched,1,GSM4187516,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9631032049_A,9631032049_A,matched,1,GSM4187517,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9631032049_B,9631032049_B,matched,1,GSM4187518,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9631032049_F,9631032049_F,matched,1,GSM4187519,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9631032049_I,9631032049_I,matched,1,GSM4187520,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9631032049_J,9631032049_J,matched,1,GSM4187521,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9631032050_A,9631032050_A,matched,1,GSM4187522,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9631032050_B,9631032050_B,matched,1,GSM4187523,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9631032050_C,9631032050_C,matched,1,GSM4187524,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9631032047_F,9631032047_F,matched,1,GSM4187525,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9665647061_H,9665647061_H,matched,1,GSM4187526,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9665647061_I,9665647061_I,matched,1,GSM4187527,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9665647061_L,9665647061_L,matched,1,GSM4187528,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200363680017_J,200363680017_J,matched,1,GSM4187529,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9665647062_E,9665647062_E,matched,1,GSM4187530,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9665647062_G,9665647062_G,matched,1,GSM4187531,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9682760062_K,9682760062_K,matched,1,GSM4187532,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9682760071_A,9682760071_A,matched,1,GSM4187533,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9682760071_F,9682760071_F,matched,1,GSM4187534,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9682760071_J,9682760071_J,matched,1,GSM4187535,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9682760071_K,9682760071_K,matched,1,GSM4187536,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9682760072_C,9682760072_C,matched,1,GSM4187537,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9682760072_G,9682760072_G,matched,1,GSM4187538,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9682760072_H,9682760072_H,matched,1,GSM4187539,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9682760072_J,9682760072_J,matched,1,GSM4187540,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9682760072_K,9682760072_K,matched,1,GSM4187541,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9682760072_L,9682760072_L,matched,1,GSM4187542,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9682760073_D,9682760073_D,matched,1,GSM4187543,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9682760074_B,9682760074_B,matched,1,GSM4187544,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9682760074_C,9682760074_C,matched,1,GSM4187545,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9682760074_D,9682760074_D,matched,1,GSM4187546,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9682760074_F,9682760074_F,matched,1,GSM4187547,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9682760073_E,9682760073_E,matched,1,GSM4187548,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9682760073_G,9682760073_G,matched,1,GSM4187549,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9682760073_K,9682760073_K,matched,1,GSM4187550,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9682760073_L,9682760073_L,matched,1,GSM4187551,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9682760074_I,9682760074_I,matched,1,GSM4187552,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9682760074_K,9682760074_K,matched,1,GSM4187553,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9682760074_L,9682760074_L,matched,1,GSM4187554,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9682760076_L,9682760076_L,matched,1,GSM4187555,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9682760079_L,9682760079_L,matched,1,GSM4187556,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9682760080_B,9682760080_B,matched,1,GSM4187557,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9682760076_A,9682760076_A,matched,1,GSM4187558,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9682760076_H,9682760076_H,matched,1,GSM4187559,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9682760080_C,9682760080_C,matched,1,GSM4187560,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9682760080_I,9682760080_I,matched,1,GSM4187561,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9682760081_D,9682760081_D,matched,1,GSM4187562,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9682760081_E,9682760081_E,matched,1,GSM4187563,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),3999230075_F,3999230075_F,matched,1,GSM4187564,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200373830016_C,200373830016_C,matched,1,GSM4187565,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),3999230071_E,3999230071_E,matched,1,GSM4187566,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),9682760081_C,9682760081_C,matched,1,GSM4187567,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200373830016_L,200373830016_L,matched,1,GSM4187568,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),3999230071_L,3999230071_L,matched,1,GSM4187569,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200373830021_D,200373830021_D,matched,1,GSM4187570,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),3999230075_L,3999230075_L,matched,1,GSM4187571,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),3999230071_A,3999230071_A,matched,1,GSM4187572,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),3999230071_G,3999230071_G,matched,1,GSM4187573,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),9703627107_D,9703627107_D,matched,1,GSM4187574,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),3999230064_E,3999230064_E,matched,1,GSM4187575,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200373830011_C,200373830011_C,matched,1,GSM4187576,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200373830041_H,200373830041_H,matched,1,GSM4187577,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200373830041_D,200373830041_D,matched,1,GSM4187578,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200373830042_E,200373830042_E,matched,1,GSM4187579,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200373830011_B,200373830011_B,matched,1,GSM4187580,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200373830042_J,200373830042_J,matched,1,GSM4187581,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200373830042_L,200373830042_L,matched,1,GSM4187582,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),3999230064_B,3999230064_B,matched,1,GSM4187583,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200373830048_D,200373830048_D,matched,1,GSM4187584,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200373830048_E,200373830048_E,matched,1,GSM4187585,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),3999230062_K,3999230062_K,matched,1,GSM4187586,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),3999230062_B,3999230062_B,matched,1,GSM4187587,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),3999230060_L,3999230060_L,matched,1,GSM4187588,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),3999230075_E,3999230075_E,matched,1,GSM4187589,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200373830057_C,200373830057_C,matched,1,GSM4187590,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200373830057_E,200373830057_E,matched,1,GSM4187591,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200363680059_D,200363680059_D,matched,1,GSM4187592,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200373830057_K,200373830057_K,matched,1,GSM4187593,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),3999230062_J,3999230062_J,matched,1,GSM4187594,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),3999230071_B,3999230071_B,matched,1,GSM4187595,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200316700083_E,200316700083_E,matched,1,GSM4187596,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),3999230075_A,3999230075_A,matched,1,GSM4187597,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200400280016_B,200400280016_B,matched,1,GSM4187598,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),3999230064_C,3999230064_C,matched,1,GSM4187599,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),3999230064_D,3999230064_D,matched,1,GSM4187600,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),3999230071_D,3999230071_D,matched,1,GSM4187601,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200400280017_B,200400280017_B,matched,1,GSM4187602,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200400280017_I,200400280017_I,matched,1,GSM4187603,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),3999230064_A,3999230064_A,matched,1,GSM4187604,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200400280017_K,200400280017_K,matched,1,GSM4187605,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),3999230060_J,3999230060_J,matched,1,GSM4187606,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),3999230060_F,3999230060_F,matched,1,GSM4187607,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200363680055_F,200363680055_F,matched,1,GSM4187608,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200363680055_G,200363680055_G,matched,1,GSM4187609,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),3999230060_D,3999230060_D,matched,1,GSM4187610,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),3999230060_B,3999230060_B,matched,1,GSM4187611,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),3999230060_G,3999230060_G,matched,1,GSM4187612,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),3999230060_H,3999230060_H,matched,1,GSM4187613,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),3999230060_E,3999230060_E,matched,1,GSM4187614,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200316700083_B,200316700083_B,matched,1,GSM4187615,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200363680054_A,200363680054_A,matched,1,GSM4187616,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200363680054_B,200363680054_B,matched,1,GSM4187617,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200363680054_C,200363680054_C,matched,1,GSM4187618,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200363680059_I,200363680059_I,matched,1,GSM4187619,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200373830016_A,200373830016_A,matched,1,GSM4187620,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200373830016_F,200373830016_F,matched,1,GSM4187621,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200373830016_I,200373830016_I,matched,1,GSM4187622,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200373830021_B,200373830021_B,matched,1,GSM4187623,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200373830021_E,200373830021_E,matched,1,GSM4187624,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200373830021_H,200373830021_H,matched,1,GSM4187625,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200373830036_A,200373830036_A,matched,1,GSM4187626,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200373830036_C,200373830036_C,matched,1,GSM4187627,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200373830036_E,200373830036_E,matched,1,GSM4187628,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200373830041_A,200373830041_A,matched,1,GSM4187629,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200373830042_F,200373830042_F,matched,1,GSM4187630,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200373830048_I,200373830048_I,matched,1,GSM4187631,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200373830048_L,200373830048_L,matched,1,GSM4187632,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200363680054_E,200363680054_E,matched,1,GSM4187633,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200373830050_E,200373830050_E,matched,1,GSM4187634,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200373830050_J,200373830050_J,matched,1,GSM4187635,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200373830050_L,200373830050_L,matched,1,GSM4187636,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200373830057_B,200373830057_B,matched,1,GSM4187637,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200795790042_H,200795790042_H,matched,1,GSM4187638,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200400280016_J,200400280016_J,matched,1,GSM4187639,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200373830011_D,200373830011_D,matched,1,GSM4187640,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200373830016_D,200373830016_D,matched,1,GSM4187641,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200316700083_D,200316700083_D,matched,1,GSM4187642,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200363680054_H,200363680054_H,matched,1,GSM4187643,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920003_G,200661920003_G,matched,1,GSM4187644,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200363680054_K,200363680054_K,matched,1,GSM4187645,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200661920003_A,200661920003_A,matched,1,GSM4187646,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200363680018_H,200363680018_H,matched,1,GSM4187647,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920002_J,200661920002_J,matched,1,GSM4187648,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200363680018_I,200363680018_I,matched,1,GSM4187649,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200363680018_J,200363680018_J,matched,1,GSM4187650,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200363680014_D,200363680014_D,matched,1,GSM4187651,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200316700083_C,200316700083_C,matched,1,GSM4187652,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920003_J,200661920003_J,matched,1,GSM4187653,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200661920011_K,200661920011_K,matched,1,GSM4187654,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920014_H,200661920014_H,matched,1,GSM4187655,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200363680054_J,200363680054_J,matched,1,GSM4187656,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200400280016_L,200400280016_L,matched,1,GSM4187657,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200400280017_J,200400280017_J,matched,1,GSM4187658,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200400280015_L,200400280015_L,matched,1,GSM4187659,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200363680055_B,200363680055_B,matched,1,GSM4187660,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200363680055_D,200363680055_D,matched,1,GSM4187661,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200363680059_F,200363680059_F,matched,1,GSM4187662,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200316700083_F,200316700083_F,matched,1,GSM4187663,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920003_I,200661920003_I,matched,1,GSM4187664,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200661920003_L,200661920003_L,matched,1,GSM4187665,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920011_C,200661920011_C,matched,1,GSM4187666,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200363680054_I,200363680054_I,matched,1,GSM4187667,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920011_E,200661920011_E,matched,1,GSM4187668,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200661920011_F,200661920011_F,matched,1,GSM4187669,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200661920011_G,200661920011_G,matched,1,GSM4187670,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200316700083_G,200316700083_G,matched,1,GSM4187671,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920011_J,200661920011_J,matched,1,GSM4187672,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200661920011_L,200661920011_L,matched,1,GSM4187673,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200795790042_C,200795790042_C,matched,1,GSM4187674,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920014_C,200661920014_C,matched,1,GSM4187675,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200661920014_D,200661920014_D,matched,1,GSM4187676,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200661920014_F,200661920014_F,matched,1,GSM4187677,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200661920015_D,200661920015_D,matched,1,GSM4187678,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920015_E,200661920015_E,matched,1,GSM4187679,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920015_F,200661920015_F,matched,1,GSM4187680,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200661920015_G,200661920015_G,matched,1,GSM4187681,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920015_H,200661920015_H,matched,1,GSM4187682,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920031_B,200661920031_B,matched,1,GSM4187683,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200661920031_D,200661920031_D,matched,1,GSM4187684,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200661920031_E,200661920031_E,matched,1,GSM4187685,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920031_G,200661920031_G,matched,1,GSM4187686,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200363680055_A,200363680055_A,matched,1,GSM4187687,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920031_J,200661920031_J,matched,1,GSM4187688,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200661920031_L,200661920031_L,matched,1,GSM4187689,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920037_C,200661920037_C,matched,1,GSM4187690,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200661920037_D,200661920037_D,matched,1,GSM4187691,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920037_F,200661920037_F,matched,1,GSM4187692,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920037_G,200661920037_G,matched,1,GSM4187693,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920037_I,200661920037_I,matched,1,GSM4187694,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200661920037_J,200661920037_J,matched,1,GSM4187695,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920039_B,200661920039_B,matched,1,GSM4187696,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920039_D,200661920039_D,matched,1,GSM4187697,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200661920039_I,200661920039_I,matched,1,GSM4187698,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920039_J,200661920039_J,matched,1,GSM4187699,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920039_K,200661920039_K,matched,1,GSM4187700,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920067_A,200661920067_A,matched,1,GSM4187701,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920067_H,200661920067_H,matched,1,GSM4187702,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920067_I,200661920067_I,matched,1,GSM4187703,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920067_J,200661920067_J,matched,1,GSM4187704,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200665010002_D,200665010002_D,matched,1,GSM4187705,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200665010002_F,200665010002_F,matched,1,GSM4187706,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200665010002_L,200665010002_L,matched,1,GSM4187707,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200665010023_C,200665010023_C,matched,1,GSM4187708,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200665010023_E,200665010023_E,matched,1,GSM4187709,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200665010023_G,200665010023_G,matched,1,GSM4187710,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200665010029_A,200665010029_A,matched,1,GSM4187711,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200665010029_B,200665010029_B,matched,1,GSM4187712,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200665010029_E,200665010029_E,matched,1,GSM4187713,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200665010029_G,200665010029_G,matched,1,GSM4187714,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200795790042_I,200795790042_I,matched,1,GSM4187715,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200665010029_I,200665010029_I,matched,1,GSM4187716,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200665010029_J,200665010029_J,matched,1,GSM4187717,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200665010029_K,200665010029_K,matched,1,GSM4187718,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200665010029_L,200665010029_L,matched,1,GSM4187719,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200665010039_C,200665010039_C,matched,1,GSM4187720,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200665010039_D,200665010039_D,matched,1,GSM4187721,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200665010039_G,200665010039_G,matched,1,GSM4187722,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200665010039_I,200665010039_I,matched,1,GSM4187723,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200665010039_J,200665010039_J,matched,1,GSM4187724,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200665010039_K,200665010039_K,matched,1,GSM4187725,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200665010044_I,200665010044_I,matched,1,GSM4187726,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200665010062_G,200665010062_G,matched,1,GSM4187727,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200665010062_H,200665010062_H,matched,1,GSM4187728,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200667730024_B,200667730024_B,matched,1,GSM4187729,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200667730024_F,200667730024_F,matched,1,GSM4187730,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200667730024_H,200667730024_H,matched,1,GSM4187731,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200795790042_J,200795790042_J,matched,1,GSM4187732,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200667730024_D,200667730024_D,matched,1,GSM4187733,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200667730024_I,200667730024_I,matched,1,GSM4187734,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200667730024_K,200667730024_K,matched,1,GSM4187735,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200667730024_C,200667730024_C,matched,1,GSM4187736,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200795790038_A,200795790038_A,matched,1,GSM4187737,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200667730024_G,200667730024_G,matched,1,GSM4187738,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200667730024_L,200667730024_L,matched,1,GSM4187739,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200795790038_G,200795790038_G,matched,1,GSM4187740,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200795790042_D,200795790042_D,matched,1,GSM4187741,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200795790042_E,200795790042_E,matched,1,GSM4187742,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920067_G,200661920067_G,matched,1,GSM4187743,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200795790038_H,200795790038_H,matched,1,GSM4187744,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200795790038_I,200795790038_I,matched,1,GSM4187745,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200665010052_J,200665010052_J,matched,1,GSM4187746,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200665010044_C,200665010044_C,matched,1,GSM4187747,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200665010044_L,200665010044_L,matched,1,GSM4187748,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200665010052_A,200665010052_A,matched,1,GSM4187749,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200665010062_B,200665010062_B,matched,1,GSM4187750,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200665010062_K,200665010062_K,matched,1,GSM4187751,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200665010044_H,200665010044_H,matched,1,GSM4187752,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200665010052_F,200665010052_F,matched,1,GSM4187753,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200665010062_D,200665010062_D,matched,1,GSM4187754,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200665010023_I,200665010023_I,matched,1,GSM4187755,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200665010044_A,200665010044_A,matched,1,GSM4187756,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200665010002_K,200665010002_K,matched,1,GSM4187757,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200795790040_F,200795790040_F,matched,1,GSM4187758,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200795790040_L,200795790040_L,matched,1,GSM4187759,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200661920001_C,200661920001_C,matched,1,GSM4187760,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200661920039_C,200661920039_C,matched,1,GSM4187761,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920067_D,200661920067_D,matched,1,GSM4187762,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200795790038_J,200795790038_J,matched,1,GSM4187763,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200795790038_K,200795790038_K,matched,1,GSM4187764,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200661920039_E,200661920039_E,matched,1,GSM4187765,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200661920067_L,200661920067_L,matched,1,GSM4187766,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200316700083_H,200316700083_H,matched,1,GSM4187767,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200316700083_A,200316700083_A,matched,1,GSM4187768,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661920002_H,200661920002_H,matched,1,GSM4187769,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),9682760081_H,9682760081_H,matched,1,GSM4187770,MCI,MCI,MAPPED
+phenotype,GEO sample records (GSE140829),200661380042_J,200661380042_J,matched,1,GSM4187771,Control,HC,MAPPED
+phenotype,GEO sample records (GSE140829),200661380042_K,200661380042_K,matched,1,GSM4187772,AD,AD,MAPPED
+phenotype,GEO sample records (GSE140829),200661920003_C,200661920003_C,matched,1,GSM4187773,MCI,MCI,MAPPED

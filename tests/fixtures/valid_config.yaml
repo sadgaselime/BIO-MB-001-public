@@ -1,0 +1,53 @@
+schema_version: 1
+project: {id: TEST-PROJECT}
+settings:
+  geo_query_url: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi
+  geo_files_base_url: https://ftp.ncbi.nlm.nih.gov/geo/series
+  http_timeout_seconds: 5
+  max_retries: 0
+  retry_backoff_seconds: 0
+  polite_delay_seconds: 0
+  max_download_mb: 50
+  inspection_sample_rows: 1000
+  concordance_max_features: 100
+canonical_groups: {AD: Alzheimer's disease, HC: control, AMBIGUOUS: ambiguous}
+datasets:
+  - accession: GSE1000001
+    role: synthetic_discovery
+    role_description: Synthetic dataset for offline tests.
+    analysis_tier: primary_candidate
+    modality: expression_microarray
+    technology: synthetic array
+    platform: {id: GPL9999999, name: Synthetic platform}
+    landing_page: https://example.invalid/GSE1000001
+    related_accessions: []
+    independence: {status: UNRESOLVED, note: synthetic}
+    expected_counts: {source: synthetic reference, total: 5, groups: {AD: 2, HC: 2}}
+    phenotype:
+      diagnosis_field: "char:status"
+      label_map: {AD: AD, CTL: HC}
+      ambiguous_labels: ["borderline"]
+      participant_id_field: description
+      fields_of_interest: ["char:age"]
+    files:
+      - {name: GSE1000001_series_matrix.txt.gz, location: matrix, retrieve: true, sample_id_field: geo_accession}
+      - {name: GSE1000001_normalized.txt.gz, location: suppl, retrieve: true, sample_id_field: title}
+    reported_leads:
+      - {id: LEAD-1, description: synthetic lead, source: synthetic, sample_ids: [S6, S1]}
+  - accession: GSE1000002
+    role: synthetic_second
+    role_description: Second synthetic dataset.
+    analysis_tier: exploratory
+    modality: expression_rnaseq
+    technology: synthetic sequencing
+    platform: {id: null, name: null}
+    landing_page: https://example.invalid/GSE1000002
+    independence: {status: NOT_APPLICABLE, note: synthetic}
+    expected_counts: {source: synthetic reference, total: 5, groups: {}}
+    phenotype:
+      diagnosis_field: "char:status"
+      label_map: {AD: AD, CTL: HC}
+    files:
+      - {name: GSE1000002_counts.txt.gz, location: suppl, retrieve: true, sample_id_field: title}
+overlap_checks:
+  - {id: SYN-OVERLAP, datasets: [GSE1000001, GSE1000002], field: description}

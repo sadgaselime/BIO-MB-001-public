@@ -1,0 +1,6 @@
+Pre-edit copies for "D8-8 decision preparation and limited remediation" (explicit PI authorization, 2026-10-18).
+Copied 2026-10-17T20:53:17Z UTC with cp -p before any change.
+code_identity.py <- src/biomarker_project/code_identity.py
+test_code_identity.py <- tests/test_code_identity.py
+STATISTICAL_ANALYSIS_PLAN_DRAFT.md <- reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md
+Rollback: copy each file back to its source path and verify against SHA256SUMS.

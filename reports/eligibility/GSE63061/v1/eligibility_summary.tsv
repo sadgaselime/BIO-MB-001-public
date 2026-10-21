@@ -1,0 +1,10 @@
+quantity	n
+R1 universe (Series Matrix GSM columns)	388
+R2-ID excluded	0
+R5 excluded from contrasts	6
+AD (eligible, pre-QC)	139
+CTL (eligible, pre-QC)	134
+MCI (retained, outside primary contrast; R4)	109
+primary contrast cases (AD, pre-QC)	139
+primary contrast controls (CTL, pre-QC)	134
+R11 supplementary columns not eligible	0

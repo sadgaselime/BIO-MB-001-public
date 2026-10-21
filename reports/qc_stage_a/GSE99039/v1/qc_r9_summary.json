@@ -1,0 +1,22 @@
+{
+  "GSE99039": {
+    "M": 2.007071244184182,
+    "S": 0.14457543167128828,
+    "flag_threshold_z": 1.573344949170317,
+    "k": 3.0,
+    "min_arrays": 10,
+    "n_a0_failures": 0,
+    "n_a1_failures": 0,
+    "n_a2_pairs": 0,
+    "n_a3_failures": 0,
+    "n_arrays": 558,
+    "n_flagged": 10,
+    "n_probes": 54675,
+    "n_probes_dropped_nonfinite": 0,
+    "n_referred_d18": 0,
+    "n_scored": 558,
+    "near_identical_tolerance": "1 - 1e-8",
+    "status": "completed",
+    "stop_stage": null
+  }
+}

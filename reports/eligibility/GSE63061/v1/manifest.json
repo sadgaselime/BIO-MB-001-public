@@ -1,0 +1,166 @@
+{
+  "command": ".venv/bin/python -I scripts/eligibility_gse63060.py --version v1",
+  "created_utc": "2026-10-18T21:35:10Z",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "eligibility_log.tsv": "6ecfb88e2d1ddef79e5f0779f6cbbc92e803cd5c2c6415082eca2b6d4f6d163c",
+      "eligibility_summary.tsv": "348cfff19ca14359430e07587ad43d9ca59215fa9ecec442c52ce12bbaf79680",
+      "r11_supplementary_columns.tsv": "047838d4c174e1b64f404f6b270dacc015adba6801b30d6aa9b03cac873752c6"
+    },
+    "runs_compared": 2
+  },
+  "equivalence": null,
+  "expected_counts_D2": {
+    "AD": 139,
+    "CTL": 134,
+    "MCI": 109,
+    "R5": 6,
+    "universe": 388
+  },
+  "identity": {
+    "aggregate_sha256": "127132e910df7c979decb5f054d1d680db545d4bf5289571403a736ba6155ecf",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "fa51c7b9d10dd468fbeed8b2ad83b832eb8acc83adb828dc25361cbbc4359951",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 86,
+    "record_file": "code_identity.json",
+    "record_sha256": "80447af614ae1fabd44729e3760a9b6c6ba8b5b00c293a3834551397401e3a46"
+  },
+  "identity_verification": {
+    "environment_modules": 0,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/eligibility_gse63060.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea"
+      },
+      "executed_files": 2,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 4,
+    "status": "PASS",
+    "verified_utc": "2026-10-18T21:35:10Z"
+  },
+  "inputs": {
+    "annotation_pin": {
+      "dir": "reports/annotation_audit/annotation_pin/v1",
+      "manifest_sha256": "d48309e7f900f5434e592317b32fa8c09ed2661b2da470f7e7662ef12bebe930",
+      "record_sha256": "cde8ccd7d87b3622227a1b174599c4786fa94906159707fc4e498c72f3253a67"
+    },
+    "files": {
+      "data/processed/GSE63061/phenotype_table.tsv": {
+        "sha256": "50b7ed5db51968c0554eb54ee26e921ada947d2f49fd371afc8dafcd308f75f7"
+      },
+      "data/raw/GSE63061/GSE63061_non-normalized.txt.gz": {
+        "manifest_sha256": "a63663ed42b32ab59e8045ef94e6c739dfeddf9bd3aff90a4308c30bfde25e47",
+        "sha256": "a63663ed42b32ab59e8045ef94e6c739dfeddf9bd3aff90a4308c30bfde25e47"
+      },
+      "data/raw/GSE63061/GSE63061_normalized.txt.gz": {
+        "manifest_sha256": "724407efd592bf355309d72ce1d3bed165ddf2180e553cc425aaf8c90db8ba2d",
+        "sha256": "724407efd592bf355309d72ce1d3bed165ddf2180e553cc425aaf8c90db8ba2d"
+      },
+      "data/raw/GSE63061/GSE63061_series_matrix.txt.gz": {
+        "manifest_sha256": "c6de1af5bd36bca3de0921d53051bdefd05666f6e94a6906a26c8cb461dd55f5",
+        "sha256": "c6de1af5bd36bca3de0921d53051bdefd05666f6e94a6906a26c8cb461dd55f5"
+      }
+    }
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-18T21:35:10Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "v1",
+    "run_id": "9338afcb9451",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-18T21:35:09Z"
+  },
+  "not_applied_here": {
+    "D18": "duplicate review, Tier B step 4",
+    "R2-COV": "complete-case per statistical model, at model time",
+    "R7/D4": "no age-based exclusion; age is a covariate (D4)",
+    "R8/R9": "QC Stage A (D5/D22), Tier B step 5"
+  },
+  "output_sha256": {
+    "code_identity.json": "80447af614ae1fabd44729e3760a9b6c6ba8b5b00c293a3834551397401e3a46",
+    "eligibility_log.tsv": "6ecfb88e2d1ddef79e5f0779f6cbbc92e803cd5c2c6415082eca2b6d4f6d163c",
+    "eligibility_summary.tsv": "348cfff19ca14359430e07587ad43d9ca59215fa9ecec442c52ce12bbaf79680",
+    "r11_supplementary_columns.tsv": "047838d4c174e1b64f404f6b270dacc015adba6801b30d6aa9b03cac873752c6"
+  },
+  "rules_applied": [
+    "R1",
+    "R2-ID",
+    "R3",
+    "R4",
+    "R5",
+    "R11",
+    "R12 (recorded, not used)",
+    "R13 (this log)"
+  ],
+  "rules_documented_only": {
+    "R10": "inherited submitter QC not independently auditable (no sample-level records)",
+    "R6": "no converter-based exclusion or relabelling; code letters unused"
+  },
+  "status": "Tier B step 3: GSE63061 pre-QC eligibility under D2 (v7:605). Metadata only; no expression value read; no QC, duplicate review, model or analysis. Approves nothing.",
+  "validation": [
+    {
+      "check": "R1: universe equals the expected 388 GSM columns",
+      "pass": true
+    },
+    {
+      "check": "R1: table column header equals !Sample_geo_accession in order",
+      "pass": true
+    },
+    {
+      "check": "R2-ID: GSM, barcode and participant code unique",
+      "pass": true
+    },
+    {
+      "check": "D2 pre-QC count AD = 139",
+      "pass": true
+    },
+    {
+      "check": "D2 pre-QC count CTL = 134",
+      "pass": true
+    },
+    {
+      "check": "D2 count MCI = 109",
+      "pass": true
+    },
+    {
+      "check": "R5 excluded = 6",
+      "pass": true
+    },
+    {
+      "check": "R11: no supplementary column became a sample",
+      "pass": true
+    },
+    {
+      "check": "phenotype table has the same GSM set",
+      "pass": true
+    },
+    {
+      "check": "phenotype table agrees on barcode, participant code and status",
+      "pass": true
+    }
+  ]
+}

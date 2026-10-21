@@ -1,0 +1,74 @@
+{
+  "aliasing": [
+    {
+      "chip_batch_20": 0.23570226039551556,
+      "chip_batch_21": 0.23570226039551648,
+      "chip_batch_23": 0.2357022603955156,
+      "chip_batch_24": 0.2357022603955159,
+      "chip_batch_25": 0.2357022603955159,
+      "chip_batch_26": 0.23570226039551578,
+      "chip_batch_28": 0.2357022603955159,
+      "chip_batch_29": 0.23570226039551584,
+      "chip_batch_30": 0.23570226039551556,
+      "chip_batch_31": 0.23570226039551562,
+      "chip_batch_32": 0.23570226039551573,
+      "chip_batch_33": 0.23570226039551578,
+      "chip_batch_34": 0.23570226039551564,
+      "chip_batch_36": 0.2357022603955157,
+      "chip_batch_37": 0.2357022603955158,
+      "chip_batch_38": 0.23570226039551617,
+      "chip_batch_39": 0.2357022603955161,
+      "intercept": -0.23570226039551573
+    }
+  ],
+  "decision": "PROCEED",
+  "decision_checks": {
+    "M2": {
+      "AD_on_mixed_units": 201,
+      "CTL_on_mixed_units": 245,
+      "mixed_units": 16
+    },
+    "M3_E": 0.8989105303607566,
+    "M3_estimable": true,
+    "M4_VIF": 1.1124577655116283
+  },
+  "descriptive": {
+    "M5_residual_df": 429,
+    "M6_singleton_units": [],
+    "aliasing_null_space_dim": 1,
+    "condition_number_retained": 14.06504563948628,
+    "n": 449,
+    "p": 20,
+    "r_N": 19
+  },
+  "nuisance_columns": [
+    "intercept",
+    "age_scaled",
+    "sex_male",
+    "chip_batch_20",
+    "chip_batch_21",
+    "chip_batch_23",
+    "chip_batch_24",
+    "chip_batch_25",
+    "chip_batch_26",
+    "chip_batch_28",
+    "chip_batch_29",
+    "chip_batch_30",
+    "chip_batch_31",
+    "chip_batch_32",
+    "chip_batch_33",
+    "chip_batch_34",
+    "chip_batch_36",
+    "chip_batch_37",
+    "chip_batch_38",
+    "chip_batch_39"
+  ],
+  "stop_reasons": [],
+  "thresholds": {
+    "c1": 3,
+    "c2": 5,
+    "c3": 10.0,
+    "eta": 1e-08,
+    "tau": 2.4653174472318857e-12
+  }
+}

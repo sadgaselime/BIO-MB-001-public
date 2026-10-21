@@ -1,0 +1,94 @@
+{
+  "command": ".venv/bin/python -I scripts/r8_diagnostics_gse63060.py --version v1",
+  "created_utc": "2026-10-18T18:56:56Z",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "r8_probe_diagnostics.tsv": "13f3581f967d4b506770f28ca246e5a8b8c7a02942c64b9f1b2ddcc6c807d01d",
+      "r8_scale_summary.json": "da806b09b3841b437b70afc5c293eec4c594d36612e30b081d7db538b2e9fa31"
+    },
+    "runs_compared": 2
+  },
+  "equivalence": null,
+  "identity": {
+    "aggregate_sha256": "5127cbd042128d0913070e5cba94a24160d89bbd24f892670e8995c3ddcc6a97",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "fa51c7b9d10dd468fbeed8b2ad83b832eb8acc83adb828dc25361cbbc4359951",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 75,
+    "record_file": "code_identity.json",
+    "record_sha256": "a0d7b0c5f02f54da83c9b2a61b11b4711b4f9a693d7fd4632a7e8c5885284d5f"
+  },
+  "identity_verification": {
+    "environment_modules": 409,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/r8_diagnostics_gse63060.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea",
+        "src/biomarker_project/expression_adjudication.py": "266f14367cdd295e4f51e95569636ca4fdf8e12ec27f67685c3e7328db597e82",
+        "src/biomarker_project/qc_r8.py": "d971ff8aec990fbe01c9c202048c846e6ee15d66dcb3998d242e28fd6ab28032"
+      },
+      "executed_files": 4,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 6,
+    "status": "PASS",
+    "verified_utc": "2026-10-18T18:56:56Z"
+  },
+  "inputs": {
+    "data/raw/GSE63060/GSE63060_non-normalized.txt.gz": {
+      "manifest_sha256": "163acd963f21ce51495b85d4a0187bb7ae6b11904f3b1d49114bfa39494931b7",
+      "sha256": "163acd963f21ce51495b85d4a0187bb7ae6b11904f3b1d49114bfa39494931b7"
+    },
+    "data/raw/GSE63060/GSE63060_series_matrix.txt.gz": {
+      "manifest_sha256": "342421d07105d786d623a4b86dc4a21b764da352e4facc7a032fbd36b0f19371",
+      "sha256": "342421d07105d786d623a4b86dc4a21b764da352e4facc7a032fbd36b0f19371"
+    }
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-18T18:56:56Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "v1",
+    "run_id": "4b66b117d110",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-18T18:56:44Z"
+  },
+  "output_sha256": {
+    "code_identity.json": "a0d7b0c5f02f54da83c9b2a61b11b4711b4f9a693d7fd4632a7e8c5885284d5f",
+    "r8_probe_diagnostics.tsv": "13f3581f967d4b506770f28ca246e5a8b8c7a02942c64b9f1b2ddcc6c807d01d",
+    "r8_scale_summary.json": "da806b09b3841b437b70afc5c293eec4c594d36612e30b081d7db538b2e9fa31"
+  },
+  "qc_stage_a_v1_manifest_sha256": "22d1c6f8a3eb96889518fec12a750e3a40d6bdd208cbc3536b582b8026ecb1a3",
+  "status": "R8 amendment review diagnostics for GSE63060 (post hoc; decision support only; changes nothing).",
+  "validation": [
+    {
+      "check": "recorded sex mapped for every array",
+      "pass": true
+    },
+    {
+      "check": "series matrix arrays = eligibility universe",
+      "pass": true
+    }
+  ]
+}

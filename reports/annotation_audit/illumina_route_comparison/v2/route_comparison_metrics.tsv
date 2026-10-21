@@ -1,0 +1,157 @@
+platform	section	measure	value
+illuminaHumanv3	option_a	eligible	29489
+illuminaHumanv3	option_a	eligible_direct	29430
+illuminaHumanv3	option_a	eligible_via_replacement	59
+illuminaHumanv3	option_a	no_replacement	62
+illuminaHumanv3	option_a	unexplained	0
+illuminaHumanv3	option_a	pct_eligible_of_all_probes	59.48%
+illuminaHumanv3	option_a	pct_eligible_of_single_gene_probes	99.79%
+illuminaHumanv3	option_a	distinct_genes	19226
+illuminaHumanv3	option_a	genes_with_more_than_one_probe	6554
+illuminaHumanv3	option_a	collision_probes	43
+illuminaHumanv3	option_a	collision_successor_genes	28
+illuminaHumanv3	option_a	collision_source_genes	30
+illuminaHumanv3	accession_route_inputs	probes_with_accession	31857
+illuminaHumanv3	accession_route_inputs	pct_of_all_probes	64.26%
+illuminaHumanv3	accession_route_inputs	single_gene_probes_with_accession	29551
+illuminaHumanv3	accession_route_inputs	pct_of_single_gene_probes	100.00%
+illuminaHumanv3	accession_route_inputs	option_a_eligible_probes_with_accession	29489
+illuminaHumanv3	accession_route_inputs	accession_values	57382
+illuminaHumanv3	accession_route_inputs	probes_with_more_than_one_accession	12377
+illuminaHumanv3	accession_route_inputs	accessions_with_version_suffix	0
+illuminaHumanv3	accession_route_inputs	accession_prefixes	{"NM_": 50296, "NR_": 4534, "XM_": 1113, "XR_": 1439}
+illuminaHumanv3	accession_route_inputs	accession_probe_ids_not_in_option_a_table	0
+illuminaHumanv3	accession_route_assignments	classes	{"accession_unmatched": 1379, "ambiguous": 1152, "no_accession": 17719, "unique": 29326}
+illuminaHumanv3	accession_route_assignments	assigned_unique	29326
+illuminaHumanv3	accession_route_assignments	pct_assigned_of_all_probes	59.15%
+illuminaHumanv3	accession_route_assignments	distinct_genes	19100
+illuminaHumanv3	route_comparison	denominator_all_probes	49576
+illuminaHumanv3	route_comparison	optionA_eligible	29489
+illuminaHumanv3	route_comparison	accession_unique	29326
+illuminaHumanv3	route_comparison	both_assign_one_gene	29294
+illuminaHumanv3	route_comparison	concordant	29284
+illuminaHumanv3	route_comparison	discordant	10
+illuminaHumanv3	route_comparison	pct_concordant_of_both	99.97%
+illuminaHumanv3	route_comparison	optionA_eligible_accession_ambiguous_including_optionA_gene	9
+illuminaHumanv3	route_comparison	optionA_eligible_accession_ambiguous_excluding_optionA_gene	1
+illuminaHumanv3	route_comparison	optionA_eligible_accession_unresolved	185
+illuminaHumanv3	route_comparison	accession_unique_optionA_not_eligible	32
+illuminaHumanv3	route_comparison	neither_assigns	20055
+illuminaHumanv3	route_comparison	genes_both_routes	19085
+illuminaHumanv3	route_comparison	genes_optionA_only	141
+illuminaHumanv3	route_comparison	genes_accession_only	15
+illuminaHumanv3	route_comparison	cross_tab_optionA_x_accession	{"optionA_discontinued_no_replacement | accession_unmatched": 62, "optionA_eligible | accession_unmatched": 185, "optionA_eligible | ambiguous": 10, "optionA_eligible | unique": 29294, "optionA_multiple_mappings_excluded | accession_unmatched": 1, "optionA_multiple_mappings_excluded | ambiguous": 1142, "optionA_multiple_mappings_excluded | unique": 32, "optionA_no_assignment_in_package | accession_unmatched": 1131, "optionA_no_assignment_in_package | no_accession": 17719}
+illuminaHumanv3	prior_session_replication	single_gene_probes	29551
+illuminaHumanv3	prior_session_replication	route_exactly_one_gene	29294
+illuminaHumanv3	prior_session_replication	same_gene	29244
+illuminaHumanv3	prior_session_replication	different_gene	50
+illuminaHumanv3	prior_session_replication	route_ambiguous	10
+illuminaHumanv3	prior_session_replication	no_route	247
+illuminaHumanv3	prior_session_replication	all_probes_resolved	30478
+illuminaHumanv3	prior_session_replication	all_probes_unique	29326
+illuminaHumanv3	prior_session_replication	all_probes_ambiguous	1152
+illuminaHumanv3	prior_session_replication	previously_reported	{"denominator": "29,551 single-gene probes", "route_exactly_one_gene": 29294, "same_gene": 29244, "different_gene": 50, "route_ambiguous": 10, "no_route": 247}
+illuminaHumanv4	option_a	eligible	34038
+illuminaHumanv4	option_a	eligible_direct	33962
+illuminaHumanv4	option_a	eligible_via_replacement	76
+illuminaHumanv4	option_a	no_replacement	122
+illuminaHumanv4	option_a	unexplained	0
+illuminaHumanv4	option_a	pct_eligible_of_all_probes	70.75%
+illuminaHumanv4	option_a	pct_eligible_of_single_gene_probes	99.64%
+illuminaHumanv4	option_a	distinct_genes	20926
+illuminaHumanv4	option_a	genes_with_more_than_one_probe	7678
+illuminaHumanv4	option_a	collision_probes	50
+illuminaHumanv4	option_a	collision_successor_genes	32
+illuminaHumanv4	option_a	collision_source_genes	35
+illuminaHumanv4	accession_route_inputs	probes_with_accession	37881
+illuminaHumanv4	accession_route_inputs	pct_of_all_probes	78.74%
+illuminaHumanv4	accession_route_inputs	single_gene_probes_with_accession	34160
+illuminaHumanv4	accession_route_inputs	pct_of_single_gene_probes	100.00%
+illuminaHumanv4	accession_route_inputs	option_a_eligible_probes_with_accession	34038
+illuminaHumanv4	accession_route_inputs	accession_values	68113
+illuminaHumanv4	accession_route_inputs	probes_with_more_than_one_accession	14399
+illuminaHumanv4	accession_route_inputs	accessions_with_version_suffix	0
+illuminaHumanv4	accession_route_inputs	accession_prefixes	{"NM_": 56375, "NR_": 7477, "XM_": 2043, "XR_": 2218}
+illuminaHumanv4	accession_route_inputs	accession_probe_ids_not_in_option_a_table	0
+illuminaHumanv4	accession_route_assignments	classes	{"accession_unmatched": 2390, "ambiguous": 1680, "no_accession": 10226, "unique": 33811}
+illuminaHumanv4	accession_route_assignments	assigned_unique	33811
+illuminaHumanv4	accession_route_assignments	pct_assigned_of_all_probes	70.28%
+illuminaHumanv4	accession_route_assignments	distinct_genes	20779
+illuminaHumanv4	route_comparison	denominator_all_probes	48107
+illuminaHumanv4	route_comparison	optionA_eligible	34038
+illuminaHumanv4	route_comparison	accession_unique	33811
+illuminaHumanv4	route_comparison	both_assign_one_gene	33761
+illuminaHumanv4	route_comparison	concordant	33745
+illuminaHumanv4	route_comparison	discordant	16
+illuminaHumanv4	route_comparison	pct_concordant_of_both	99.95%
+illuminaHumanv4	route_comparison	optionA_eligible_accession_ambiguous_including_optionA_gene	9
+illuminaHumanv4	route_comparison	optionA_eligible_accession_ambiguous_excluding_optionA_gene	1
+illuminaHumanv4	route_comparison	optionA_eligible_accession_unresolved	267
+illuminaHumanv4	route_comparison	accession_unique_optionA_not_eligible	50
+illuminaHumanv4	route_comparison	neither_assigns	14019
+illuminaHumanv4	route_comparison	genes_both_routes	20759
+illuminaHumanv4	route_comparison	genes_optionA_only	167
+illuminaHumanv4	route_comparison	genes_accession_only	20
+illuminaHumanv4	route_comparison	cross_tab_optionA_x_accession	{"optionA_discontinued_no_replacement | accession_unmatched": 122, "optionA_eligible | accession_unmatched": 267, "optionA_eligible | ambiguous": 10, "optionA_eligible | unique": 33761, "optionA_multiple_mappings_excluded | accession_unmatched": 6, "optionA_multiple_mappings_excluded | ambiguous": 1670, "optionA_multiple_mappings_excluded | unique": 50, "optionA_no_assignment_in_package | accession_unmatched": 1995, "optionA_no_assignment_in_package | no_accession": 10226}
+illuminaHumanv4	prior_session_replication	single_gene_probes	34160
+illuminaHumanv4	prior_session_replication	route_exactly_one_gene	33761
+illuminaHumanv4	prior_session_replication	same_gene	33697
+illuminaHumanv4	prior_session_replication	different_gene	64
+illuminaHumanv4	prior_session_replication	route_ambiguous	10
+illuminaHumanv4	prior_session_replication	no_route	389
+illuminaHumanv4	prior_session_replication	all_probes_resolved	35491
+illuminaHumanv4	prior_session_replication	all_probes_unique	33811
+illuminaHumanv4	prior_session_replication	all_probes_ambiguous	1680
+illuminaHumanv4	prior_session_replication	previously_reported	{"denominator": "34,160 single-gene probes", "route_exactly_one_gene": 33761, "same_gene": 33697, "different_gene": 64, "route_ambiguous": 10, "no_route": 389}
+lumi HT-12 v4 R2	option_a	eligible	37491
+lumi HT-12 v4 R2	option_a	eligible_direct	35731
+lumi HT-12 v4 R2	option_a	eligible_via_replacement	1760
+lumi HT-12 v4 R2	option_a	no_replacement	6468
+lumi HT-12 v4 R2	option_a	unexplained	1
+lumi HT-12 v4 R2	option_a	pct_eligible_of_all_probes	79.22%
+lumi HT-12 v4 R2	option_a	pct_eligible_of_single_gene_probes	85.28%
+lumi HT-12 v4 R2	option_a	distinct_genes	23743
+lumi HT-12 v4 R2	option_a	genes_with_more_than_one_probe	8600
+lumi HT-12 v4 R2	option_a	collision_probes	1165
+lumi HT-12 v4 R2	option_a	collision_successor_genes	783
+lumi HT-12 v4 R2	option_a	collision_source_genes	892
+lumi HT-12 v4 R2	accession_route_inputs	probes_with_accession	47323
+lumi HT-12 v4 R2	accession_route_inputs	pct_of_all_probes	100.00%
+lumi HT-12 v4 R2	accession_route_inputs	single_gene_probes_with_accession	43960
+lumi HT-12 v4 R2	accession_route_inputs	pct_of_single_gene_probes	100.00%
+lumi HT-12 v4 R2	accession_route_inputs	option_a_eligible_probes_with_accession	37491
+lumi HT-12 v4 R2	accession_route_inputs	accession_values	47323
+lumi HT-12 v4 R2	accession_route_inputs	probes_with_more_than_one_accession	0
+lumi HT-12 v4 R2	accession_route_inputs	accessions_with_version_suffix	0
+lumi HT-12 v4 R2	accession_route_inputs	accession_prefixes	{"GenBank (no prefix)": 3311, "NM_": 29183, "NR_": 1960, "XM_": 10355, "XR_": 2514}
+lumi HT-12 v4 R2	accession_route_inputs	accession_probe_ids_not_in_option_a_table	0
+lumi HT-12 v4 R2	accession_route_assignments	classes	{"accession_unmatched": 16193, "unique": 31130}
+lumi HT-12 v4 R2	accession_route_assignments	assigned_unique	31130
+lumi HT-12 v4 R2	accession_route_assignments	pct_assigned_of_all_probes	65.78%
+lumi HT-12 v4 R2	accession_route_assignments	distinct_genes	20593
+lumi HT-12 v4 R2	route_comparison	denominator_all_probes	47323
+lumi HT-12 v4 R2	route_comparison	optionA_eligible	37491
+lumi HT-12 v4 R2	route_comparison	accession_unique	31130
+lumi HT-12 v4 R2	route_comparison	both_assign_one_gene	30677
+lumi HT-12 v4 R2	route_comparison	concordant	30640
+lumi HT-12 v4 R2	route_comparison	discordant	37
+lumi HT-12 v4 R2	route_comparison	pct_concordant_of_both	99.88%
+lumi HT-12 v4 R2	route_comparison	optionA_eligible_accession_ambiguous_including_optionA_gene	0
+lumi HT-12 v4 R2	route_comparison	optionA_eligible_accession_ambiguous_excluding_optionA_gene	0
+lumi HT-12 v4 R2	route_comparison	optionA_eligible_accession_unresolved	6814
+lumi HT-12 v4 R2	route_comparison	accession_unique_optionA_not_eligible	453
+lumi HT-12 v4 R2	route_comparison	neither_assigns	9379
+lumi HT-12 v4 R2	route_comparison	genes_both_routes	20356
+lumi HT-12 v4 R2	route_comparison	genes_optionA_only	3387
+lumi HT-12 v4 R2	route_comparison	genes_accession_only	237
+lumi HT-12 v4 R2	route_comparison	cross_tab_optionA_x_accession	{"optionA_chain_ends_no_replacement | accession_unmatched": 436, "optionA_discontinued_no_replacement | accession_unmatched": 6030, "optionA_discontinued_no_replacement | unique": 2, "optionA_eligible | accession_unmatched": 6814, "optionA_eligible | unique": 30677, "optionA_no_assignment_in_package | accession_unmatched": 2912, "optionA_no_assignment_in_package | unique": 451, "optionA_unexplained_absent_no_history | accession_unmatched": 1}
+lumi HT-12 v4 R2	prior_session_replication	single_gene_probes	43960
+lumi HT-12 v4 R2	prior_session_replication	route_exactly_one_gene	30679
+lumi HT-12 v4 R2	prior_session_replication	same_gene	30396
+lumi HT-12 v4 R2	prior_session_replication	different_gene	283
+lumi HT-12 v4 R2	prior_session_replication	route_ambiguous	0
+lumi HT-12 v4 R2	prior_session_replication	no_route	13281
+lumi HT-12 v4 R2	prior_session_replication	all_probes_resolved	31130
+lumi HT-12 v4 R2	prior_session_replication	all_probes_unique	31130
+lumi HT-12 v4 R2	prior_session_replication	all_probes_ambiguous	0
+lumi HT-12 v4 R2	prior_session_replication	previously_reported	{"denominator": "47,323 nuIDs (manifest rows)", "route_resolved_exactly_one_gene": 31130, "agrees_with_lumi_EntrezID": 30396, "differs_from_lumi_EntrezID": 283}

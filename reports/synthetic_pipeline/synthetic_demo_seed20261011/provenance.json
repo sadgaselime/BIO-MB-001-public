@@ -1,0 +1,143 @@
+{
+  "warning": "SYNTHETIC DATA \u2014 NOT BIOLOGICAL EVIDENCE. Every value in this run was simulated from a known generative model. No real cohort data were used; no result here may be reported as a finding about Alzheimer's disease or any GEO dataset.",
+  "pipeline": "biomarker_project.synthetic_pipeline",
+  "package_version": "0.1.0",
+  "run_name": "synthetic_demo",
+  "seed": 20261011,
+  "resolved_config": {
+    "run_name": "synthetic_demo",
+    "synthetic": {
+      "seed": 20261011,
+      "n_ad": 60,
+      "n_ctl": 60,
+      "n_mci": 20,
+      "n_features": 2000,
+      "n_up": 25,
+      "n_down": 25,
+      "effect_log2": 1.0,
+      "n_age": 20,
+      "age_effect_per_year": 0.03,
+      "n_sex": 10,
+      "sex_effect_male": 2.0,
+      "noise_sd": 0.5,
+      "age_mean_ad": 76.0,
+      "age_mean_ctl": 74.0,
+      "age_mean_mci": 75.0,
+      "age_sd": 6.0,
+      "p_female": 0.6,
+      "include_sex_probes": true,
+      "n_recorded_sex_swaps": 3
+    },
+    "analysis": {
+      "case": "AD",
+      "control": "CTL",
+      "covariates": [
+        "age",
+        "sex"
+      ],
+      "covariate_levels": {
+        "sex": [
+          "F",
+          "M"
+        ]
+      },
+      "fdr_level": 0.05,
+      "ci_level": 0.95,
+      "method": "limma"
+    },
+    "qc": {
+      "enabled": true,
+      "boundary_fixtures": true
+    }
+  },
+  "config_path": "/Users/sadgasalim/Documents/BIO-MB-001/config/synthetic_pipeline.yaml",
+  "argv": [
+    "scripts/run_synthetic_pipeline.py",
+    "--verify-determinism"
+  ],
+  "output_dir": "/Users/sadgasalim/Documents/BIO-MB-001/reports/synthetic_pipeline/synthetic_demo_seed20261011",
+  "inputs": "generated in-run from the seed (no external input files)",
+  "software": {
+    "python": "3.13.9",
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "pyyaml": "6.0.3",
+    "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O"
+  },
+  "started_or_written_utc": "2026-10-12T11:52:23+00:00",
+  "design_columns": [
+    "(Intercept)",
+    "group[AD]",
+    "age",
+    "sex[M]"
+  ],
+  "n_analysed": 120,
+  "residual_df": 124,
+  "de_method": "limma",
+  "r_environment": {
+    "info": {
+      "found_R": "4.6.1",
+      "found_bioc": "3.23",
+      "found_limma": "3.68.5",
+      "found_renv": "1.3.1",
+      "found_BiocManager": "1.30.27",
+      "found_statmod": "1.5.2",
+      "pinned_R": "4.6.1",
+      "pinned_bioc": "3.23",
+      "pinned_limma": "3.68.5",
+      "pinned_renv": "1.3.1",
+      "pinned_BiocManager": "1.30.27",
+      "pinned_statmod": "1.5.2",
+      "R_home": "/Library/Frameworks/R.framework/Resources",
+      "Rscript": "/Library/Frameworks/R.framework/Resources/bin/Rscript",
+      "limma_path": "/Users/sadgasalim/Documents/BIO-MB-001/renv/library/macos/R-4.6/aarch64-apple-darwin23/limma",
+      "lib_paths": "/Users/sadgasalim/Documents/BIO-MB-001/renv/library/macos/R-4.6/aarch64-apple-darwin23;/Users/sadgasalim/Library/Caches/org.R-project.R/R/renv/sandbox/macos/R-4.6/aarch64-apple-darwin23/46003b10",
+      "platform": "aarch64-apple-darwin23",
+      "method": "lmFit + eBayes(trend = TRUE, robust = FALSE); topTable(confint = 0.95, adjust.method = 'BH')"
+    },
+    "sessionInfo": [
+      "R version 4.6.1 (2026-06-24)",
+      "Platform: aarch64-apple-darwin23",
+      "Running under: macOS Tahoe 26.6.2",
+      "",
+      "Matrix products: default",
+      "BLAS:   /Library/Frameworks/R.framework/Versions/4.6/Resources/lib/libRblas.0.dylib ",
+      "LAPACK: /Library/Frameworks/R.framework/Versions/4.6/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1",
+      "",
+      "locale:",
+      "[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8",
+      "",
+      "time zone: Asia/Muscat",
+      "tzcode source: internal",
+      "",
+      "attached base packages:",
+      "[1] stats     graphics  grDevices datasets  utils     methods   base     ",
+      "",
+      "other attached packages:",
+      "[1] limma_3.68.5",
+      "",
+      "loaded via a namespace (and not attached):",
+      "[1] BiocManager_1.30.27 compiler_4.6.1      tools_4.6.1        ",
+      "[4] splines_4.6.1       renv_1.3.1          statmod_1.5.2      "
+    ]
+  },
+  "output_sha256": {
+    "SYNTHETIC_RUN_MARKER": "963942c4d1f7a2fcfcfca60165eb447adaa66605e5546d3933a4904bd60c414e",
+    "de_limma_moderation.csv": "9a68fb86ed96769b711ba893177a0ea7c9fd25d9aa267057f3b3a0c8d0944d2a",
+    "de_population.json": "b53126053a821b3ff03764b72d83d3ac70f12ada368608cf52e215e5a66330c6",
+    "de_results.csv": "141c3fffe53b69d15b8c12d0e6ef6572b85412bbe51c61f5e03832bd0aef37ae",
+    "inputs/synthetic_expression.csv": "0c68410c8477938fefd4d1b029be524ae362119e6ec87b985c412da2ecb3bd51",
+    "inputs/synthetic_planted_truth.csv": "1308ce04a6c53ca73a1dbe4aad42313b02cac860be815438eb0e8a93300d0877",
+    "inputs/synthetic_samples.csv": "f7aae4e9d4f068c56617dd637631607c073588a4837f425f04cb6b971eb5de0b",
+    "planted_signal_recovery.json": "3c5d6f3b6954735bdf9cfc88234ce89ed9b4aee59cbb3a5e25b5b32c76b8352e",
+    "qc/qc_a2_pairs.csv": "c6620193f5861d5b09cd667589b7b64ddb076aa4d0b8f40f397a79bc59cfe93a",
+    "qc/qc_array_audit.csv": "0d14b9a7b32b4504833d8b663a33985a9fe92f93e096a8cfe96d3cdcbfcbdd45",
+    "qc/qc_candidate_exclusions_NOT_APPLIED.csv": "4b7a601075a53178e6a7ebe8934f6c12725179624597b772cf2dd559edf3b901",
+    "qc/qc_cohort_status.csv": "e37d5c67f4c31d79e4d29aabea242663defde36aebfbc4042281a75146055606",
+    "qc/qc_details.json": "787bf2651b3bf43d97e5f710db877c6ed9c08af304e0dfc6ba6ebd839eef58a3",
+    "report.md": "66f05ad5217a89f3f6cde966ad4658e7a1785f2394cdf71d30f5504f5d54aeec",
+    "sample_flow.csv": "0109bbd2efc4bbd0839923894487f1c2b0bc96a43f2c13587e142305f8874f31",
+    "validation.json": "4f651372bc2a4f5900b87915ad5731b3dadcba474c9f79899634a69b54011fa2"
+  },
+  "analytic_digest": "41dd84f24549118bd85fb94f2683cf503cc2b66bedd2b30d88440fe9f8fe0d6c"
+}

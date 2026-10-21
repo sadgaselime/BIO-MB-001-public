@@ -1,0 +1,16 @@
+{
+  "status": "D8 environment capture (D3 scope, approved 2026-10-17): read-only record of the existing environment. Not D8 approval; no rebuild performed; reproducibility not demonstrated.",
+  "created_utc": "2026-10-17T15:15:36Z",
+  "command": "/opt/anaconda3/bin/conda list --explicit --md5 -p /opt/anaconda3",
+  "conda_version": "26.1.1",
+  "platform": "macOS 26.6.2 (25G83), arm64",
+  "scope_note": "Explicit specification of the Anaconda base environment that provides the project venv interpreter (.venv -> /opt/anaconda3/bin/python3.13). Project Python packages installed by pip in .venv are recorded separately in reports/environment/python_lock/v1 (versions) and reports/environment/d8_readonly_checks/v1 (installed-file digests, BLAS, interpreter identity).",
+  "files_sha256": {"conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731"},
+  "related_records_sha256": {
+    "renv.lock": "fa51c7b9d10dd468fbeed8b2ad83b832eb8acc83adb828dc25361cbbc4359951",
+    "reports/environment/D8_R_LIMMA_INSTALLATION.md": "a5b3d2ffc6d02cded9732b6e0221f0e45c605c7d093f77104dc2e2e2e4182171",
+    "reports/environment/python_lock/v1/requirements.snapshot.txt": "f7bffbf3fd57bdc1553adac9d045fb366eea67fc2814751f2155fe20f846560e",
+    "reports/environment/d8_readonly_checks/v1/d8_readonly_checks.json": "98561cf9a31251be5855aec066e8f95299197931adf3ee8fc6602bc9b22209ac"
+  },
+  "not_done": ["throwaway rebuild test (requires separate authorization for download/installation)", "hash-pinned Python wheel lock (requires downloads)"]
+}

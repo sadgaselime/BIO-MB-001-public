@@ -1,0 +1,3 @@
+source=reports/phase3b/v7/DECISIONS_REQUIRED_BEFORE_SAP_APPROVAL.md
+copied_utc=2026-10-15T11:22:14Z
+purpose=pre-edit copy before X-1 (brief:155)

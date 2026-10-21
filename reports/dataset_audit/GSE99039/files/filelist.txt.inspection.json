@@ -1,0 +1,3950 @@
+{
+  "path": "data/raw/GSE99039/filelist.txt",
+  "file_name": "filelist.txt",
+  "status": "INSPECTED",
+  "format": "geo_filelist",
+  "compression": "none",
+  "size_bytes": 47389,
+  "n_rows": 559,
+  "n_columns": 5,
+  "delimiter": "\t",
+  "header_line_number": null,
+  "feature_id_column": null,
+  "annotation_columns": [],
+  "sample_columns": [],
+  "candidate_sample_ids": [],
+  "measurement_types": {},
+  "duplicate_column_headers": [],
+  "empty_header_sample_columns": [],
+  "duplicate_sample_ids": [],
+  "n_unique_feature_ids": null,
+  "duplicate_feature_ids": {},
+  "missing_feature_ids": null,
+  "missing_values": {},
+  "value_summary": {},
+  "metadata": {
+    "entries": [
+      {
+        "Archive/File": "Archive",
+        "Name": "GSE99039_RAW.tar",
+        "Time": "02/10/2019 20:17:41",
+        "Size": "2514278400",
+        "Type": "TAR"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630758_E7R_039a01_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:35:24",
+        "Size": "4650972",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630759_E7R_039a02_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:35:27",
+        "Size": "4759888",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630760_E7R_039a03_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:35:30",
+        "Size": "4817118",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630761_E7R_039a04_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:35:33",
+        "Size": "4945091",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630762_E7R_039a05_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:35:36",
+        "Size": "4612033",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630763_E7R_039a07_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:35:38",
+        "Size": "4835069",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630764_E7R_039a08_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:35:41",
+        "Size": "4730303",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630765_E7R_039a09_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:35:44",
+        "Size": "4700950",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630766_E7R_039a10_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:35:46",
+        "Size": "4625398",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630767_E7R_039a102_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:35:49",
+        "Size": "4811619",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630768_E7R_039a103_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:35:51",
+        "Size": "4716410",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630769_E7R_039a104_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:35:54",
+        "Size": "4947647",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630770_E7R_039a105_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:35:56",
+        "Size": "4648784",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630771_E7R_039a106_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:35:59",
+        "Size": "4911243",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630772_E7R_039a108_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:02",
+        "Size": "4773820",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630773_E7R_039a109_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:05",
+        "Size": "4669617",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630774_E7R_039a11_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:07",
+        "Size": "4815807",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630775_E7R_039a110_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:10",
+        "Size": "4699302",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630776_E7R_039a111_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:13",
+        "Size": "4592687",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630777_E7R_039a112_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:15",
+        "Size": "4720427",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630778_E7R_039a113_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:18",
+        "Size": "4725447",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630779_E7R_039a114_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:21",
+        "Size": "4742069",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630780_E7R_039a13_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:24",
+        "Size": "4939399",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630781_E7R_039a14_HG-U133_Plus_2_2.CEL.gz",
+        "Time": "05/17/2017 19:36:27",
+        "Size": "4737838",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630782_E7R_039a16_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:30",
+        "Size": "5080897",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630783_E7R_039a18_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:33",
+        "Size": "4713992",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630784_E7R_039a20_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:35",
+        "Size": "4720126",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630785_E7R_039a23_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:37",
+        "Size": "4569757",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630786_E7R_039a30_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:40",
+        "Size": "4744860",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630787_E7R_039a34_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:43",
+        "Size": "4526077",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630788_E7R_039a35_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:46",
+        "Size": "4499956",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630789_E7R_039a49_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:48",
+        "Size": "4548695",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630790_E7R_039a57_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:50",
+        "Size": "4572752",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630791_E7R_039a60_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:52",
+        "Size": "4434227",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630792_E7R_039a63_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:54",
+        "Size": "4535914",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630793_E7R_039a64_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:56",
+        "Size": "4509495",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630794_E7R_039a68_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:36:59",
+        "Size": "4714032",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630795_E7R_039a69_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:01",
+        "Size": "4634308",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630796_E7R_039a71_HG-U133_Plus_2_2.CEL.gz",
+        "Time": "05/17/2017 19:37:04",
+        "Size": "4453930",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630797_E7R_039a72_HG-U133_Plus_2_2.CEL.gz",
+        "Time": "05/17/2017 19:37:06",
+        "Size": "4607581",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630798_E7R_039a79_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:09",
+        "Size": "4963046",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630799_E7R_039a80_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:11",
+        "Size": "4998734",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630800_E7R_039a81_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:14",
+        "Size": "4819465",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630801_E7R_039a82_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:17",
+        "Size": "4903515",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630802_E7R_039a85_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:19",
+        "Size": "4845569",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630803_E7R_039a87_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:22",
+        "Size": "4713438",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630804_E7R_039a89_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:25",
+        "Size": "4934843",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630805_E7R_039a90_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:27",
+        "Size": "4794276",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630806_E7R_039a91_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:30",
+        "Size": "4829893",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630807_E7R_039a92_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:33",
+        "Size": "4912703",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630808_E7R_039a94_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:36",
+        "Size": "4779048",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630809_E7R_039a95_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:38",
+        "Size": "4719060",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630810_E7R_039a96_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:41",
+        "Size": "4778157",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630811_E7R_039a98_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:44",
+        "Size": "4843295",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630812_E7R_039a99_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:46",
+        "Size": "4837389",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630813_E8R_012a01_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:49",
+        "Size": "4919373",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630814_E8R_012a02_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:52",
+        "Size": "4659819",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630815_E8R_012a03_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:54",
+        "Size": "4721703",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630816_E8R_012a04_2_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:37:57",
+        "Size": "4931116",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630817_E8R_012a05_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:00",
+        "Size": "4757457",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630818_E8R_012a06_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:03",
+        "Size": "4741889",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630819_E8R_012a07_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:06",
+        "Size": "4861095",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630820_E8R_012a08_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:09",
+        "Size": "4588632",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630821_E8R_012a09_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:11",
+        "Size": "4854941",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630822_E8R_012a11_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:14",
+        "Size": "4982606",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630823_E8R_012a12_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:17",
+        "Size": "4539685",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630824_E8R_012a14_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:19",
+        "Size": "4970945",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630825_E8R_012a16_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:22",
+        "Size": "5075395",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630826_E8R_012a17_2_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:24",
+        "Size": "5024186",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630827_E8R_012a18_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:27",
+        "Size": "5049911",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630828_E8R_012a19_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:30",
+        "Size": "5071685",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630829_E8R_012a20_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:32",
+        "Size": "5002463",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630830_E8R_012a21_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:35",
+        "Size": "5080230",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630831_E8R_012a22_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:38",
+        "Size": "5021123",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630832_E8R_012a23_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:40",
+        "Size": "5076166",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630833_E8R_012a24_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:43",
+        "Size": "4993869",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630834_E8R_012a25_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:46",
+        "Size": "5020142",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630835_E8R_012a26_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:49",
+        "Size": "4915495",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630836_E8R_012a29_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:52",
+        "Size": "5081052",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630837_E8R_012a30_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:54",
+        "Size": "5007832",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630838_E8R_012a31_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:38:57",
+        "Size": "5014586",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630839_E8R_012a33_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:39:00",
+        "Size": "5011205",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630840_E8R_012a34_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:39:03",
+        "Size": "4998592",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630841_E8R_012a35_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:39:05",
+        "Size": "4932449",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630842_E8R_012a36_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:39:08",
+        "Size": "5047822",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630843_E8R_012a37_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:39:10",
+        "Size": "5057593",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630844_E8R_012a41_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:39:14",
+        "Size": "5086691",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630845_Neuro_Krainc_P01_A03_L2123_RPT.CEL.gz",
+        "Time": "05/17/2017 19:39:15",
+        "Size": "4310911",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630846_Neuro_Krainc_P01_A1_L2121.CEL.gz",
+        "Time": "05/17/2017 19:39:17",
+        "Size": "4443449",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630847_Neuro_Krainc_P01_A10_L2150.CEL.gz",
+        "Time": "05/17/2017 19:39:19",
+        "Size": "4272841",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630848_Neuro_Krainc_P01_A11_L2152_RPT.CEL.gz",
+        "Time": "05/17/2017 19:39:21",
+        "Size": "4303041",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630849_Neuro_Krainc_P01_A12_L2153.CEL.gz",
+        "Time": "05/17/2017 19:39:23",
+        "Size": "4283546",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630850_Neuro_Krainc_P01_A2_L2122.CEL.gz",
+        "Time": "05/17/2017 19:39:25",
+        "Size": "4284395",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630851_Neuro_Krainc_P01_A6_L2126.CEL.gz",
+        "Time": "05/17/2017 19:39:26",
+        "Size": "4251512",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630852_Neuro_Krainc_P01_A7_L2127.CEL.gz",
+        "Time": "05/17/2017 19:39:28",
+        "Size": "4000847",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630853_Neuro_Krainc_P01_B02_L3031_RPT.CEL.gz",
+        "Time": "05/17/2017 19:39:29",
+        "Size": "4539865",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630854_Neuro_Krainc_P01_B1_L2696.CEL.gz",
+        "Time": "05/17/2017 19:39:31",
+        "Size": "4246471",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630855_Neuro_Krainc_P01_B10_L3293.CEL.gz",
+        "Time": "05/17/2017 19:39:33",
+        "Size": "4361540",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630856_Neuro_Krainc_P01_B11_L3328.CEL.gz",
+        "Time": "05/17/2017 19:39:34",
+        "Size": "4114589",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630857_Neuro_Krainc_P01_B12_L3329.CEL.gz",
+        "Time": "05/17/2017 19:39:36",
+        "Size": "4406651",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630858_Neuro_Krainc_P01_B5_L3287.CEL.gz",
+        "Time": "05/17/2017 19:39:38",
+        "Size": "4299473",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630859_Neuro_Krainc_P01_B7_L3290_2.CEL.gz",
+        "Time": "05/17/2017 19:39:39",
+        "Size": "4360195",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630860_Neuro_Krainc_P01_B8_L3291.CEL.gz",
+        "Time": "05/17/2017 19:39:41",
+        "Size": "4309221",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630861_Neuro_Krainc_P01_B8_L3369.CEL.gz",
+        "Time": "05/17/2017 19:39:43",
+        "Size": "4473036",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630862_Neuro_Krainc_P01_C02_L3331_RPT.CEL.gz",
+        "Time": "05/17/2017 19:39:44",
+        "Size": "4211934",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630863_Neuro_Krainc_P01_C1_L3330.CEL.gz",
+        "Time": "05/17/2017 19:39:46",
+        "Size": "4257623",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630864_Neuro_Krainc_P01_C10_L3341.CEL.gz",
+        "Time": "05/17/2017 19:39:48",
+        "Size": "4071883",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630865_Neuro_Krainc_P01_C11_L3342.CEL.gz",
+        "Time": "05/17/2017 19:39:49",
+        "Size": "4365495",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630866_Neuro_Krainc_P01_C12_L3343.CEL.gz",
+        "Time": "05/17/2017 19:39:51",
+        "Size": "4420430",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630867_Neuro_Krainc_P01_C3_L3332.CEL.gz",
+        "Time": "05/17/2017 19:39:53",
+        "Size": "4311638",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630868_Neuro_Krainc_P01_C4_L3333.CEL.gz",
+        "Time": "05/17/2017 19:39:55",
+        "Size": "4243393",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630869_Neuro_Krainc_P01_C5_L3334.CEL.gz",
+        "Time": "05/17/2017 19:39:56",
+        "Size": "4339016",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630870_Neuro_Krainc_P01_C6_L3336.CEL.gz",
+        "Time": "05/17/2017 19:39:58",
+        "Size": "4304217",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630871_Neuro_Krainc_P01_C7_L3337_corr.CEL.gz",
+        "Time": "05/17/2017 19:40:00",
+        "Size": "4137497",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630872_Neuro_Krainc_P01_C9_L3339.CEL.gz",
+        "Time": "05/17/2017 19:40:03",
+        "Size": "4212456",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630873_Neuro_Krainc_P01_D1_L3344.CEL.gz",
+        "Time": "05/17/2017 19:40:05",
+        "Size": "4578459",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630874_Neuro_Krainc_P01_D10_L3358.CEL.gz",
+        "Time": "05/17/2017 19:40:07",
+        "Size": "4097087",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630875_Neuro_Krainc_P01_D11_L3359-2_RPT.CEL.gz",
+        "Time": "05/17/2017 19:40:09",
+        "Size": "4628635",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630876_Neuro_Krainc_P01_D12_L3361.CEL.gz",
+        "Time": "05/17/2017 19:40:11",
+        "Size": "4528747",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630877_Neuro_Krainc_P01_D2_L3345.CEL.gz",
+        "Time": "05/17/2017 19:40:12",
+        "Size": "4348890",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630878_Neuro_Krainc_P01_D3_L3346.CEL.gz",
+        "Time": "05/17/2017 19:40:14",
+        "Size": "4340049",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630879_Neuro_Krainc_P01_D5_L3349.CEL.gz",
+        "Time": "05/17/2017 19:40:16",
+        "Size": "4236344",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630880_Neuro_Krainc_P01_D6_L3350.CEL.gz",
+        "Time": "05/17/2017 19:40:18",
+        "Size": "4290001",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630881_Neuro_Krainc_P01_D7_L3355.CEL.gz",
+        "Time": "05/17/2017 19:40:20",
+        "Size": "4309678",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630882_Neuro_Krainc_P01_D8_L3356.CEL.gz",
+        "Time": "05/17/2017 19:40:21",
+        "Size": "4360455",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630883_Neuro_Krainc_P01_D9_L3357.CEL.gz",
+        "Time": "05/17/2017 19:40:23",
+        "Size": "4143437",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630884_Neuro_Krainc_P01_E1_L3362.CEL.gz",
+        "Time": "05/17/2017 19:40:24",
+        "Size": "4491003",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630885_Neuro_Krainc_P01_E11_L3372.CEL.gz",
+        "Time": "05/17/2017 19:40:26",
+        "Size": "4402958",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630886_Neuro_Krainc_P01_E12_L3373.CEL.gz",
+        "Time": "05/17/2017 19:40:28",
+        "Size": "4365437",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630887_Neuro_Krainc_P01_E3_L3364.CEL.gz",
+        "Time": "05/17/2017 19:40:29",
+        "Size": "4547693",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630888_Neuro_Krainc_P01_E6_L3367.CEL.gz",
+        "Time": "05/17/2017 19:40:31",
+        "Size": "4535042",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630889_Neuro_Krainc_P01_F1_L3374.CEL.gz",
+        "Time": "05/17/2017 19:40:32",
+        "Size": "4506003",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630890_Neuro_Krainc_P01_F12_L3452.CEL.gz",
+        "Time": "05/17/2017 19:40:34",
+        "Size": "4395653",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630891_Neuro_Krainc_P01_F2_L3375.CEL.gz",
+        "Time": "05/17/2017 19:40:36",
+        "Size": "4434923",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630892_Neuro_Krainc_P01_F3_L3376.CEL.gz",
+        "Time": "05/17/2017 19:40:37",
+        "Size": "4390393",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630893_Neuro_Krainc_P01_F5_L3378.CEL.gz",
+        "Time": "05/17/2017 19:40:38",
+        "Size": "4534421",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630894_Neuro_Krainc_P01_F6_L3379.CEL.gz",
+        "Time": "05/17/2017 19:40:40",
+        "Size": "4709594",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630895_Neuro_Krainc_P01_F7_L3381.CEL.gz",
+        "Time": "05/17/2017 19:40:42",
+        "Size": "4411832",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630896_Neuro_Krainc_P01_F8_L3382.CEL.gz",
+        "Time": "05/17/2017 19:40:43",
+        "Size": "4408265",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630897_Neuro_Krainc_P01_F9_L3384.CEL.gz",
+        "Time": "05/17/2017 19:40:45",
+        "Size": "4450352",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630898_Neuro_Krainc_P01_G02_L3454_RPT.CEL.gz",
+        "Time": "05/17/2017 19:40:46",
+        "Size": "4580761",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630899_Neuro_Krainc_P01_G10_L3462.CEL.gz",
+        "Time": "05/17/2017 19:40:48",
+        "Size": "4325226",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630900_Neuro_Krainc_P01_G12_L3464.CEL.gz",
+        "Time": "05/17/2017 19:40:49",
+        "Size": "4247250",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630901_Neuro_Krainc_P01_G3_L3455.CEL.gz",
+        "Time": "05/17/2017 19:40:51",
+        "Size": "4527571",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630902_Neuro_Krainc_P01_G4_L3456.CEL.gz",
+        "Time": "05/17/2017 19:40:52",
+        "Size": "4579461",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630903_Neuro_Krainc_P01_G5_L3457.CEL.gz",
+        "Time": "05/17/2017 19:40:54",
+        "Size": "4563851",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630904_Neuro_Krainc_P01_G6_L3458.CEL.gz",
+        "Time": "05/17/2017 19:40:56",
+        "Size": "4560363",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630905_Neuro_Krainc_P01_G7_L3459.CEL.gz",
+        "Time": "05/17/2017 19:40:57",
+        "Size": "4246827",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630906_Neuro_Krainc_P01_G8_L3460.CEL.gz",
+        "Time": "05/17/2017 19:40:59",
+        "Size": "4290835",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630907_Neuro_Krainc_P01_G9_L3461.CEL.gz",
+        "Time": "05/17/2017 19:41:00",
+        "Size": "4421728",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630908_Neuro_Krainc_P01_H1_L3472.CEL.gz",
+        "Time": "05/17/2017 19:41:03",
+        "Size": "4649744",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630909_Neuro_Krainc_P01_H10_L3500.CEL.gz",
+        "Time": "05/17/2017 19:41:04",
+        "Size": "4365851",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630910_Neuro_Krainc_P01_H11_L3501.CEL.gz",
+        "Time": "05/17/2017 19:41:06",
+        "Size": "4671173",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630911_Neuro_Krainc_P01_H2_L3473.CEL.gz",
+        "Time": "05/17/2017 19:41:07",
+        "Size": "4299485",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630912_Neuro_Krainc_P01_H3_L3478.CEL.gz",
+        "Time": "05/17/2017 19:41:08",
+        "Size": "4137638",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630913_Neuro_Krainc_P01_H4_L3479.CEL.gz",
+        "Time": "05/17/2017 19:41:10",
+        "Size": "4448727",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630914_Neuro_Krainc_P01_H6_L3481.CEL.gz",
+        "Time": "05/17/2017 19:41:12",
+        "Size": "4605552",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630915_Neuro_Krainc_P01_H7_L3484.CEL.gz",
+        "Time": "05/17/2017 19:41:13",
+        "Size": "4365698",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630916_Neuro_Krainc_P02_A01_L3503.CEL.gz",
+        "Time": "05/17/2017 19:41:15",
+        "Size": "4273919",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630917_Neuro_Krainc_P02_A02_L3504.CEL.gz",
+        "Time": "05/17/2017 19:41:16",
+        "Size": "4472415",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630918_Neuro_Krainc_P02_A05_L3507.CEL.gz",
+        "Time": "05/17/2017 19:41:18",
+        "Size": "4486670",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630919_Neuro_Krainc_P02_A06_L3508.CEL.gz",
+        "Time": "05/17/2017 19:41:20",
+        "Size": "4820824",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630920_Neuro_Krainc_P02_A07_L3509.CEL.gz",
+        "Time": "05/17/2017 19:41:22",
+        "Size": "4734294",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630921_Neuro_Krainc_P02_A09_L3512.CEL.gz",
+        "Time": "05/17/2017 19:41:23",
+        "Size": "4470146",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630922_Neuro_Krainc_P02_A10_L3513.CEL.gz",
+        "Time": "05/17/2017 19:41:25",
+        "Size": "4661327",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630923_Neuro_Krainc_P02_B02_L3517.CEL.gz",
+        "Time": "05/17/2017 19:41:27",
+        "Size": "4559822",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630924_Neuro_Krainc_P02_B03_L3518.CEL.gz",
+        "Time": "05/17/2017 19:41:29",
+        "Size": "4608922",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630925_Neuro_Krainc_P02_B05_L3520.CEL.gz",
+        "Time": "05/17/2017 19:41:30",
+        "Size": "4753404",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630926_Neuro_Krainc_P02_B09_L3600.CEL.gz",
+        "Time": "05/17/2017 19:41:32",
+        "Size": "4768081",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630927_Neuro_Krainc_P02_B10_L3601.CEL.gz",
+        "Time": "05/17/2017 19:41:34",
+        "Size": "4610551",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630928_Neuro_Krainc_P02_B11_L3602.CEL.gz",
+        "Time": "05/17/2017 19:41:35",
+        "Size": "4840160",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630929_Neuro_Krainc_P02_C01_L3604.CEL.gz",
+        "Time": "05/17/2017 19:41:37",
+        "Size": "4536461",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630930_Neuro_Krainc_P02_C02_L3605.CEL.gz",
+        "Time": "05/17/2017 19:41:39",
+        "Size": "4533571",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630931_Neuro_Krainc_P02_C08_L3715.CEL.gz",
+        "Time": "05/17/2017 19:41:41",
+        "Size": "4689596",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630932_Neuro_Krainc_P02_C11_L3718.CEL.gz",
+        "Time": "05/17/2017 19:41:43",
+        "Size": "4505641",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630933_Neuro_Krainc_P02_D02_B27.CEL.gz",
+        "Time": "05/17/2017 19:41:45",
+        "Size": "4583956",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630934_Neuro_Krainc_P02_D03_B28.CEL.gz",
+        "Time": "05/17/2017 19:41:47",
+        "Size": "4700999",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630935_Neuro_Krainc_P02_D04_B29.CEL.gz",
+        "Time": "05/17/2017 19:41:48",
+        "Size": "4662663",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630936_Neuro_Krainc_P02_D05_B32.CEL.gz",
+        "Time": "05/17/2017 19:41:50",
+        "Size": "4768128",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630937_Neuro_Krainc_P02_D06_B36.CEL.gz",
+        "Time": "05/17/2017 19:41:52",
+        "Size": "4533171",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630938_Neuro_Krainc_P02_E04_FRATRO8.CEL.gz",
+        "Time": "05/17/2017 19:41:53",
+        "Size": "3503766",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630939_Neuro_Krainc_P02_E05_FRATRO9.CEL.gz",
+        "Time": "05/17/2017 19:41:55",
+        "Size": "4691316",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630940_Neuro_Krainc_P02_E06_FRATRO10.CEL.gz",
+        "Time": "05/17/2017 19:41:57",
+        "Size": "4657832",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630941_Neuro_Krainc_P02_E07_FRATRO11.CEL.gz",
+        "Time": "05/17/2017 19:41:58",
+        "Size": "4454904",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630942_Neuro_Krainc_P02_E08_FRATRO13.CEL.gz",
+        "Time": "05/17/2017 19:42:00",
+        "Size": "4440192",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630943_Neuro_Krainc_P02_E09_FRATRO14.CEL.gz",
+        "Time": "05/17/2017 19:42:02",
+        "Size": "4351845",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630944_Neuro_Krainc_P02_E10_FRATRO15.CEL.gz",
+        "Time": "05/17/2017 19:42:04",
+        "Size": "4799452",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630945_Neuro_Krainc_P02_E12_FRATRO17-2_RPT.CEL.gz",
+        "Time": "05/17/2017 19:42:06",
+        "Size": "4697108",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630946_Neuro_Krainc_P02_F01_FRATRO18.CEL.gz",
+        "Time": "05/17/2017 19:42:08",
+        "Size": "4704306",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630947_Neuro_Krainc_P02_F02_FRATRO20.CEL.gz",
+        "Time": "05/17/2017 19:42:10",
+        "Size": "4549908",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630948_Neuro_Krainc_P02_F04_FRATRO22.CEL.gz",
+        "Time": "05/17/2017 19:42:12",
+        "Size": "4530788",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630949_Neuro_Krainc_P02_F05_FRATRO23_2.CEL.gz",
+        "Time": "05/17/2017 19:42:14",
+        "Size": "4831251",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630950_Neuro_Krainc_P02_F11_FRATRO31.CEL.gz",
+        "Time": "05/17/2017 19:42:16",
+        "Size": "4600127",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630951_Neuro_Krainc_P02_G01_FRATRO33.CEL.gz",
+        "Time": "05/17/2017 19:42:18",
+        "Size": "4528544",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630952_Neuro_Krainc_P02_G06_FRATRO38.CEL.gz",
+        "Time": "05/17/2017 19:42:20",
+        "Size": "4502736",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630953_Neuro_Krainc_P02_G07_FRATRO39.CEL.gz",
+        "Time": "05/17/2017 19:42:21",
+        "Size": "4451348",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630954_Neuro_Krainc_P02_G08_FRATRO40.CEL.gz",
+        "Time": "05/17/2017 19:42:23",
+        "Size": "4696070",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630955_Neuro_Krainc_P02_G10_FRATRO42.CEL.gz",
+        "Time": "05/17/2017 19:42:25",
+        "Size": "4483293",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630956_Neuro_Krainc_P02_G11_FRATRO43.CEL.gz",
+        "Time": "05/17/2017 19:42:27",
+        "Size": "4456005",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630957_Neuro_Krainc_P02_G12_FRATRO44.CEL.gz",
+        "Time": "05/17/2017 19:42:28",
+        "Size": "4287736",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630958_Neuro_Krainc_P02_H01_FRATRO45_1.CEL.gz",
+        "Time": "05/17/2017 19:42:30",
+        "Size": "4544576",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630959_Neuro_Krainc_P02_H02_FRATRO46.CEL.gz",
+        "Time": "05/17/2017 19:42:32",
+        "Size": "4458368",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630960_Neuro_Krainc_P02_H03_FRATRO47_2.CEL.gz",
+        "Time": "05/17/2017 19:42:34",
+        "Size": "3908249",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630961_Neuro_Krainc_P02_H04_FRATRO48.CEL.gz",
+        "Time": "05/17/2017 19:42:35",
+        "Size": "4591229",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630962_Neuro_Krainc_P02_H05_FRATRO49.CEL.gz",
+        "Time": "05/17/2017 19:42:37",
+        "Size": "4528619",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630963_Neuro_Krainc_P02_H06_FRATRO50.CEL.gz",
+        "Time": "05/17/2017 19:42:39",
+        "Size": "4517599",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630964_Neuro_Krainc_P02_H07_FRATRO51.CEL.gz",
+        "Time": "05/17/2017 19:42:41",
+        "Size": "4358006",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630965_Neuro_Krainc_P02_H08_FRATRO52.CEL.gz",
+        "Time": "05/17/2017 19:42:43",
+        "Size": "4436566",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630966_Neuro_Krainc_P02_H09_FRATRO53.CEL.gz",
+        "Time": "05/17/2017 19:42:44",
+        "Size": "4671094",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630967_Neuro_Krainc_P02_H10_FRATRO54.CEL.gz",
+        "Time": "05/17/2017 19:42:46",
+        "Size": "4305768",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630968_Neuro_Krainc_P02_H12_FRATRO56.CEL.gz",
+        "Time": "05/17/2017 19:42:48",
+        "Size": "4287498",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630969_Neuro_Krainc_P03_A01_FRATRO57.CEL.gz",
+        "Time": "05/17/2017 19:42:50",
+        "Size": "4567312",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630970_Neuro_Krainc_P03_A02_FRATRO58.CEL.gz",
+        "Time": "05/17/2017 19:42:51",
+        "Size": "4572250",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630971_Neuro_Krainc_P03_A03_FRATRO59.CEL.gz",
+        "Time": "05/17/2017 19:42:54",
+        "Size": "4726640",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630972_Neuro_Krainc_P03_A04_FRATRO60.CEL.gz",
+        "Time": "05/17/2017 19:42:56",
+        "Size": "4643788",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630973_Neuro_Krainc_P03_A05_FRATRO61.CEL.gz",
+        "Time": "05/17/2017 19:42:57",
+        "Size": "4513801",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630974_Neuro_Krainc_P03_A07_FRATRO63.CEL.gz",
+        "Time": "05/17/2017 19:42:59",
+        "Size": "4564528",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630975_Neuro_Krainc_P03_A08_FRATRO64.CEL.gz",
+        "Time": "05/17/2017 19:43:02",
+        "Size": "4264036",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630976_Neuro_Krainc_P03_A09_FRATRO065.CEL.gz",
+        "Time": "05/17/2017 19:43:04",
+        "Size": "4688651",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630977_Neuro_Krainc_P03_A10_FRATRO067.CEL.gz",
+        "Time": "05/17/2017 19:43:06",
+        "Size": "4543501",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630978_Neuro_Krainc_P03_A12_FRATRO071.CEL.gz",
+        "Time": "05/17/2017 19:43:08",
+        "Size": "4435213",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630979_Neuro_Krainc_P03_B01_FRATRO072.CEL.gz",
+        "Time": "05/17/2017 19:43:10",
+        "Size": "4539575",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630980_Neuro_Krainc_P03_B02_FRATRO073.CEL.gz",
+        "Time": "05/17/2017 19:43:12",
+        "Size": "4707349",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630981_Neuro_Krainc_P03_B03_FRATRO075.CEL.gz",
+        "Time": "05/17/2017 19:43:14",
+        "Size": "4626582",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630982_Neuro_Krainc_P03_B07_FRATRO085_RPT.CEL.gz",
+        "Time": "05/17/2017 19:43:16",
+        "Size": "4562474",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630983_Neuro_Krainc_P03_B08_FRATRO086.CEL.gz",
+        "Time": "05/17/2017 19:43:17",
+        "Size": "4556056",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630984_Neuro_Krainc_P03_B09_FRATRO087_1.CEL.gz",
+        "Time": "05/17/2017 19:43:19",
+        "Size": "4616718",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630985_Neuro_Krainc_P03_B10_FRATRO088.CEL.gz",
+        "Time": "05/17/2017 19:43:21",
+        "Size": "4553497",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630986_Neuro_Krainc_P03_B12_FRATRO090.CEL.gz",
+        "Time": "05/17/2017 19:43:22",
+        "Size": "4853812",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630987_Neuro_Krainc_P03_C02_FRATRO092_1.CEL.gz",
+        "Time": "05/17/2017 19:43:24",
+        "Size": "4499384",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630988_Neuro_Krainc_P03_C04_FRATRO094_2.CEL.gz",
+        "Time": "05/17/2017 19:43:26",
+        "Size": "4648461",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630989_Neuro_Krainc_P03_C05_FRATRO095.CEL.gz",
+        "Time": "05/17/2017 19:43:28",
+        "Size": "4588549",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630990_Neuro_Krainc_P03_C06_FRATRO096.CEL.gz",
+        "Time": "05/17/2017 19:43:29",
+        "Size": "4558610",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630991_Neuro_Krainc_P03_C07_FRATRO097.CEL.gz",
+        "Time": "05/17/2017 19:43:31",
+        "Size": "4543100",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630992_Neuro_Krainc_P03_C08_FRATRO098.CEL.gz",
+        "Time": "05/17/2017 19:43:33",
+        "Size": "4576923",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630993_Neuro_Krainc_P03_C09_FRATRO099.CEL.gz",
+        "Time": "05/17/2017 19:43:35",
+        "Size": "4554634",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630994_Neuro_Krainc_P03_C10_FRATRO100.CEL.gz",
+        "Time": "05/17/2017 19:43:36",
+        "Size": "4673135",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630995_Neuro_Krainc_P03_C11_FRATRO101.CEL.gz",
+        "Time": "05/17/2017 19:43:38",
+        "Size": "4641329",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630996_Neuro_Krainc_P03_C12_FRATRO102.CEL.gz",
+        "Time": "05/17/2017 19:43:40",
+        "Size": "4706678",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630997_Neuro_Krainc_P03_D01_FRATRO103.CEL.gz",
+        "Time": "05/17/2017 19:43:42",
+        "Size": "4505766",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630998_Neuro_Krainc_P03_D05_FRATRO107_2.CEL.gz",
+        "Time": "05/17/2017 19:43:43",
+        "Size": "4282119",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2630999_Neuro_Krainc_P03_D06_FRATRO108.CEL.gz",
+        "Time": "05/17/2017 19:43:45",
+        "Size": "4537040",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631000_Neuro_Krainc_P03_D08_FRATRO110.CEL.gz",
+        "Time": "05/17/2017 19:43:46",
+        "Size": "4637112",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631001_Neuro_Krainc_P03_D10_FRATRO112.CEL.gz",
+        "Time": "05/17/2017 19:43:48",
+        "Size": "4349500",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631002_Neuro_Krainc_P03_D11_FRATRO113_2.CEL.gz",
+        "Time": "05/17/2017 19:43:50",
+        "Size": "4058715",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631003_Neuro_Krainc_P03_D12_FRATRO114.CEL.gz",
+        "Time": "05/17/2017 19:43:52",
+        "Size": "4666495",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631004_Neuro_Krainc_P03_E01_FRATRO115.CEL.gz",
+        "Time": "05/17/2017 19:43:54",
+        "Size": "4648852",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631005_Neuro_Krainc_P03_E02_FRATRO116.CEL.gz",
+        "Time": "05/17/2017 19:43:56",
+        "Size": "4627776",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631006_Neuro_Krainc_P03_E03_FRATRO117_1.CEL.gz",
+        "Time": "05/17/2017 19:43:57",
+        "Size": "4622185",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631007_Neuro_Krainc_P03_E04_FRATRO118.CEL.gz",
+        "Time": "05/17/2017 19:43:59",
+        "Size": "4508814",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631008_Neuro_Krainc_P03_E06_FRATRO120.CEL.gz",
+        "Time": "05/17/2017 19:44:01",
+        "Size": "4499402",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631009_Neuro_Krainc_P03_E11_FRATRO125.CEL.gz",
+        "Time": "05/17/2017 19:44:03",
+        "Size": "4475940",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631010_Neuro_Krainc_P03_E12_FRATRO126.CEL.gz",
+        "Time": "05/17/2017 19:44:05",
+        "Size": "4493861",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631011_Neuro_Krainc_P03_F03_FRATRO130.CEL.gz",
+        "Time": "05/17/2017 19:44:06",
+        "Size": "4567733",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631012_Neuro_Krainc_P03_F05_FRATRO132.CEL.gz",
+        "Time": "05/17/2017 19:44:08",
+        "Size": "4652184",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631013_Neuro_Krainc_P03_F07_FRATRO134.CEL.gz",
+        "Time": "05/17/2017 19:44:09",
+        "Size": "4584954",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631014_Neuro_Krainc_P03_F08_FRATRO135.CEL.gz",
+        "Time": "05/17/2017 19:44:11",
+        "Size": "4471502",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631015_Neuro_Krainc_P03_F10_FRATRO137.CEL.gz",
+        "Time": "05/17/2017 19:44:13",
+        "Size": "4561210",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631016_Neuro_Krainc_P03_F12_FRATRO139_1.CEL.gz",
+        "Time": "05/17/2017 19:44:15",
+        "Size": "4766115",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631017_Neuro_Krainc_P03_G02_FRATRO141.CEL.gz",
+        "Time": "05/17/2017 19:44:17",
+        "Size": "4608434",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631018_Neuro_Krainc_P03_G03_FRATRO143.CEL.gz",
+        "Time": "05/17/2017 19:44:18",
+        "Size": "4543370",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631019_Neuro_Krainc_P03_G04_FRATRO144.CEL.gz",
+        "Time": "05/17/2017 19:44:20",
+        "Size": "4584950",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631020_Neuro_Krainc_P03_G05_FRATRO145_RPT.CEL.gz",
+        "Time": "05/17/2017 19:44:22",
+        "Size": "4541179",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631021_Neuro_Krainc_P03_G06_FRATRO146.CEL.gz",
+        "Time": "05/17/2017 19:44:23",
+        "Size": "4454023",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631022_Neuro_Krainc_P03_G07_FRATRO147.CEL.gz",
+        "Time": "05/17/2017 19:44:25",
+        "Size": "4524748",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631023_Neuro_Krainc_P03_G08_FRATRO148.CEL.gz",
+        "Time": "05/17/2017 19:44:27",
+        "Size": "4542418",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631024_Neuro_Krainc_P03_G09_FRATRO149_3.CEL.gz",
+        "Time": "05/17/2017 19:44:29",
+        "Size": "4368428",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631025_Neuro_Krainc_P03_G10_FRATRO150.CEL.gz",
+        "Time": "05/17/2017 19:44:31",
+        "Size": "4504409",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631026_Neuro_Krainc_P03_G11_FRATRO152.CEL.gz",
+        "Time": "05/17/2017 19:44:33",
+        "Size": "4652164",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631027_Neuro_Krainc_P03_G12_FRATRO153.CEL.gz",
+        "Time": "05/17/2017 19:44:35",
+        "Size": "4735509",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631028_Neuro_Krainc_P03_H01_FRATRO154.CEL.gz",
+        "Time": "05/17/2017 19:44:37",
+        "Size": "4569328",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631029_Neuro_Krainc_P03_H02_FRATRO155.CEL.gz",
+        "Time": "05/17/2017 19:44:39",
+        "Size": "4547954",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631030_Neuro_Krainc_P03_H03_FRATRO158.CEL.gz",
+        "Time": "05/17/2017 19:44:41",
+        "Size": "4621992",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631031_Neuro_Krainc_P03_H04_FRATRO159.CEL.gz",
+        "Time": "05/17/2017 19:44:43",
+        "Size": "4637024",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631032_Neuro_Krainc_P03_H05_FRATRO160.CEL.gz",
+        "Time": "05/17/2017 19:44:44",
+        "Size": "4613946",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631033_Neuro_Krainc_P03_H06_FRATRO161.CEL.gz",
+        "Time": "05/17/2017 19:44:46",
+        "Size": "4601457",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631034_Neuro_Krainc_P03_H07_FRATRO162.CEL.gz",
+        "Time": "05/17/2017 19:44:48",
+        "Size": "4260819",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631035_Neuro_Krainc_P03_H08_FRATRO164.CEL.gz",
+        "Time": "05/17/2017 19:44:50",
+        "Size": "4486444",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631036_Neuro_Krainc_P03_H09_FRATRO165.CEL.gz",
+        "Time": "05/17/2017 19:44:52",
+        "Size": "4322586",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631037_Neuro_Krainc_P03_H10_FRATRO166.CEL.gz",
+        "Time": "05/17/2017 19:44:54",
+        "Size": "4628221",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631038_Neuro_Krainc_P03_H11_FRATRO167.CEL.gz",
+        "Time": "05/17/2017 19:44:56",
+        "Size": "4699441",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631039_Neuro_Krainc_P03_H12_FRATRO168.CEL.gz",
+        "Time": "05/17/2017 19:44:58",
+        "Size": "4684839",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631040_Neuro_Krainc_P04_A01_FRATRO169.CEL.gz",
+        "Time": "05/17/2017 19:45:00",
+        "Size": "4399163",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631041_Neuro_Krainc_P04_A02_FRATRO170.CEL.gz",
+        "Time": "05/17/2017 19:45:02",
+        "Size": "4447931",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631042_Neuro_Krainc_P04_A03_FRATRO171.CEL.gz",
+        "Time": "05/17/2017 19:45:04",
+        "Size": "4633531",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631043_Neuro_Krainc_P04_A04_FRATRO172.CEL.gz",
+        "Time": "05/17/2017 19:45:05",
+        "Size": "4467349",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631044_Neuro_Krainc_P04_A05_FRATRO173.CEL.gz",
+        "Time": "05/17/2017 19:45:07",
+        "Size": "4714882",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631045_Neuro_Krainc_P04_A06_FRATRO174.CEL.gz",
+        "Time": "05/17/2017 19:45:09",
+        "Size": "4415185",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631046_Neuro_Krainc_P04_A07_FRATRO175.CEL.gz",
+        "Time": "05/17/2017 19:45:10",
+        "Size": "4623415",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631047_Neuro_Krainc_P04_A08_FRATRO176.CEL.gz",
+        "Time": "05/17/2017 19:45:12",
+        "Size": "4621427",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631048_Neuro_Krainc_P04_A09_FRATRO177.CEL.gz",
+        "Time": "05/17/2017 19:45:14",
+        "Size": "4447741",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631049_Neuro_Krainc_P04_A10_FRATRO178_RPT.CEL.gz",
+        "Time": "05/17/2017 19:45:15",
+        "Size": "4285984",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631050_Neuro_Krainc_P04_A11_FRATRO179.CEL.gz",
+        "Time": "05/17/2017 19:45:17",
+        "Size": "4552064",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631051_Neuro_Krainc_P04_A12_FRATRO180.CEL.gz",
+        "Time": "05/17/2017 19:45:18",
+        "Size": "4672373",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631052_Neuro_Krainc_P04_B01_FRATRO181.CEL.gz",
+        "Time": "05/17/2017 19:45:20",
+        "Size": "4537399",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631053_Neuro_Krainc_P04_B02_FRATRO182.CEL.gz",
+        "Time": "05/17/2017 19:45:22",
+        "Size": "4333417",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631054_Neuro_Krainc_P04_B03_FRATRO183.CEL.gz",
+        "Time": "05/17/2017 19:45:23",
+        "Size": "4583160",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631055_Neuro_Krainc_P04_B04_FRATRO184.CEL.gz",
+        "Time": "05/17/2017 19:45:25",
+        "Size": "4559685",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631056_Neuro_Krainc_P04_B05_FRATRO185.CEL.gz",
+        "Time": "05/17/2017 19:45:27",
+        "Size": "4638326",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631057_Neuro_Krainc_P04_B07_FRATRO187.CEL.gz",
+        "Time": "05/17/2017 19:45:29",
+        "Size": "4326495",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631058_Neuro_Krainc_P04_B08_FRATRO188.CEL.gz",
+        "Time": "05/17/2017 19:45:31",
+        "Size": "4389453",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631059_Neuro_Krainc_P04_B09_FRATRO189.CEL.gz",
+        "Time": "05/17/2017 19:45:32",
+        "Size": "4472711",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631060_Neuro_Krainc_P04_B10_FRATRO190.CEL.gz",
+        "Time": "05/17/2017 19:45:34",
+        "Size": "4082096",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631061_Neuro_Krainc_P04_B11_FRATRO191.CEL.gz",
+        "Time": "05/17/2017 19:45:35",
+        "Size": "4475873",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631062_Neuro_Krainc_P04_C01_FRATRO193.CEL.gz",
+        "Time": "05/17/2017 19:45:37",
+        "Size": "4832119",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631063_Neuro_Krainc_P04_C02_FRATRO194.CEL.gz",
+        "Time": "05/17/2017 19:45:38",
+        "Size": "4519800",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631064_Neuro_Krainc_P04_C03_FRATRO195.CEL.gz",
+        "Time": "05/17/2017 19:45:40",
+        "Size": "4332731",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631065_Neuro_Krainc_P04_C05_FRATRO197.CEL.gz",
+        "Time": "05/17/2017 19:45:41",
+        "Size": "4439636",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631066_Neuro_Krainc_P04_C06_FRATRO198.CEL.gz",
+        "Time": "05/17/2017 19:45:43",
+        "Size": "4470742",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631067_Neuro_Krainc_P04_C07_FRATRO199.CEL.gz",
+        "Time": "05/17/2017 19:45:45",
+        "Size": "4307276",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631068_Neuro_Krainc_P04_C08_FRATRO200.CEL.gz",
+        "Time": "05/17/2017 19:45:46",
+        "Size": "4382693",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631069_Neuro_Krainc_P04_C09_FRATRO201.CEL.gz",
+        "Time": "05/17/2017 19:45:48",
+        "Size": "4576207",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631070_Neuro_Krainc_P04_C10_FRATRO202.CEL.gz",
+        "Time": "05/17/2017 19:45:50",
+        "Size": "4218072",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631071_Neuro_Krainc_P04_C11_FRATRO203_RPT.CEL.gz",
+        "Time": "05/17/2017 19:45:52",
+        "Size": "4645673",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631072_Neuro_Krainc_P04_C12_FRATRO204.CEL.gz",
+        "Time": "05/17/2017 19:45:53",
+        "Size": "4530585",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631073_Neuro_Krainc_P04_D01_FRATRO205.CEL.gz",
+        "Time": "05/17/2017 19:45:55",
+        "Size": "4635654",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631074_Neuro_Krainc_P04_D02_FRATRO206.CEL.gz",
+        "Time": "05/17/2017 19:45:57",
+        "Size": "4710765",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631075_Neuro_Krainc_P04_D03_FRATRO207.CEL.gz",
+        "Time": "05/17/2017 19:45:59",
+        "Size": "4466838",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631076_Neuro_Krainc_P04_D04_FRATRO208.CEL.gz",
+        "Time": "05/17/2017 19:46:01",
+        "Size": "4449630",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631077_Neuro_Krainc_P04_D05_FRATRO209.CEL.gz",
+        "Time": "05/17/2017 19:46:03",
+        "Size": "4653090",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631078_Neuro_Krainc_P04_D06_FRATRO210.CEL.gz",
+        "Time": "05/17/2017 19:46:04",
+        "Size": "4355546",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631079_Neuro_Krainc_P04_D07_FRATRO211.CEL.gz",
+        "Time": "05/17/2017 19:46:06",
+        "Size": "4599809",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631080_Neuro_Krainc_P04_D08_FRATRO212.CEL.gz",
+        "Time": "05/17/2017 19:46:08",
+        "Size": "4608246",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631081_Neuro_Krainc_P04_D09_FRATRO213.CEL.gz",
+        "Time": "05/17/2017 19:46:10",
+        "Size": "4660394",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631082_Neuro_Krainc_P04_D10_FRATRO214.CEL.gz",
+        "Time": "05/17/2017 19:46:11",
+        "Size": "4352702",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631083_Neuro_Krainc_P04_D11_FRATRO215.CEL.gz",
+        "Time": "05/17/2017 19:46:13",
+        "Size": "4309974",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631084_Neuro_Krainc_P04_D12_FRATRO216.CEL.gz",
+        "Time": "05/17/2017 19:46:15",
+        "Size": "4461827",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631085_Neuro_Krainc_P04_E01_FRATRO217.CEL.gz",
+        "Time": "05/17/2017 19:46:17",
+        "Size": "4470316",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631086_Neuro_Krainc_P04_E02_FRATRO218.CEL.gz",
+        "Time": "05/17/2017 19:46:18",
+        "Size": "4561440",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631087_Neuro_Krainc_P04_E03_FRATRO219.CEL.gz",
+        "Time": "05/17/2017 19:46:20",
+        "Size": "4597483",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631088_Neuro_Krainc_P04_E05_FRATRO221.CEL.gz",
+        "Time": "05/17/2017 19:46:22",
+        "Size": "4569221",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631089_Neuro_Krainc_P04_E06_FRATRO222.CEL.gz",
+        "Time": "05/17/2017 19:46:24",
+        "Size": "4481885",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631090_Neuro_Krainc_P04_E07_FRATRO224.CEL.gz",
+        "Time": "05/17/2017 19:46:25",
+        "Size": "4403379",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631091_Neuro_Krainc_P04_E08_FRATRO225.CEL.gz",
+        "Time": "05/17/2017 19:46:27",
+        "Size": "4097484",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631092_Neuro_Krainc_P04_E09_FRATRO226_2.CEL.gz",
+        "Time": "05/17/2017 19:46:29",
+        "Size": "4530283",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631093_Neuro_Krainc_P04_E10_FRATRO227.CEL.gz",
+        "Time": "05/17/2017 19:46:30",
+        "Size": "4433145",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631094_Neuro_Krainc_P04_E11_FRATRO228.CEL.gz",
+        "Time": "05/17/2017 19:46:32",
+        "Size": "4335239",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631095_Neuro_Krainc_P04_E12_FRATRO229.CEL.gz",
+        "Time": "05/17/2017 19:46:34",
+        "Size": "4372289",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631096_Neuro_Krainc_P04_F01_FRATRO230.CEL.gz",
+        "Time": "05/17/2017 19:46:36",
+        "Size": "4381197",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631097_Neuro_Krainc_P04_F02_FARTRO231_1.CEL.gz",
+        "Time": "05/17/2017 19:46:38",
+        "Size": "4278348",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631098_Neuro_Krainc_P04_F03_FRATRO232_2.CEL.gz",
+        "Time": "05/17/2017 19:46:39",
+        "Size": "4387369",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631099_Neuro_Krainc_P04_F04_FRATRO233_1.CEL.gz",
+        "Time": "05/17/2017 19:46:41",
+        "Size": "4289405",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631100_Neuro_Krainc_P04_F06_FRATRO235.CEL.gz",
+        "Time": "05/17/2017 19:46:43",
+        "Size": "4180896",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631101_Neuro_Krainc_P04_F07_FRATRO236.CEL.gz",
+        "Time": "05/17/2017 19:46:45",
+        "Size": "4064239",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631102_Neuro_Krainc_P04_F08_FRATRO237.CEL.gz",
+        "Time": "05/17/2017 19:46:47",
+        "Size": "3977505",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631103_Neuro_Krainc_P04_F09_FRATRO238.CEL.gz",
+        "Time": "05/17/2017 19:46:48",
+        "Size": "4260903",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631104_Neuro_Krainc_P04_F10_FRATRO239_1.CEL.gz",
+        "Time": "05/17/2017 19:46:50",
+        "Size": "4453753",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631105_Neuro_Krainc_P04_F11_FRATRO240.CEL.gz",
+        "Time": "05/17/2017 19:46:52",
+        "Size": "4388873",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631106_Neuro_Krainc_P04_F12_FRATRO241.CEL.gz",
+        "Time": "05/17/2017 19:46:54",
+        "Size": "4279488",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631107_Neuro_Krainc_P04_G01_FRATRO242.CEL.gz",
+        "Time": "05/17/2017 19:46:55",
+        "Size": "4332376",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631108_Neuro_Krainc_P04_G02_FRATRO243.CEL.gz",
+        "Time": "05/17/2017 19:46:57",
+        "Size": "4526860",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631109_Neuro_Krainc_P04_G03_FRATRO244.CEL.gz",
+        "Time": "05/17/2017 19:46:58",
+        "Size": "4388700",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631110_Neuro_Krainc_P04_G04_FRATRO245.CEL.gz",
+        "Time": "05/17/2017 19:47:00",
+        "Size": "4401168",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631111_Neuro_Krainc_P04_G05_FRATRO246.CEL.gz",
+        "Time": "05/17/2017 19:47:02",
+        "Size": "4381775",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631112_Neuro_Krainc_P04_G06_FRATRO247.CEL.gz",
+        "Time": "05/17/2017 19:47:03",
+        "Size": "4327272",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631113_Neuro_Krainc_P04_G07_FRATRO248_2.CEL.gz",
+        "Time": "05/17/2017 19:47:05",
+        "Size": "4172047",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631114_Neuro_Krainc_P04_G08_FRATRO249_1.CEL.gz",
+        "Time": "05/17/2017 19:47:07",
+        "Size": "4450306",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631115_Neuro_Krainc_P04_G09_FRATRO250_2.CEL.gz",
+        "Time": "05/17/2017 19:47:09",
+        "Size": "4247717",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631116_Neuro_Krainc_P04_G11_FRATRO252.CEL.gz",
+        "Time": "05/17/2017 19:47:10",
+        "Size": "4297380",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631117_Neuro_Krainc_P04_G12_FRATRO253.CEL.gz",
+        "Time": "05/17/2017 19:47:12",
+        "Size": "4571223",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631118_Neuro_Krainc_P04_H01_FRATRO254.CEL.gz",
+        "Time": "05/17/2017 19:47:14",
+        "Size": "4429539",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631119_Neuro_Krainc_P04_H02_FRATRO255.CEL.gz",
+        "Time": "05/17/2017 19:47:15",
+        "Size": "4542000",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631120_Neuro_Krainc_P04_H03_FRATRO256.CEL.gz",
+        "Time": "05/17/2017 19:47:17",
+        "Size": "4623763",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631121_Neuro_Krainc_P04_H04_FRATRO257.CEL.gz",
+        "Time": "05/17/2017 19:47:19",
+        "Size": "4283056",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631122_Neuro_Krainc_P04_H05_FRATRO258.CEL.gz",
+        "Time": "05/17/2017 19:47:21",
+        "Size": "4300200",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631123_Neuro_Krainc_P04_H06_FRATRO259.CEL.gz",
+        "Time": "05/17/2017 19:47:23",
+        "Size": "4285647",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631124_Neuro_Krainc_P04_H07_FRATRO260.CEL.gz",
+        "Time": "05/17/2017 19:47:25",
+        "Size": "4518906",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631125_Neuro_Krainc_P04_H08_FRATRO262_2.CEL.gz",
+        "Time": "05/17/2017 19:47:27",
+        "Size": "4443636",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631126_Neuro_Krainc_P04_H09_FRATRO264.CEL.gz",
+        "Time": "05/17/2017 19:47:28",
+        "Size": "4487828",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631127_Neuro_Krainc_P04_H11_FRATRO266_2.CEL.gz",
+        "Time": "05/17/2017 19:47:30",
+        "Size": "4522896",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631128_Neuro_Krainc_P04_H12_FRATRO268_2.CEL.gz",
+        "Time": "05/17/2017 19:47:32",
+        "Size": "4352105",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631129_Neuro_Krainc_P05_A01_FRATRO269.CEL.gz",
+        "Time": "05/17/2017 19:47:33",
+        "Size": "4378138",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631130_Neuro_Krainc_P05_A02_FRATRO270.CEL.gz",
+        "Time": "05/17/2017 19:47:35",
+        "Size": "4667107",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631131_Neuro_Krainc_P05_A04_FRATRO272.CEL.gz",
+        "Time": "05/17/2017 19:47:37",
+        "Size": "4582881",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631132_Neuro_Krainc_P05_A05_FRATRO273.CEL.gz",
+        "Time": "05/17/2017 19:47:38",
+        "Size": "4469723",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631133_Neuro_Krainc_P05_A07_FRATRO275.CEL.gz",
+        "Time": "05/17/2017 19:47:40",
+        "Size": "4614853",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631134_Neuro_Krainc_P05_A08_FRATRO277.CEL.gz",
+        "Time": "05/17/2017 19:47:41",
+        "Size": "4194771",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631135_Neuro_Krainc_P05_A11_FRATRO280.CEL.gz",
+        "Time": "05/17/2017 19:47:43",
+        "Size": "4450133",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631136_Neuro_Krainc_P05_A12_FRATRO282.CEL.gz",
+        "Time": "05/17/2017 19:47:44",
+        "Size": "4538608",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631137_Neuro_Krainc_P05_B04_FRATRO286.CEL.gz",
+        "Time": "05/17/2017 19:47:46",
+        "Size": "4078861",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631138_Neuro_Krainc_P05_B05_FRATRO287.CEL.gz",
+        "Time": "05/17/2017 19:47:48",
+        "Size": "4565920",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631139_Neuro_Krainc_P05_B06_FRATRO288.CEL.gz",
+        "Time": "05/17/2017 19:47:49",
+        "Size": "4336409",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631140_Neuro_Krainc_P05_B11_FRATRO294.CEL.gz",
+        "Time": "05/17/2017 19:47:51",
+        "Size": "4131264",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631141_Neuro_Krainc_P05_B12_FRATRO295.CEL.gz",
+        "Time": "05/17/2017 19:47:52",
+        "Size": "4616288",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631142_Neuro_Krainc_P05_C01_FRATRO296.CEL.gz",
+        "Time": "05/17/2017 19:47:54",
+        "Size": "3820722",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631143_Neuro_Krainc_P05_C06_FRATRO301.CEL.gz",
+        "Time": "05/17/2017 19:47:55",
+        "Size": "4225377",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631144_Neuro_Krainc_P05_C09_FRATRO304.CEL.gz",
+        "Time": "05/17/2017 19:47:57",
+        "Size": "4353124",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631145_Neuro_Krainc-2_P01_A03_L1767.CEL.gz",
+        "Time": "05/17/2017 19:47:58",
+        "Size": "3687783",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631146_Neuro_Krainc-2_P01_B01_L2616.CEL.gz",
+        "Time": "05/17/2017 19:47:59",
+        "Size": "3805033",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631147_Neuro_Krainc-2_P01_B06_L2697-2.CEL.gz",
+        "Time": "05/17/2017 19:48:02",
+        "Size": "3892764",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631148_Neuro_Krainc-2_P01_B08_L2761.CEL.gz",
+        "Time": "05/17/2017 19:48:03",
+        "Size": "3758113",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631149_Neuro_Krainc-2_P02_A06_L3360_01.CEL.gz",
+        "Time": "05/17/2017 19:48:05",
+        "Size": "4466551",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631150_Neuro_Krainc-2_P02_A08_L3675_01.CEL.gz",
+        "Time": "05/17/2017 19:48:07",
+        "Size": "4289654",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631151_Neuro_Krainc-2_P02_A09_L3676_01.CEL.gz",
+        "Time": "05/17/2017 19:48:09",
+        "Size": "4383843",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631152_Neuro_Krainc-2_P02_A10_L3687_01.CEL.gz",
+        "Time": "05/17/2017 19:48:10",
+        "Size": "4226221",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631153_Neuro_Krainc-2_P02_A11_L3692_01.CEL.gz",
+        "Time": "05/17/2017 19:48:12",
+        "Size": "4031010",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631154_Neuro_Krainc-2_P02_B01_L3680_01.CEL.gz",
+        "Time": "05/17/2017 19:48:14",
+        "Size": "4427103",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631155_Neuro_Krainc-2_P02_B02_L3674_01.CEL.gz",
+        "Time": "05/17/2017 19:48:16",
+        "Size": "4234456",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631156_Neuro_Krainc-2_P02_B03_L3681_01.CEL.gz",
+        "Time": "05/17/2017 19:48:17",
+        "Size": "4377095",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631157_Neuro_Krainc-2_P02_B07_L1341_01.CEL.gz",
+        "Time": "05/17/2017 19:48:19",
+        "Size": "4511524",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631158_Neuro_Krainc-2_P02_B08_L3667_01.CEL.gz",
+        "Time": "05/17/2017 19:48:20",
+        "Size": "4171310",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631159_Neuro_Krainc-2_P02_B10_L4020_01.CEL.gz",
+        "Time": "05/17/2017 19:48:22",
+        "Size": "4386173",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631160_Neuro_Krainc-2_P02_B12_L3684_01.CEL.gz",
+        "Time": "05/17/2017 19:48:24",
+        "Size": "4630667",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631161_Neuro_Krainc-2_P02_C01_L3653_01.CEL.gz",
+        "Time": "05/17/2017 19:48:25",
+        "Size": "4380766",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631162_Neuro_Krainc-2_P02_C02_L3685_01.CEL.gz",
+        "Time": "05/17/2017 19:48:27",
+        "Size": "4388584",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631163_Neuro_Krainc-2_P02_C03_L4026_01.CEL.gz",
+        "Time": "05/17/2017 19:48:28",
+        "Size": "4222082",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631164_Neuro_Krainc-2_P02_C04_L3682_01.CEL.gz",
+        "Time": "05/17/2017 19:48:30",
+        "Size": "4386551",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631165_Neuro_Krainc-2_P02_C07_L3657_01.CEL.gz",
+        "Time": "05/17/2017 19:48:32",
+        "Size": "4464178",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631166_Neuro_Krainc-2_P02_C09_L3666_01.CEL.gz",
+        "Time": "05/17/2017 19:48:34",
+        "Size": "4383462",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631167_Neuro_Krainc-2_P02_D01_L3671_01.CEL.gz",
+        "Time": "05/17/2017 19:48:35",
+        "Size": "4671027",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631168_Neuro_Krainc-2_P02_D04_L4028_01.CEL.gz",
+        "Time": "05/17/2017 19:48:37",
+        "Size": "4265099",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631169_Neuro_Krainc-2_P02_D07_L3655_01.CEL.gz",
+        "Time": "05/17/2017 19:48:38",
+        "Size": "4076891",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631170_Neuro_Krainc-2_P02_D08_L4029_01.CEL.gz",
+        "Time": "05/17/2017 19:48:40",
+        "Size": "4333086",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631171_Neuro_Krainc-2_P02_D10_L2899_01.CEL.gz",
+        "Time": "05/17/2017 19:48:42",
+        "Size": "4527525",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631172_Neuro_Krainc-2_P02_D11_L3699_01.CEL.gz",
+        "Time": "05/17/2017 19:48:43",
+        "Size": "4414556",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631173_Neuro_Krainc-2_P02_E09_L3058_01.CEL.gz",
+        "Time": "05/17/2017 19:48:45",
+        "Size": "4220865",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631174_Neuro_Krainc-2_P02_E12_L4032_01.CEL.gz",
+        "Time": "05/17/2017 19:48:47",
+        "Size": "3916784",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631175_Neuro_Krainc-2_P02_F01_L3665_01.CEL.gz",
+        "Time": "05/17/2017 19:48:48",
+        "Size": "4457526",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631176_Neuro_Krainc-2_P02_F05_L4022_01.CEL.gz",
+        "Time": "05/17/2017 19:48:50",
+        "Size": "4541198",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631177_Neuro_Krainc-2_P02_F06_L3656_01.CEL.gz",
+        "Time": "05/17/2017 19:48:52",
+        "Size": "4545002",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631178_Neuro_Krainc-2_P02_F08_L4031_01.CEL.gz",
+        "Time": "05/17/2017 19:48:54",
+        "Size": "4480506",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631179_Neuro_Krainc-2_P02_F09_FRATRO223.CEL.gz",
+        "Time": "05/17/2017 19:48:55",
+        "Size": "4314581",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631180_Neuro_Krainc-2_P02_F10_FRATRO306.CEL.gz",
+        "Time": "05/17/2017 19:48:57",
+        "Size": "4032508",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631181_Neuro_Krainc-2_P02_F12_FRATRO308_1.CEL.gz",
+        "Time": "05/17/2017 19:48:59",
+        "Size": "4021406",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631182_Neuro_Krainc-2_P02_G01_FRATRO309.CEL.gz",
+        "Time": "05/17/2017 19:49:01",
+        "Size": "4509293",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631183_Neuro_Krainc-2_P02_G02_FRATRO310.CEL.gz",
+        "Time": "05/17/2017 19:49:03",
+        "Size": "4358764",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631184_Neuro_Krainc-2_P02_G03_FRATRO311.CEL.gz",
+        "Time": "05/17/2017 19:49:04",
+        "Size": "4176118",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631185_Neuro_Krainc-2_P02_G04_FRATRO313.CEL.gz",
+        "Time": "05/17/2017 19:49:06",
+        "Size": "4062604",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631186_Neuro_Krainc-2_P02_G05_FRATRO314_2.CEL.gz",
+        "Time": "05/17/2017 19:49:08",
+        "Size": "4088942",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631187_Neuro_Krainc-2_P02_G06_FRATRO315.CEL.gz",
+        "Time": "05/17/2017 19:49:09",
+        "Size": "4253927",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631188_Neuro_Krainc-2_P02_G10_FRATRO319.CEL.gz",
+        "Time": "05/17/2017 19:49:11",
+        "Size": "4027709",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631189_Neuro_Krainc-2_P02_G11_FRATRO320.CEL.gz",
+        "Time": "05/17/2017 19:49:13",
+        "Size": "4236059",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631190_Neuro_Krainc-2_P02_H01_FRATRO322.CEL.gz",
+        "Time": "05/17/2017 19:49:14",
+        "Size": "4233057",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631191_Neuro_Krainc-2_P03_A01_FRA_TRO_335.CEL.gz",
+        "Time": "05/17/2017 19:49:16",
+        "Size": "4017822",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631192_Neuro_Krainc-2_P03_A04_FRA_TRO_338_01.CEL.gz",
+        "Time": "05/17/2017 19:49:17",
+        "Size": "4168623",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631193_Neuro_Krainc-2_P03_A05_FRA_TRO_339_01.CEL.gz",
+        "Time": "05/17/2017 19:49:19",
+        "Size": "4240853",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631194_Neuro_Krainc-2_P03_A06_FRA_TRO_340_01.CEL.gz",
+        "Time": "05/17/2017 19:49:21",
+        "Size": "4229182",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631195_Neuro_Krainc-2_P03_A07_FRA_TRO_341_01.CEL.gz",
+        "Time": "05/17/2017 19:49:22",
+        "Size": "4253308",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631196_Neuro_Krainc-2_P03_A08_FRA_TRO_342_01.CEL.gz",
+        "Time": "05/17/2017 19:49:24",
+        "Size": "4106737",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631197_Neuro_Krainc-2_P03_A09_FRA_TRO_343_01.CEL.gz",
+        "Time": "05/17/2017 19:49:26",
+        "Size": "4348243",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631198_Neuro_Krainc-2_P03_A10_FRA_TRO_344_01.CEL.gz",
+        "Time": "05/17/2017 19:49:28",
+        "Size": "4161224",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631199_Neuro_Krainc-2_P03_A11_FRA_TRO_345_01.CEL.gz",
+        "Time": "05/17/2017 19:49:29",
+        "Size": "4094890",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631200_Neuro_Krainc-2_P03_A12_FRA_TRO_346_01.CEL.gz",
+        "Time": "05/17/2017 19:49:31",
+        "Size": "4388001",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631201_Neuro_Krainc-2_P03_B01_FRA_TRO_347_01.CEL.gz",
+        "Time": "05/17/2017 19:49:33",
+        "Size": "4294125",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631202_Neuro_Krainc-2_P03_B03_FRA_TRO_349_01.CEL.gz",
+        "Time": "05/17/2017 19:49:34",
+        "Size": "4261115",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631203_Neuro_Krainc-2_P03_B05_FRA_TRO_351_01.CEL.gz",
+        "Time": "05/17/2017 19:49:36",
+        "Size": "4331751",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631204_Neuro_Krainc-2_P03_B09_FRA_TRO_355_01.CEL.gz",
+        "Time": "05/17/2017 19:49:38",
+        "Size": "4471632",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631205_Neuro_Krainc-2_P03_B12_FRA_TRO_359_01.CEL.gz",
+        "Time": "05/17/2017 19:49:40",
+        "Size": "4252567",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631206_Neuro_Krainc-2_P03_C02_FRA_TRO_361_01.CEL.gz",
+        "Time": "05/17/2017 19:49:41",
+        "Size": "3607970",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631207_Neuro_Krainc-2_P03_C04_FRA_TRO_363_01.CEL.gz",
+        "Time": "05/17/2017 19:49:43",
+        "Size": "4292624",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631208_E7R_037b04_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:49:45",
+        "Size": "4827126",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631209_E7R_037b05_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:49:47",
+        "Size": "4762615",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631210_E7R_037b06_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:49:50",
+        "Size": "4956246",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631211_E7R_037c16_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:49:53",
+        "Size": "4817652",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631212_E7R_037c17_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:49:55",
+        "Size": "4723201",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631213_E7R_037c23_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:49:58",
+        "Size": "4778102",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631214_E7R_037d06_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:50:01",
+        "Size": "4768237",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631215_E7R_037d12_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:50:05",
+        "Size": "4685757",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631216_E7R_039a100_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:50:08",
+        "Size": "4865016",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631217_E7R_039a43_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:50:11",
+        "Size": "4687462",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631218_E7R_039a47_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:50:13",
+        "Size": "4630569",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631219_E7R_039a53_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:50:16",
+        "Size": "4626502",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631220_E7R_039a61_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:50:18",
+        "Size": "4658777",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631221_E7R_039a66_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:50:21",
+        "Size": "4691074",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631222_E7R_039a86_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:50:24",
+        "Size": "4876670",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631223_E8R_012a10_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:50:26",
+        "Size": "4742609",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631224_E8R_012a15_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:50:29",
+        "Size": "5039906",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631225_E8R_012a28_2_HG-U133_Plus_2_.CEL.gz",
+        "Time": "05/17/2017 19:50:32",
+        "Size": "5133793",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631226_Neuro_Krainc_P01_B9_L3292.CEL.gz",
+        "Time": "05/17/2017 19:50:34",
+        "Size": "4830845",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631227_Neuro_Krainc_P01_C8_L3338.CEL.gz",
+        "Time": "05/17/2017 19:50:35",
+        "Size": "4366539",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631228_Neuro_Krainc_P01_D4_L3348.CEL.gz",
+        "Time": "05/17/2017 19:50:37",
+        "Size": "3844913",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631229_Neuro_Krainc_P01_E4_L3365.CEL.gz",
+        "Time": "05/17/2017 19:50:39",
+        "Size": "4508784",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631230_Neuro_Krainc_P01_G1_L3453.CEL.gz",
+        "Time": "05/17/2017 19:50:40",
+        "Size": "4417836",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631231_Neuro_Krainc_P01_G11_L3463.CEL.gz",
+        "Time": "05/17/2017 19:50:42",
+        "Size": "4351516",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631232_Neuro_Krainc_P01_H8_L3493.CEL.gz",
+        "Time": "05/17/2017 19:50:44",
+        "Size": "4678202",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631233_Neuro_Krainc_P02_A04_L3506.CEL.gz",
+        "Time": "05/17/2017 19:50:46",
+        "Size": "4537411",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631234_Neuro_Krainc_P02_A08_L3510.CEL.gz",
+        "Time": "05/17/2017 19:50:47",
+        "Size": "4660991",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631235_Neuro_Krainc_P02_A11_L3514.CEL.gz",
+        "Time": "05/17/2017 19:50:49",
+        "Size": "4423905",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631236_Neuro_Krainc_P02_A12_L3515.CEL.gz",
+        "Time": "05/17/2017 19:50:51",
+        "Size": "4534673",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631237_Neuro_Krainc_P02_B01_L3516.CEL.gz",
+        "Time": "05/17/2017 19:50:53",
+        "Size": "4606100",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631238_Neuro_Krainc_P02_B04_L3519.CEL.gz",
+        "Time": "05/17/2017 19:50:54",
+        "Size": "4433399",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631239_Neuro_Krainc_P02_B06_L3521_2.CEL.gz",
+        "Time": "05/17/2017 19:50:56",
+        "Size": "4416998",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631240_Neuro_Krainc_P02_B07_L3522.CEL.gz",
+        "Time": "05/17/2017 19:50:58",
+        "Size": "4836715",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631241_Neuro_Krainc_P02_B12_L3603.CEL.gz",
+        "Time": "05/17/2017 19:51:00",
+        "Size": "4795637",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631242_Neuro_Krainc_P02_C03_L3651.CEL.gz",
+        "Time": "05/17/2017 19:51:02",
+        "Size": "4587516",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631243_Neuro_Krainc_P02_C04_L3652.CEL.gz",
+        "Time": "05/17/2017 19:51:04",
+        "Size": "4790298",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631244_Neuro_Krainc_P02_C05_L3712.CEL.gz",
+        "Time": "05/17/2017 19:51:06",
+        "Size": "4791168",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631245_Neuro_Krainc_P02_C06_L3713.CEL.gz",
+        "Time": "05/17/2017 19:51:08",
+        "Size": "4435662",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631246_Neuro_Krainc_P02_C07_L3714.CEL.gz",
+        "Time": "05/17/2017 19:51:09",
+        "Size": "4653606",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631247_Neuro_Krainc_P02_C09_L3716_2.CEL.gz",
+        "Time": "05/17/2017 19:51:11",
+        "Size": "4573734",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631248_Neuro_Krainc_P02_C10_L3717.CEL.gz",
+        "Time": "05/17/2017 19:51:13",
+        "Size": "4155295",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631249_Neuro_Krainc_P02_C12_L3731.CEL.gz",
+        "Time": "05/17/2017 19:51:14",
+        "Size": "4422695",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631250_Neuro_Krainc_P02_D01_B25_RPT.CEL.gz",
+        "Time": "02/10/2019 20:17:29",
+        "Size": "4700242",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631251_Neuro_Krainc_P02_D08_B45.CEL.gz",
+        "Time": "05/17/2017 19:51:16",
+        "Size": "4592659",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631252_Neuro_Krainc_P02_D09_B980.CEL.gz",
+        "Time": "05/17/2017 19:51:17",
+        "Size": "4647540",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631253_Neuro_Krainc_P02_E01_FRATRO5.CEL.gz",
+        "Time": "05/17/2017 19:51:19",
+        "Size": "4392717",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631254_Neuro_Krainc_P02_E02_FRATRO6_2.CEL.gz",
+        "Time": "05/17/2017 19:51:21",
+        "Size": "4444927",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631255_Neuro_Krainc_P02_E03_FRATRO7.CEL.gz",
+        "Time": "05/17/2017 19:51:23",
+        "Size": "4461921",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631256_Neuro_Krainc_P02_E11_FRATRO16.CEL.gz",
+        "Time": "05/17/2017 19:51:24",
+        "Size": "4339604",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631257_Neuro_Krainc_P02_F03_FRATRO21.CEL.gz",
+        "Time": "05/17/2017 19:51:26",
+        "Size": "4619372",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631258_Neuro_Krainc_P02_F06_FRATRO24.CEL.gz",
+        "Time": "05/17/2017 19:51:28",
+        "Size": "4840018",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631259_Neuro_Krainc_P02_F07_FRATRO26.CEL.gz",
+        "Time": "05/17/2017 19:51:29",
+        "Size": "4649729",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631260_Neuro_Krainc_P02_F08_FRATRO28.CEL.gz",
+        "Time": "05/17/2017 19:51:31",
+        "Size": "4695800",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631261_Neuro_Krainc_P02_F09_FRATRO29.CEL.gz",
+        "Time": "05/17/2017 19:51:33",
+        "Size": "4533180",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631262_Neuro_Krainc_P02_F10_FRATRO30.CEL.gz",
+        "Time": "05/17/2017 19:51:35",
+        "Size": "4577625",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631263_Neuro_Krainc_P02_F12_FRATRO32.CEL.gz",
+        "Time": "05/17/2017 19:51:37",
+        "Size": "4466321",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631264_Neuro_Krainc_P02_G02_FRATRO34.CEL.gz",
+        "Time": "05/17/2017 19:51:39",
+        "Size": "4490268",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631265_Neuro_Krainc_P02_G03_FRATRO35.CEL.gz",
+        "Time": "05/17/2017 19:51:41",
+        "Size": "4486184",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631266_Neuro_Krainc_P02_G04_FRATRO36.CEL.gz",
+        "Time": "05/17/2017 19:51:43",
+        "Size": "3997906",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631267_Neuro_Krainc_P02_G05_FRATRO37.CEL.gz",
+        "Time": "05/17/2017 19:51:44",
+        "Size": "4434595",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631268_Neuro_Krainc_P02_G09_FRATRO41.CEL.gz",
+        "Time": "05/17/2017 19:51:46",
+        "Size": "4315690",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631269_Neuro_Krainc_P02_H11_FRATRO55.CEL.gz",
+        "Time": "05/17/2017 19:51:48",
+        "Size": "4526554",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631270_Neuro_Krainc_P03_A06_FRATRO62.CEL.gz",
+        "Time": "05/17/2017 19:51:50",
+        "Size": "4880223",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631271_Neuro_Krainc_P03_B04_FRATRO077.CEL.gz",
+        "Time": "05/17/2017 19:51:52",
+        "Size": "4630967",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631272_Neuro_Krainc_P03_B06_FRATRO079.CEL.gz",
+        "Time": "05/17/2017 19:51:54",
+        "Size": "4500839",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631273_Neuro_Krainc_P03_C03_FRATRO093.CEL.gz",
+        "Time": "05/17/2017 19:51:55",
+        "Size": "4532431",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631274_Neuro_Krainc_P03_E07_FRATRO121.CEL.gz",
+        "Time": "05/17/2017 19:51:57",
+        "Size": "4342004",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631275_Neuro_Krainc_P03_E08_FRATRO122.CEL.gz",
+        "Time": "05/17/2017 19:51:59",
+        "Size": "4491776",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631276_Neuro_Krainc_P03_E09_FRATRO123.CEL.gz",
+        "Time": "05/17/2017 19:52:00",
+        "Size": "4442397",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631277_Neuro_Krainc_P03_E10_FRATRO124.CEL.gz",
+        "Time": "05/17/2017 19:52:03",
+        "Size": "4531451",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631278_Neuro_Krainc_P03_F01_FRATRO127.CEL.gz",
+        "Time": "05/17/2017 19:52:05",
+        "Size": "4496085",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631279_Neuro_Krainc_P03_F02_FRATRO129.CEL.gz",
+        "Time": "05/17/2017 19:52:06",
+        "Size": "4628823",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631280_Neuro_Krainc_P03_F04_FRATRO131.CEL.gz",
+        "Time": "05/17/2017 19:52:08",
+        "Size": "3962494",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631281_Neuro_Krainc_P03_F06_FRATRO133.CEL.gz",
+        "Time": "05/17/2017 19:52:10",
+        "Size": "4492695",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631282_Neuro_Krainc_P03_F09_FRATRO136.CEL.gz",
+        "Time": "05/17/2017 19:52:12",
+        "Size": "4209111",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631283_Neuro_Krainc_P04_B06_FRATRO186.CEL.gz",
+        "Time": "05/17/2017 19:52:14",
+        "Size": "4549716",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631284_Neuro_Krainc_P04_B12_FRATRO192.CEL.gz",
+        "Time": "05/17/2017 19:52:16",
+        "Size": "4376334",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631285_Neuro_Krainc_P04_E04_FRATRO220.CEL.gz",
+        "Time": "05/17/2017 19:52:18",
+        "Size": "4809369",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631286_Neuro_Krainc_P04_F05_FRATRO234_2.CEL.gz",
+        "Time": "05/17/2017 19:52:20",
+        "Size": "4242721",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631287_Neuro_Krainc_P04_G10_FRATRO251.CEL.gz",
+        "Time": "05/17/2017 19:52:22",
+        "Size": "4391213",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631288_Neuro_Krainc_P04_H10_FRATRO265.CEL.gz",
+        "Time": "05/17/2017 19:52:24",
+        "Size": "4381431",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631289_Neuro_Krainc_P05_A03_FRATRO271.CEL.gz",
+        "Time": "05/17/2017 19:52:25",
+        "Size": "4444732",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631290_Neuro_Krainc_P05_A06_FRATRO274.CEL.gz",
+        "Time": "05/17/2017 19:52:27",
+        "Size": "4494996",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631291_Neuro_Krainc_P05_A09_FRATRO278.CEL.gz",
+        "Time": "05/17/2017 19:52:29",
+        "Size": "4266052",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631292_Neuro_Krainc_P05_B01_FRATRO283.CEL.gz",
+        "Time": "05/17/2017 19:52:31",
+        "Size": "4632950",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631293_Neuro_Krainc_P05_B03_FRATRO285.CEL.gz",
+        "Time": "05/17/2017 19:52:33",
+        "Size": "4422671",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631294_Neuro_Krainc_P05_B09_FRATRO292.CEL.gz",
+        "Time": "05/17/2017 19:52:35",
+        "Size": "4302251",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631295_Neuro_Krainc_P05_B10_FRATRO293.CEL.gz",
+        "Time": "05/17/2017 19:52:37",
+        "Size": "4240122",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631296_Neuro_Krainc_P05_C03_FRATRO298.CEL.gz",
+        "Time": "05/17/2017 19:52:39",
+        "Size": "4376885",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631297_Neuro_Krainc_P05_C08_FRATRO303.CEL.gz",
+        "Time": "05/17/2017 19:52:40",
+        "Size": "4125454",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631298_Neuro_Krainc-2_P02_A07_L3663_01.CEL.gz",
+        "Time": "05/17/2017 19:52:42",
+        "Size": "4477129",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631299_Neuro_Krainc-2_P02_A12_L4021_01.CEL.gz",
+        "Time": "05/17/2017 19:52:44",
+        "Size": "4475265",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631300_Neuro_Krainc-2_P02_B06_L1342_01.CEL.gz",
+        "Time": "05/17/2017 19:52:46",
+        "Size": "4371206",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631301_Neuro_Krainc-2_P02_B09_L3686_01.CEL.gz",
+        "Time": "05/17/2017 19:52:47",
+        "Size": "4515958",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631302_Neuro_Krainc-2_P02_B11_L3669_01.CEL.gz",
+        "Time": "05/17/2017 19:52:49",
+        "Size": "4278956",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631303_Neuro_Krainc-2_P02_C05_L4106_01.CEL.gz",
+        "Time": "05/17/2017 19:52:50",
+        "Size": "4334114",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631304_Neuro_Krainc-2_P02_C06_L4025_01.CEL.gz",
+        "Time": "05/17/2017 19:52:52",
+        "Size": "4053295",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631305_Neuro_Krainc-2_P02_C08_L3654_01.CEL.gz",
+        "Time": "05/17/2017 19:52:54",
+        "Size": "4320715",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631306_Neuro_Krainc-2_P02_C10_L3700_01.CEL.gz",
+        "Time": "05/17/2017 19:52:56",
+        "Size": "4388821",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631307_Neuro_Krainc-2_P02_D02_L3872_01.CEL.gz",
+        "Time": "05/17/2017 19:52:57",
+        "Size": "4421128",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631308_Neuro_Krainc-2_P02_D05_L4105_01.CEL.gz",
+        "Time": "05/17/2017 19:52:59",
+        "Size": "4282442",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631309_Neuro_Krainc-2_P02_D09_L2872_01.CEL.gz",
+        "Time": "05/17/2017 19:53:00",
+        "Size": "4216004",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631310_Neuro_Krainc-2_P02_F02_L3668_01.CEL.gz",
+        "Time": "05/17/2017 19:53:02",
+        "Size": "4489889",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631311_Neuro_Krainc-2_P02_F03_L4104_01.CEL.gz",
+        "Time": "05/17/2017 19:53:04",
+        "Size": "4547562",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631312_Neuro_Krainc-2_P02_F04_L4027_01.CEL.gz",
+        "Time": "05/17/2017 19:53:06",
+        "Size": "4603290",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631313_Neuro_Krainc-2_P03_B10_FRA_TRO_357_01.CEL.gz",
+        "Time": "05/17/2017 19:53:07",
+        "Size": "4112391",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631314_Neuro_Krainc-2_P03_B11_FRA_TRO_358_01.CEL.gz",
+        "Time": "05/17/2017 19:53:09",
+        "Size": "4127557",
+        "Type": "CEL"
+      },
+      {
+        "Archive/File": "File",
+        "Name": "GSM2631315_Neuro_Krainc-2_P03_C01_FRA_TRO_360_01.CEL.gz",
+        "Time": "05/17/2017 19:53:11",
+        "Size": "4377693",
+        "Type": "CEL"
+      }
+    ],
+    "n_entries": 559,
+    "type_counts": {
+      "TAR": 1,
+      "CEL": 558
+    }
+  },
+  "table_kind": "file_manifest",
+  "limitations": [],
+  "error": null
+}

@@ -1,0 +1,6 @@
+^PLATFORM = GPL9999999
+!Platform_title = Synthetic expression array
+!Platform_geo_accession = GPL9999999
+!Platform_technology = synthetic
+!Platform_distribution = commercial
+!Platform_organism = Homo sapiens

@@ -1,0 +1,12 @@
+{
+ "python": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]",
+ "numpy": "2.5.3",
+ "pandas": "3.0.6",
+ "PyYAML": "6.0.3",
+ "requests": "2.34.2",
+ "pytest": "9.1.1",
+ "sqlite": "3.51.0",
+ "openssl": "OpenSSL 3.6.2 7 Apr 2026",
+ "numpy_blas": "accelerate",
+ "numpy_lapack": "accelerate"
+}

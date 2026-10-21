@@ -1,0 +1,588 @@
+gsm	array_barcode	participant_code	geo_status	r5_category	group	eligible_in_dataset_preqc	primary_contrast_preqc	age	gender	batch	replicate_annotation	rules
+GSM4187187	200363680054_G		Control	mapped	CTL	True	control	68	Male	37	replicate 1	R1;R3:control
+GSM4187188	5786049087_G		MCI	mapped	MCI	True		82	Male	21	replicate 1	R1;R4:outside_primary_contrast
+GSM4187189	5937345007_F		Control	mapped	CTL	True	control	63	Female	23	replicate 1	R1;R3:control
+GSM4187190	200363680054_L		MCI	mapped	MCI	True		77	Male	37	replicate 1	R1;R4:outside_primary_contrast
+GSM4187191	5872641012_H		Control	mapped	CTL	True	control	82	Male	20	replicate 1	R1;R3:control
+GSM4187192	5872641070_A		Control	mapped	CTL	True	control	86	Male	20	replicate 1	R1;R3:control
+GSM4187193	5937337095_B		Control	mapped	CTL	True	control	74	Female	23	replicate 1	R1;R3:control
+GSM4187194	5872641011_I		Control	mapped	CTL	True	control	74	Female	20	replicate 1	R1;R3:control
+GSM4187195	5872641011_B		Control	mapped	CTL	True	control	76	Male	20	replicate 1	R1;R3:control
+GSM4187196	5872641054_F		MCI	mapped	MCI	True		83	Female	20	replicate 1	R1;R4:outside_primary_contrast
+GSM4187197	5872641011_G		Control	mapped	CTL	True	control	86	Male	20	replicate 1	R1;R3:control
+GSM4187198	5872641012_J		Control	mapped	CTL	True	control	72	Female	20	replicate 1	R1;R3:control
+GSM4187199	5786049087_D		Control	mapped	CTL	True	control	63	Female	21	replicate 1	R1;R3:control
+GSM4187200	5786049087_H		Control	mapped	CTL	True	control	65	Female	21	replicate 1	R1;R3:control
+GSM4187201	5937345070_F		Control	mapped	CTL	True	control	70	Male	23	replicate 1	R1;R3:control
+GSM4187202	5786049087_E		Control	mapped	CTL	True	control	71	Female	21	replicate 1	R1;R3:control
+GSM4187203	5872641018_G		AD	mapped	AD	True	case	64	Female	20	replicate 1	R1;R3:case
+GSM4187204	5872641012_D		Control	mapped	CTL	True	control	72	Male	20	replicate 1	R1;R3:control
+GSM4187205	5872617031_A		Control	mapped	CTL	True	control	75	Female	20	replicate 1	R1;R3:control
+GSM4187206	5872641054_C		Control	mapped	CTL	True	control	85	Female	20	replicate 1	R1;R3:control
+GSM4187207	5872641054_H		Control	mapped	CTL	True	control	73	Male	20	replicate 1	R1;R3:control
+GSM4187208	5872641070_B		Control	mapped	CTL	True	control	75	Female	20	replicate 1	R1;R3:control
+GSM4187209	5872641053_H		Control	mapped	CTL	True	control	77	Male	20	replicate 1	R1;R3:control
+GSM4187210	5872641059_I		AD	mapped	AD	True	case	82	Female	20	replicate 1	R1;R3:case
+GSM4187211	5872641070_D		AD	mapped	AD	True	case	70	Male	20	replicate 1	R1;R3:case
+GSM4187212	5872641016_K		Control	mapped	CTL	True	control	70	Male	20	replicate 1	R1;R3:control
+GSM4187213	5872641018_A		Control	mapped	CTL	True	control	72	Female	20	replicate 1	R1;R3:control
+GSM4187214	5872641031_L		Control	mapped	CTL	True	control	72	Male	20	replicate 1	R1;R3:control
+GSM4187215	5872641031_A		MCI	mapped	MCI	True		80	Female	20	replicate 1	R1;R4:outside_primary_contrast
+GSM4187216	5872617031_E		Control	mapped	CTL	True	control	68	Female	20	replicate 1	R1;R3:control
+GSM4187217	5872641031_C		AD	mapped	AD	True	case	69	Male	20	replicate 1	R1;R3:case
+GSM4187218	5872617031_C		Control	mapped	CTL	True	control	82	Male	20	replicate 1	R1;R3:control
+GSM4187219	5872641012_B		MCI	mapped	MCI	True		86	Male	20	replicate 1	R1;R4:outside_primary_contrast
+GSM4187220	5872641011_F		Control	mapped	CTL	True	control	86	Male	20	replicate 1	R1;R3:control
+GSM4187221	5872641059_H		Control	mapped	CTL	True	control	68	Female	20	replicate 1	R1;R3:control
+GSM4187222	5872641059_C		AD	mapped	AD	True	case	61	Female	20	replicate 1	R1;R3:case
+GSM4187223	5872641054_K		Control	mapped	CTL	True	control	70	Female	20	replicate 1	R1;R3:control
+GSM4187224	5872641059_D		AD	mapped	AD	True	case	82	Female	20	replicate 1	R1;R3:case
+GSM4187225	5872641016_E		AD	mapped	AD	True	case	82	Female	20	replicate 1	R1;R3:case
+GSM4187226	5872641032_E		Control	mapped	CTL	True	control	71	Male	20	replicate 1	R1;R3:control
+GSM4187227	5872641032_D		Control	mapped	CTL	True	control	76	Female	20	replicate 1	R1;R3:control
+GSM4187228	5872641059_F		AD	mapped	AD	True	case	61	Male	20	replicate 1	R1;R3:case
+GSM4187229	5872641011_D		Control	mapped	CTL	True	control	73	Male	20	replicate 1	R1;R3:control
+GSM4187230	5872641059_L		Control	mapped	CTL	True	control	79	Female	20	replicate 1	R1;R3:control
+GSM4187231	5872641018_F		Control	mapped	CTL	True	control	89	Female	20	replicate 1	R1;R3:control
+GSM4187232	5872641053_I		Control	mapped	CTL	True	control	69	Female	20	replicate 1	R1;R3:control
+GSM4187233	5872641032_B		Control	mapped	CTL	True	control	73	Male	20	replicate 1	R1;R3:control
+GSM4187234	5872641011_K		Control	mapped	CTL	True	control	74	Female	20	replicate 1	R1;R3:control
+GSM4187235	5872641054_D		Control	mapped	CTL	True	control	76	Female	20	replicate 1	R1;R3:control
+GSM4187236	5872641053_B		Control	mapped	CTL	True	control	66	Female	20	replicate 1	R1;R3:control
+GSM4187237	5872641031_H		MCI	mapped	MCI	True		81	Female	20	replicate 1	R1;R4:outside_primary_contrast
+GSM4187238	5872641031_J		MCI	mapped	MCI	True		69	Male	20	replicate 1	R1;R4:outside_primary_contrast
+GSM4187239	6016741004_F		Control	mapped	CTL	True	control	74	Female	23	replicate 1	R1;R3:control
+GSM4187240	6016741006_J		Control	mapped	CTL	True	control	67	Female	23	replicate 1	R1;R3:control
+GSM4187241	6016741006_B		MCI	mapped	MCI	True		69	Male	23	replicate 1	R1;R4:outside_primary_contrast
+GSM4187242	5937345070_G		Control	mapped	CTL	True	control	74	Female	23	replicate 1	R1;R3:control
+GSM4187243	5937345007_G		Control	mapped	CTL	True	control	68	Male	23	replicate 1	R1;R3:control
+GSM4187244	6016741003_K		Control	mapped	CTL	True	control	73	Female	23	replicate 1	R1;R3:control
+GSM4187245	6116733070_G		Control	mapped	CTL	True	control	75	Male	23	replicate 1	R1;R3:control
+GSM4187246	5937337095_K		MCI	mapped	MCI	True		85	Female	23	replicate 1	R1;R4:outside_primary_contrast
+GSM4187247	6016741004_G		AD	mapped	AD	True	case	66	Male	23	replicate 1	R1;R3:case
+GSM4187248	6016741006_C		AD	mapped	AD	True	case	68	Female	23	replicate 1	R1;R3:case
+GSM4187249	5937345070_H		Control	mapped	CTL	True	control	73	Female	23	replicate 1	R1;R3:control
+GSM4187250	5937337074_D		AD	mapped	AD	True	case	81	Female	23	replicate 1	R1;R3:case
+GSM4187251	6116733070_H		AD	mapped	AD	True	case	64	Male	23	replicate 1	R1;R3:case
+GSM4187252	5937337074_L		Control	mapped	CTL	True	control	68	Male	23	replicate 1	R1;R3:control
+GSM4187253	5937337095_L		AD	mapped	AD	True	case	81	Female	23	replicate 1	R1;R3:case
+GSM4187254	5937337095_D		MCI	mapped	MCI	True		84	Female	23	replicate 1	R1;R4:outside_primary_contrast
+GSM4187255	6016741003_D		Control	mapped	CTL	True	control	85	Female	23	replicate 1	R1;R3:control
+GSM4187256	6016741008_A		Control	mapped	CTL	True	control	64	Female	23	replicate 1	R1;R3:control
+GSM4187257	6016741006_L		Control	mapped	CTL	True	control	83	Female	23	replicate 1	R1;R3:control
+GSM4187258	5975106019_E		AD	mapped	AD	True	case	64	Male	23	replicate 1	R1;R3:case
+GSM4187259	6016741002_I		MCI	mapped	MCI	True		72	Female	23	replicate 1	R1;R4:outside_primary_contrast
+GSM4187260	5975106007_A		AD	mapped	AD	True	case	74	Female	23	replicate 1	R1;R3:case
+GSM4187261	5975106007_I		Control	mapped	CTL	True	control	84	Female	23	replicate 1	R1;R3:control
+GSM4187262	5975106040_A		AD	mapped	AD	True	case	87	Female	23	replicate 1	R1;R3:case
+GSM4187263	5975106038_E		Control	mapped	CTL	True	control	89	Female	23	replicate 1	R1;R3:control
+GSM4187264	6016741008_J		Control	mapped	CTL	True	control	64	Female	23	replicate 1	R1;R3:control
+GSM4187265	6016741008_B		Control	mapped	CTL	True	control	66	Male	23	replicate 1	R1;R3:control
+GSM4187266	9631032028_I		Control	mapped	CTL	True	control	68	Female	34	replicate 1	R1;R3:control
+GSM4187267	5975106019_F		Control	mapped	CTL	True	control	68	Male	23	replicate 1	R1;R3:control
+GSM4187268	5975106007_J		Control	mapped	CTL	True	control	75	Female	23	replicate 1	R1;R3:control
+GSM4187269	5975106040_B		Control	mapped	CTL	True	control	81	Female	23	replicate 1	R1;R3:control
+GSM4187270	5975106038_F		MCI	mapped	MCI	True		87	Male	23	replicate 1	R1;R4:outside_primary_contrast
+GSM4187271	6016741008_K		Control	mapped	CTL	True	control	69	Male	23	replicate 1	R1;R3:control
+GSM4187272	6016741008_C		AD	mapped	AD	True	case	79	Male	23	replicate 1	R1;R3:case
+GSM4187273	6016741009_G		AD	mapped	AD	True	case	69	Female	23	replicate 1	R1;R3:case
+GSM4187274	5975106007_C		Control	mapped	CTL	True	control	76	Male	23	replicate 1	R1;R3:control
+GSM4187275	6016741002_C		Control	mapped	CTL	True	control	83	Female	23	replicate 1	R1;R3:control
+GSM4187276	6116768119_L		Control	mapped	CTL	True	control	69	Female	24	replicate 1	R1;R3:control
+GSM4187277	6116768129_B		MCI	mapped	MCI	True		66	Male	24	replicate 1	R1;R4:outside_primary_contrast
+GSM4187278	6116733125_K		AD	mapped	AD	True	case	75	Male	24	replicate 1	R1;R3:case
+GSM4187279	6116733120_I		AD	mapped	AD	True	case	79	Male	24	replicate 1	R1;R3:case
+GSM4187280	6116733121_D		AD	mapped	AD	True	case	79	Male	24	replicate 1	R1;R3:case
+GSM4187281	6116733138_A		AD	mapped	AD	True	case	80	Male	24	replicate 1	R1;R3:case
+GSM4187282	6116733118_H		AD	mapped	AD	True	case	63	Female	24	replicate 1	R1;R3:case
+GSM4187283	6116733120_J		AD	mapped	AD	True	case	73	Female	24	replicate 1	R1;R3:case
+GSM4187284	6116733138_B		MCI	mapped	MCI	True		71	Female	24	replicate 1	R1;R4:outside_primary_contrast
+GSM4187285	6116768129_D		MCI	mapped	MCI	True		71	Male	24	replicate 1	R1;R4:outside_primary_contrast
+GSM4187286	6116733125_L		AD	mapped	AD	True	case	77	Female	24	replicate 1	R1;R3:case
+GSM4187287	6116733001_F		Control	mapped	CTL	True	control	78	Male	24	replicate 1	R1;R3:control
+GSM4187288	6116733120_L		AD	mapped	AD	True	case	61	Male	24	replicate 1	R1;R3:case
+GSM4187289	6116733121_B		Control	mapped	CTL	True	control	68	Male	24	replicate 1	R1;R3:control
+GSM4187290	6116768119_D		Control	mapped	CTL	True	control	63	Male	24	replicate 1	R1;R3:control
+GSM4187291	6116733001_H		AD	mapped	AD	True	case	76	Male	24	replicate 1	R1;R3:case
+GSM4187292	6116768127_J		MCI	mapped	MCI	True		74	Male	24	replicate 1	R1;R4:outside_primary_contrast
+GSM4187293	6260962092_A		AD	mapped	AD	True	case	61	Female	26	replicate 1	R1;R3:case
+GSM4187294	6116750051_D		AD	mapped	AD	True	case	67	Female	25	replicate 1	R1;R3:case
+GSM4187295	6116750051_F		MCI	mapped	MCI	True		70	Female	25	replicate 1	R1;R4:outside_primary_contrast
+GSM4187296	6116750051_H		Control	mapped	CTL	True	control	78	Female	25	replicate 1	R1;R3:control
+GSM4187297	6116750081_B		MCI	mapped	MCI	True		70	Female	25	replicate 1	R1;R4:outside_primary_contrast
+GSM4187298	6116750081_F		MCI	mapped	MCI	True		79	Male	25	replicate 1	R1;R4:outside_primary_contrast
+GSM4187299	6116750051_J		AD	mapped	AD	True	case	79	Male	25	replicate 1	R1;R3:case
+GSM4187300	6116750051_L		AD	mapped	AD	True	case	80	Male	25	replicate 1	R1;R3:case
+GSM4187301	6260962092_B		MCI	mapped	MCI	True		62	Male	26	replicate 1	R1;R4:outside_primary_contrast
+GSM4187302	6116750081_I		Control	mapped	CTL	True	control	66	Male	25	replicate 1	R1;R3:control
+GSM4187303	6116750051_A		MCI	mapped	MCI	True		68	Female	25	replicate 1	R1;R4:outside_primary_contrast
+GSM4187304	6116750081_J		Control	mapped	CTL	True	control	74	Female	25	replicate 1	R1;R3:control
+GSM4187305	6116750081_K		AD	mapped	AD	True	case	85	Male	25	replicate 1	R1;R3:case
+GSM4187306	6260962092_C		Control	mapped	CTL	True	control	63	Female	26	replicate 1	R1;R3:control
+GSM4187307	6260962092_H		Control	mapped	CTL	True	control	69	Female	26	replicate 1	R1;R3:control
+GSM4187308	6260962092_E		Control	mapped	CTL	True	control	74	Male	26	replicate 1	R1;R3:control
+GSM4187309	6260962092_G		Control	mapped	CTL	True	control	78	Male	26	replicate 1	R1;R3:control
+GSM4187310	6260971012_H		MCI	mapped	MCI	True		66	Female	27	replicate 1	R1;R4:outside_primary_contrast
+GSM4187311	6303248057_L		AD	mapped	AD	True	case	65	Female	31	replicate 1	R1;R3:case
+GSM4187312	6303281019_B		AD	mapped	AD	True	case	72	Male	31	replicate 1	R1;R3:case
+GSM4187313	6303230097_A		MCI	mapped	MCI	True		73	Male	28	replicate 1	R1;R4:outside_primary_contrast
+GSM4187314	6303281019_H		Control	mapped	CTL	True	control	75	Male	31	replicate 1	R1;R3:control
+GSM4187315	6303230097_I		AD	mapped	AD	True	case	81	Female	28	replicate 1	R1;R3:case
+GSM4187316	6303230097_B		MCI	mapped	MCI	True		61	Female	28	replicate 1	R1;R4:outside_primary_contrast
+GSM4187317	6303248067_H		Control	mapped	CTL	True	control	76	Male	28	replicate 1	R1;R3:control
+GSM4187318	6303248029_J		Control	mapped	CTL	True	control	76	Male	28	replicate 1	R1;R3:control
+GSM4187319	6303248029_C		MCI	mapped	MCI	True		80	Female	28	replicate 1	R1;R4:outside_primary_contrast
+GSM4187320	6303230097_J		MCI	mapped	MCI	True		76	Female	28	replicate 1	R1;R4:outside_primary_contrast
+GSM4187321	6303230097_K		AD	mapped	AD	True	case	61	Male	28	replicate 1	R1;R3:case
+GSM4187322	6303248067_B		MCI	mapped	MCI	True		71	Female	28	replicate 1	R1;R4:outside_primary_contrast
+GSM4187323	6303248029_D		Control	mapped	CTL	True	control	71	Female	28	replicate 1	R1;R3:control
+GSM4187324	6303230097_C		Control	mapped	CTL	True	control	74	Male	28	replicate 1	R1;R3:control
+GSM4187325	6303248029_K		MCI	mapped	MCI	True		75	Male	28	replicate 1	R1;R4:outside_primary_contrast
+GSM4187326	6303248029_L		AD	mapped	AD	True	case	73	Female	28	replicate 1	R1;R3:case
+GSM4187327	6303230098_G		Control	mapped	CTL	True	control	73	Male	28	replicate 1	R1;R3:control
+GSM4187328	6303248067_C		MCI	mapped	MCI	True		75	Female	28	replicate 1	R1;R4:outside_primary_contrast
+GSM4187329	6898325080_A		MCI	mapped	MCI	True		67	Male	32	replicate 1	R1;R4:outside_primary_contrast
+GSM4187330	6303230098_H		Control	mapped	CTL	True	control	71	Male	28	replicate 1	R1;R3:control
+GSM4187331	6303230097_D		Control	mapped	CTL	True	control	80	Female	28	replicate 1	R1;R3:control
+GSM4187332	6898325063_A		Control	mapped	CTL	True	control	71	Male	32	replicate 1	R1;R3:control
+GSM4187333	7166142013_A		MCI	mapped	MCI	True		77	Male	32	replicate 1	R1;R4:outside_primary_contrast
+GSM4187334	6898325060_A		AD	mapped	AD	True	case	80	Male	32	replicate 1	R1;R3:case
+GSM4187335	6898325082_A		Control	mapped	CTL	True	control	75	Male	32	replicate 1	R1;R3:control
+GSM4187336	6898325057_A		AD	mapped	AD	True	case	62	Female	32	replicate 1	R1;R3:case
+GSM4187337	6898325060_B		MCI	mapped	MCI	True		63	Male	32	replicate 1	R1;R4:outside_primary_contrast
+GSM4187338	6898325083_B		MCI	mapped	MCI	True		61	Male	32	replicate 1	R1;R4:outside_primary_contrast
+GSM4187339	6898325082_B		Control	mapped	CTL	True	control	85	Female	32	replicate 1	R1;R3:control
+GSM4187340	6898325057_B		Control	mapped	CTL	True	control	66	Male	32	replicate 1	R1;R3:control
+GSM4187341	7166142013_C		MCI	mapped	MCI	True		74	Male	32	replicate 1	R1;R4:outside_primary_contrast
+GSM4187342	6898325079_C		Control	mapped	CTL	True	control	68	Female	32	replicate 1	R1;R3:control
+GSM4187343	7166142013_E		Control	mapped	CTL	True	control	67	Female	32	replicate 1	R1;R3:control
+GSM4187344	6898325082_D		Control	mapped	CTL	True	control	71	Male	32	replicate 1	R1;R3:control
+GSM4187345	6898325057_D		Control	mapped	CTL	True	control	72	Male	32	replicate 1	R1;R3:control
+GSM4187346	6898325079_D		Control	mapped	CTL	True	control	73	Female	32	replicate 1	R1;R3:control
+GSM4187347	6898325083_D		AD	mapped	AD	True	case	76	Female	32	replicate 1	R1;R3:case
+GSM4187348	6898325083_E		Control	mapped	CTL	True	control	64	Male	32	replicate 1	R1;R3:control
+GSM4187349	6898325060_E		Control	mapped	CTL	True	control	67	Female	32	replicate 1	R1;R3:control
+GSM4187350	6898325063_E		Control	mapped	CTL	True	control	71	Female	32	replicate 1	R1;R3:control
+GSM4187351	6898325083_F		MCI	mapped	MCI	True		61	Female	32	replicate 1	R1;R4:outside_primary_contrast
+GSM4187352	6898325060_F		Control	mapped	CTL	True	control	71	Female	32	replicate 1	R1;R3:control
+GSM4187353	6898325057_F		AD	mapped	AD	True	case	85	Male	32	replicate 1	R1;R3:case
+GSM4187354	7656791031_A		AD	mapped	AD	True	case	76	Female	29	replicate 1	R1;R3:case
+GSM4187355	7656791031_B		MCI	mapped	MCI	True		69	Female	29	replicate 1	R1;R4:outside_primary_contrast
+GSM4187356	7656791031_H		Control	mapped	CTL	True	control	76	Male	29	replicate 1	R1;R3:control
+GSM4187357	7656791042_B		AD	mapped	AD	True	case	80	Female	29	replicate 1	R1;R3:case
+GSM4187358	7656791045_B		MCI	mapped	MCI	True		69	Male	29	replicate 1	R1;R4:outside_primary_contrast
+GSM4187359	7656791042_H		AD	mapped	AD	True	case	72	Male	29	replicate 1	R1;R3:case
+GSM4187360	7649540078_H		Control	mapped	CTL	True	control	69	Male	29	replicate 1	R1;R3:control
+GSM4187361	7649540078_B		AD	mapped	AD	True	case	74	Male	29	replicate 1	R1;R3:case
+GSM4187362	7656791031_C		Control	mapped	CTL	True	control	69	Male	29	replicate 1	R1;R3:control
+GSM4187363	7656791042_C		MCI	mapped	MCI	True		77	Male	29	replicate 1	R1;R4:outside_primary_contrast
+GSM4187364	7656791031_D		MCI	mapped	MCI	True		71	Male	29	replicate 1	R1;R4:outside_primary_contrast
+GSM4187365	7656791045_C		MCI	mapped	MCI	True		77	Male	29	replicate 1	R1;R4:outside_primary_contrast
+GSM4187366	7656791031_J		Control	mapped	CTL	True	control	70	Female	29	replicate 1	R1;R3:control
+GSM4187367	7656791031_E		AD	mapped	AD	True	case	65	Female	29	replicate 1	R1;R3:case
+GSM4187368	7649540078_J		AD	mapped	AD	True	case	82	Male	29	replicate 1	R1;R3:case
+GSM4187369	7656791045_E		MCI	mapped	MCI	True		64	Male	29	replicate 1	R1;R4:outside_primary_contrast
+GSM4187370	7649540078_E		MCI	mapped	MCI	True		68	Female	29	replicate 1	R1;R4:outside_primary_contrast
+GSM4187371	7649540078_K		MCI	mapped	MCI	True		74	Female	29	replicate 1	R1;R4:outside_primary_contrast
+GSM4187372	7656791045_K		AD	mapped	AD	True	case	85	Male	29	replicate 1	R1;R3:case
+GSM4187373	7656791042_F		AD	mapped	AD	True	case	70	Female	29	replicate 1	R1;R3:case
+GSM4187374	8381645086_F		Control	mapped	CTL	True	control	70	Female	30	replicate 1	R1;R3:control
+GSM4187375	8381645089_H		Control	mapped	CTL	True	control	70	Female	30	replicate 1	R1;R3:control
+GSM4187376	8381645085_K		AD	mapped	AD	True	case	74	Male	30	replicate 1	R1;R3:case
+GSM4187377	8381645080_L		AD	mapped	AD	True	case	77	Male	30	replicate 1	R1;R3:case
+GSM4187378	8381645080_H		MCI	mapped	MCI	True		68	Female	30	replicate 1	R1;R4:outside_primary_contrast
+GSM4187379	8381645085_G		Control	mapped	CTL	True	control	71	Male	30	replicate 1	R1;R3:control
+GSM4187380	8381645085_D		AD	mapped	AD	True	case	72	Male	30	replicate 1	R1;R3:case
+GSM4187381	8381645083_K		MCI	mapped	MCI	True		74	Male	30	replicate 1	R1;R4:outside_primary_contrast
+GSM4187382	8381645080_I		MCI	mapped	MCI	True		83	Male	30	replicate 1	R1;R4:outside_primary_contrast
+GSM4187383	8381645083_C		MCI	mapped	MCI	True		78	Female	30	replicate 1	R1;R4:outside_primary_contrast
+GSM4187384	8381645086_G		AD	mapped	AD	True	case	66	Male	30	replicate 1	R1;R3:case
+GSM4187385	8381645080_K		Control	mapped	CTL	True	control	63	Female	30	replicate 1	R1;R3:control
+GSM4187386	8381645086_E		AD	mapped	AD	True	case	62	Male	30	replicate 1	R1;R3:case
+GSM4187387	8381645085_L		AD	mapped	AD	True	case	63	Female	30	replicate 1	R1;R3:case
+GSM4187388	8381645085_A		Control	mapped	CTL	True	control	69	Female	30	replicate 1	R1;R3:control
+GSM4187389	8381645083_L		MCI	mapped	MCI	True		70	Female	30	replicate 1	R1;R4:outside_primary_contrast
+GSM4187390	8845526007_L		AD	mapped	AD	True	case	81	Male	31	replicate 1	R1;R3:case
+GSM4187391	8381645083_D		Control	mapped	CTL	True	control	75	Male	30	replicate 1	R1;R3:control
+GSM4187392	8381645086_H		Control	mapped	CTL	True	control	82	Female	30	replicate 1	R1;R3:control
+GSM4187393	8381645089_C		Control	mapped	CTL	True	control	69	Female	30	replicate 1	R1;R3:control
+GSM4187394	8381645085_E		Control	mapped	CTL	True	control	76	Female	30	replicate 1	R1;R3:control
+GSM4187395	8381645086_D		AD	mapped	AD	True	case	81	Female	30	replicate 1	R1;R3:case
+GSM4187396	8381645086_I		Control	mapped	CTL	True	control	82	Male	30	replicate 1	R1;R3:control
+GSM4187397	8381645089_D		Control	mapped	CTL	True	control	85	Male	30	replicate 1	R1;R3:control
+GSM4187398	8381645080_A		AD	mapped	AD	True	case	79	Female	30	replicate 1	R1;R3:case
+GSM4187399	8381645080_B		MCI	mapped	MCI	True		81	Male	30	replicate 1	R1;R4:outside_primary_contrast
+GSM4187400	8381645083_I		MCI	mapped	MCI	True		79	Female	30	replicate 1	R1;R4:outside_primary_contrast
+GSM4187401	8381645080_G		AD	mapped	AD	True	case	83	Female	30	replicate 1	R1;R3:case
+GSM4187402	200363680018_L		AD	mapped	AD	True	case	74	Female	38	replicate 1	R1;R3:case
+GSM4187403	6898325063_B		Control	mapped	CTL	True	control	77	Male	32	replicate 1	R1;R3:control
+GSM4187404	6898325080_F		Control	mapped	CTL	True	control	63	Female	32	replicate 1	R1;R3:control
+GSM4187405	6898325082_E		Control	mapped	CTL	True	control	69	Male	32	replicate 1	R1;R3:control
+GSM4187406	6898325057_E		Control	mapped	CTL	True	control	80	Male	32	replicate 1	R1;R3:control
+GSM4187407	8381645085_H		MCI	mapped	MCI	True		86	Male	30	replicate 1	R1;R4:outside_primary_contrast
+GSM4187408	8845526007_I		MCI	mapped	MCI	True		82	Male	31	replicate 1	R1;R4:outside_primary_contrast
+GSM4187409	8845526007_H		AD	mapped	AD	True	case	65	Female	31	replicate 1	R1;R3:case
+GSM4187410	8845526017_C		AD	mapped	AD	True	case	81	Female	31	replicate 1	R1;R3:case
+GSM4187411	200363680054_F		Control	mapped	CTL	True	control	83	Female	37	replicate 1	R1;R3:control
+GSM4187412	5872641018_D		Control	mapped	CTL	True	control	73	Male	20	replicate 1	R1;R3:control
+GSM4187413	5872641054_I		Control	mapped	CTL	True	control	73	Female	20	replicate 1	R1;R3:control
+GSM4187414	5872641070_H		Control	mapped	CTL	True	control	86	Female	20	replicate 1	R1;R3:control
+GSM4187415	5872641011_L		Control	mapped	CTL	True	control	72	Female	20	replicate 1	R1;R3:control
+GSM4187416	5872641032_L		AD	mapped	AD	True	case	80	Male	20	replicate 1	R1;R3:case
+GSM4187417	5872641018_L		AD	mapped	AD	True	case	71	Female	20	replicate 1	R1;R3:case
+GSM4187418	5872641016_L		MCI	mapped	MCI	True		87	Male	20	replicate 1	R1;R4:outside_primary_contrast
+GSM4187419	5872641032_C		Control	mapped	CTL	True	control	71	Female	20	replicate 1	R1;R3:control
+GSM4187420	5872641016_G		Control	mapped	CTL	True	control	73	Male	20	replicate 1	R1;R3:control
+GSM4187421	5872641070_C		Control	mapped	CTL	True	control	75	Female	20	replicate 1	R1;R3:control
+GSM4187422	5872641016_B		Control	mapped	CTL	True	control	76	Male	20	replicate 1	R1;R3:control
+GSM4187423	5872641012_F		Control	mapped	CTL	True	control	85	Male	20	replicate 1	R1;R3:control
+GSM4187424	8845526007_A		MCI	mapped	MCI	True		65	Male	31	replicate 1	R1;R4:outside_primary_contrast
+GSM4187425	8845526039_B		AD	mapped	AD	True	case	64	Female	31	replicate 1	R1;R3:case
+GSM4187426	8845526039_H		AD	mapped	AD	True	case	80	Male	31	replicate 1	R1;R3:case
+GSM4187427	8845526029_H		AD	mapped	AD	True	case	84	Male	31	replicate 1	R1;R3:case
+GSM4187428	8845526029_D		Control	mapped	CTL	True	control	66	Female	31	replicate 1	R1;R3:control
+GSM4187429	8845526039_A		AD	mapped	AD	True	case	71	Female	31	replicate 1	R1;R3:case
+GSM4187430	8845526013_A		MCI	mapped	MCI	True		74	Female	31	replicate 1	R1;R4:outside_primary_contrast
+GSM4187431	8845526017_I		Control	mapped	CTL	True	control	71	Male	31	replicate 1	R1;R3:control
+GSM4187432	8845526017_G		Control	mapped	CTL	True	control	85	Female	31	replicate 1	R1;R3:control
+GSM4187433	8845526017_E		AD	mapped	AD	True	case	83	Male	31	replicate 1	R1;R3:case
+GSM4187434	8845526013_F		MCI	mapped	MCI	True		68	Female	31	replicate 1	R1;R4:outside_primary_contrast
+GSM4187435	8845526017_H		AD	mapped	AD	True	case	87	Male	31	replicate 1	R1;R3:case
+GSM4187436	8845526029_A		MCI	mapped	MCI	True		68	Female	31	replicate 1	R1;R4:outside_primary_contrast
+GSM4187437	8845526017_D		AD	mapped	AD	True	case	86	Female	31	replicate 1	R1;R3:case
+GSM4187438	8845526017_J		AD	mapped	AD	True	case	72	Male	31	replicate 1	R1;R3:case
+GSM4187439	8845526039_G		AD	mapped	AD	True	case	67	Male	31	replicate 1	R1;R3:case
+GSM4187440	8845526039_D		AD	mapped	AD	True	case	65	Male	31	replicate 1	R1;R3:case
+GSM4187441	9631032028_E		AD	mapped	AD	True	case	72	Female	34	replicate 1	R1;R3:case
+GSM4187442	9443362011_I		AD	mapped	AD	True	case	68	Male	32	replicate 1	R1;R3:case
+GSM4187443	9443362011_J		MCI	mapped	MCI	True		74	Male	32	replicate 1	R1;R4:outside_primary_contrast
+GSM4187444	9443362009_B		Control	mapped	CTL	True	control	66	Female	32	replicate 1	R1;R3:control
+GSM4187445	9443362009_C		AD	mapped	AD	True	case	85	Female	32	replicate 1	R1;R3:case
+GSM4187446	8845526029_L		MCI	mapped	MCI	True		84	Female	31	replicate 1	R1;R4:outside_primary_contrast
+GSM4187447	8845526029_G		Control	mapped	CTL	True	control	74	Female	31	replicate 1	R1;R3:control
+GSM4187448	8845526029_K		Control	mapped	CTL	True	control	74	Male	31	replicate 1	R1;R3:control
+GSM4187449	8845526013_I		AD	mapped	AD	True	case	81	Male	31	replicate 1	R1;R3:case
+GSM4187450	8845526013_C		Control	mapped	CTL	True	control	77	Female	31	replicate 1	R1;R3:control
+GSM4187451	8845526029_B		MCI	mapped	MCI	True		82	Female	31	replicate 1	R1;R4:outside_primary_contrast
+GSM4187452	8845526017_A		MCI	mapped	MCI	True		72	Female	31	replicate 1	R1;R4:outside_primary_contrast
+GSM4187453	9443362009_G		AD	mapped	AD	True	case	65	Female	32	replicate 1	R1;R3:case
+GSM4187454	9443362009_I		Control	mapped	CTL	True	control	67	Female	32	replicate 1	R1;R3:control
+GSM4187455	9443362009_K		AD	mapped	AD	True	case	64	Female	32	replicate 1	R1;R3:case
+GSM4187456	9443362106_B		AD	mapped	AD	True	case	69	Female	32	replicate 1	R1;R3:case
+GSM4187457	9443362106_C		AD	mapped	AD	True	case	77	Male	32	replicate 1	R1;R3:case
+GSM4187458	9443362106_H		AD	mapped	AD	True	case	72	Male	32	replicate 1	R1;R3:case
+GSM4187459	9443362106_J		AD	mapped	AD	True	case	71	Female	32	replicate 1	R1;R3:case
+GSM4187460	9443362106_L		Control	mapped	CTL	True	control	69	Female	32	replicate 1	R1;R3:control
+GSM4187461	9444048022_A		AD	mapped	AD	True	case	74	Female	32	replicate 1	R1;R3:case
+GSM4187462	9444048022_B		AD	mapped	AD	True	case	83	Male	32	replicate 1	R1;R3:case
+GSM4187463	9463775099_B		AD	mapped	AD	True	case	78	Female	32	replicate 1	R1;R3:case
+GSM4187464	9463775099_E		AD	mapped	AD	True	case	83	Male	32	replicate 1	R1;R3:case
+GSM4187465	9463775099_F		AD	mapped	AD	True	case	68	Male	32	replicate 1	R1;R3:case
+GSM4187466	9463775099_J		AD	mapped	AD	True	case	68	Female	32	replicate 1	R1;R3:case
+GSM4187467	9463775099_L		Control	mapped	CTL	True	control	75	Female	32	replicate 1	R1;R3:control
+GSM4187468	9463775016_B		AD	mapped	AD	True	case	87	Female	32	replicate 1	R1;R3:case
+GSM4187469	9463775016_D		AD	mapped	AD	True	case	71	Male	32	replicate 1	R1;R3:case
+GSM4187470	9463775016_F		AD	mapped	AD	True	case	62	Female	32	replicate 1	R1;R3:case
+GSM4187471	9463775016_G		AD	mapped	AD	True	case	71	Male	32	replicate 1	R1;R3:case
+GSM4187472	9463775016_K		AD	mapped	AD	True	case	69	Male	32	replicate 1	R1;R3:case
+GSM4187473	9463775101_A		AD	mapped	AD	True	case	68	Male	32	replicate 1	R1;R3:case
+GSM4187474	9463775101_D		Control	mapped	CTL	True	control	66	Male	32	replicate 1	R1;R3:control
+GSM4187475	9463775101_I		Control	mapped	CTL	True	control	80	Female	32	replicate 1	R1;R3:control
+GSM4187476	9463775101_K		Control	mapped	CTL	True	control	68	Female	32	replicate 1	R1;R3:control
+GSM4187477	200363680055_K		Control	mapped	CTL	True	control	83	Male	37	replicate 1	R1;R3:control
+GSM4187478	9461595121_E		AD	mapped	AD	True	case	76	Male	32	replicate 1	R1;R3:case
+GSM4187479	9461595121_F		AD	mapped	AD	True	case	70	Female	32	replicate 1	R1;R3:case
+GSM4187480	9461595121_H		Control	mapped	CTL	True	control	71	Male	32	replicate 1	R1;R3:control
+GSM4187481	9461595121_I		Control	mapped	CTL	True	control	82	Female	32	replicate 1	R1;R3:control
+GSM4187482	9461595121_L		AD	mapped	AD	True	case	69	Female	32	replicate 1	R1;R3:case
+GSM4187483	9631032033_A		MCI	mapped	MCI	True		71	Female	34	replicate 1	R1;R4:outside_primary_contrast
+GSM4187484	9631032033_B		Control	mapped	CTL	True	control	83	Female	34	replicate 1	R1;R3:control
+GSM4187485	9631032033_C		AD	mapped	AD	True	case	63	Male	34	replicate 1	R1;R3:case
+GSM4187486	200667730024_A		MCI	mapped	MCI	True		82	Male	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187487	9631032033_E		Control	mapped	CTL	True	control	75	Male	34	replicate 1	R1;R3:control
+GSM4187488	9631032033_F		MCI	mapped	MCI	True		86	Male	34	replicate 1	R1;R4:outside_primary_contrast
+GSM4187489	9631032033_G		Control	mapped	CTL	True	control	81	Female	34	replicate 1	R1;R3:control
+GSM4187490	9682760081_I		AD	mapped	AD	True	case	81	Female	36	replicate 1	R1;R3:case
+GSM4187491	9631032033_I		Control	mapped	CTL	True	control	81	Female	34	replicate 1	R1;R3:control
+GSM4187492	9631032039_A		MCI	mapped	MCI	True		82	Female	34	replicate 1	R1;R4:outside_primary_contrast
+GSM4187493	9631032039_B		AD	mapped	AD	True	case	65	Female	34	replicate 1	R1;R3:case
+GSM4187494	9631032039_G		Control	mapped	CTL	True	control	71	Female	34	replicate 1	R1;R3:control
+GSM4187495	9631032039_K		AD	mapped	AD	True	case	68	Female	34	replicate 1	R1;R3:case
+GSM4187496	9631032039_L		MCI	mapped	MCI	True		70	Male	34	replicate 1	R1;R4:outside_primary_contrast
+GSM4187497	9631032042_C		Control	mapped	CTL	True	control	66	Female	34	replicate 1	R1;R3:control
+GSM4187498	9631032042_D		AD	mapped	AD	True	case	77	Male	34	replicate 1	R1;R3:case
+GSM4187499	9631032042_E		Control	mapped	CTL	True	control	74	Female	34	replicate 1	R1;R3:control
+GSM4187500	9631032042_F		AD	mapped	AD	True	case	65	Male	34	replicate 1	R1;R3:case
+GSM4187501	9631032042_H		Control	mapped	CTL	True	control	75	Male	34	replicate 1	R1;R3:control
+GSM4187502	9631032042_K		AD	mapped	AD	True	case	78	Female	34	replicate 1	R1;R3:case
+GSM4187503	9631032043_C		MCI	mapped	MCI	True		72	Male	34	replicate 1	R1;R4:outside_primary_contrast
+GSM4187504	9631032043_D		AD	mapped	AD	True	case	66	Female	34	replicate 1	R1;R3:case
+GSM4187505	9631032043_E		AD	mapped	AD	True	case	82	Male	34	replicate 1	R1;R3:case
+GSM4187506	9631032043_F		MCI	mapped	MCI	True		75	Female	34	replicate 1	R1;R4:outside_primary_contrast
+GSM4187507	9631032043_G		Control	mapped	CTL	True	control	74	Female	34	replicate 1	R1;R3:control
+GSM4187508	9631032043_H		Control	mapped	CTL	True	control	82	Female	34	replicate 1	R1;R3:control
+GSM4187509	9631032043_I		Control	mapped	CTL	True	control	72	Male	34	replicate 1	R1;R3:control
+GSM4187510	9631032043_L		MCI	mapped	MCI	True		62	Female	34	replicate 1	R1;R4:outside_primary_contrast
+GSM4187511	9631032047_B		Control	mapped	CTL	True	control	71	Male	34	replicate 1	R1;R3:control
+GSM4187512	9631032047_G		Control	mapped	CTL	True	control	62	Female	34	replicate 1	R1;R3:control
+GSM4187513	9631032047_H		MCI	mapped	MCI	True		78	Male	34	replicate 1	R1;R4:outside_primary_contrast
+GSM4187514	9631032047_I		MCI	mapped	MCI	True		73	Male	34	replicate 1	R1;R4:outside_primary_contrast
+GSM4187515	9631032047_J		MCI	mapped	MCI	True		68	Male	34	replicate 1	R1;R4:outside_primary_contrast
+GSM4187516	9631032047_L		Control	mapped	CTL	True	control	72	Male	34	replicate 1	R1;R3:control
+GSM4187517	9631032049_A		AD	mapped	AD	True	case	69	Female	34	replicate 1	R1;R3:case
+GSM4187518	9631032049_B		Control	mapped	CTL	True	control	73	Female	34	replicate 1	R1;R3:control
+GSM4187519	9631032049_F		Control	mapped	CTL	True	control	78	Female	34	replicate 1	R1;R3:control
+GSM4187520	9631032049_I		AD	mapped	AD	True	case	70	Male	34	replicate 1	R1;R3:case
+GSM4187521	9631032049_J		AD	mapped	AD	True	case	68	Male	34	replicate 1	R1;R3:case
+GSM4187522	9631032050_A		AD	mapped	AD	True	case	70	Female	34	replicate 1	R1;R3:case
+GSM4187523	9631032050_B		AD	mapped	AD	True	case	81	Male	34	replicate 1	R1;R3:case
+GSM4187524	9631032050_C		MCI	mapped	MCI	True		67	Male	34	replicate 1	R1;R4:outside_primary_contrast
+GSM4187525	9631032047_F		Control	mapped	CTL	True	control	68	Male	34	replicate 1	R1;R3:control
+GSM4187526	9665647061_H		AD	mapped	AD	True	case	81	Male	36	replicate 1	R1;R3:case
+GSM4187527	9665647061_I		AD	mapped	AD	True	case	75	Male	36	replicate 1	R1;R3:case
+GSM4187528	9665647061_L		AD	mapped	AD	True	case	69	Female	36	replicate 1	R1;R3:case
+GSM4187529	200363680017_J		AD	mapped	AD	True	case	69	Male	38	replicate 1	R1;R3:case
+GSM4187530	9665647062_E		AD	mapped	AD	True	case	75	Male	36	replicate 1	R1;R3:case
+GSM4187531	9665647062_G		MCI	mapped	MCI	True		77	Male	36	replicate 1	R1;R4:outside_primary_contrast
+GSM4187532	9682760062_K		AD	mapped	AD	True	case	69	Female	36	replicate 1	R1;R3:case
+GSM4187533	9682760071_A		AD	mapped	AD	True	case	67	Female	36	replicate 1	R1;R3:case
+GSM4187534	9682760071_F		Control	mapped	CTL	True	control	72	Female	36	replicate 1	R1;R3:control
+GSM4187535	9682760071_J		MCI	mapped	MCI	True		65	Male	36	replicate 1	R1;R4:outside_primary_contrast
+GSM4187536	9682760071_K		MCI	mapped	MCI	True		74	Male	36	replicate 1	R1;R4:outside_primary_contrast
+GSM4187537	9682760072_C		MCI	mapped	MCI	True		71	Male	36	replicate 1	R1;R4:outside_primary_contrast
+GSM4187538	9682760072_G		AD	mapped	AD	True	case	76	Female	36	replicate 1	R1;R3:case
+GSM4187539	9682760072_H		MCI	mapped	MCI	True		75	Female	36	replicate 1	R1;R4:outside_primary_contrast
+GSM4187540	9682760072_J		MCI	mapped	MCI	True		76	Female	36	replicate 1	R1;R4:outside_primary_contrast
+GSM4187541	9682760072_K		Control	mapped	CTL	True	control	69	Male	36	replicate 1	R1;R3:control
+GSM4187542	9682760072_L		MCI	mapped	MCI	True		72	Male	36	replicate 1	R1;R4:outside_primary_contrast
+GSM4187543	9682760073_D		AD	mapped	AD	True	case	86	Female	36	replicate 1	R1;R3:case
+GSM4187544	9682760074_B		MCI	mapped	MCI	True		81	Male	36	replicate 1	R1;R4:outside_primary_contrast
+GSM4187545	9682760074_C		MCI	mapped	MCI	True		67	Male	36	replicate 1	R1;R4:outside_primary_contrast
+GSM4187546	9682760074_D		AD	mapped	AD	True	case	62	Female	36	replicate 1	R1;R3:case
+GSM4187547	9682760074_F		AD	mapped	AD	True	case	73	Male	36	replicate 1	R1;R3:case
+GSM4187548	9682760073_E		AD	mapped	AD	True	case	82	Female	36	replicate 1	R1;R3:case
+GSM4187549	9682760073_G		AD	mapped	AD	True	case	64	Female	36	replicate 1	R1;R3:case
+GSM4187550	9682760073_K		Control	mapped	CTL	True	control	68	Female	36	replicate 1	R1;R3:control
+GSM4187551	9682760073_L		Control	mapped	CTL	True	control	75	Male	36	replicate 1	R1;R3:control
+GSM4187552	9682760074_I		AD	mapped	AD	True	case	74	Female	36	replicate 1	R1;R3:case
+GSM4187553	9682760074_K		MCI	mapped	MCI	True		75	Female	36	replicate 1	R1;R4:outside_primary_contrast
+GSM4187554	9682760074_L		MCI	mapped	MCI	True		71	Female	36	replicate 1	R1;R4:outside_primary_contrast
+GSM4187555	9682760076_L		MCI	mapped	MCI	True		66	Female	36	replicate 1	R1;R4:outside_primary_contrast
+GSM4187556	9682760079_L		AD	mapped	AD	True	case	75	Female	36	replicate 1	R1;R3:case
+GSM4187557	9682760080_B		AD	mapped	AD	True	case	84	Male	36	replicate 1	R1;R3:case
+GSM4187558	9682760076_A		AD	mapped	AD	True	case	70	Male	36	replicate 1	R1;R3:case
+GSM4187559	9682760076_H		MCI	mapped	MCI	True		73	Male	36	replicate 1	R1;R4:outside_primary_contrast
+GSM4187560	9682760080_C		AD	mapped	AD	True	case	72	Female	36	replicate 1	R1;R3:case
+GSM4187561	9682760080_I		AD	mapped	AD	True	case	77	Female	36	replicate 1	R1;R3:case
+GSM4187562	9682760081_D		Control	mapped	CTL	True	control	79	Male	36	replicate 1	R1;R3:control
+GSM4187563	9682760081_E		Control	mapped	CTL	True	control	70	Female	36	replicate 1	R1;R3:control
+GSM4187564	3999230075_F		MCI	mapped	MCI	True		61	Female	33	replicate 1	R1;R4:outside_primary_contrast
+GSM4187565	200373830016_C		AD	mapped	AD	True	case	70	Female	37	replicate 1	R1;R3:case
+GSM4187566	3999230071_E		MCI	mapped	MCI	True		72	Female	33	replicate 1	R1;R4:outside_primary_contrast
+GSM4187567	9682760081_C		Control	mapped	CTL	True	control	78	Male	36	replicate 1	R1;R3:control
+GSM4187568	200373830016_L		MCI	mapped	MCI	True		71	Female	37	replicate 1	R1;R4:outside_primary_contrast
+GSM4187569	3999230071_L		AD	mapped	AD	True	case	68	Female	33	replicate 1	R1;R3:case
+GSM4187570	200373830021_D		AD	mapped	AD	True	case	66	Male	37	replicate 1	R1;R3:case
+GSM4187571	3999230075_L		MCI	mapped	MCI	True		77	Male	33	replicate 1	R1;R4:outside_primary_contrast
+GSM4187572	3999230071_A		AD	mapped	AD	True	case	78	Male	33	replicate 1	R1;R3:case
+GSM4187573	3999230071_G		AD	mapped	AD	True	case	72	Male	33	replicate 1	R1;R3:case
+GSM4187574	9703627107_D		MCI	mapped	MCI	True		73	Female	35	replicate 1	R1;R4:outside_primary_contrast
+GSM4187575	3999230064_E		MCI	mapped	MCI	True		69	Female	33	replicate 1	R1;R4:outside_primary_contrast
+GSM4187576	200373830011_C		Control	mapped	CTL	True	control	78	Male	37	replicate 1	R1;R3:control
+GSM4187577	200373830041_H		AD	mapped	AD	True	case	67	Female	37	replicate 1	R1;R3:case
+GSM4187578	200373830041_D		AD	mapped	AD	True	case	88	Female	37	replicate 1	R1;R3:case
+GSM4187579	200373830042_E		MCI	mapped	MCI	True		64	Female	37	replicate 1	R1;R4:outside_primary_contrast
+GSM4187580	200373830011_B		Control	mapped	CTL	True	control	82	Male	37	replicate 1	R1;R3:control
+GSM4187581	200373830042_J		AD	mapped	AD	True	case	69	Female	37	replicate 1	R1;R3:case
+GSM4187582	200373830042_L		AD	mapped	AD	True	case	67	Female	37	replicate 1	R1;R3:case
+GSM4187583	3999230064_B		AD	mapped	AD	True	case	81	Female	33	replicate 1	R1;R3:case
+GSM4187584	200373830048_D		MCI	mapped	MCI	True		69	Female	37	replicate 1	R1;R4:outside_primary_contrast
+GSM4187585	200373830048_E		AD	mapped	AD	True	case	69	Female	37	replicate 1	R1;R3:case
+GSM4187586	3999230062_K		AD	mapped	AD	True	case	74	Female	33	replicate 1	R1;R3:case
+GSM4187587	3999230062_B		MCI	mapped	MCI	True		76	Male	33	replicate 1	R1;R4:outside_primary_contrast
+GSM4187588	3999230060_L		AD	mapped	AD	True	case	81	Female	33	replicate 1	R1;R3:case
+GSM4187589	3999230075_E		AD	mapped	AD	True	case	62	Male	33	replicate 1	R1;R3:case
+GSM4187590	200373830057_C		AD	mapped	AD	True	case	62	Female	37	replicate 1	R1;R3:case
+GSM4187591	200373830057_E		AD	mapped	AD	True	case	82	Female	37	replicate 1	R1;R3:case
+GSM4187592	200363680059_D		Control	mapped	CTL	True	control	67	Female	37	replicate 1	R1;R3:control
+GSM4187593	200373830057_K		MCI	mapped	MCI	True		64	Female	37	replicate 1	R1;R4:outside_primary_contrast
+GSM4187594	3999230062_J		AD	mapped	AD	True	case	78	Male	33	replicate 1	R1;R3:case
+GSM4187595	3999230071_B		Control	mapped	CTL	True	control	76	Male	33	replicate 1	R1;R3:control
+GSM4187596	200316700083_E		Control	mapped	CTL	True	control	74	Female	37	replicate 1	R1;R3:control
+GSM4187597	3999230075_A		MCI	mapped	MCI	True		67	Male	33	replicate 1	R1;R4:outside_primary_contrast
+GSM4187598	200400280016_B		AD	mapped	AD	True	case	63	Female	37	replicate 1	R1;R3:case
+GSM4187599	3999230064_C		MCI	mapped	MCI	True		70	Female	33	replicate 1	R1;R4:outside_primary_contrast
+GSM4187600	3999230064_D		AD	mapped	AD	True	case	67	Female	33	replicate 1	R1;R3:case
+GSM4187601	3999230071_D		AD	mapped	AD	True	case	70	Male	33	replicate 1	R1;R3:case
+GSM4187602	200400280017_B		AD	mapped	AD	True	case	66	Male	37	replicate 1	R1;R3:case
+GSM4187603	200400280017_I		AD	mapped	AD	True	case	79	Female	37	replicate 1	R1;R3:case
+GSM4187604	3999230064_A		Control	mapped	CTL	True	control	75	Male	33	replicate 1	R1;R3:control
+GSM4187605	200400280017_K		MCI	mapped	MCI	True		61	Female	37	replicate 1	R1;R4:outside_primary_contrast
+GSM4187606	3999230060_J		AD	mapped	AD	True	case	77	Female	33	replicate 1	R1;R3:case
+GSM4187607	3999230060_F		Control	mapped	CTL	True	control	74	Male	33	replicate 1	R1;R3:control
+GSM4187608	200363680055_F		AD	mapped	AD	True	case	71	Female	37	replicate 1	R1;R3:case
+GSM4187609	200363680055_G		AD	mapped	AD	True	case	75	Male	37	replicate 1	R1;R3:case
+GSM4187610	3999230060_D		Control	mapped	CTL	True	control	75	Female	33	replicate 1	R1;R3:control
+GSM4187611	3999230060_B		MCI	mapped	MCI	True		83	Male	33	replicate 1	R1;R4:outside_primary_contrast
+GSM4187612	3999230060_G		Control	mapped	CTL	True	control	69	Female	33	replicate 1	R1;R3:control
+GSM4187613	3999230060_H		Control	mapped	CTL	True	control	67	Male	33	replicate 1	R1;R3:control
+GSM4187614	3999230060_E		Control	mapped	CTL	True	control	75	Male	33	replicate 1	R1;R3:control
+GSM4187615	200316700083_B		Control	mapped	CTL	True	control	70	Female	37	replicate 1	R1;R3:control
+GSM4187616	200363680054_A		AD	mapped	AD	True	case	68	Male	37	replicate 1	R1;R3:case
+GSM4187617	200363680054_B		AD	mapped	AD	True	case	86	Female	37	replicate 1	R1;R3:case
+GSM4187618	200363680054_C		AD	mapped	AD	True	case	65	Male	37	replicate 1	R1;R3:case
+GSM4187619	200363680059_I		AD	mapped	AD	True	case	71	Male	37	replicate 1	R1;R3:case
+GSM4187620	200373830016_A		Control	mapped	CTL	True	control	87	Female	37	replicate 1	R1;R3:control
+GSM4187621	200373830016_F		MCI	mapped	MCI	True		74	Female	37	replicate 1	R1;R4:outside_primary_contrast
+GSM4187622	200373830016_I		Control	mapped	CTL	True	control	69	Female	37	replicate 1	R1;R3:control
+GSM4187623	200373830021_B		Control	mapped	CTL	True	control	85	Male	37	replicate 1	R1;R3:control
+GSM4187624	200373830021_E		Control	mapped	CTL	True	control	69	Male	37	replicate 1	R1;R3:control
+GSM4187625	200373830021_H		AD	mapped	AD	True	case	79	Male	37	replicate 1	R1;R3:case
+GSM4187626	200373830036_A		AD	mapped	AD	True	case	73	Male	37	replicate 1	R1;R3:case
+GSM4187627	200373830036_C		Control	mapped	CTL	True	control	70	Male	37	replicate 1	R1;R3:control
+GSM4187628	200373830036_E		AD	mapped	AD	True	case	66	Male	37	replicate 1	R1;R3:case
+GSM4187629	200373830041_A		AD	mapped	AD	True	case	68	Male	37	replicate 1	R1;R3:case
+GSM4187630	200373830042_F		Control	mapped	CTL	True	control	79	Male	37	replicate 1	R1;R3:control
+GSM4187631	200373830048_I		AD	mapped	AD	True	case	67	Male	37	replicate 1	R1;R3:case
+GSM4187632	200373830048_L		MCI	mapped	MCI	True		76	Male	37	replicate 1	R1;R4:outside_primary_contrast
+GSM4187633	200363680054_E		Control	mapped	CTL	True	control	72	Female	37	replicate 1	R1;R3:control
+GSM4187634	200373830050_E		AD	mapped	AD	True	case	76	Male	37	replicate 1	R1;R3:case
+GSM4187635	200373830050_J		MCI	mapped	MCI	True		77	Male	37	replicate 1	R1;R4:outside_primary_contrast
+GSM4187636	200373830050_L		AD	mapped	AD	True	case	61	Male	37	replicate 1	R1;R3:case
+GSM4187637	200373830057_B		Control	mapped	CTL	True	control	76	Female	37	replicate 1	R1;R3:control
+GSM4187638	200795790042_H		Control	mapped	CTL	True	control	74	Female	39	replicate 1	R1;R3:control
+GSM4187639	200400280016_J		Control	mapped	CTL	True	control	75	Male	37	replicate 1	R1;R3:control
+GSM4187640	200373830011_D		Control	mapped	CTL	True	control	70	Male	37	replicate 1	R1;R3:control
+GSM4187641	200373830016_D		Control	mapped	CTL	True	control	70	Male	37	replicate 1	R1;R3:control
+GSM4187642	200316700083_D		AD	mapped	AD	True	case	69	Female	37	replicate 1	R1;R3:case
+GSM4187643	200363680054_H		Control	mapped	CTL	True	control	82	Female	37	replicate 1	R1;R3:control
+GSM4187644	200661920003_G		Control	mapped	CTL	True	control	82	Male	39	replicate 1	R1;R3:control
+GSM4187645	200363680054_K		MCI	mapped	MCI	True		85	Male	37	replicate 1	R1;R4:outside_primary_contrast
+GSM4187646	200661920003_A		AD	mapped	AD	True	case	70	Male	39	replicate 1	R1;R3:case
+GSM4187647	200363680018_H		Control	mapped	CTL	True	control	66	Female	38	replicate 1	R1;R3:control
+GSM4187648	200661920002_J		Control	mapped	CTL	True	control	62	Female	39	replicate 1	R1;R3:control
+GSM4187649	200363680018_I		Control	mapped	CTL	True	control	62	Male	38	replicate 1	R1;R3:control
+GSM4187650	200363680018_J		Control	mapped	CTL	True	control	75	Male	38	replicate 1	R1;R3:control
+GSM4187651	200363680014_D		AD	mapped	AD	True	case	69	Male	38	replicate 1	R1;R3:case
+GSM4187652	200316700083_C		Control	mapped	CTL	True	control	79	Female	37	replicate 1	R1;R3:control
+GSM4187653	200661920003_J		MCI	mapped	MCI	True		64	Male	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187654	200661920011_K		Control	mapped	CTL	True	control	83	Male	39	replicate 1	R1;R3:control
+GSM4187655	200661920014_H		Control	mapped	CTL	True	control	71	Female	39	replicate 1	R1;R3:control
+GSM4187656	200363680054_J		Control	mapped	CTL	True	control	76	Male	37	replicate 1	R1;R3:control
+GSM4187657	200400280016_L		Control	mapped	CTL	True	control	74	Male	37	replicate 1	R1;R3:control
+GSM4187658	200400280017_J		MCI	mapped	MCI	True		73	Male	37	replicate 1	R1;R4:outside_primary_contrast
+GSM4187659	200400280015_L		AD	mapped	AD	True	case	80	Male	37	replicate 1	R1;R3:case
+GSM4187660	200363680055_B		AD	mapped	AD	True	case	82	Female	37	replicate 1	R1;R3:case
+GSM4187661	200363680055_D		Control	mapped	CTL	True	control	64	Female	37	replicate 1	R1;R3:control
+GSM4187662	200363680059_F		AD	mapped	AD	True	case	70	Female	37	replicate 1	R1;R3:case
+GSM4187663	200316700083_F		Control	mapped	CTL	True	control	84	Female	37	replicate 1	R1;R3:control
+GSM4187664	200661920003_I		AD	mapped	AD	True	case	69	Female	39	replicate 1	R1;R3:case
+GSM4187665	200661920003_L		Control	mapped	CTL	True	control	74	Female	39	replicate 1	R1;R3:control
+GSM4187666	200661920011_C		AD	mapped	AD	True	case	74	Female	39	replicate 1	R1;R3:case
+GSM4187667	200363680054_I		Control	mapped	CTL	True	control	87	Female	37	replicate 1	R1;R3:control
+GSM4187668	200661920011_E		AD	mapped	AD	True	case	63	Male	39	replicate 1	R1;R3:case
+GSM4187669	200661920011_F		MCI	mapped	MCI	True		78	Male	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187670	200661920011_G		Control	mapped	CTL	True	control	80	Male	39	replicate 1	R1;R3:control
+GSM4187671	200316700083_G		Control	mapped	CTL	True	control	69	Female	37	replicate 1	R1;R3:control
+GSM4187672	200661920011_J		MCI	mapped	MCI	True		69	Male	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187673	200661920011_L		AD	mapped	AD	True	case	72	Male	39	replicate 1	R1;R3:case
+GSM4187674	200795790042_C		Control	mapped	CTL	True	control	80	Female	39	replicate 1	R1;R3:control
+GSM4187675	200661920014_C		AD	mapped	AD	True	case	64	Male	39	replicate 1	R1;R3:case
+GSM4187676	200661920014_D		AD	mapped	AD	True	case	78	Female	39	replicate 1	R1;R3:case
+GSM4187677	200661920014_F		AD	mapped	AD	True	case	75	Male	39	replicate 1	R1;R3:case
+GSM4187678	200661920015_D		Control	mapped	CTL	True	control	79	Male	39	replicate 1	R1;R3:control
+GSM4187679	200661920015_E		Control	mapped	CTL	True	control	88	Female	39	replicate 1	R1;R3:control
+GSM4187680	200661920015_F		MCI	mapped	MCI	True		74	Male	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187681	200661920015_G		Control	mapped	CTL	True	control	63	Male	39	replicate 1	R1;R3:control
+GSM4187682	200661920015_H		Control	mapped	CTL	True	control	71	Female	39	replicate 1	R1;R3:control
+GSM4187683	200661920031_B		AD	mapped	AD	True	case	64	Female	39	replicate 1	R1;R3:case
+GSM4187684	200661920031_D		MCI	mapped	MCI	True		75	Male	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187685	200661920031_E		Control	mapped	CTL	True	control	67	Female	39	replicate 1	R1;R3:control
+GSM4187686	200661920031_G		MCI	mapped	MCI	True		73	Male	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187687	200363680055_A		Control	mapped	CTL	True	control	71	Male	37	replicate 1	R1;R3:control
+GSM4187688	200661920031_J		MCI	mapped	MCI	True		87	Male	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187689	200661920031_L		Control	mapped	CTL	True	control	81	Female	39	replicate 1	R1;R3:control
+GSM4187690	200661920037_C		MCI	mapped	MCI	True		66	Female	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187691	200661920037_D		Control	mapped	CTL	True	control	71	Female	39	replicate 1	R1;R3:control
+GSM4187692	200661920037_F		Control	mapped	CTL	True	control	77	Female	39	replicate 1	R1;R3:control
+GSM4187693	200661920037_G		Control	mapped	CTL	True	control	64	Female	39	replicate 1	R1;R3:control
+GSM4187694	200661920037_I		MCI	mapped	MCI	True		70	Female	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187695	200661920037_J		Control	mapped	CTL	True	control	62	Female	39	replicate 1	R1;R3:control
+GSM4187696	200661920039_B		Control	mapped	CTL	True	control	71	Female	39	replicate 1	R1;R3:control
+GSM4187697	200661920039_D		MCI	mapped	MCI	True		72	Male	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187698	200661920039_I		Control	mapped	CTL	True	control	73	Male	39	replicate 1	R1;R3:control
+GSM4187699	200661920039_J		Control	mapped	CTL	True	control	66	Male	39	replicate 1	R1;R3:control
+GSM4187700	200661920039_K		Control	mapped	CTL	True	control	79	Female	39	replicate 1	R1;R3:control
+GSM4187701	200661920067_A		Control	mapped	CTL	True	control	69	Female	39	replicate 1	R1;R3:control
+GSM4187702	200661920067_H		Control	mapped	CTL	True	control	76	Female	39	replicate 1	R1;R3:control
+GSM4187703	200661920067_I		Control	mapped	CTL	True	control	80	Male	39	replicate 1	R1;R3:control
+GSM4187704	200661920067_J		AD	mapped	AD	True	case	67	Male	39	replicate 1	R1;R3:case
+GSM4187705	200665010002_D		Control	mapped	CTL	True	control	82	Female	39	replicate 1	R1;R3:control
+GSM4187706	200665010002_F		MCI	mapped	MCI	True		66	Male	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187707	200665010002_L		Control	mapped	CTL	True	control	82	Male	39	replicate 1	R1;R3:control
+GSM4187708	200665010023_C		AD	mapped	AD	True	case	80	Female	39	replicate 1	R1;R3:case
+GSM4187709	200665010023_E		MCI	mapped	MCI	True		77	Female	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187710	200665010023_G		MCI	mapped	MCI	True		64	Female	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187711	200665010029_A		Control	mapped	CTL	True	control	77	Male	39	replicate 1	R1;R3:control
+GSM4187712	200665010029_B		MCI	mapped	MCI	True		66	Female	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187713	200665010029_E		Control	mapped	CTL	True	control	71	Female	39	replicate 1	R1;R3:control
+GSM4187714	200665010029_G		Control	mapped	CTL	True	control	78	Male	39	replicate 1	R1;R3:control
+GSM4187715	200795790042_I		MCI	mapped	MCI	True		85	Male	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187716	200665010029_I		Control	mapped	CTL	True	control	63	Female	39	replicate 1	R1;R3:control
+GSM4187717	200665010029_J		Control	mapped	CTL	True	control	65	Female	39	replicate 1	R1;R3:control
+GSM4187718	200665010029_K		Control	mapped	CTL	True	control	82	Male	39	replicate 1	R1;R3:control
+GSM4187719	200665010029_L		MCI	mapped	MCI	True		71	Female	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187720	200665010039_C		Control	mapped	CTL	True	control	74	Female	39	replicate 1	R1;R3:control
+GSM4187721	200665010039_D		AD	mapped	AD	True	case	61	Male	39	replicate 1	R1;R3:case
+GSM4187722	200665010039_G		MCI	mapped	MCI	True		80	Male	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187723	200665010039_I		AD	mapped	AD	True	case	66	Male	39	replicate 1	R1;R3:case
+GSM4187724	200665010039_J		AD	mapped	AD	True	case	71	Female	39	replicate 1	R1;R3:case
+GSM4187725	200665010039_K		AD	mapped	AD	True	case	80	Male	39	replicate 1	R1;R3:case
+GSM4187726	200665010044_I		AD	mapped	AD	True	case	70	Female	39	replicate 1	R1;R3:case
+GSM4187727	200665010062_G		MCI	mapped	MCI	True		84	Female	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187728	200665010062_H		AD	mapped	AD	True	case	74	Male	39	replicate 1	R1;R3:case
+GSM4187729	200667730024_B		Control	mapped	CTL	True	control	77	Male	39	replicate 1	R1;R3:control
+GSM4187730	200667730024_F		AD	mapped	AD	True	case	61	Female	39	replicate 1	R1;R3:case
+GSM4187731	200667730024_H		Control	mapped	CTL	True	control	83	Male	39	replicate 1	R1;R3:control
+GSM4187732	200795790042_J		MCI	mapped	MCI	True		61	Female	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187733	200667730024_D		Control	mapped	CTL	True	control	73	Female	39	replicate 1	R1;R3:control
+GSM4187734	200667730024_I		AD	mapped	AD	True	case	78	Male	39	replicate 1	R1;R3:case
+GSM4187735	200667730024_K		AD	mapped	AD	True	case	78	Male	39	replicate 1	R1;R3:case
+GSM4187736	200667730024_C		Control	mapped	CTL	True	control	74	Female	39	replicate 1	R1;R3:control
+GSM4187737	200795790038_A		AD	mapped	AD	True	case	75	Female	39	replicate 1	R1;R3:case
+GSM4187738	200667730024_G		AD	mapped	AD	True	case	84	Female	39	replicate 1	R1;R3:case
+GSM4187739	200667730024_L		Control	mapped	CTL	True	control	72	Female	39	replicate 1	R1;R3:control
+GSM4187740	200795790038_G		Control	mapped	CTL	True	control	76	Male	39	replicate 1	R1;R3:control
+GSM4187741	200795790042_D		Control	mapped	CTL	True	control	66	Female	39	replicate 1	R1;R3:control
+GSM4187742	200795790042_E		Control	mapped	CTL	True	control	66	Male	39	replicate 1	R1;R3:control
+GSM4187743	200661920067_G		AD	mapped	AD	True	case	75	Male	39	replicate 1	R1;R3:case
+GSM4187744	200795790038_H		MCI	mapped	MCI	True		72	Male	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187745	200795790038_I		Control	mapped	CTL	True	control	75	Male	39	replicate 1	R1;R3:control
+GSM4187746	200665010052_J		MCI	mapped	MCI	True		80	Female	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187747	200665010044_C		Control	mapped	CTL	True	control	66	Female	39	replicate 1	R1;R3:control
+GSM4187748	200665010044_L		MCI	mapped	MCI	True		71	Male	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187749	200665010052_A		Control	mapped	CTL	True	control	79	Female	39	replicate 1	R1;R3:control
+GSM4187750	200665010062_B		AD	mapped	AD	True	case	85	Female	39	replicate 1	R1;R3:case
+GSM4187751	200665010062_K		Control	mapped	CTL	True	control	77	Female	39	replicate 1	R1;R3:control
+GSM4187752	200665010044_H		MCI	mapped	MCI	True		82	Female	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187753	200665010052_F		Control	mapped	CTL	True	control	74	Male	39	replicate 1	R1;R3:control
+GSM4187754	200665010062_D		AD	mapped	AD	True	case	80	Female	39	replicate 1	R1;R3:case
+GSM4187755	200665010023_I		Control	mapped	CTL	True	control	75	Female	39	replicate 1	R1;R3:control
+GSM4187756	200665010044_A		Control	mapped	CTL	True	control	69	Female	39	replicate 1	R1;R3:control
+GSM4187757	200665010002_K		AD	mapped	AD	True	case	77	Male	39	replicate 1	R1;R3:case
+GSM4187758	200795790040_F		AD	mapped	AD	True	case	71	Female	39	replicate 1	R1;R3:case
+GSM4187759	200795790040_L		MCI	mapped	MCI	True		63	Male	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187760	200661920001_C		MCI	mapped	MCI	True		84	Male	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187761	200661920039_C		Control	mapped	CTL	True	control	81	Female	39	replicate 1	R1;R3:control
+GSM4187762	200661920067_D		AD	mapped	AD	True	case	65	Male	39	replicate 1	R1;R3:case
+GSM4187763	200795790038_J		MCI	mapped	MCI	True		66	Female	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187764	200795790038_K		AD	mapped	AD	True	case	71	Male	39	replicate 1	R1;R3:case
+GSM4187765	200661920039_E		MCI	mapped	MCI	True		70	Male	39	replicate 1	R1;R4:outside_primary_contrast
+GSM4187766	200661920067_L		AD	mapped	AD	True	case	77	Female	39	replicate 1	R1;R3:case
+GSM4187767	200316700083_H		Control	mapped	CTL	True	control	70	Male	37	replicate 1	R1;R3:control
+GSM4187768	200316700083_A		Control	mapped	CTL	True	control	80	Female	37	replicate 1	R1;R3:control
+GSM4187769	200661920002_H		Control	mapped	CTL	True	control	61	Male	39	replicate 1	R1;R3:control
+GSM4187770	9682760081_H		MCI	mapped	MCI	True		61	Female	36	replicate 2	R1;R4:outside_primary_contrast
+GSM4187771	200661380042_J		Control	mapped	CTL	True	control	78	Male	39	replicate 2	R1;R3:control
+GSM4187772	200661380042_K		AD	mapped	AD	True	case	74	Female	39	replicate 2	R1;R3:case
+GSM4187773	200661920003_C		MCI	mapped	MCI	True		85	Male	39	replicate 2	R1;R4:outside_primary_contrast

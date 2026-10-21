@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-10-09T14:47:24+00:00",
+  "inputs": [
+    "data/processed/GSE63060/phenotype_table.tsv",
+    "data/processed/GSE63061/phenotype_table.tsv"
+  ],
+  "argv": [
+    "scripts/phase2b_population_tables.py",
+    "--accessions",
+    "GSE63060",
+    "GSE63061",
+    "--version",
+    "v1"
+  ],
+  "note": "descriptive only; no expression data and no hypothesis tests were used"
+}

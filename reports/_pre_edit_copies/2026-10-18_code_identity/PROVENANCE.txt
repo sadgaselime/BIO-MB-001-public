@@ -1,0 +1,4 @@
+Pre-edit copy for the source-code identity SAP edits (explicit PI authorization "Authorize source-code identity implementation", 2026-10-18).
+Copied 2026-10-17T20:34:28Z UTC with cp -p before editing.
+STATISTICAL_ANALYSIS_PLAN_DRAFT.md pre-edit SHA-256 161cf12d26a6e15e5ba27365cc06827ec83219144e1ae1ebb7fd5e765896bbbb
+Rollback: copy this file back to reports/phase3b/v7/ and verify against SHA256SUMS.

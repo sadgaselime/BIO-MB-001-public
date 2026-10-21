@@ -1,0 +1,54 @@
+{
+  "status": "SNAPSHOT of the current .venv; not reviewed for reproducibility; not the approved protocol environment (D8 deferred 2026-10-15)",
+  "created_utc": "2026-10-15T11:22:56Z",
+  "method": "read-only package inspection; no install, upgrade or removal",
+  "commands": [
+    ".venv/bin/python -I -m pip list --format=freeze --disable-pip-version-check > requirements.snapshot.txt",
+    ".venv/bin/python -I -m pip inspect --disable-pip-version-check > pip_inspect.json"
+  ],
+  "python": {
+    "version": "3.13.9",
+    "sys_version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]",
+    "implementation": "CPython",
+    "executable": ".venv/bin/python",
+    "base_prefix": "/opt/anaconda3",
+    "note": "the venv's base interpreter is the Anaconda distribution at base_prefix; the venv does not pin it"
+  },
+  "platform": {
+    "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+    "machine": "arm64"
+  },
+  "pip_version": "26.2.1",
+  "packages": [
+    "biomarker-project==0.1.0",
+    "certifi==2026.7.22",
+    "charset-normalizer==3.5.2",
+    "idna==3.20",
+    "iniconfig==2.3.1",
+    "numpy==2.5.3",
+    "packaging==26.3",
+    "pandas==3.0.6",
+    "pip==26.2.1",
+    "pluggy==1.6.0",
+    "Pygments==2.21.0",
+    "pytest==9.1.1",
+    "python-dateutil==2.9.0.post0",
+    "PyYAML==6.0.3",
+    "requests==2.34.2",
+    "six==1.17.0",
+    "urllib3==2.8.0"
+  ],
+  "n_packages": 17,
+  "local_editable_project": "biomarker-project==0.1.0 is this repository (direct_url file:// to the project root), not a PyPI package",
+  "numpy_blas": "Apple Accelerate (numpy.show_config: blas name 'accelerate', detection 'system')",
+  "known_limitations": [
+    "no per-file wheel hashes (pip list does not record them); installer 'pip' for all packages",
+    "pyproject.toml declares only minimum versions (numpy>=1.24, pandas>=2.0, PyYAML>=6.0, requests>=2.31)",
+    "base interpreter and BLAS are outside the venv"
+  ],
+  "files_sha256": {
+    "requirements.snapshot.txt": "f7bffbf3fd57bdc1553adac9d045fb366eea67fc2814751f2155fe20f846560e",
+    "pip_inspect.json": "47aa44f1fe6514c299fc8b3ad173fdb2eaeff4f92fa516f87822921cec2587e9"
+  },
+  "pyproject_toml_sha256": "ca8c8bae73d6f4b894915914ad23b16b7f181f769b8c76e733362bcc9d5e1cfd"
+}

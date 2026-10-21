@@ -1,0 +1,5 @@
+/Library/Frameworks/R.framework/Versions/4.6/Resources/fontconfig/cache/17d80c9ee7aab21ead7a43644b98bea5-le64.cache-8
+/Library/Frameworks/R.framework/Versions/4.6/Resources/fontconfig/cache/84c0f976e30e948e99073af70f4ae876-le64.cache-8
+/Library/Frameworks/R.framework/Versions/4.6/Resources/fontconfig/cache/CACHEDIR.TAG
+/Library/Frameworks/R.framework/Versions/4.6/Resources/fontconfig/cache/b0a71e6bf6a8a1a908413a823d76e21f-le64.cache-8
+/Library/Frameworks/R.framework/Versions/4.6/Resources/fontconfig/cache/c6cafe6b1a56ed8b739253d6df90ca6a-le64.cache-8

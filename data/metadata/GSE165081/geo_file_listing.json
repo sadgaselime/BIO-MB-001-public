@@ -1,0 +1,68 @@
+{
+  "retrieved_at": "2026-10-09T13:36:14+00:00",
+  "entries": [
+    {
+      "location": "matrix",
+      "name": "GSE165081_series_matrix.txt.gz",
+      "size_label": "108M",
+      "modified": "2026-08-08 00:51",
+      "configured": true
+    },
+    {
+      "location": "suppl",
+      "name": "GSE165081_M.csv.gz",
+      "size_label": "108M",
+      "modified": "2021-01-19 09:48",
+      "configured": true
+    },
+    {
+      "location": "suppl",
+      "name": "GSE165081_Meth.csv.gz",
+      "size_label": "30M",
+      "modified": "2021-01-19 09:48",
+      "configured": false
+    },
+    {
+      "location": "suppl",
+      "name": "GSE165081_RAW.tar",
+      "size_label": "411M",
+      "modified": "2021-05-14 17:01",
+      "configured": true
+    },
+    {
+      "location": "suppl",
+      "name": "GSE165081_Sample_Sheet.PD-CN.csv.gz",
+      "size_label": "417",
+      "modified": "2021-05-14 17:01",
+      "configured": true
+    },
+    {
+      "location": "suppl",
+      "name": "GSE165081_UnMeth.csv.gz",
+      "size_label": "31M",
+      "modified": "2021-01-19 09:48",
+      "configured": false
+    },
+    {
+      "location": "suppl",
+      "name": "GSE165081_detP.csv.gz",
+      "size_label": "2.3M",
+      "modified": "2021-01-19 09:48",
+      "configured": true
+    },
+    {
+      "location": "suppl",
+      "name": "GSE165081_intensity.csv.gz",
+      "size_label": "34M",
+      "modified": "2021-01-19 09:49",
+      "configured": false
+    },
+    {
+      "location": "suppl",
+      "name": "filelist.txt",
+      "size_label": "4.8K",
+      "modified": "2021-05-14 17:01",
+      "configured": true
+    }
+  ]
+}

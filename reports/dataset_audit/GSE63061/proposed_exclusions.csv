@@ -1,0 +1,7 @@
+accession,geo_accession,sample_id,reason,evidence,source_file,status
+GSE63061,GSM1539660,7943280031_K,diagnosis label AMBIGUOUS: 'borderline MCI',GEO sample characteristics (char:status),GEO sample records,PROPOSED_FOR_REVIEW_NOT_APPLIED
+GSE63061,GSM1539667,7196843068_J,diagnosis label AMBIGUOUS: 'OTHER',GEO sample characteristics (char:status),GEO sample records,PROPOSED_FOR_REVIEW_NOT_APPLIED
+GSE63061,GSM1539679,7196835090_F,diagnosis label AMBIGUOUS: 'CTL to AD',GEO sample characteristics (char:status),GEO sample records,PROPOSED_FOR_REVIEW_NOT_APPLIED
+GSE63061,GSM1539688,7964814028_F,diagnosis label AMBIGUOUS: 'MCI to CTL',GEO sample characteristics (char:status),GEO sample records,PROPOSED_FOR_REVIEW_NOT_APPLIED
+GSE63061,GSM1539695,7196843036_H,diagnosis label AMBIGUOUS: 'borderline MCI',GEO sample characteristics (char:status),GEO sample records,PROPOSED_FOR_REVIEW_NOT_APPLIED
+GSE63061,GSM1539750,7196835071_J,diagnosis label AMBIGUOUS: 'borderline MCI',GEO sample characteristics (char:status),GEO sample records,PROPOSED_FOR_REVIEW_NOT_APPLIED

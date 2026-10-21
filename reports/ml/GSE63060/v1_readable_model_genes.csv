@@ -1,0 +1,201 @@
+rank_by_influence,gene_symbol,gene_name,entrez_id,weight,effect_on_prediction
+1,CACNA2D4,calcium voltage-gated channel auxiliary subunit alpha2delta 4,93589,0.1866,higher expression -> more AD-like
+2,AHSA1,activator of HSP90 ATPase activity 1,10598,-0.1778,lower expression -> more AD-like
+3,CETN2,centrin 2,1069,-0.1441,lower expression -> more AD-like
+4,TAF12,TATA-box binding protein associated factor 12,6883,-0.1440,lower expression -> more AD-like
+5,APBB3,amyloid beta precursor protein binding family B member 3,10307,0.1421,higher expression -> more AD-like
+6,VCAN,versican,1462,0.1413,higher expression -> more AD-like
+7,ZNF622,zinc finger protein 622,90441,-0.1361,lower expression -> more AD-like
+8,LCOR,ligand dependent nuclear receptor corepressor,84458,0.1274,higher expression -> more AD-like
+9,RPS23,ribosomal protein S23,6228,-0.1212,lower expression -> more AD-like
+10,CYLD,CYLD lysine 63 deubiquitinase,1540,0.1002,higher expression -> more AD-like
+11,THYN1,thymocyte nuclear protein 1,29087,-0.0996,lower expression -> more AD-like
+12,MRPL51,mitochondrial ribosomal protein L51,51258,-0.0898,lower expression -> more AD-like
+13,SNORD33,"small nucleolar RNA, C/D box 33",26818,-0.0894,lower expression -> more AD-like
+14,NFAT5,nuclear factor of activated T cells 5,10725,0.0878,higher expression -> more AD-like
+15,ATP6V1E1,ATPase H+ transporting V1 subunit E1,529,-0.0858,lower expression -> more AD-like
+16,PHACTR2,phosphatase and actin regulator 2,9749,0.0855,higher expression -> more AD-like
+17,DNAJC7,DnaJ heat shock protein family (Hsp40) member C7,7266,-0.0830,lower expression -> more AD-like
+18,AKAP17A,A-kinase anchoring protein 17A,8227,0.0829,higher expression -> more AD-like
+19,KCTD12,potassium channel tetramerization domain containing 12,115207,0.0795,higher expression -> more AD-like
+20,RPS27A,ribosomal protein S27a,6233,-0.0793,lower expression -> more AD-like
+21,TMSB10,thymosin beta 10,9168,-0.0785,lower expression -> more AD-like
+22,TRIP4,thyroid hormone receptor interactor 4,9325,-0.0767,lower expression -> more AD-like
+23,PRMT1,protein arginine methyltransferase 1,3276,-0.0763,lower expression -> more AD-like
+24,RPL36AL,ribosomal protein L36a like,6166,-0.0706,lower expression -> more AD-like
+25,LYPLAL1,lysophospholipase like 1,127018,-0.0703,lower expression -> more AD-like
+26,SRP14,signal recognition particle 14,6727,0.0658,higher expression -> more AD-like
+27,LSM5,"LSM5 homolog, U6 small nuclear RNA and mRNA degradation associated",23658,0.0655,higher expression -> more AD-like
+28,LPP,LIM domain containing preferred translocation partner in lipoma,4026,0.0655,higher expression -> more AD-like
+29,BUD31,BUD31 spliceosome associated protein,8896,-0.0653,lower expression -> more AD-like
+30,ENSA,endosulfine alpha,2029,-0.0652,lower expression -> more AD-like
+31,COX20,cytochrome c oxidase assembly factor COX20,116228,-0.0650,lower expression -> more AD-like
+32,CREBRF,CREB3 regulatory factor,153222,0.0644,higher expression -> more AD-like
+33,NACA,nascent polypeptide associated complex subunit alpha,4666,-0.0638,lower expression -> more AD-like
+34,HOXB1,homeobox B1,3211,-0.0636,lower expression -> more AD-like
+35,ARHGAP11A,Rho GTPase activating protein 11A,9824,-0.0635,lower expression -> more AD-like
+36,AK2,adenylate kinase 2,204,-0.0623,lower expression -> more AD-like
+37,CSAD,cysteine sulfinic acid decarboxylase,51380,0.0622,higher expression -> more AD-like
+38,KCTD21,potassium channel tetramerization domain containing 21,283219,-0.0616,lower expression -> more AD-like
+39,ATP2B1-AS1,ATP2B1 antisense RNA 1,338758,0.0607,higher expression -> more AD-like
+40,IGBP1,immunoglobulin binding protein 1,3476,-0.0605,lower expression -> more AD-like
+41,COMMD1,copper metabolism domain containing 1,150684,-0.0603,lower expression -> more AD-like
+42,CNPY2,canopy FGF signaling regulator 2,10330,0.0594,higher expression -> more AD-like
+43,LLPH,"LLP homolog, long-term synaptic facilitation factor",84298,-0.0590,lower expression -> more AD-like
+44,NDUFA1,NADH:ubiquinone oxidoreductase subunit A1,4694,-0.0585,lower expression -> more AD-like
+45,RPL23,ribosomal protein L23,9349,0.0584,higher expression -> more AD-like
+46,MAGOH,"mago homolog, exon junction complex subunit",4116,0.0577,higher expression -> more AD-like
+47,PSD4,pleckstrin and Sec7 domain containing 4,23550,0.0561,higher expression -> more AD-like
+48,RPL26,ribosomal protein L26,6154,0.0546,higher expression -> more AD-like
+49,SF3B6,splicing factor 3b subunit 6,51639,0.0542,higher expression -> more AD-like
+50,MRPL21,mitochondrial ribosomal protein L21,219927,0.0540,higher expression -> more AD-like
+51,UBC,ubiquitin C,7316,0.0517,higher expression -> more AD-like
+52,RPL26L1,ribosomal protein L26 like 1,51121,0.0496,higher expression -> more AD-like
+53,OARD1,O-acyl-ADP-ribose deacylase 1,221443,-0.0492,lower expression -> more AD-like
+54,TCEAL8,transcription elongation factor A like 8,90843,0.0481,higher expression -> more AD-like
+55,TMEM258,transmembrane protein 258,746,-0.0481,lower expression -> more AD-like
+56,PLGRKT,plasminogen receptor with a C-terminal lysine,55848,-0.0479,lower expression -> more AD-like
+57,RPS24,ribosomal protein S24,6229,0.0479,higher expression -> more AD-like
+58,AIF1,allograft inflammatory factor 1,199,-0.0478,lower expression -> more AD-like
+59,NDUFS5,NADH:ubiquinone oxidoreductase subunit S5,4725,-0.0473,lower expression -> more AD-like
+60,CMTM2,CKLF like MARVEL transmembrane domain containing 2,146225,-0.0471,lower expression -> more AD-like
+61,STN1,STN1 subunit of CST complex,79991,-0.0449,lower expression -> more AD-like
+62,SNTB2,syntrophin beta 2,6645,0.0445,higher expression -> more AD-like
+63,ATP5F1EP2,ATP synthase F1 subunit epsilon pseudogene 2,432369,0.0441,higher expression -> more AD-like
+64,BTF3,basic transcription factor 3,689,-0.0438,lower expression -> more AD-like
+65,SNRPG,small nuclear ribonucleoprotein polypeptide G,6637,0.0437,higher expression -> more AD-like
+66,ING3,inhibitor of growth family member 3,54556,-0.0436,lower expression -> more AD-like
+67,DNAJA1,DnaJ heat shock protein family (Hsp40) member A1,3301,-0.0430,lower expression -> more AD-like
+68,ZMAT2,zinc finger matrin-type 2,153527,-0.0426,lower expression -> more AD-like
+69,RPL17,ribosomal protein L17,6139,0.0426,higher expression -> more AD-like
+70,CBX3,chromobox 3,11335,-0.0416,lower expression -> more AD-like
+71,HELZ,helicase with zinc finger,9931,-0.0414,lower expression -> more AD-like
+72,ERH,ERH mRNA splicing and mitosis factor,2079,0.0409,higher expression -> more AD-like
+73,NXF1,nuclear RNA export factor 1,10482,-0.0407,lower expression -> more AD-like
+74,CFAP68,cilia and flagella associated protein 68,64776,0.0404,higher expression -> more AD-like
+75,COX6A1,cytochrome c oxidase subunit 6A1,1337,0.0404,higher expression -> more AD-like
+76,NDUFS4,NADH:ubiquinone oxidoreductase subunit S4,4724,0.0403,higher expression -> more AD-like
+77,SEM1,SEM1 26S proteasome subunit,7979,-0.0402,lower expression -> more AD-like
+78,UFC1,ubiquitin-fold modifier conjugating enzyme 1,51506,-0.0401,lower expression -> more AD-like
+79,DYNLT2B,dynein light chain Tctex-type 2B,255758,-0.0399,lower expression -> more AD-like
+80,DNAJC8,DnaJ heat shock protein family (Hsp40) member C8,22826,0.0394,higher expression -> more AD-like
+81,NME1,NME/NM23 nucleoside diphosphate kinase 1,4830,0.0389,higher expression -> more AD-like
+82,PSMC2,"proteasome 26S subunit, ATPase 2",5701,0.0388,higher expression -> more AD-like
+83,ATP5PD,ATP synthase peripheral stalk subunit d,10476,0.0381,higher expression -> more AD-like
+84,SOD1,superoxide dismutase 1,6647,0.0380,higher expression -> more AD-like
+85,SNRPD2,small nuclear ribonucleoprotein D2 polypeptide,6633,0.0379,higher expression -> more AD-like
+86,EXOSC7,exosome component 7,23016,-0.0374,lower expression -> more AD-like
+87,RPS12,ribosomal protein S12,6206,-0.0371,lower expression -> more AD-like
+88,DPM1,"dolichyl-phosphate mannosyltransferase subunit 1, catalytic",8813,0.0370,higher expression -> more AD-like
+89,EMG1,EMG1 N1-specific pseudouridine methyltransferase,10436,0.0359,higher expression -> more AD-like
+90,KMT2E,lysine methyltransferase 2E (inactive),55904,0.0352,higher expression -> more AD-like
+91,ATP5MF,ATP synthase membrane subunit f,9551,0.0352,higher expression -> more AD-like
+92,NDUFB3,NADH:ubiquinone oxidoreductase subunit B3,4709,0.0351,higher expression -> more AD-like
+93,RPL11,ribosomal protein L11,6135,0.0350,higher expression -> more AD-like
+94,SLU7,spliceosome associated SLU7,10569,0.0341,higher expression -> more AD-like
+95,HSP90AA1,heat shock protein 90 alpha family class A member 1,3320,-0.0335,lower expression -> more AD-like
+96,GNL2,G protein nucleolar 2,29889,-0.0317,lower expression -> more AD-like
+97,LBHD1,LBH domain containing 1,79081,-0.0306,lower expression -> more AD-like
+98,PSMA4,proteasome 20S subunit alpha 4,5685,0.0302,higher expression -> more AD-like
+99,RPF2,ribosome production factor 2 homolog,84154,-0.0292,lower expression -> more AD-like
+100,SLIRP,SRA stem-loop interacting RNA binding protein,81892,0.0282,higher expression -> more AD-like
+101,TMEM259,transmembrane protein 259,91304,0.0274,higher expression -> more AD-like
+102,TRAPPC14,trafficking protein particle complex subunit 14,55262,0.0270,higher expression -> more AD-like
+103,RPL6,ribosomal protein L6,6128,0.0269,higher expression -> more AD-like
+104,MTMR4,myotubularin related protein 4,9110,0.0268,higher expression -> more AD-like
+105,GTF2A2,general transcription factor IIA subunit 2,2958,-0.0267,lower expression -> more AD-like
+106,GTF2H5,general transcription factor IIH subunit 5,404672,0.0263,higher expression -> more AD-like
+107,GMFG,glia maturation factor gamma,9535,-0.0262,lower expression -> more AD-like
+108,DBI,"diazepam binding inhibitor, acyl-CoA binding protein",1622,0.0262,higher expression -> more AD-like
+109,TXN,thioredoxin,7295,0.0261,higher expression -> more AD-like
+110,SNRNP70,small nuclear ribonucleoprotein U1 subunit 70,6625,0.0259,higher expression -> more AD-like
+111,NBEAL2,neurobeachin like 2,23218,-0.0259,lower expression -> more AD-like
+112,FRG1,FSHD region gene 1,2483,0.0256,higher expression -> more AD-like
+113,SELENOK,selenoprotein K,58515,-0.0253,lower expression -> more AD-like
+114,MRPS22,mitochondrial ribosomal protein S22,56945,0.0251,higher expression -> more AD-like
+115,TATDN1,TatD DNase domain containing 1,83940,0.0251,higher expression -> more AD-like
+116,MRPL22,mitochondrial ribosomal protein L22,29093,0.0250,higher expression -> more AD-like
+117,TOMM7,translocase of outer mitochondrial membrane 7,54543,0.0245,higher expression -> more AD-like
+118,MRPS18C,mitochondrial ribosomal protein S18C,51023,0.0242,higher expression -> more AD-like
+119,RPA3,replication protein A3,6119,-0.0241,lower expression -> more AD-like
+120,PFDN5,prefoldin subunit 5,5204,0.0239,higher expression -> more AD-like
+121,UQCRBP1,ubiquinol-cytochrome c reductase binding protein pseudogene 1,442454,0.0226,higher expression -> more AD-like
+122,CETN3,centrin 3,1070,-0.0226,lower expression -> more AD-like
+123,LSM3,"LSM3 homolog, U6 small nuclear RNA and mRNA degradation associated",27258,0.0224,higher expression -> more AD-like
+124,METTL5,"methyltransferase 5, N6-adenosine",29081,0.0219,higher expression -> more AD-like
+125,COX17,cytochrome c oxidase copper chaperone COX17,10063,-0.0218,lower expression -> more AD-like
+126,ATP5PO,ATP synthase peripheral stalk subunit OSCP,539,0.0217,higher expression -> more AD-like
+127,LDHB,lactate dehydrogenase B,3945,0.0214,higher expression -> more AD-like
+128,TBCA,tubulin folding cofactor A,6902,-0.0212,lower expression -> more AD-like
+129,MRPL36,mitochondrial ribosomal protein L36,64979,-0.0210,lower expression -> more AD-like
+130,MRPS17,mitochondrial ribosomal protein S17,51373,-0.0207,lower expression -> more AD-like
+131,PRDX1,peroxiredoxin 1,5052,0.0205,higher expression -> more AD-like
+132,POFUT2,protein O-fucosyltransferase 2,23275,-0.0205,lower expression -> more AD-like
+133,MRPL27,mitochondrial ribosomal protein L27,51264,0.0203,higher expression -> more AD-like
+134,MYL6,myosin light chain 6,4637,0.0197,higher expression -> more AD-like
+135,BOLA3,bolA family member 3,388962,-0.0184,lower expression -> more AD-like
+136,SPAG7,sperm associated antigen 7,9552,0.0177,higher expression -> more AD-like
+137,ISY1,ISY1 spliceosome associated protein,57461,-0.0176,lower expression -> more AD-like
+138,PPIG,peptidylprolyl isomerase G,9360,-0.0174,lower expression -> more AD-like
+139,GIMAP7,"GTPase, IMAP family member 7",168537,0.0171,higher expression -> more AD-like
+140,PSMA3,proteasome 20S subunit alpha 3,5684,-0.0169,lower expression -> more AD-like
+141,MTIF3,mitochondrial translational initiation factor 3,219402,-0.0169,lower expression -> more AD-like
+142,TYK2,tyrosine kinase 2,7297,-0.0168,lower expression -> more AD-like
+143,FABP5,fatty acid binding protein 5,2171,-0.0167,lower expression -> more AD-like
+144,PTPRE,protein tyrosine phosphatase receptor type E,5791,-0.0164,lower expression -> more AD-like
+145,TRABD,TraB domain containing,80305,-0.0164,lower expression -> more AD-like
+146,ATP5PF,ATP synthase peripheral stalk subunit F6,522,0.0164,higher expression -> more AD-like
+147,DPH3,diphthamide biosynthesis 3,285381,-0.0160,lower expression -> more AD-like
+148,UCHL3,ubiquitin C-terminal hydrolase L3,7347,-0.0156,lower expression -> more AD-like
+149,CD3D,CD3 delta subunit of T-cell receptor complex,915,-0.0151,lower expression -> more AD-like
+150,TIMM23,translocase of inner mitochondrial membrane 23,100287932,0.0146,higher expression -> more AD-like
+151,MRPL33,mitochondrial ribosomal protein L33,9553,0.0143,higher expression -> more AD-like
+152,LARP7,"La ribonucleoprotein 7, transcriptional regulator",51574,0.0141,higher expression -> more AD-like
+153,SARNP,SAP domain containing ribonucleoprotein,84324,-0.0141,lower expression -> more AD-like
+154,MRPL17,mitochondrial ribosomal protein L17,63875,-0.0138,lower expression -> more AD-like
+155,UQCRHL,ubiquinol-cytochrome c reductase hinge protein like,440567,0.0138,higher expression -> more AD-like
+156,IFT25,intraflagellar transport 25,51668,0.0136,higher expression -> more AD-like
+157,NDUFAF4,NADH:ubiquinone oxidoreductase complex assembly factor 4,29078,-0.0132,lower expression -> more AD-like
+158,RPL32,ribosomal protein L32,6161,0.0127,higher expression -> more AD-like
+159,CDC26,cell division cycle 26,246184,0.0125,higher expression -> more AD-like
+160,ATP6V1D,ATPase H+ transporting V1 subunit D,51382,-0.0124,lower expression -> more AD-like
+161,NDUFB6,NADH:ubiquinone oxidoreductase subunit B6,4712,-0.0123,lower expression -> more AD-like
+162,ITGAM,integrin subunit alpha M,3684,0.0119,higher expression -> more AD-like
+163,ZCCHC17,zinc finger CCHC-type containing 17,51538,0.0115,higher expression -> more AD-like
+164,POMP,proteasome maturation protein,51371,0.0111,higher expression -> more AD-like
+165,NDUFAF2,NADH:ubiquinone oxidoreductase complex assembly factor 2,91942,0.0110,higher expression -> more AD-like
+166,WASHC3,WASH complex subunit 3,51019,-0.0108,lower expression -> more AD-like
+167,TRAPPC4,trafficking protein particle complex subunit 4,51399,-0.0102,lower expression -> more AD-like
+168,DRG1,developmentally regulated GTP binding protein 1,4733,0.0101,higher expression -> more AD-like
+169,ATP5ME,ATP synthase membrane subunit e,521,-0.0100,lower expression -> more AD-like
+170,COX7B,cytochrome c oxidase subunit 7B,1349,0.0099,higher expression -> more AD-like
+171,RPL24,ribosomal protein L24,6152,0.0089,higher expression -> more AD-like
+172,SSBP1,single stranded DNA binding protein 1,6742,0.0087,higher expression -> more AD-like
+173,BEX2,brain expressed X-linked 2,84707,-0.0084,lower expression -> more AD-like
+174,NGDN,neuroguidin,25983,0.0078,higher expression -> more AD-like
+175,POLR3GL,RNA polymerase III subunit GL,84265,0.0074,higher expression -> more AD-like
+176,PPP2R5C,protein phosphatase 2 regulatory subunit B'gamma,5527,0.0074,higher expression -> more AD-like
+177,SNRPB2,small nuclear ribonucleoprotein polypeptide B2,6629,-0.0069,lower expression -> more AD-like
+178,MYL12B,myosin light chain 12B,103910,-0.0058,lower expression -> more AD-like
+179,ENY2,ENY2 transcription and export complex 2 subunit,56943,0.0057,higher expression -> more AD-like
+180,UQCRB,ubiquinol-cytochrome c reductase binding protein,7381,-0.0057,lower expression -> more AD-like
+181,SSB,small RNA binding exonuclease protection factor La,6741,0.0052,higher expression -> more AD-like
+182,SMIM48,small integral membrane protein 48,728392,0.0047,higher expression -> more AD-like
+183,GTF2B,general transcription factor IIB,2959,-0.0047,lower expression -> more AD-like
+184,RIOK2,RIO kinase 2,55781,0.0043,higher expression -> more AD-like
+185,NDUFA9,NADH:ubiquinone oxidoreductase subunit A9,4704,0.0042,higher expression -> more AD-like
+186,CKS1B,CDC28 protein kinase regulatory subunit 1B,1163,-0.0042,lower expression -> more AD-like
+187,ATP5PB,ATP synthase peripheral stalk-membrane subunit b,515,0.0035,higher expression -> more AD-like
+188,CALML4,calmodulin like 4,91860,-0.0035,lower expression -> more AD-like
+189,TCIRG1,"T cell immune regulator 1, ATPase H+ transporting V0 subunit a3",10312,-0.0030,lower expression -> more AD-like
+190,RPS25,ribosomal protein S25,6230,0.0030,higher expression -> more AD-like
+191,INTS12,integrator complex subunit 12,57117,-0.0029,lower expression -> more AD-like
+192,PTRH2,peptidyl-tRNA hydrolase 2,51651,0.0021,higher expression -> more AD-like
+193,SRP19,signal recognition particle 19,6728,-0.0014,lower expression -> more AD-like
+194,CWC15,CWC15 spliceosome associated protein,51503,-0.0014,lower expression -> more AD-like
+195,MRPS33,mitochondrial ribosomal protein S33,51650,0.0010,higher expression -> more AD-like
+196,DCTN6,dynactin subunit 6,10671,0.0007,higher expression -> more AD-like
+197,TMA7,translation machinery associated 7 homolog,51372,0.0004,higher expression -> more AD-like
+198,STX8,syntaxin 8,9482,0.0004,higher expression -> more AD-like
+199,RPL22,ribosomal protein L22,6146,-0.0004,lower expression -> more AD-like
+200,UQCRH,ubiquinol-cytochrome c reductase hinge protein,7388,0.0002,higher expression -> more AD-like

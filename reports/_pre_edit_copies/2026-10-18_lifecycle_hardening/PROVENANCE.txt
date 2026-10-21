@@ -1,0 +1,4 @@
+Pre-edit copies for the authorized lifecycle hardening (PI authorization 2026-10-18: post-implementation audit and hardening).
+Copied 2026-10-18T17:44:59Z UTC with cp -p. Sources: src/biomarker_project/code_identity.py; scripts/annotation_illumina_a0_classification.py,
+c15_cohort_probe_presence.py, annotation_gpl570_option_a_counts.py, annotation_pin.py; tests/test_run_identity_lifecycle.py,
+test_annotation_lifecycle_integration.py. Rollback: copy back and verify against SHA256SUMS.

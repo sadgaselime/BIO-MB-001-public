@@ -1,0 +1,73 @@
+{
+  "C-a": {
+    "family": "measurable locked genes in GSE63061",
+    "n": 200,
+    "n_consistent_q_lt_0.05": 194,
+    "proportion_consistent": 0.97,
+    "summary_note": "descriptive; no interval (a binomial interval assumes independent genes; v7:69)"
+  },
+  "C-b": {
+    "T_measurable": 200,
+    "coverage_status": {
+      "down_in_AD": {
+        "locked": 172,
+        "measurable": 172,
+        "met": true,
+        "required": 86.0
+      },
+      "score_assessable": true,
+      "up_in_AD": {
+        "locked": 28,
+        "measurable": 28,
+        "met": true,
+        "required": 14.0
+      }
+    },
+    "down_in_AD": {
+      "concordant": 170,
+      "discordant": 2,
+      "measurable": 172,
+      "proportion_concordant": 0.9883720930232558
+    },
+    "inferential": false,
+    "note": "no interval or p-value (D12; v7:68)",
+    "overall": {
+      "concordant": 198,
+      "discordant": 2,
+      "measurable": 200,
+      "proportion_concordant": 0.99
+    },
+    "up_in_AD": {
+      "concordant": 28,
+      "discordant": 0,
+      "measurable": 28,
+      "proportion_concordant": 1.0
+    }
+  },
+  "C-c": {
+    "bound_agrees_with_test": true,
+    "ci_high_two_sided_95": 1.5485956001121066,
+    "ci_low_two_sided_95": 0.9359259671830508,
+    "coefficient": "AD_vs_CTL",
+    "consistent_direction_shift": true,
+    "decision_rule": "reject H0: theta <= 0 iff p_one_sided < 0.05 (equivalently L_c > 0)",
+    "df": 235,
+    "estimate": 1.2422607836475787,
+    "lower_bound_one_sided_95": 0.9854882521456104,
+    "p_one_sided": 3.0340381980732363e-14,
+    "std_error": 0.1554912196691477,
+    "t_statistic": 7.989266444052889
+  },
+  "cohort": "GSE63061",
+  "effect_correlation_v7_4_5": {
+    "fisher_z_95_nominal_high": 0.940899550040634,
+    "fisher_z_95_nominal_low": 0.8989174456301205,
+    "label": "descriptive; the Fisher-z interval is nominal: it assumes independent genes, so co-expression, signature selection and possible participant overlap (H9) make it too narrow and may inflate r; not a replication claim (v7:83)",
+    "n_genes": 200.0,
+    "pearson_r": 0.92259539074535
+  },
+  "identifiability_decision": "PROCEED",
+  "role": "related-cohort consistency (possible participant overlap with GSE63060, H9)",
+  "score_assessable": true,
+  "wording": "consistency, not replication; magnitudes not comparable across cohorts; no cross-cohort claim (X1)"
+}

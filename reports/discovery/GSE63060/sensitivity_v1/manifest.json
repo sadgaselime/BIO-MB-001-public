@@ -1,0 +1,122 @@
+{
+  "command": ".venv/bin/python -I scripts/discovery_sensitivity_gse63060.py --version v1",
+  "created_utc": "2026-10-18T20:04:27Z",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "gene_level_S-R8m.tsv": "406f67acb043b914a868af43917693b6b17b91e37ede4f7e2e6fa8477fe48505",
+      "gene_level_S12.tsv": "fcd30a6c6fb6797ddd59df244eda0c3188f857bdd9c28d83c0be486df75ceb86",
+      "gene_level_S1a.tsv": "72c1f876ee932010df5d8a133f82c87b831f63b3da289c6672a30211d973b7b1",
+      "gene_level_S1b.tsv": "c6724d8af3db470049e5c21e190612ac5dbf58a4cc49db08f9ea7a88da9827aa",
+      "gene_level_S3a.tsv": "d13d75bfab78b7f5a5581f8bdf8df9b30a20f89c346d9df2c5e61e94dcfb1ef4",
+      "gene_level_S3b.tsv": "ff57767ee6c2c2120e283812f6c53a765124d6cb195eb88060b0e0f26c75c2c2",
+      "gene_level_S4.tsv": "27452ff6839c8da00bd72157492bbafa1d66c64bd1c49000d3fd915537da2454",
+      "gene_level_S5a.tsv": "0d286cbf1b85c82e2aaf812632d20bdc63b36afa7fb08d156a87888c4aeaf22b",
+      "gene_level_S5e.tsv": "c3fd101ae0b3aed89625fe21136abcbe677624fd7578711dd5dd05b74a85127c",
+      "gene_level_S5f.tsv": "54f8950afd1a9070771acb7a2f903020f3ba44ce99bcee662968ce7492dc4eb2",
+      "gene_level_S5g.tsv": "0a1d0c5ca7797b201a1ec549f5c7943c5ac9d6ea94acee678c1039521f523328",
+      "gene_level_S7_p25.tsv": "f5f3138eacfe4bbe60e68658fdc8dd4c6f3cf464b9d59bedaf9e5d0b99542a2e",
+      "gene_level_S7_p50.tsv": "d196979e3404e0666ca52c54239d9ee41d10553e246e3a2189f02be0098b64e5",
+      "gene_level_S8.tsv": "52d293cb1f965438759d98d409fa50f5515e7024ffb5db013a8b73bde9d7b864",
+      "sensitivity_summary.json": "0b9924d36d6e6ca6b494dfda9541b6257b2ab21b1f228e12a92efe81ddc89a1b"
+    },
+    "runs_compared": 2
+  },
+  "equivalence": null,
+  "identity": {
+    "aggregate_sha256": "982bed129aa52aacf03a3b03d6629d4671d690e49ebae24f7b0178838afe38fb",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "fa51c7b9d10dd468fbeed8b2ad83b832eb8acc83adb828dc25361cbbc4359951",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 83,
+    "record_file": "code_identity.json",
+    "record_sha256": "07265232826bd17054c56b279b13f81f071cf12f869d9508fc959335944aa858"
+  },
+  "identity_verification": {
+    "environment_modules": 410,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/discovery_sensitivity_gse63060.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea",
+        "src/biomarker_project/differential_expression.py": "3525cdefd3274e19e0d8a5bc9f937bca6c817c4f5933b87dac2df4c75612925a",
+        "src/biomarker_project/expression_adjudication.py": "266f14367cdd295e4f51e95569636ca4fdf8e12ec27f67685c3e7328db597e82",
+        "src/biomarker_project/limma_backend.py": "0031b76cda1129e7cd35a2b7357f2c8b0fd9788ecdea590766cfa872352e7350"
+      },
+      "executed_files": 5,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 7,
+    "status": "PASS",
+    "verified_utc": "2026-10-18T20:04:27Z"
+  },
+  "inputs": {
+    "reports/discovery/GSE63060/fit_v1": "d00d70fa03539d99e86a7143ea9029f9fc3515458d70481cc2982ef062888ed7",
+    "reports/discovery/GSE63060/prep_v1": "fcc71f7c82d557b5c4e9ab0ffd15aa7b590b655fecd4c0c74f9408ff5736fb53",
+    "reports/eligibility/GSE63060/v1": "7b3a97e20f69624794fddd91f4c6cb00710a74ad7d0cb157c5ebde1fb0a728d8",
+    "reports/qc_stage_a/GSE63060/r8_diagnostics/v2": "376ab21e4d6e884616f0d29175c056330d374e245b5c9ae60c99dd05a8b32e9b",
+    "reports/qc_stage_a/GSE63060/v1": "22d1c6f8a3eb96889518fec12a750e3a40d6bdd208cbc3536b582b8026ecb1a3",
+    "reports/qc_stage_b/GSE63060/v1": "69d8d1829873a1cecb319a938680ef93af8cdcf0543fc5ecf879547608738ef5"
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-18T20:04:27Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "sensitivity_v1",
+    "run_id": "193a273822e0",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-18T19:40:30Z"
+  },
+  "output_sha256": {
+    "code_identity.json": "07265232826bd17054c56b279b13f81f071cf12f869d9508fc959335944aa858",
+    "gene_level_S-R8m.tsv": "406f67acb043b914a868af43917693b6b17b91e37ede4f7e2e6fa8477fe48505",
+    "gene_level_S12.tsv": "fcd30a6c6fb6797ddd59df244eda0c3188f857bdd9c28d83c0be486df75ceb86",
+    "gene_level_S1a.tsv": "72c1f876ee932010df5d8a133f82c87b831f63b3da289c6672a30211d973b7b1",
+    "gene_level_S1b.tsv": "c6724d8af3db470049e5c21e190612ac5dbf58a4cc49db08f9ea7a88da9827aa",
+    "gene_level_S3a.tsv": "d13d75bfab78b7f5a5581f8bdf8df9b30a20f89c346d9df2c5e61e94dcfb1ef4",
+    "gene_level_S3b.tsv": "ff57767ee6c2c2120e283812f6c53a765124d6cb195eb88060b0e0f26c75c2c2",
+    "gene_level_S4.tsv": "27452ff6839c8da00bd72157492bbafa1d66c64bd1c49000d3fd915537da2454",
+    "gene_level_S5a.tsv": "0d286cbf1b85c82e2aaf812632d20bdc63b36afa7fb08d156a87888c4aeaf22b",
+    "gene_level_S5e.tsv": "c3fd101ae0b3aed89625fe21136abcbe677624fd7578711dd5dd05b74a85127c",
+    "gene_level_S5f.tsv": "54f8950afd1a9070771acb7a2f903020f3ba44ce99bcee662968ce7492dc4eb2",
+    "gene_level_S5g.tsv": "0a1d0c5ca7797b201a1ec549f5c7943c5ac9d6ea94acee678c1039521f523328",
+    "gene_level_S7_p25.tsv": "f5f3138eacfe4bbe60e68658fdc8dd4c6f3cf464b9d59bedaf9e5d0b99542a2e",
+    "gene_level_S7_p50.tsv": "d196979e3404e0666ca52c54239d9ee41d10553e246e3a2189f02be0098b64e5",
+    "gene_level_S8.tsv": "52d293cb1f965438759d98d409fa50f5515e7024ffb5db013a8b73bde9d7b864",
+    "sensitivity_summary.json": "0b9924d36d6e6ca6b494dfda9541b6257b2ab21b1f228e12a92efe81ddc89a1b"
+  },
+  "r_environment": {
+    "found_BiocManager": "1.30.27",
+    "found_R": "4.6.1",
+    "found_bioc": "3.23",
+    "found_limma": "3.68.5",
+    "found_renv": "1.3.1",
+    "found_statmod": "1.5.2"
+  },
+  "status": "GSE63060 discovery sensitivity analyses (D16). Prespecified; none replaces the primary; no signature locked. Provisional: SAP not approved.",
+  "validation": [
+    {
+      "check": "every approved analysis is either run or listed as not run",
+      "pass": true
+    }
+  ]
+}

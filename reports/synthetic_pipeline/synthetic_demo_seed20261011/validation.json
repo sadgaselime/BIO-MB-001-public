@@ -1,0 +1,75 @@
+{
+  "status": "OK",
+  "checks": [
+    {
+      "check": "metadata_columns",
+      "status": "OK",
+      "detail": "sample_id and group columns present"
+    },
+    {
+      "check": "metadata_ids_nonempty",
+      "status": "OK",
+      "detail": "0 empty sample_id value(s)"
+    },
+    {
+      "check": "metadata_ids_unique",
+      "status": "OK",
+      "detail": "all unique"
+    },
+    {
+      "check": "matrix_sample_ids_unique",
+      "status": "OK",
+      "detail": "all unique"
+    },
+    {
+      "check": "matrix_feature_ids_unique",
+      "status": "OK",
+      "detail": "all unique"
+    },
+    {
+      "check": "sample_id_sets_match",
+      "status": "OK",
+      "detail": "matrix columns and metadata identifiers are the same set"
+    },
+    {
+      "check": "dimensions",
+      "status": "OK",
+      "detail": "matrix 2014 features x 140 samples; metadata 140 rows"
+    },
+    {
+      "check": "matrix_numeric",
+      "status": "OK",
+      "detail": "all columns numeric"
+    },
+    {
+      "check": "matrix_missing_values",
+      "status": "OK",
+      "detail": "0 missing or non-finite value(s); no imputation is performed"
+    },
+    {
+      "check": "group_labels_allowed",
+      "status": "OK",
+      "detail": "allowed ['AD', 'CTL', 'MCI']; unexpected []; missing 0"
+    },
+    {
+      "check": "contrast_group_sizes",
+      "status": "OK",
+      "detail": "{'AD': 60, 'CTL': 60} (minimum 2 per group)"
+    },
+    {
+      "check": "covariate_age",
+      "status": "OK",
+      "detail": "0 missing among contrast samples"
+    },
+    {
+      "check": "covariate_sex",
+      "status": "OK",
+      "detail": "0 missing among contrast samples; allowed levels ['F', 'M']; unexpected []"
+    },
+    {
+      "check": "metadata_aligned_to_matrix",
+      "status": "OK",
+      "detail": "metadata re-ordered by identifier to the matrix column order"
+    }
+  ]
+}

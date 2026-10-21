@@ -1,0 +1,190 @@
+{
+  "S15": {
+    "GPD": {
+      "Q1": {
+        "ci_high_two_sided_95": 0.5460941850042119,
+        "ci_low_two_sided_95": -0.2929337459225132,
+        "df": 123,
+        "estimate": 0.1265802195408493,
+        "p_two_sided": 0.5514334965263414,
+        "sign_relative_to_AD_signature": "same direction as AD",
+        "std_error": 0.2119358223230802,
+        "t_statistic": 0.5972573119228866
+      },
+      "S15_age_adjusted": true,
+      "contrast": "GPD vs CONTROL",
+      "counts": {
+        "complete_case": {
+          "CONTROL": 119,
+          "disease": 19
+        },
+        "removed_R2_COV": {
+          "CONTROL": 110,
+          "disease": 21
+        },
+        "set": {
+          "CONTROL": 229,
+          "disease": 40
+        }
+      },
+      "identifiability": "PROCEED",
+      "label": "S15 sensitivity (age-adjusted, complete case); unadjusted for multiplicity",
+      "per_gene": {
+        "association not demonstrated": 190,
+        "n_measurable": 190
+      },
+      "score_assessable": true
+    },
+    "IPD": {
+      "Q1": {
+        "ci_high_two_sided_95": 0.3905630275703652,
+        "ci_low_two_sided_95": -0.0487132463236276,
+        "df": 221,
+        "estimate": 0.1709248906233687,
+        "p_two_sided": 0.1265424099291068,
+        "sign_relative_to_AD_signature": "same direction as AD",
+        "std_error": 0.1114486556434729,
+        "t_statistic": 1.5336648938158728
+      },
+      "S15_age_adjusted": true,
+      "contrast": "IPD vs CONTROL",
+      "counts": {
+        "complete_case": {
+          "CONTROL": 119,
+          "disease": 116
+        },
+        "removed_R2_COV": {
+          "CONTROL": 110,
+          "disease": 81
+        },
+        "set": {
+          "CONTROL": 229,
+          "disease": 197
+        }
+      },
+      "identifiability": "PROCEED",
+      "label": "S15 sensitivity (age-adjusted, complete case); unadjusted for multiplicity",
+      "per_gene": {
+        "association not demonstrated": 190,
+        "n_measurable": 190
+      },
+      "score_assessable": true
+    }
+  },
+  "cohort": "GSE99039",
+  "primary": {
+    "GENETIC_UNAFFECTED": {
+      "Q1": {
+        "category": "association not demonstrated",
+        "ci_high_two_sided_95": 0.6034192438522294,
+        "ci_low_two_sided_95": -0.2254940464928832,
+        "df": 195,
+        "estimate": 0.1889625986796731,
+        "p_holm_three_contrasts": 0.739327286974482,
+        "p_two_sided": 0.369663643487241,
+        "sign_relative_to_AD_signature": "same direction as AD",
+        "std_error": 0.210148967550287,
+        "t_statistic": 0.8991840449297274
+      },
+      "S15_age_adjusted": false,
+      "contrast": "GENETIC_UNAFFECTED vs CONTROL",
+      "counts": {
+        "complete_case": {
+          "CONTROL": 208,
+          "disease": 19
+        },
+        "removed_R2_COV": {
+          "CONTROL": 21,
+          "disease": 3
+        },
+        "set": {
+          "CONTROL": 229,
+          "disease": 22
+        }
+      },
+      "identifiability": "PROCEED",
+      "per_gene": {
+        "association not demonstrated": 190,
+        "n_measurable": 190
+      },
+      "role": "secondary, descriptive only (D13)",
+      "score_assessable": true
+    },
+    "GPD": {
+      "Q1": {
+        "category": "association not demonstrated",
+        "ci_high_two_sided_95": 0.3775829704063178,
+        "ci_low_two_sided_95": -0.1747663155264064,
+        "df": 214,
+        "estimate": 0.1014083274399557,
+        "p_holm_three_contrasts": 0.739327286974482,
+        "p_two_sided": 0.4699969875479522,
+        "sign_relative_to_AD_signature": "same direction as AD",
+        "std_error": 0.1401111387765598,
+        "t_statistic": 0.7237706318387374
+      },
+      "S15_age_adjusted": false,
+      "contrast": "GPD vs CONTROL",
+      "counts": {
+        "complete_case": {
+          "CONTROL": 208,
+          "disease": 40
+        },
+        "removed_R2_COV": {
+          "CONTROL": 21,
+          "disease": 0
+        },
+        "set": {
+          "CONTROL": 229,
+          "disease": 40
+        }
+      },
+      "identifiability": "PROCEED",
+      "per_gene": {
+        "association not demonstrated": 190,
+        "n_measurable": 190
+      },
+      "role": "secondary",
+      "score_assessable": true
+    },
+    "IPD": {
+      "Q1": {
+        "category": "association not demonstrated",
+        "ci_high_two_sided_95": 0.3687413590721687,
+        "ci_low_two_sided_95": 0.0355572030062337,
+        "df": 355,
+        "estimate": 0.2021492810392012,
+        "p_holm_three_contrasts": 0.052608014009262,
+        "p_two_sided": 0.017536004669754,
+        "sign_relative_to_AD_signature": "same direction as AD",
+        "std_error": 0.0847077404270469,
+        "t_statistic": 2.3864322200082606
+      },
+      "S15_age_adjusted": false,
+      "contrast": "IPD vs CONTROL",
+      "counts": {
+        "complete_case": {
+          "CONTROL": 208,
+          "disease": 183
+        },
+        "removed_R2_COV": {
+          "CONTROL": 21,
+          "disease": 14
+        },
+        "set": {
+          "CONTROL": 229,
+          "disease": 197
+        }
+      },
+      "identifiability": "PROCEED",
+      "per_gene": {
+        "association not demonstrated": 188,
+        "association \u2014 same direction as AD": 2,
+        "n_measurable": 190
+      },
+      "role": "primary",
+      "score_assessable": true
+    }
+  },
+  "rules": "two-sided; Holm across the three Q1 tests (D13); GENETIC_UNAFFECTED descriptive only; no equivalence (no delta); non-significance is never evidence of absence; AD specificity is never inferred; magnitudes not comparable across cohorts"
+}

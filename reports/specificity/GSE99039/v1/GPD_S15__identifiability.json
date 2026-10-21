@@ -1,0 +1,25 @@
+{
+  "decision": "PROCEED",
+  "decision_checks": {
+    "M2": {
+      "case_on_mixed_units": 18,
+      "control_on_mixed_units": 110,
+      "mixed_units": 7
+    },
+    "M3_E": 0.755858448987016,
+    "M4_VIF": 1.3229990368437063
+  },
+  "descriptive": {
+    "n": 138,
+    "p": 15,
+    "r_N": 14,
+    "residual_df": 123
+  },
+  "stop_reasons": [],
+  "thresholds": {
+    "c1": 3,
+    "c2": 5,
+    "c3": 10.0,
+    "eta": 1e-08
+  }
+}

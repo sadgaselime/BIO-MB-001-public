@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+build/
+dist/
+
+# Retrieved and derived data (large; provenance is kept in manifests and reports)
+# ... except small provenance records (checksums, sizes, URLs, retrieval history), which are versioned.
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/*/
+data/raw/*/*
+!data/raw/*/download_manifest.json
+data/metadata/*
+!data/metadata/.gitkeep
+!data/metadata/*/
+data/metadata/*/*
+!data/metadata/*/retrieval_manifest.json
+!data/metadata/*/geo_file_listing.json
+data/processed/*
+!data/processed/.gitkeep
+*.part
+*.corrupt-*
+
+# Run logs (reports are kept; logs can be large)
+reports/logs/*.log
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+
+# Never commit secrets
+.env
+
+# Temporary files from atomic report/manifest writes
+*.tmp
+
+# Accidental nested duplicate created when the scratch workspace was copied in (2026-10-09); not project content
+/BIO-MB-001/
+
+# Large reference archives (hashes and sources in reference/*/download_manifest.json)
+reference/bioconductor_3.23/*.tar.gz
+
+# GEO brief files that carry submitter contact fields: never versioned (project rule)
+reports/phase2b/GSE63060/v2/sources/GSE63063_series_brief.soft.txt
+reports/phase2c/GSE63060/v1/sources/GSE144858_samples_brief.soft.txt
+reports/phase2c/GSE63060/v1/sources/GSE144858_series_brief.soft.txt
+
+# Word lock files
+~$*

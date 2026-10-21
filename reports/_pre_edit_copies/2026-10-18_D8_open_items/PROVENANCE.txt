@@ -1,0 +1,3 @@
+Pre-edit copies for the four D8 open-item corrections (SAP v7:635, v7:643; brief 129, 134), authorized by the PI 2026-10-18 ("i authorize everything", in reply to the four proposed corrections).
+Copied 2026-10-18T16:46:10Z UTC with cp -p before editing.
+Rollback: copy each file back to reports/phase3b/v7/ and verify against SHA256SUMS.

@@ -1,0 +1,91 @@
+{
+  "command": ".venv/bin/python -I scripts/signature_lock_gse63060.py --version v1",
+  "counts": {
+    "eligible_genes_q_lt_0.05": 1401,
+    "locked_down_in_AD": 172,
+    "locked_genes": 200,
+    "locked_up_in_AD": 28,
+    "low_gene_count_label": false,
+    "symbols_missing": 0
+  },
+  "created_utc": "2026-10-18T20:56:29Z",
+  "equivalence": null,
+  "identity": {
+    "aggregate_sha256": "31d8bcbea14687994f83f61feed8ff297bf87aede7d5c23ebb8085f2d277d299",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "fa51c7b9d10dd468fbeed8b2ad83b832eb8acc83adb828dc25361cbbc4359951",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 85,
+    "record_file": "code_identity.json",
+    "record_sha256": "f456cf073b35683cc1b922e88c6939d48e511a62531e5a6a807508bf04fc1239"
+  },
+  "identity_verification": {
+    "environment_modules": 409,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/signature_lock_gse63060.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea",
+        "src/biomarker_project/gene_history_reconciliation.py": "f4c10e21be1c4b6e8d7e3d017eef6283ab727b3b3be9c31eae0b5548f85358b3"
+      },
+      "executed_files": 3,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 5,
+    "status": "PASS",
+    "verified_utc": "2026-10-18T20:56:30Z"
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-18T20:56:30Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "v1",
+    "run_id": "179b8b39b2a9",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-18T20:56:27Z"
+  },
+  "output_sha256": {
+    "code_identity.json": "f456cf073b35683cc1b922e88c6939d48e511a62531e5a6a807508bf04fc1239",
+    "lock_record.json": "70b9e4d3ce260778665bafeed491d77efd1ce2f227aa11599f4534980da8f3c9",
+    "sap_excerpts.json": "89ad980967d9e9e4c20a8009c014b7462b5f494fc932c753a25f0888077bdb48",
+    "signature.tsv": "9ca4310ce634b536f5acdfb942d89daa3fc319721d39812fc026af8c41242975"
+  },
+  "status": "SIGNATURE LOCK (Tier B step 11). Written before any validation or specificity expression is modelled against diagnosis. The same lock governs every cohort (v7 \u00a77). The SAP remains a proposed draft (not approved, not frozen).",
+  "validation": [
+    {
+      "check": "selection is deterministic (re-selected identically)",
+      "pass": true
+    },
+    {
+      "check": "200 genes locked (cap) from the 1,401 eligible",
+      "pass": true
+    },
+    {
+      "check": "every locked gene has a symbol",
+      "pass": true
+    },
+    {
+      "check": "every locked gene has constituent probes in T_GSE63060",
+      "pass": true
+    }
+  ]
+}

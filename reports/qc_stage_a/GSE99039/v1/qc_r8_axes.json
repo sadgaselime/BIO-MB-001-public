@@ -1,0 +1,66 @@
+{
+  "GSE99039": {
+    "x": {
+      "d_descriptive": 9.700334748713678,
+      "degenerate": false,
+      "low_size": 254,
+      "mean_high": 7.83641995614035,
+      "mean_low": 3.3238274278215223,
+      "n": 558,
+      "reason": "non-degenerate (separating under D5 option (b))",
+      "sd_high": 0.5771263289659986,
+      "sd_low": 0.31582695765343033,
+      "threshold": 5.74075
+    },
+    "x_probes": [
+      "214218_s_at",
+      "224588_at",
+      "224589_at",
+      "224590_at",
+      "227671_at",
+      "243712_at"
+    ],
+    "y": {
+      "d_descriptive": 3.4160959352927898,
+      "degenerate": false,
+      "low_size": 327,
+      "mean_high": 1.176374458874459,
+      "mean_low": -0.2170107033639144,
+      "n": 558,
+      "reason": "non-degenerate (separating under D5 option (b))",
+      "sd_high": 0.537143175732615,
+      "sd_low": 0.210292053070184,
+      "threshold": 0.47425000000000006
+    },
+    "y_genes_present": [
+      "DDX3Y",
+      "EIF1AY",
+      "KDM5D",
+      "RPS4Y1",
+      "TXLNGY",
+      "USP9Y",
+      "UTY",
+      "ZFY"
+    ],
+    "y_probes_present": [
+      "201909_at",
+      "1570359_at",
+      "1570360_s_at",
+      "205000_at",
+      "205001_s_at",
+      "206700_s_at",
+      "211149_at",
+      "204409_s_at",
+      "204410_at",
+      "206624_at",
+      "228492_at",
+      "207246_at",
+      "230760_at",
+      "214131_at",
+      "223645_s_at",
+      "223646_s_at",
+      "232618_at",
+      "236694_at"
+    ]
+  }
+}

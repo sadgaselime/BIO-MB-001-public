@@ -1,0 +1,8 @@
+No issues found -- the project is in a consistent state.
+[1] TRUE
+BiocManager::version: 3.23 
+BiocVersion: 3.23.1 
+Repository: https://bioc.r-universe.dev 
+RemoteSha: 252d7c8f03a39a9b83f6de7e9dbf9a5ee6584365 
+Depends: R (>= 4.4.0) 
+Built: R 4.6.0; ; 2026-03-01 08:32:25 UTC; unix 

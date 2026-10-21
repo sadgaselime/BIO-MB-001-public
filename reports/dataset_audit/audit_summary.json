@@ -1,0 +1,441 @@
+{
+  "generated_at": "2026-10-09T14:09:05+00:00",
+  "latest_run_id": "20261009T140756Z-e178f3",
+  "project": {
+    "id": "BIO-MB-001",
+    "title": "Reproducible Blood-Based Molecular Biomarkers of Neurodegenerative Disease",
+    "ad_analysis_title": "Reproducible Blood-Based Molecular Features of Alzheimer's Disease: Cross-Cohort Replication and Neurodegenerative Disease Specificity",
+    "primary_disease": "Alzheimer's disease (AD)",
+    "primary_comparison": "AD versus healthy controls",
+    "comparator_disease": "Parkinson's disease (PD)",
+    "phase": "1 - project setup and automated dataset auditing"
+  },
+  "config_sha256": "c1438e0f29cc22fa51679dcaf7999ff599c01d97e4c77b656e244ebce8eb0d48",
+  "versions": {
+    "biomarker_project": "0.1.0",
+    "python": "3.13.9",
+    "pandas": "3.0.6",
+    "numpy": "2.5.3",
+    "requests": "2.34.2",
+    "yaml": "6.0.3"
+  },
+  "datasets": [
+    {
+      "accession": "GSE63060",
+      "role": "provisional_primary_ad_discovery",
+      "audit_status": "COMPLETE_REVIEW_REQUIRED",
+      "n_samples_geo": 329,
+      "groups": "AD=145, HC=104, MCI=80",
+      "files_available": "GSE63060_series_matrix.txt.gz, GSE63060_normalized.txt.gz, GSE63060_non-normalized.txt.gz, GSE63060_RAW.tar, filelist.txt",
+      "files_not_available": "",
+      "audited_at": "2026-10-09T14:08:09+00:00",
+      "run_id": "20261009T140756Z-e178f3"
+    },
+    {
+      "accession": "GSE63061",
+      "role": "related_cohort_consistency_candidate",
+      "audit_status": "COMPLETE_REVIEW_REQUIRED",
+      "n_samples_geo": 388,
+      "groups": "AD=139, AMBIGUOUS=6, HC=134, MCI=109",
+      "files_available": "GSE63061_series_matrix.txt.gz, GSE63061_normalized.txt.gz, GSE63061_non-normalized.txt.gz, GSE63061_RAW.tar, filelist.txt",
+      "files_not_available": "",
+      "audited_at": "2026-10-09T14:08:20+00:00",
+      "run_id": "20261009T140756Z-e178f3"
+    },
+    {
+      "accession": "GSE140829",
+      "role": "potential_external_ad_validation",
+      "audit_status": "COMPLETE_REVIEW_REQUIRED",
+      "n_samples_geo": 587,
+      "groups": "AD=204, HC=249, MCI=134",
+      "files_available": "GSE140829_series_matrix.txt.gz, GSE140829_final_normalized_data.txt.gz, GSE140829_raw_data.txt.gz",
+      "files_not_available": "",
+      "audited_at": "2026-10-09T14:08:58+00:00",
+      "run_id": "20261009T140756Z-e178f3"
+    },
+    {
+      "accession": "GSE99039",
+      "role": "pd_neurodegeneration_specificity_candidate",
+      "audit_status": "INCOMPLETE",
+      "n_samples_geo": 558,
+      "groups": "AMBIGUOUS=8, GENETIC_UNAFFECTED=22, HC=233, OTHER_NEURO=49, PD=205, PD_GENETIC=41",
+      "files_available": "GSE99039_series_matrix.txt.gz, filelist.txt",
+      "files_not_available": "GSE99039_RAW.tar (SKIPPED_OFFLINE)",
+      "audited_at": "2026-10-09T14:09:03+00:00",
+      "run_id": "20261009T140756Z-e178f3"
+    },
+    {
+      "accession": "GSE165082",
+      "role": "optional_exploratory_pd_rnaseq",
+      "audit_status": "COMPLETE_REVIEW_REQUIRED",
+      "n_samples_geo": 26,
+      "groups": "HC=14, PD=12",
+      "files_available": "GSE165082_series_matrix.txt.gz, GSE165082_PD-CC.counts.txt.gz",
+      "files_not_available": "",
+      "audited_at": "2026-10-09T14:09:04+00:00",
+      "run_id": "20261009T140756Z-e178f3"
+    },
+    {
+      "accession": "GSE165081",
+      "role": "optional_future_methylation_extension",
+      "audit_status": "COMPLETE_REVIEW_REQUIRED",
+      "n_samples_geo": 28,
+      "groups": "HC=14, PD=14",
+      "files_available": "GSE165081_Sample_Sheet.PD-CN.csv.gz, GSE165081_detP.csv.gz, filelist.txt",
+      "files_not_available": "",
+      "audited_at": "2026-10-09T14:09:05+00:00",
+      "run_id": "20261009T140756Z-e178f3"
+    }
+  ],
+  "ready": [
+    "GSE63060: GEO sample metadata retrieved and parsed (329 records); phenotype table at data/processed/GSE63060/phenotype_table.tsv",
+    "GSE63060: GSE63060_series_matrix.txt.gz retrieved (SHA-256 342421d07105\u2026) and inspected",
+    "GSE63060: GSE63060_normalized.txt.gz retrieved (SHA-256 3a0d9f03e0e2\u2026) and inspected",
+    "GSE63060: GSE63060_non-normalized.txt.gz retrieved (SHA-256 163acd963f21\u2026) and inspected",
+    "GSE63060: GSE63060_RAW.tar retrieved (SHA-256 021a8de0d406\u2026) and inspected",
+    "GSE63060: filelist.txt retrieved (SHA-256 4b55fd2c8d59\u2026) and inspected",
+    "GSE63061: GEO sample metadata retrieved and parsed (388 records); phenotype table at data/processed/GSE63061/phenotype_table.tsv",
+    "GSE63061: GSE63061_series_matrix.txt.gz retrieved (SHA-256 c6de1af5bd36\u2026) and inspected",
+    "GSE63061: GSE63061_normalized.txt.gz retrieved (SHA-256 724407efd592\u2026) and inspected",
+    "GSE63061: GSE63061_non-normalized.txt.gz retrieved (SHA-256 a63663ed42b3\u2026) and inspected",
+    "GSE63061: GSE63061_RAW.tar retrieved (SHA-256 19dbc61b4da9\u2026) and inspected",
+    "GSE63061: filelist.txt retrieved (SHA-256 08f49ebd32f0\u2026) and inspected",
+    "GSE140829: GEO sample metadata retrieved and parsed (587 records); phenotype table at data/processed/GSE140829/phenotype_table.tsv",
+    "GSE140829: GSE140829_series_matrix.txt.gz retrieved (SHA-256 be4f08a2cb01\u2026) and inspected",
+    "GSE140829: GSE140829_final_normalized_data.txt.gz retrieved (SHA-256 28613d74484a\u2026) and inspected",
+    "GSE140829: GSE140829_raw_data.txt.gz retrieved (SHA-256 de2ba7864b0c\u2026) and inspected",
+    "GSE99039: GEO sample metadata retrieved and parsed (558 records); phenotype table at data/processed/GSE99039/phenotype_table.tsv",
+    "GSE99039: GSE99039_series_matrix.txt.gz retrieved (SHA-256 197b7272a8a5\u2026) and inspected",
+    "GSE99039: filelist.txt retrieved (SHA-256 7fb47f5f46cc\u2026) and inspected",
+    "GSE165082: GEO sample metadata retrieved and parsed (26 records); phenotype table at data/processed/GSE165082/phenotype_table.tsv",
+    "GSE165082: GSE165082_series_matrix.txt.gz retrieved (SHA-256 16cd63f53761\u2026) and inspected",
+    "GSE165082: GSE165082_PD-CC.counts.txt.gz retrieved (SHA-256 d0912e66d0cf\u2026) and inspected",
+    "GSE165081: GEO sample metadata retrieved and parsed (28 records); phenotype table at data/processed/GSE165081/phenotype_table.tsv",
+    "GSE165081: GSE165081_Sample_Sheet.PD-CN.csv.gz retrieved (SHA-256 3351a20ba021\u2026) and inspected",
+    "GSE165081: GSE165081_detP.csv.gz retrieved (SHA-256 4214d4bb77d2\u2026) and inspected",
+    "GSE165081: filelist.txt retrieved (SHA-256 f263292ee14c\u2026) and inspected"
+  ],
+  "failed": [
+    "GSE99039: GSE99039_RAW.tar (SKIPPED_OFFLINE)"
+  ],
+  "review": [
+    "GSE63060 [high] GSE63060_normalized.txt.gz: 1 row(s) shorter than the header (values absent, counted as missing): line 30881 'ILMN_2315789' (1 fields)",
+    "GSE63060 [high] GSE63060_non-normalized.txt.gz: 3 data column(s) with an empty header at positions [317, 323, 329]: values present but not attributable to any sample",
+    "GSE63060 [high] GSE63060_normalized.txt.gz: not an exact one-to-one match with GEO records (1 expression-only, 0 phenotype-only, 0 duplicated expression IDs, 0 duplicated phenotype keys, 0 records without key)",
+    "GSE63060 [high] GSE63060_non-normalized.txt.gz: not an exact one-to-one match with GEO records (1 expression-only, 3 phenotype-only, 0 duplicated expression IDs, 0 duplicated phenotype keys, 0 records without key)",
+    "GSE63060 [medium] GSE63060_series_matrix.txt.gz: processing state PROCESSED_NORMALIZED (confidence MEDIUM) requires review",
+    "GSE63060 [medium] GSE63060_normalized.txt.gz: processing state PROCESSED_NORMALIZED (confidence MEDIUM) requires review",
+    "GSE63060 [medium] GSE63060_non-normalized.txt.gz: processing state NON_NORMALIZED (confidence MEDIUM) requires review",
+    "GSE63060 [medium] GSE63060_RAW.tar: processing state METADATA_ONLY (confidence HIGH) requires review; content-based state METADATA_ONLY contradicts the file-name hint RAW_INSTRUMENT",
+    "GSE63061 [medium] 6 sample(s) with ambiguous diagnosis label: {'borderline MCI': 3, 'OTHER': 1, 'CTL to AD': 1, 'MCI to CTL': 1}",
+    "GSE63061 [medium] GSE63061_series_matrix.txt.gz: processing state PROCESSED_NORMALIZED (confidence MEDIUM) requires review",
+    "GSE63061 [medium] GSE63061_normalized.txt.gz: processing state PROCESSED_NORMALIZED (confidence MEDIUM) requires review",
+    "GSE63061 [medium] GSE63061_non-normalized.txt.gz: processing state NON_NORMALIZED (confidence MEDIUM) requires review",
+    "GSE63061 [medium] GSE63061_RAW.tar: processing state METADATA_ONLY (confidence HIGH) requires review; content-based state METADATA_ONLY contradicts the file-name hint RAW_INSTRUMENT",
+    "GSE140829 [medium] GSE140829_final_normalized_data.txt.gz: processing state PROCESSED_NORMALIZED (confidence MEDIUM) requires review",
+    "GSE140829 [medium] GSE140829_raw_data.txt.gz: processing state NON_NORMALIZED (confidence HIGH) requires review; content-based state NON_NORMALIZED contradicts the file-name hint RAW_INSTRUMENT",
+    "GSE140829 [medium] GSE140829_final_normalized_data.txt.gz: not an exact one-to-one match with GEO records (0 expression-only, 36 phenotype-only, 0 duplicated expression IDs, 0 duplicated phenotype keys, 0 records without key)",
+    "GSE99039 [medium] 8 sample(s) with ambiguous diagnosis label: {'HD_HD_BATCH': 8}",
+    "GSE99039 [medium] 8 sample(s) lack a participant ID in char:subject_id",
+    "GSE99039 [medium] OTHER_NEURO: observed 49 vs reported 48 (difference +1)",
+    "GSE99039 [medium] GSE99039_RAW.tar: SKIPPED_OFFLINE",
+    "GSE165082 [medium] DESCRIBED_PARTICIPANTS: observed 26 vs reported 30 (difference -4)",
+    "GSE165082 [medium] GSE165082_PD-CC.counts.txt.gz: processing state NON_NORMALIZED (confidence MEDIUM) requires review",
+    "GSE165081 [high] GSE165081_detP.csv.gz: processing state UNKNOWN (confidence LOW) requires review; no content-based evidence; processing state cannot be established",
+    "GSE165081 [medium] DESCRIBED_PARTICIPANTS: observed 28 vs reported 30 (difference -2)",
+    "overlap check ADDNEUROMED-PARTICIPANT-CODES (GSE63060, GSE63061): NO_SHARED_IDENTIFIERS_FOUND \u2014 no identical values; this does NOT establish participant independence (identifiers may be coded differently between deposits)",
+    "overlap check ADDNEUROMED-ARRAY-BARCODES (GSE63060, GSE63061): NO_SHARED_IDENTIFIERS_FOUND \u2014 no identical values; this does NOT establish participant independence (identifiers may be coded differently between deposits)",
+    "overlap check AD-COHORTS-ARRAY-BARCODES (GSE63060, GSE63061, GSE140829): NO_SHARED_IDENTIFIERS_FOUND \u2014 no identical values; this does NOT establish participant independence (identifiers may be coded differently between deposits)",
+    "overlap check PD-STUDY-RNA-VS-METHYLATION (GSE165082, GSE165081): POSSIBLE_OVERLAP_FLAGGED \u2014 GSE165082/GSE165081: 26 shared of [26, 28] (e.g. ['011', '012', '015', '016', '021'])"
+  ],
+  "overlap_checks": [
+    {
+      "id": "ADDNEUROMED-PARTICIPANT-CODES",
+      "datasets": "GSE63060, GSE63061",
+      "field": "description",
+      "note": "Compares participant-style codes in GSM descriptions across AddNeuroMed batches.",
+      "pairs": [
+        {
+          "datasets": [
+            "GSE63060",
+            "GSE63061"
+          ],
+          "n_values": [
+            329,
+            388
+          ],
+          "n_shared": 0,
+          "shared_values": []
+        }
+      ],
+      "status": "NO_SHARED_IDENTIFIERS_FOUND",
+      "detail": "no identical values; this does NOT establish participant independence (identifiers may be coded differently between deposits)"
+    },
+    {
+      "id": "ADDNEUROMED-ARRAY-BARCODES",
+      "datasets": "GSE63060, GSE63061",
+      "field": "title",
+      "note": "Compares array barcodes (chip_position) across batches.",
+      "pairs": [
+        {
+          "datasets": [
+            "GSE63060",
+            "GSE63061"
+          ],
+          "n_values": [
+            329,
+            388
+          ],
+          "n_shared": 0,
+          "shared_values": []
+        }
+      ],
+      "status": "NO_SHARED_IDENTIFIERS_FOUND",
+      "detail": "no identical values; this does NOT establish participant independence (identifiers may be coded differently between deposits)"
+    },
+    {
+      "id": "AD-COHORTS-ARRAY-BARCODES",
+      "datasets": "GSE63060, GSE63061, GSE140829",
+      "field": "title ~ (\\d+_[A-Z])",
+      "note": "Shared array barcodes would indicate re-deposited hybridizations.",
+      "pairs": [
+        {
+          "datasets": [
+            "GSE63060",
+            "GSE63061"
+          ],
+          "n_values": [
+            329,
+            388
+          ],
+          "n_shared": 0,
+          "shared_values": []
+        },
+        {
+          "datasets": [
+            "GSE63060",
+            "GSE140829"
+          ],
+          "n_values": [
+            329,
+            587
+          ],
+          "n_shared": 0,
+          "shared_values": []
+        },
+        {
+          "datasets": [
+            "GSE63061",
+            "GSE140829"
+          ],
+          "n_values": [
+            388,
+            587
+          ],
+          "n_shared": 0,
+          "shared_values": []
+        }
+      ],
+      "status": "NO_SHARED_IDENTIFIERS_FOUND",
+      "detail": "no identical values; this does NOT establish participant independence (identifiers may be coded differently between deposits)"
+    },
+    {
+      "id": "PD-STUDY-RNA-VS-METHYLATION",
+      "datasets": "GSE165082, GSE165081",
+      "field": "title ~ (\\d{3})",
+      "note": "Numeric participant codes (e.g. 011_PD vs MAYO_011). Matching numbers are a lead for participant correspondence across modalities, not proof.",
+      "pairs": [
+        {
+          "datasets": [
+            "GSE165082",
+            "GSE165081"
+          ],
+          "n_values": [
+            26,
+            28
+          ],
+          "n_shared": 26,
+          "shared_values": [
+            "011",
+            "012",
+            "015",
+            "016",
+            "021",
+            "022",
+            "023",
+            "024",
+            "025",
+            "026",
+            "027",
+            "028",
+            "029",
+            "030",
+            "031",
+            "036",
+            "038",
+            "039",
+            "040",
+            "041",
+            "043",
+            "045",
+            "047",
+            "049",
+            "050",
+            "051"
+          ]
+        }
+      ],
+      "status": "POSSIBLE_OVERLAP_FLAGGED",
+      "detail": "GSE165082/GSE165081: 26 shared of [26, 28] (e.g. ['011', '012', '015', '016', '021'])"
+    }
+  ],
+  "processing": [
+    {
+      "accession": "GSE63060",
+      "file": "GSE63060_series_matrix.txt.gz",
+      "state": "PROCESSED_NORMALIZED",
+      "confidence": "MEDIUM",
+      "requires_review": true
+    },
+    {
+      "accession": "GSE63060",
+      "file": "GSE63060_normalized.txt.gz",
+      "state": "PROCESSED_NORMALIZED",
+      "confidence": "MEDIUM",
+      "requires_review": true
+    },
+    {
+      "accession": "GSE63060",
+      "file": "GSE63060_non-normalized.txt.gz",
+      "state": "NON_NORMALIZED",
+      "confidence": "MEDIUM",
+      "requires_review": true
+    },
+    {
+      "accession": "GSE63060",
+      "file": "GSE63060_RAW.tar",
+      "state": "METADATA_ONLY",
+      "confidence": "HIGH",
+      "requires_review": true
+    },
+    {
+      "accession": "GSE63060",
+      "file": "filelist.txt",
+      "state": "METADATA_ONLY",
+      "confidence": "HIGH",
+      "requires_review": false
+    },
+    {
+      "accession": "GSE63061",
+      "file": "GSE63061_series_matrix.txt.gz",
+      "state": "PROCESSED_NORMALIZED",
+      "confidence": "MEDIUM",
+      "requires_review": true
+    },
+    {
+      "accession": "GSE63061",
+      "file": "GSE63061_normalized.txt.gz",
+      "state": "PROCESSED_NORMALIZED",
+      "confidence": "MEDIUM",
+      "requires_review": true
+    },
+    {
+      "accession": "GSE63061",
+      "file": "GSE63061_non-normalized.txt.gz",
+      "state": "NON_NORMALIZED",
+      "confidence": "MEDIUM",
+      "requires_review": true
+    },
+    {
+      "accession": "GSE63061",
+      "file": "GSE63061_RAW.tar",
+      "state": "METADATA_ONLY",
+      "confidence": "HIGH",
+      "requires_review": true
+    },
+    {
+      "accession": "GSE63061",
+      "file": "filelist.txt",
+      "state": "METADATA_ONLY",
+      "confidence": "HIGH",
+      "requires_review": false
+    },
+    {
+      "accession": "GSE140829",
+      "file": "GSE140829_series_matrix.txt.gz",
+      "state": "PROCESSED_NORMALIZED",
+      "confidence": "HIGH",
+      "requires_review": false
+    },
+    {
+      "accession": "GSE140829",
+      "file": "GSE140829_final_normalized_data.txt.gz",
+      "state": "PROCESSED_NORMALIZED",
+      "confidence": "MEDIUM",
+      "requires_review": true
+    },
+    {
+      "accession": "GSE140829",
+      "file": "GSE140829_raw_data.txt.gz",
+      "state": "NON_NORMALIZED",
+      "confidence": "HIGH",
+      "requires_review": true
+    },
+    {
+      "accession": "GSE99039",
+      "file": "GSE99039_series_matrix.txt.gz",
+      "state": "PROCESSED_NORMALIZED",
+      "confidence": "HIGH",
+      "requires_review": false
+    },
+    {
+      "accession": "GSE99039",
+      "file": "filelist.txt",
+      "state": "METADATA_ONLY",
+      "confidence": "HIGH",
+      "requires_review": false
+    },
+    {
+      "accession": "GSE99039",
+      "file": "GSE99039_RAW.tar",
+      "state": "UNKNOWN",
+      "confidence": "LOW",
+      "requires_review": true
+    },
+    {
+      "accession": "GSE165082",
+      "file": "GSE165082_series_matrix.txt.gz",
+      "state": "METADATA_ONLY",
+      "confidence": "HIGH",
+      "requires_review": false
+    },
+    {
+      "accession": "GSE165082",
+      "file": "GSE165082_PD-CC.counts.txt.gz",
+      "state": "NON_NORMALIZED",
+      "confidence": "MEDIUM",
+      "requires_review": true
+    },
+    {
+      "accession": "GSE165081",
+      "file": "GSE165081_Sample_Sheet.PD-CN.csv.gz",
+      "state": "METADATA_ONLY",
+      "confidence": "HIGH",
+      "requires_review": false
+    },
+    {
+      "accession": "GSE165081",
+      "file": "GSE165081_detP.csv.gz",
+      "state": "UNKNOWN",
+      "confidence": "LOW",
+      "requires_review": true
+    },
+    {
+      "accession": "GSE165081",
+      "file": "filelist.txt",
+      "state": "METADATA_ONLY",
+      "confidence": "HIGH",
+      "requires_review": false
+    }
+  ]
+}

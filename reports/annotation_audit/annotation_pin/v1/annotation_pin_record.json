@@ -1,0 +1,99 @@
+{
+  "archives": {
+    "hgu133plus2.db_3.13.0.tar.gz": {
+      "role": "GPL570 platform package (D6-F)",
+      "sha256": "ddde58e777a8341536a664c7d4be874a2f395f8aaa019c1f738462a8ce74cc44"
+    },
+    "illuminaHumanv3.db_1.26.0.tar.gz": {
+      "role": "GPL6947 platform package (D6-G)",
+      "sha256": "cea0c9cd155197154d57400cb3f18108e451cf26e714c39698d68e45cd503a1b"
+    },
+    "illuminaHumanv4.db_1.26.0.tar.gz": {
+      "role": "GPL10558 platform package (D6-G)",
+      "sha256": "362848d6e78c7fa6206e1a4c68a4b68c1ea065267d550114837bc3b9d833ee85"
+    },
+    "org.Hs.eg.db_3.23.1.tar.gz": {
+      "role": "shared Entrez snapshot",
+      "sha256": "470620665cf49d0319422731164f377e3e74253989f1d33a8a1d100cc3d49cfe"
+    }
+  },
+  "authorization": "PI instruction 2026-10-18 in the project session: 'okay proceed', given in reply to the proposal to create reports/annotation_audit/annotation_pin/v1 from the verified v2 artifacts (gpl570_option_a/v2, illumina_a0/v2, c15_cohort_probe_presence/v2). Authorizes this pin only; no analysis.",
+  "d8_environment_records": {
+    "renv.lock": "fa51c7b9d10dd468fbeed8b2ad83b832eb8acc83adb828dc25361cbbc4359951",
+    "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+    "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+    "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+  },
+  "frozen_inputs": {
+    "gene_history_v1": {
+      "manifest_sha256": "42746d098c2d3a5b42c6788b08d38ab373097c545ff1b263dfdc36bbf6101492",
+      "note": "frozen input; raw NCBI gene_history.gz not retained, so it cannot be rebuilt independently (v7:643)",
+      "table": "reports/annotation_audit/ncbi_gene_history/v1/gene_history_reconciliation.tsv",
+      "table_sha256": "42451a70752436a65c9caeab076317c0cf5523b13410003cc29f52df3f24f8f2"
+    }
+  },
+  "mapping_rules": {
+    "D6-F": "GPL570 Option A: hgu133plus2.db 3.13.0 with Entrez IDs reconciled to org.Hs.eg.db 3.23.1 by the gene-history procedure, cutoff 20260318 (SAP v7:609)",
+    "D6-G": "GPL6947/GPL10558 Option A0: package probes-table mapping, no gene-history reconciliation, multi-Entrez probes excluded, discordant probes retained and flagged, accession-only probes not added (SAP v7:609)"
+  },
+  "reference_manifest_sha256": "be6325084aef83d39e1fe5637d1a94c911ed02325b8afd4b1a8d126cea471653",
+  "sap": {
+    "path": "reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+    "sha256": "34bf22d11fb2945212a0a84f60cf86cdd47ea2ce0b2aeb82921219ae97b84115",
+    "status_line": "**Status: PROPOSED DRAFT FOR REVIEW. Not approved, not frozen.**"
+  },
+  "schema": "bio-mb-001/annotation-pin/v1",
+  "upstream": {
+    "c15_cohort_probe_presence": {
+      "dir": "reports/annotation_audit/c15_cohort_probe_presence/v2",
+      "equivalence_reference": "reports/annotation_audit/c15_cohort_probe_presence/v1",
+      "generating_script": "scripts/c15_cohort_probe_presence.py",
+      "generating_script_sha256": "60857f1078c18668b157f0d3a0b39b9495940e64bfee852477b5676aefe7c6b9",
+      "identity_aggregate_sha256": "42eaf15b2223da78bfd559dfa44b7fe18b2e5442fd8bf4b0acb5e2688b7c16bb",
+      "identity_git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+      "identity_record_sha256": "dce0c1689f092a007fb1ffca92022bc8ba461ba5134dd22d67c44d206acd6f40",
+      "manifest": "manifest.json",
+      "manifest_sha256": "ed6cb0124ad3766f5b0756f2a8c9919431786b702b9e269e3855be13f024b95c",
+      "role": "validation evidence (v7:112)",
+      "tables_sha256": {
+        "presence_counts.tsv": "d110318ee9a2a4e76cb6bcbeee5cdcaa8a2a133a29b6d8ac5b5c65bf52adf8da",
+        "probe_presence.tsv": "3e83d3204e000d797f17f1e6b0ad359df87496c8c2a4e84035497c71afa18e17"
+      },
+      "validation_passed": true
+    },
+    "gpl570_option_a": {
+      "dir": "reports/annotation_audit/gpl570_option_a/v2",
+      "equivalence_reference": "reports/annotation_audit/gpl570_option_a/v1",
+      "generating_script": "scripts/annotation_gpl570_option_a_counts.py",
+      "generating_script_sha256": "05d219098259ba3ecac81f5b162c6763772ae861cb11f0bd81626161e6ce443b",
+      "identity_aggregate_sha256": "42eaf15b2223da78bfd559dfa44b7fe18b2e5442fd8bf4b0acb5e2688b7c16bb",
+      "identity_git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+      "identity_record_sha256": "bc029b0b997541d17375f2dbea339d210db76f52dd4ea4f1fdbebd9e17a10b21",
+      "manifest": "counts_manifest.json",
+      "manifest_sha256": "9d33268de6bc6d26994f9cccc85fc2386f1e2ff8146dd38a39b297574e857421",
+      "role": "pinned classification table(s)",
+      "tables_sha256": {
+        "probe_set_classification.tsv": "9e5f23fa8b10b3e120b518873905b79e5f338ca07ec83357e173d3a2ddea8d9c"
+      },
+      "validation_passed": true
+    },
+    "illumina_a0": {
+      "dir": "reports/annotation_audit/illumina_a0/v2",
+      "equivalence_reference": "reports/annotation_audit/illumina_a0/v1",
+      "generating_script": "scripts/annotation_illumina_a0_classification.py",
+      "generating_script_sha256": "990f33bd76de56731b73a4c55dfa8694289d41e0b862c97f5a01218f2a1bbdff",
+      "identity_aggregate_sha256": "42eaf15b2223da78bfd559dfa44b7fe18b2e5442fd8bf4b0acb5e2688b7c16bb",
+      "identity_git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+      "identity_record_sha256": "36a844c39dcecc99d9c3d44b753e937954d7ea08671b334e23581570f4d7c85c",
+      "manifest": "manifest.json",
+      "manifest_sha256": "a22958430841ac40752f7a2390bbf78c64a4aeb6174e5b1374fae0bd37616650",
+      "role": "pinned classification table(s)",
+      "tables_sha256": {
+        "a0_counts.tsv": "a68aa75080026e175cb148994c42f4fbc38d0a3c386a526dc12cb0b63887d625",
+        "a0_discordant_probes.tsv": "e5b99695ac5b600bba0157c1d9b673be5f20a513e43e5887d0b7c6faccb85958",
+        "a0_probe_classification.tsv": "6da6cf2c1d7d1911c17301d60c1f153f91856f405f7fde1faf6f553b3013ae7c"
+      },
+      "validation_passed": true
+    }
+  }
+}

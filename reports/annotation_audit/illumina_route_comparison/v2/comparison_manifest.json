@@ -1,0 +1,476 @@
+{
+  "status": "Decision support only; no mapping policy approved",
+  "sources": {
+    "tarballs": {
+      "illuminaHumanv3.db_1.26.0.tar.gz": {
+        "path": "/Users/sadgasalim/Documents/BIO-MB-001/reference/bioconductor_3.23/illuminaHumanv3.db_1.26.0.tar.gz",
+        "bytes": 6455664,
+        "md5": "7d9e7534f0b60f0e3e7473e545ef373d",
+        "sha256": "cea0c9cd155197154d57400cb3f18108e451cf26e714c39698d68e45cd503a1b"
+      },
+      "illuminaHumanv4.db_1.26.0.tar.gz": {
+        "path": "/Users/sadgasalim/Documents/BIO-MB-001/reference/bioconductor_3.23/illuminaHumanv4.db_1.26.0.tar.gz",
+        "bytes": 6705381,
+        "md5": "42d554559ac0106dc71317ffaf466421",
+        "sha256": "362848d6e78c7fa6206e1a4c68a4b68c1ea065267d550114837bc3b9d833ee85"
+      },
+      "lumiHumanIDMapping_1.10.1.tar.gz": {
+        "path": "/Users/sadgasalim/Documents/BIO-MB-001/reference/bioconductor_3.23/lumiHumanIDMapping_1.10.1.tar.gz",
+        "bytes": 27559728,
+        "md5": "007e5aa2f1596cc08d888ba6dce7148a",
+        "sha256": "6414e94a243eea6a126e582a68fadd41798bb5fccc03fcc99380a01f40634948"
+      }
+    },
+    "option_a_outputs": {
+      "illuminaHumanv3_probe_classification_PROVISIONAL.tsv": {
+        "path": "/Users/sadgasalim/Documents/BIO-MB-001/reports/annotation_audit/illumina_option_a/v1/illuminaHumanv3_probe_classification_PROVISIONAL.tsv",
+        "bytes": 3022167,
+        "md5": "e2d6694ec8ad9b2694af60ad718bf59d",
+        "sha256": "8214b0078512282701525617f81872ce189004df663079e96157cda8fe279de4"
+      },
+      "illuminaHumanv4_probe_classification_PROVISIONAL.tsv": {
+        "path": "/Users/sadgasalim/Documents/BIO-MB-001/reports/annotation_audit/illumina_option_a/v1/illuminaHumanv4_probe_classification_PROVISIONAL.tsv",
+        "bytes": 2959585,
+        "md5": "b7a4b77bf680838e8beebcd8c4db10a7",
+        "sha256": "fc73bebe9b614759cced5dcf553084e87091e2959a41866eff277b0916175153"
+      },
+      "lumi_HT12_v4_R2_probe_classification_PROVISIONAL.tsv": {
+        "path": "/Users/sadgasalim/Documents/BIO-MB-001/reports/annotation_audit/illumina_option_a/v1/lumi_HT12_v4_R2_probe_classification_PROVISIONAL.tsv",
+        "bytes": 3102437,
+        "md5": "29c4226c9519a0bc17f00ffe21c00665",
+        "sha256": "cd8edfd1016c1bf8f45a70a18cfda4c649c8b3e75fe55b9f23a3f138132fd739"
+      }
+    },
+    "option_a_manifest": {
+      "path": "/Users/sadgasalim/Documents/BIO-MB-001/reports/annotation_audit/illumina_option_a/v1/counts_manifest_PROVISIONAL.json",
+      "bytes": 8614,
+      "md5": "067492b9798737cb2b6679a3616bbb9e",
+      "sha256": "38c799d7eb1d57d81a5e78102a9ebfe66e47c6ef45f4454fd6c0acbaf1c6e86f"
+    },
+    "org_hs_eg_db_retained": true,
+    "org_hs_eg_db": {
+      "path": "/Users/sadgasalim/Documents/BIO-MB-001/reference/bioconductor_3.23/org.Hs.eg.db_3.23.1.tar.gz",
+      "bytes": 103790170,
+      "md5": "813be1921e7bc08c1348dbce9d244d0a",
+      "sha256": "470620665cf49d0319422731164f377e3e74253989f1d33a8a1d100cc3d49cfe"
+    }
+  },
+  "missing_source": {
+    "file": "org.Hs.eg.db_3.23.1.tar.gz",
+    "bytes": 103790170,
+    "md5_published": "813be1921e7bc08c1348dbce9d244d0a",
+    "sha256_recorded_2026_10_12": "470620665cf49d0319422731164f377e3e74253989f1d33a8a1d100cc3d49cfe",
+    "url": "https://bioconductor.org/packages/3.23/data/annotation/src/contrib/org.Hs.eg.db_3.23.1.tar.gz"
+  },
+  "metrics": [
+    {
+      "platform": "illuminaHumanv3",
+      "cohort": "GSE63060",
+      "probes_total": 49576,
+      "single_gene_probes": 29551,
+      "multi_gene_probes": 1175,
+      "no_gene_in_package": 18850,
+      "option_a": {
+        "eligible": 29489,
+        "eligible_direct": 29430,
+        "eligible_via_replacement": 59,
+        "no_replacement": 62,
+        "unexplained": 0,
+        "pct_eligible_of_all_probes": "59.48%",
+        "pct_eligible_of_single_gene_probes": "99.79%",
+        "distinct_genes": 19226,
+        "genes_with_more_than_one_probe": 6554,
+        "collision_probes": 43,
+        "collision_successor_genes": 28,
+        "collision_source_genes": 30
+      },
+      "accession_route_inputs": {
+        "probes_with_accession": 31857,
+        "pct_of_all_probes": "64.26%",
+        "single_gene_probes_with_accession": 29551,
+        "pct_of_single_gene_probes": "100.00%",
+        "option_a_eligible_probes_with_accession": 29489,
+        "accession_values": 57382,
+        "probes_with_more_than_one_accession": 12377,
+        "accessions_with_version_suffix": 0,
+        "accession_prefixes": {
+          "NM_": 50296,
+          "NR_": 4534,
+          "XM_": 1113,
+          "XR_": 1439
+        },
+        "accession_probe_ids_not_in_option_a_table": 0
+      },
+      "accession_route_assignments": {
+        "classes": {
+          "accession_unmatched": 1379,
+          "ambiguous": 1152,
+          "no_accession": 17719,
+          "unique": 29326
+        },
+        "assigned_unique": 29326,
+        "pct_assigned_of_all_probes": "59.15%",
+        "distinct_genes": 19100
+      },
+      "route_comparison": {
+        "denominator_all_probes": 49576,
+        "optionA_eligible": 29489,
+        "accession_unique": 29326,
+        "both_assign_one_gene": 29294,
+        "concordant": 29284,
+        "discordant": 10,
+        "pct_concordant_of_both": "99.97%",
+        "optionA_eligible_accession_ambiguous_including_optionA_gene": 9,
+        "optionA_eligible_accession_ambiguous_excluding_optionA_gene": 1,
+        "optionA_eligible_accession_unresolved": 185,
+        "accession_unique_optionA_not_eligible": 32,
+        "neither_assigns": 20055,
+        "genes_both_routes": 19085,
+        "genes_optionA_only": 141,
+        "genes_accession_only": 15,
+        "cross_tab_optionA_x_accession": {
+          "optionA_discontinued_no_replacement | accession_unmatched": 62,
+          "optionA_eligible | accession_unmatched": 185,
+          "optionA_eligible | ambiguous": 10,
+          "optionA_eligible | unique": 29294,
+          "optionA_multiple_mappings_excluded | accession_unmatched": 1,
+          "optionA_multiple_mappings_excluded | ambiguous": 1142,
+          "optionA_multiple_mappings_excluded | unique": 32,
+          "optionA_no_assignment_in_package | accession_unmatched": 1131,
+          "optionA_no_assignment_in_package | no_accession": 17719
+        }
+      },
+      "prior_session_replication": {
+        "single_gene_probes": 29551,
+        "route_exactly_one_gene": 29294,
+        "same_gene": 29244,
+        "different_gene": 50,
+        "route_ambiguous": 10,
+        "no_route": 247,
+        "all_probes_resolved": 30478,
+        "all_probes_unique": 29326,
+        "all_probes_ambiguous": 1152,
+        "previously_reported": {
+          "denominator": "29,551 single-gene probes",
+          "route_exactly_one_gene": 29294,
+          "same_gene": 29244,
+          "different_gene": 50,
+          "route_ambiguous": 10,
+          "no_route": 247
+        }
+      }
+    },
+    {
+      "platform": "illuminaHumanv4",
+      "cohort": "GSE63061",
+      "probes_total": 48107,
+      "single_gene_probes": 34160,
+      "multi_gene_probes": 1726,
+      "no_gene_in_package": 12221,
+      "option_a": {
+        "eligible": 34038,
+        "eligible_direct": 33962,
+        "eligible_via_replacement": 76,
+        "no_replacement": 122,
+        "unexplained": 0,
+        "pct_eligible_of_all_probes": "70.75%",
+        "pct_eligible_of_single_gene_probes": "99.64%",
+        "distinct_genes": 20926,
+        "genes_with_more_than_one_probe": 7678,
+        "collision_probes": 50,
+        "collision_successor_genes": 32,
+        "collision_source_genes": 35
+      },
+      "accession_route_inputs": {
+        "probes_with_accession": 37881,
+        "pct_of_all_probes": "78.74%",
+        "single_gene_probes_with_accession": 34160,
+        "pct_of_single_gene_probes": "100.00%",
+        "option_a_eligible_probes_with_accession": 34038,
+        "accession_values": 68113,
+        "probes_with_more_than_one_accession": 14399,
+        "accessions_with_version_suffix": 0,
+        "accession_prefixes": {
+          "NM_": 56375,
+          "NR_": 7477,
+          "XM_": 2043,
+          "XR_": 2218
+        },
+        "accession_probe_ids_not_in_option_a_table": 0
+      },
+      "accession_route_assignments": {
+        "classes": {
+          "accession_unmatched": 2390,
+          "ambiguous": 1680,
+          "no_accession": 10226,
+          "unique": 33811
+        },
+        "assigned_unique": 33811,
+        "pct_assigned_of_all_probes": "70.28%",
+        "distinct_genes": 20779
+      },
+      "route_comparison": {
+        "denominator_all_probes": 48107,
+        "optionA_eligible": 34038,
+        "accession_unique": 33811,
+        "both_assign_one_gene": 33761,
+        "concordant": 33745,
+        "discordant": 16,
+        "pct_concordant_of_both": "99.95%",
+        "optionA_eligible_accession_ambiguous_including_optionA_gene": 9,
+        "optionA_eligible_accession_ambiguous_excluding_optionA_gene": 1,
+        "optionA_eligible_accession_unresolved": 267,
+        "accession_unique_optionA_not_eligible": 50,
+        "neither_assigns": 14019,
+        "genes_both_routes": 20759,
+        "genes_optionA_only": 167,
+        "genes_accession_only": 20,
+        "cross_tab_optionA_x_accession": {
+          "optionA_discontinued_no_replacement | accession_unmatched": 122,
+          "optionA_eligible | accession_unmatched": 267,
+          "optionA_eligible | ambiguous": 10,
+          "optionA_eligible | unique": 33761,
+          "optionA_multiple_mappings_excluded | accession_unmatched": 6,
+          "optionA_multiple_mappings_excluded | ambiguous": 1670,
+          "optionA_multiple_mappings_excluded | unique": 50,
+          "optionA_no_assignment_in_package | accession_unmatched": 1995,
+          "optionA_no_assignment_in_package | no_accession": 10226
+        }
+      },
+      "prior_session_replication": {
+        "single_gene_probes": 34160,
+        "route_exactly_one_gene": 33761,
+        "same_gene": 33697,
+        "different_gene": 64,
+        "route_ambiguous": 10,
+        "no_route": 389,
+        "all_probes_resolved": 35491,
+        "all_probes_unique": 33811,
+        "all_probes_ambiguous": 1680,
+        "previously_reported": {
+          "denominator": "34,160 single-gene probes",
+          "route_exactly_one_gene": 33761,
+          "same_gene": 33697,
+          "different_gene": 64,
+          "route_ambiguous": 10,
+          "no_route": 389
+        }
+      }
+    },
+    {
+      "platform": "lumi HT-12 v4 R2",
+      "cohort": "GSE140829 applicability unverified (D19)",
+      "probes_total": 47323,
+      "single_gene_probes": 43960,
+      "multi_gene_probes": 0,
+      "no_gene_in_package": 3363,
+      "option_a": {
+        "eligible": 37491,
+        "eligible_direct": 35731,
+        "eligible_via_replacement": 1760,
+        "no_replacement": 6468,
+        "unexplained": 1,
+        "pct_eligible_of_all_probes": "79.22%",
+        "pct_eligible_of_single_gene_probes": "85.28%",
+        "distinct_genes": 23743,
+        "genes_with_more_than_one_probe": 8600,
+        "collision_probes": 1165,
+        "collision_successor_genes": 783,
+        "collision_source_genes": 892
+      },
+      "accession_route_inputs": {
+        "probes_with_accession": 47323,
+        "pct_of_all_probes": "100.00%",
+        "single_gene_probes_with_accession": 43960,
+        "pct_of_single_gene_probes": "100.00%",
+        "option_a_eligible_probes_with_accession": 37491,
+        "accession_values": 47323,
+        "probes_with_more_than_one_accession": 0,
+        "accessions_with_version_suffix": 0,
+        "accession_prefixes": {
+          "GenBank (no prefix)": 3311,
+          "NM_": 29183,
+          "NR_": 1960,
+          "XM_": 10355,
+          "XR_": 2514
+        },
+        "accession_probe_ids_not_in_option_a_table": 0
+      },
+      "accession_route_assignments": {
+        "classes": {
+          "accession_unmatched": 16193,
+          "unique": 31130
+        },
+        "assigned_unique": 31130,
+        "pct_assigned_of_all_probes": "65.78%",
+        "distinct_genes": 20593
+      },
+      "route_comparison": {
+        "denominator_all_probes": 47323,
+        "optionA_eligible": 37491,
+        "accession_unique": 31130,
+        "both_assign_one_gene": 30677,
+        "concordant": 30640,
+        "discordant": 37,
+        "pct_concordant_of_both": "99.88%",
+        "optionA_eligible_accession_ambiguous_including_optionA_gene": 0,
+        "optionA_eligible_accession_ambiguous_excluding_optionA_gene": 0,
+        "optionA_eligible_accession_unresolved": 6814,
+        "accession_unique_optionA_not_eligible": 453,
+        "neither_assigns": 9379,
+        "genes_both_routes": 20356,
+        "genes_optionA_only": 3387,
+        "genes_accession_only": 237,
+        "cross_tab_optionA_x_accession": {
+          "optionA_chain_ends_no_replacement | accession_unmatched": 436,
+          "optionA_discontinued_no_replacement | accession_unmatched": 6030,
+          "optionA_discontinued_no_replacement | unique": 2,
+          "optionA_eligible | accession_unmatched": 6814,
+          "optionA_eligible | unique": 30677,
+          "optionA_no_assignment_in_package | accession_unmatched": 2912,
+          "optionA_no_assignment_in_package | unique": 451,
+          "optionA_unexplained_absent_no_history | accession_unmatched": 1
+        }
+      },
+      "prior_session_replication": {
+        "single_gene_probes": 43960,
+        "route_exactly_one_gene": 30679,
+        "same_gene": 30396,
+        "different_gene": 283,
+        "route_ambiguous": 0,
+        "no_route": 13281,
+        "all_probes_resolved": 31130,
+        "all_probes_unique": 31130,
+        "all_probes_ambiguous": 0,
+        "previously_reported": {
+          "denominator": "47,323 nuIDs (manifest rows)",
+          "route_resolved_exactly_one_gene": 31130,
+          "agrees_with_lumi_EntrezID": 30396,
+          "differs_from_lumi_EntrezID": 283
+        }
+      }
+    }
+  ],
+  "validation": {
+    "status": "OK",
+    "checks": [
+      {
+        "check": "illuminaHumanv3: Option A classes sum to probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: single + multi + none = probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: eligible <= single-gene probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: every accession probe ID exists in the Option A table",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: accession-route classes sum to probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: comparison categories sum to probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: concordant + discordant = both assign one gene",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: Option A eligible partition sums",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: cross-tab sums to probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: Option A classes sum to probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: single + multi + none = probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: eligible <= single-gene probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: every accession probe ID exists in the Option A table",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: accession-route classes sum to probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: comparison categories sum to probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: concordant + discordant = both assign one gene",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: Option A eligible partition sums",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: cross-tab sums to probes",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: Option A classes sum to probes",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: single + multi + none = probes",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: eligible <= single-gene probes",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: every accession probe ID exists in the Option A table",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: accession-route classes sum to probes",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: comparison categories sum to probes",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: concordant + discordant = both assign one gene",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: Option A eligible partition sums",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: cross-tab sums to probes",
+        "status": "OK"
+      }
+    ]
+  },
+  "determinism": {
+    "runs_compared": 2,
+    "identical": true,
+    "output_sha256": {
+      "route_comparison_metrics.tsv": "8039fb4d9bb7efd76e115cf88b98e05fd75a749b48697d09c95a00455f41eb92",
+      "REPORT.md": "37947e198e14b8940c9fcc99c08b40474e8f4049887bc0dc7f79f43f9ca5cc3f"
+    }
+  },
+  "command": "python scripts/annotation_illumina_route_comparison.py --version v2"
+}

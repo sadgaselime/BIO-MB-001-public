@@ -1,0 +1,12 @@
+{
+  "a0_class_counts": {
+    "eligible": 33804,
+    "excluded_multi_entrez": 1719,
+    "unmapped_no_package_gene": 11291,
+    "unmapped_not_in_snapshot": 194
+  },
+  "eligible_entrez_genes": 20838,
+  "features": 47008,
+  "problems": {},
+  "translated": 47008
+}

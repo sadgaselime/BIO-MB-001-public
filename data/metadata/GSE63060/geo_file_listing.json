@@ -1,0 +1,40 @@
+{
+  "retrieved_at": "2026-10-09T13:34:47+00:00",
+  "entries": [
+    {
+      "location": "matrix",
+      "name": "GSE63060_series_matrix.txt.gz",
+      "size_label": "60M",
+      "modified": "2026-08-27 01:32",
+      "configured": true
+    },
+    {
+      "location": "suppl",
+      "name": "GSE63060_RAW.tar",
+      "size_label": "6.2M",
+      "modified": "2015-08-06 06:43",
+      "configured": true
+    },
+    {
+      "location": "suppl",
+      "name": "GSE63060_non-normalized.txt.gz",
+      "size_label": "62M",
+      "modified": "2014-11-06 14:03",
+      "configured": true
+    },
+    {
+      "location": "suppl",
+      "name": "GSE63060_normalized.txt.gz",
+      "size_label": "60M",
+      "modified": "2014-11-06 14:03",
+      "configured": true
+    },
+    {
+      "location": "suppl",
+      "name": "filelist.txt",
+      "size_label": "173",
+      "modified": "2015-08-06 06:43",
+      "configured": true
+    }
+  ]
+}

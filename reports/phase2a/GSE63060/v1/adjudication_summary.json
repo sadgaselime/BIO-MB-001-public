@@ -1,0 +1,296 @@
+{
+  "phase": "2A expression-input adjudication (descriptive; no inferential statistics)",
+  "accession": "GSE63060",
+  "version": "v1",
+  "generated_at": "2026-10-09T14:41:05+00:00",
+  "software": {
+    "biomarker_project": "0.1.0",
+    "python": "3.13.9",
+    "pandas": "3.0.6",
+    "numpy": "2.5.3"
+  },
+  "inputs": {
+    "series_matrix": {
+      "file": "data/raw/GSE63060/GSE63060_series_matrix.txt.gz",
+      "sha256": "342421d07105d786d623a4b86dc4a21b764da352e4facc7a032fbd36b0f19371",
+      "manifest_sha256": "342421d07105d786d623a4b86dc4a21b764da352e4facc7a032fbd36b0f19371",
+      "verified": true
+    },
+    "normalized": {
+      "file": "data/raw/GSE63060/GSE63060_normalized.txt.gz",
+      "sha256": "3a0d9f03e0e2e4b05c5a64cb218c030f17965f7a31ee06aa91514f8c210ce25a",
+      "manifest_sha256": "3a0d9f03e0e2e4b05c5a64cb218c030f17965f7a31ee06aa91514f8c210ce25a",
+      "verified": true
+    },
+    "non_normalized": {
+      "file": "data/raw/GSE63060/GSE63060_non-normalized.txt.gz",
+      "sha256": "163acd963f21ce51495b85d4a0187bb7ae6b11904f3b1d49114bfa39494931b7",
+      "manifest_sha256": "163acd963f21ce51495b85d4a0187bb7ae6b11904f3b1d49114bfa39494931b7",
+      "verified": true
+    },
+    "archive": {
+      "file": "data/raw/GSE63060/GSE63060_RAW.tar",
+      "sha256": "021a8de0d4069391f5a8386d18225ef4c90345c82bbcaed7f1d413ed9db09876",
+      "manifest_sha256": "021a8de0d4069391f5a8386d18225ef4c90345c82bbcaed7f1d413ed9db09876",
+      "verified": true
+    }
+  },
+  "parsing": {
+    "series_matrix": {
+      "n_features": 38323,
+      "n_samples": 329,
+      "duplicate_features": 0,
+      "missing_values": 0,
+      "columns_equal_gsm_header": true
+    },
+    "normalized": {
+      "path": "/Users/sadgasalim/Documents/BIO-MB-001/data/raw/GSE63060/GSE63060_normalized.txt.gz",
+      "n_lines": 38325,
+      "line_endings": {
+        "crlf": 38325,
+        "lf_only": 0
+      },
+      "n_header_fields": 331,
+      "n_data_columns": 330,
+      "n_features": 38323,
+      "empty_header_positions_1based": [],
+      "repaired_split_records": [
+        {
+          "id_line": 30881,
+          "values_line": 30882,
+          "feature_id": "ILMN_2315789",
+          "repair": "ID line and following empty-ID value line joined (in memory only)"
+        }
+      ],
+      "unrepaired_malformed": [],
+      "duplicate_feature_ids": [],
+      "n_missing_values": 0
+    },
+    "non_normalized": {
+      "path": "/Users/sadgasalim/Documents/BIO-MB-001/data/raw/GSE63060/GSE63060_non-normalized.txt.gz",
+      "n_lines": 48804,
+      "line_endings": {
+        "crlf": 48804,
+        "lf_only": 0
+      },
+      "n_header_fields": 331,
+      "n_data_columns": 330,
+      "n_features": 48803,
+      "empty_header_positions_1based": [
+        317,
+        323,
+        329
+      ],
+      "repaired_split_records": [],
+      "unrepaired_malformed": [],
+      "duplicate_feature_ids": [],
+      "n_missing_values": 0
+    }
+  },
+  "series_matrix_vs_normalized_full": {
+    "n_features_a": 38323,
+    "n_features_b": 38323,
+    "n_shared_features": 38323,
+    "features_only_in_a": [],
+    "features_only_in_b": [],
+    "n_samples_compared": 329,
+    "n_values_compared": 12608267,
+    "n_values_differing": 0,
+    "max_abs_difference": 0.0,
+    "identical": true
+  },
+  "normalized_extra_columns": {
+    "4856076038_D": {
+      "in_geo_sample_records": false,
+      "identical_to_a_geo_column": false,
+      "max_pearson_with_geo_sample": 0.9836574563020045,
+      "most_similar_geo_sample": "4856076041_F",
+      "typical_max_pearson_between_geo_samples": 0.9864107114968841,
+      "geo_samples_on_same_chip": [
+        "4856076038_A",
+        "4856076038_B",
+        "4856076038_C",
+        "4856076038_E",
+        "4856076038_F",
+        "4856076038_G",
+        "4856076038_H",
+        "4856076038_I",
+        "4856076038_J",
+        "4856076038_K",
+        "4856076038_L"
+      ],
+      "value_min": 7.20448891,
+      "value_max": 15.04978951,
+      "also_in_non_normalized": true
+    }
+  },
+  "empty_header_mapping": {
+    "n_shared_features": 38323,
+    "validation": {
+      "n_labelled_columns_with_known_target": 327,
+      "n_best_match_is_own_column": 327,
+      "min_own_spearman": 0.9999999999999993,
+      "min_margin": 0.10615689508568937,
+      "max_rank_differences": 0,
+      "passed": true
+    },
+    "unclaimed_target_columns": [
+      "4856050008_B",
+      "4856050008_K",
+      "4856050048_A"
+    ],
+    "assignments": [
+      {
+        "source_column": "<EMPTY_HEADER@col317>",
+        "assigned_target": "4856050008_B",
+        "status": "CONTENT_MATCH_UNIQUE",
+        "reasons_not_assigned": [],
+        "spearman_best": 0.9999999999999999,
+        "margin": 0.1635021619600593,
+        "probes_with_rank_difference": 0,
+        "evidence_type": "inferred from data content (rank identity); not documented by the submitter",
+        "geo_accession": "GSM1539292",
+        "diagnosis": "AD"
+      },
+      {
+        "source_column": "<EMPTY_HEADER@col323>",
+        "assigned_target": "4856050008_K",
+        "status": "CONTENT_MATCH_UNIQUE",
+        "reasons_not_assigned": [],
+        "spearman_best": 1.0,
+        "margin": 0.1341646006432229,
+        "probes_with_rank_difference": 0,
+        "evidence_type": "inferred from data content (rank identity); not documented by the submitter",
+        "geo_accession": "GSM1539294",
+        "diagnosis": "AD"
+      },
+      {
+        "source_column": "<EMPTY_HEADER@col329>",
+        "assigned_target": "4856050048_A",
+        "status": "CONTENT_MATCH_UNIQUE",
+        "reasons_not_assigned": [],
+        "spearman_best": 1.0,
+        "margin": 0.16696606497688748,
+        "probes_with_rank_difference": 0,
+        "evidence_type": "inferred from data content (rank identity); not documented by the submitter",
+        "geo_accession": "GSM1539298",
+        "diagnosis": "AD"
+      }
+    ]
+  },
+  "split_record_annotation": {
+    "ILMN_2315789": {
+      "Symbol": "PTPRD",
+      "Entrez_Gene_ID": "5789"
+    }
+  },
+  "processing_and_scale": {
+    "geo_data_processing_text": [
+      "Using LUMI package in R"
+    ],
+    "normalized_value_range": [
+      7.20448891,
+      15.04978951
+    ],
+    "distinct_per_sample_minima": 1,
+    "distinct_per_sample_maxima": 1,
+    "max_deviation_of_sorted_columns_from_mean_profile": 0.006637423951458388,
+    "non_normalized_value_range": [
+      68.27721001,
+      51839.77011
+    ],
+    "non_normalized_negative_values": 0,
+    "rank_identity_non_normalized_to_normalized_all_named_columns": true,
+    "median_pearson_log2_nonnorm_vs_normalized": 0.9952348647053909,
+    "n_probes_non_normalized": 48803,
+    "n_probes_normalized": 38323,
+    "n_probes_dropped_in_normalized": 10480,
+    "dropped_probe_mean_signal_range": [
+      102.03899530284855,
+      121.5605453330605
+    ],
+    "kept_probe_mean_signal_range": [
+      102.81658497033337,
+      33142.96970378787
+    ],
+    "non_normalized_has_detection_pvalues": false
+  },
+  "annotation": {
+    "n_probes_queried": 38323,
+    "n_missing_from_annotation": 0,
+    "missing_examples": [],
+    "n_with_symbol": 30061,
+    "n_with_entrez": 29372,
+    "n_symbol_without_entrez": 689,
+    "n_placeholder_symbols_LOC_or_HS": 4684,
+    "source_counts": {
+      "RefSeq": 30060,
+      "Unigene": 8262,
+      "ILMN_Controls": 1
+    },
+    "probe_type_counts": {
+      "S": 26500,
+      "A": 6673,
+      "I": 5150
+    },
+    "n_distinct_symbols": 21696,
+    "n_symbols_with_multiple_probes": 5677,
+    "n_probes_in_multi_probe_symbols": 14042,
+    "max_probes_per_symbol": 12,
+    "n_symbols_mapping_to_multiple_entrez": 10,
+    "symbols_mapping_to_multiple_entrez": [
+      "ANXA8",
+      "CDC2L2",
+      "FAM22A",
+      "FLJ30851",
+      "FOXD4L2",
+      "GOLGA6",
+      "GSTT2",
+      "KIF24",
+      "PRB2",
+      "ZNF117"
+    ],
+    "n_entrez_mapping_to_multiple_symbols": 164,
+    "n_with_chromosome": 27179,
+    "source": "GSE63060_RAW.tar::GPL6947_HumanHT-12_V3_0_R1_11283641_A.bgx.gz",
+    "member_sha256": "5d1c743a432a317ab5bb84d3726343e61045a7a2a9765ab776349953b824d2ca",
+    "bgx_heading": {
+      "Date": "6/5/2008",
+      "ContentVersion": "1.0",
+      "FormatVersion": "1.0.0",
+      "Number of Probes": "48803",
+      "Number of Controls": "784"
+    },
+    "n_probes_in_manifest": 48803,
+    "non_normalized_probe_set_equals_manifest": true
+  },
+  "group_counts": {
+    "series_matrix": {
+      "AD": 145,
+      "HC": 104,
+      "MCI": 80
+    },
+    "normalized_labelled": {
+      "AD": 145,
+      "HC": 104,
+      "MCI": 80
+    },
+    "non_normalized_labelled": {
+      "AD": 142,
+      "HC": 104,
+      "MCI": 80
+    }
+  },
+  "case_control_flag_by_diagnosis": {
+    "no": {
+      "AD": 96,
+      "CTL": 37,
+      "MCI": 41
+    },
+    "yes": {
+      "AD": 49,
+      "CTL": 67,
+      "MCI": 39
+    }
+  }
+}

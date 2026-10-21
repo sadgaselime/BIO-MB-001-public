@@ -1,0 +1,311 @@
+{
+  "purpose": "Audit-only NCBI gene-history reconciliation (Option C). No annotation resource or mapping rule chosen.",
+  "parameters": {
+    "view_a_cutoff_inclusive": "20260318",
+    "view_b_history_retrieved_utc": "2026-10-12T17:16:35Z",
+    "taxon": "9606",
+    "baseline": "org.Hs.eg.db 3.23.1 (EGSOURCEDATE 2026-Mar18)"
+  },
+  "rules": "Audit-only reconciliation of historical Entrez Gene IDs against org.Hs.eg.db and NCBI gene_history.\n\nOption C (dual reporting):\n  View A - snapshot-consistent baseline: org.Hs.eg.db (Entrez Gene snapshot dated CUTOFF) is fixed.\n           IDs present in the baseline are preserved. For absent IDs, only gene_history records dated\n           on or before CUTOFF are used; later records are reported as \"after cutoff\", never applied.\n  View B - the retained NCBI gene_history file as retrieved: every human record is used, whatever its\n           date. IDs still present in the baseline but discontinued in the file are reported separately.\n\nRules (both views):\n  * A successor is taken only from the GeneID column of a gene_history record; symbols are never used\n    to infer a replacement.\n  * GeneID \"-\" is recorded as an explicit no-replacement state (README: the symbol field applies \"if\n    the discontinued record was not replaced\"; observed data: \"-\" in GeneID).\n  * Chains are followed one record at a time; every intermediate ID is recorded. A chain ends when an\n    ID is present in the baseline, has a \"-\" record, has no usable record, or revisits an ID (cycle).\n  * An ID with more than one gene_history record is not resolved (duplicate_history_records).\n  * Absence from org.Hs.eg.db is never treated as evidence of retirement or merging.\n  * Nothing is merged: successors shared by several input IDs, or equal to another input ID of the same\n    package, are flagged only.\n\nNo GEO data, expression values or dataset probe lists are read.",
+  "sources": {
+    "gene_history": {
+      "path": "/private/tmp/claude-501/-Users-sadgasalim-Documents-BIO-MB-001/8cb23840-7e8d-45f1-aa57-d943fe2c5c91/scratchpad/ncbi_gene_history/gene_history.gz",
+      "bytes": 162983925,
+      "md5": "33e48e4bc30ea6b10bc2f7d5cc7a1e60",
+      "sha256": "bcb85c8fdd4791ad674e69481b794677953d0ecd9efb8547af4371845c59a602",
+      "gzip_integrity": true,
+      "url": "https://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_history.gz",
+      "retrieved_utc": "2026-10-12T17:16:35Z",
+      "server_last_modified": "2026-10-09 08:36:13 GMT"
+    },
+    "readme": {
+      "path": "/private/tmp/claude-501/-Users-sadgasalim-Documents-BIO-MB-001/8cb23840-7e8d-45f1-aa57-d943fe2c5c91/scratchpad/ncbi_gene_history/README",
+      "bytes": 59166,
+      "md5": "88af9a48c1b00fde0cf9d656907dc735",
+      "sha256": "303cce0aa6012ff94ce34d88ff999a24131d838e4acac76a4abc1880b59d5e2e",
+      "gene_history_fields_documented": [
+        "tax_id",
+        "GeneID",
+        "Discontinued GeneID",
+        "Discontinued Symbol",
+        "Discontinue Date"
+      ],
+      "url": "https://ftp.ncbi.nlm.nih.gov/gene/DATA/README"
+    },
+    "tarballs": {
+      "org.Hs.eg.db_3.23.1.tar.gz": {
+        "path": "/private/tmp/claude-501/-Users-sadgasalim-Documents-BIO-MB-001/8cb23840-7e8d-45f1-aa57-d943fe2c5c91/scratchpad/d6_annotation_inspection/tarballs/org.Hs.eg.db_3.23.1.tar.gz",
+        "bytes": 103790170,
+        "md5": "813be1921e7bc08c1348dbce9d244d0a",
+        "sha256": "470620665cf49d0319422731164f377e3e74253989f1d33a8a1d100cc3d49cfe",
+        "published_md5_match": true,
+        "recorded_sha256_match": true,
+        "url": "https://bioconductor.org/packages/3.23/data/annotation/src/contrib/org.Hs.eg.db_3.23.1.tar.gz"
+      },
+      "illuminaHumanv3.db_1.26.0.tar.gz": {
+        "path": "/private/tmp/claude-501/-Users-sadgasalim-Documents-BIO-MB-001/8cb23840-7e8d-45f1-aa57-d943fe2c5c91/scratchpad/d6_annotation_inspection/tarballs/illuminaHumanv3.db_1.26.0.tar.gz",
+        "bytes": 6455664,
+        "md5": "7d9e7534f0b60f0e3e7473e545ef373d",
+        "sha256": "cea0c9cd155197154d57400cb3f18108e451cf26e714c39698d68e45cd503a1b",
+        "published_md5_match": true,
+        "recorded_sha256_match": true,
+        "url": "https://bioconductor.org/packages/3.23/data/annotation/src/contrib/illuminaHumanv3.db_1.26.0.tar.gz"
+      },
+      "illuminaHumanv4.db_1.26.0.tar.gz": {
+        "path": "/private/tmp/claude-501/-Users-sadgasalim-Documents-BIO-MB-001/8cb23840-7e8d-45f1-aa57-d943fe2c5c91/scratchpad/d6_annotation_inspection/tarballs/illuminaHumanv4.db_1.26.0.tar.gz",
+        "bytes": 6705381,
+        "md5": "42d554559ac0106dc71317ffaf466421",
+        "sha256": "362848d6e78c7fa6206e1a4c68a4b68c1ea065267d550114837bc3b9d833ee85",
+        "published_md5_match": true,
+        "recorded_sha256_match": true,
+        "url": "https://bioconductor.org/packages/3.23/data/annotation/src/contrib/illuminaHumanv4.db_1.26.0.tar.gz"
+      },
+      "hgu133plus2.db_3.13.0.tar.gz": {
+        "path": "/private/tmp/claude-501/-Users-sadgasalim-Documents-BIO-MB-001/8cb23840-7e8d-45f1-aa57-d943fe2c5c91/scratchpad/d6_annotation_inspection/tarballs/hgu133plus2.db_3.13.0.tar.gz",
+        "bytes": 2240377,
+        "md5": "459fcf4880a9eaa25b373c5635fede3d",
+        "sha256": "ddde58e777a8341536a664c7d4be874a2f395f8aaa019c1f738462a8ce74cc44",
+        "published_md5_match": true,
+        "recorded_sha256_match": true,
+        "url": "https://bioconductor.org/packages/3.23/data/annotation/src/contrib/hgu133plus2.db_3.13.0.tar.gz"
+      },
+      "lumiHumanIDMapping_1.10.1.tar.gz": {
+        "path": "/private/tmp/claude-501/-Users-sadgasalim-Documents-BIO-MB-001/8cb23840-7e8d-45f1-aa57-d943fe2c5c91/scratchpad/d6_annotation_inspection/tarballs/lumiHumanIDMapping_1.10.1.tar.gz",
+        "bytes": 27559728,
+        "md5": "007e5aa2f1596cc08d888ba6dce7148a",
+        "sha256": "6414e94a243eea6a126e582a68fadd41798bb5fccc03fcc99380a01f40634948",
+        "published_md5_match": true,
+        "recorded_sha256_match": true,
+        "url": "https://bioconductor.org/packages/3.23/data/annotation/src/contrib/lumiHumanIDMapping_1.10.1.tar.gz"
+      }
+    }
+  },
+  "inputs": {
+    "illuminaHumanv3": {
+      "n_ids": 20011,
+      "sha256_of_sorted_id_list": "6ad9791733e290b875e346a2fbe05c918c5ce6576159ca0f8f5d72f126058f4c",
+      "provenance": "illuminaHumanv3.db_1.26.0.tar.gz :: illuminaHumanv3.db/inst/extdata/illuminaHumanv3.sqlite :: SELECT DISTINCT gene_id FROM probes WHERE gene_id IS NOT NULL"
+    },
+    "illuminaHumanv4": {
+      "n_ids": 21748,
+      "sha256_of_sorted_id_list": "7e2d97e67ae54b6b34a02bec20e13749dfd9349e46204f727acebb5df751703d",
+      "provenance": "illuminaHumanv4.db_1.26.0.tar.gz :: illuminaHumanv4.db/inst/extdata/illuminaHumanv4.sqlite :: SELECT DISTINCT gene_id FROM probes WHERE gene_id IS NOT NULL"
+    },
+    "hgu133plus2": {
+      "n_ids": 22251,
+      "sha256_of_sorted_id_list": "a9d272afdfa76cebb6172016707ffbf4b832aec4ac92b5dcf2fa3d10212f6739",
+      "provenance": "hgu133plus2.db_3.13.0.tar.gz :: hgu133plus2.db/inst/extdata/hgu133plus2.sqlite :: SELECT DISTINCT gene_id FROM probes WHERE gene_id IS NOT NULL"
+    },
+    "lumi HT-12 v4 R2": {
+      "n_ids": 30500,
+      "sha256_of_sorted_id_list": "78f4cb7c8d16e4e0e9ece8de1e463cfcdc16a5f1407ea344c218e64435ed1f1d",
+      "provenance": "lumiHumanIDMapping_1.10.1.tar.gz :: lumiHumanIDMapping/inst/extdata/lumiHumanIDMapping.sqlite :: SELECT DISTINCT trim(m.EntrezID) FROM HumanHT12_V4_0_R2_15002873_B t JOIN nuID_MappingInfo m ON m.nuID = t.nuID WHERE trim(m.EntrezID) <> ''"
+    }
+  },
+  "counts": {
+    "illuminaHumanv3": {
+      "n_input_ids": 20011,
+      "viewA": {
+        "discontinued_no_replacement": 53,
+        "present_in_baseline": 19913,
+        "replaced_successor_in_baseline": 45
+      },
+      "viewB": {
+        "discontinued_no_replacement": 53,
+        "present_in_baseline_no_history": 19913,
+        "replaced_successor_in_baseline": 45
+      },
+      "n_tabulated": 98,
+      "n_absent_from_baseline": 98,
+      "n_absent_in_history": 98
+    },
+    "illuminaHumanv4": {
+      "n_input_ids": 21748,
+      "viewA": {
+        "discontinued_no_replacement": 87,
+        "present_in_baseline": 21602,
+        "replaced_successor_in_baseline": 59
+      },
+      "viewB": {
+        "discontinued_no_replacement": 87,
+        "present_in_baseline_discontinued_in_history": 1,
+        "present_in_baseline_no_history": 21601,
+        "replaced_successor_in_baseline": 59
+      },
+      "n_tabulated": 147,
+      "n_absent_from_baseline": 146,
+      "n_absent_in_history": 146
+    },
+    "hgu133plus2": {
+      "n_input_ids": 22251,
+      "viewA": {
+        "discontinued_no_replacement": 48,
+        "present_in_baseline": 22167,
+        "replaced_successor_in_baseline": 36
+      },
+      "viewB": {
+        "discontinued_no_replacement": 48,
+        "present_in_baseline_discontinued_in_history": 2,
+        "present_in_baseline_no_history": 22165,
+        "replaced_successor_in_baseline": 36
+      },
+      "n_tabulated": 86,
+      "n_absent_from_baseline": 84,
+      "n_absent_in_history": 84
+    },
+    "lumi HT-12 v4 R2": {
+      "n_input_ids": 30500,
+      "viewA": {
+        "chain_ends_no_replacement": 410,
+        "discontinued_no_replacement": 5414,
+        "present_in_baseline": 23331,
+        "replaced_successor_in_baseline": 1344,
+        "unexplained_absent_no_history": 1
+      },
+      "viewB": {
+        "chain_ends_no_replacement": 410,
+        "discontinued_no_replacement": 5414,
+        "present_in_baseline_discontinued_in_history": 2,
+        "present_in_baseline_no_history": 23329,
+        "replaced_successor_in_baseline": 1344,
+        "unexplained_absent_no_history": 1
+      },
+      "n_tabulated": 7171,
+      "n_absent_from_baseline": 7169,
+      "n_absent_in_history": 7168
+    }
+  },
+  "human_history_rows": 166633,
+  "duplicate_source_records": [],
+  "validation": {
+    "status": "OK",
+    "checks": [
+      {
+        "check": "tabulated_ids_unique_per_package",
+        "status": "OK",
+        "detail": "7502 (package, id) rows"
+      },
+      {
+        "check": "illuminaHumanv3: viewA classes sum to inputs",
+        "status": "OK",
+        "detail": "20011 = 20011"
+      },
+      {
+        "check": "illuminaHumanv3: viewB classes sum to inputs",
+        "status": "OK",
+        "detail": "20011 = 20011"
+      },
+      {
+        "check": "illuminaHumanv3: tabulated = absent + present-but-discontinued",
+        "status": "OK",
+        "detail": "98 = 98"
+      },
+      {
+        "check": "illuminaHumanv3: absent / in-history counts vs 2026-10-12 report",
+        "status": "OK",
+        "detail": "now (98, 98), previously (98, 98)"
+      },
+      {
+        "check": "illuminaHumanv4: viewA classes sum to inputs",
+        "status": "OK",
+        "detail": "21748 = 21748"
+      },
+      {
+        "check": "illuminaHumanv4: viewB classes sum to inputs",
+        "status": "OK",
+        "detail": "21748 = 21748"
+      },
+      {
+        "check": "illuminaHumanv4: tabulated = absent + present-but-discontinued",
+        "status": "OK",
+        "detail": "147 = 147"
+      },
+      {
+        "check": "illuminaHumanv4: absent / in-history counts vs 2026-10-12 report",
+        "status": "OK",
+        "detail": "now (146, 146), previously (146, 146)"
+      },
+      {
+        "check": "hgu133plus2: viewA classes sum to inputs",
+        "status": "OK",
+        "detail": "22251 = 22251"
+      },
+      {
+        "check": "hgu133plus2: viewB classes sum to inputs",
+        "status": "OK",
+        "detail": "22251 = 22251"
+      },
+      {
+        "check": "hgu133plus2: tabulated = absent + present-but-discontinued",
+        "status": "OK",
+        "detail": "86 = 86"
+      },
+      {
+        "check": "hgu133plus2: absent / in-history counts vs 2026-10-12 report",
+        "status": "OK",
+        "detail": "now (84, 84), previously (84, 84)"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: viewA classes sum to inputs",
+        "status": "OK",
+        "detail": "30500 = 30500"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: viewB classes sum to inputs",
+        "status": "OK",
+        "detail": "30500 = 30500"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: tabulated = absent + present-but-discontinued",
+        "status": "OK",
+        "detail": "7171 = 7171"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: absent / in-history counts vs 2026-10-12 report",
+        "status": "OK",
+        "detail": "now (7169, 7168), previously (7169, 7168)"
+      },
+      {
+        "check": "every chain ends in a defined terminal class",
+        "status": "OK",
+        "detail": "0 rows outside the terminal set"
+      },
+      {
+        "check": "cycles flagged (not ignored)",
+        "status": "OK",
+        "detail": "0 cycle(s) flagged"
+      },
+      {
+        "check": "duplicate source records flagged (not ignored)",
+        "status": "OK",
+        "detail": "0 discontinued ID(s) with >1 human record"
+      },
+      {
+        "check": "View A applies no record dated after the cutoff",
+        "status": "OK",
+        "detail": "0 post-cutoff step(s) used"
+      },
+      {
+        "check": "View A preserves every baseline-present ID",
+        "status": "OK",
+        "detail": "0 baseline ID(s) altered in View A"
+      },
+      {
+        "check": "no merges performed (one row per input ID; successors only flagged)",
+        "status": "OK",
+        "detail": "rows are never combined; collision/shared flags are informational"
+      }
+    ]
+  },
+  "determinism": {
+    "runs_compared": 2,
+    "identical": true,
+    "output_sha256": {
+      "gene_history_reconciliation.tsv": "42451a70752436a65c9caeab076317c0cf5523b13410003cc29f52df3f24f8f2",
+      "timing_discrepant_ids.tsv": "6b09d875425a4dd83ebec6dc0d6605782567e0cad6f8804fb4a4276f3695c88e",
+      "summary_counts.tsv": "827e761ce3c309323456b32ec68aacae30a4c637f1ea8d4ebd7d26ce7757a763",
+      "AUDIT_REPORT.md": "7c260438115e28732bd0f8851c00c12457c9a3a24147166f22520e8d22189637"
+    }
+  },
+  "command": "python scripts/annotation_gene_history_reconciliation.py --gene-history /private/tmp/claude-501/-Users-sadgasalim-Documents-BIO-MB-001/8cb23840-7e8d-45f1-aa57-d943fe2c5c91/scratchpad/ncbi_gene_history/gene_history.gz --readme /private/tmp/claude-501/-Users-sadgasalim-Documents-BIO-MB-001/8cb23840-7e8d-45f1-aa57-d943fe2c5c91/scratchpad/ncbi_gene_history/README --tarball-dir /private/tmp/claude-501/-Users-sadgasalim-Documents-BIO-MB-001/8cb23840-7e8d-45f1-aa57-d943fe2c5c91/scratchpad/d6_annotation_inspection/tarballs --version v1"
+}

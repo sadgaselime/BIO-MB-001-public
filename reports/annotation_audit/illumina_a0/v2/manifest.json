@@ -1,0 +1,274 @@
+{
+  "accession_comparison_logic": {
+    "script": "scripts/annotation_illumina_route_comparison.py",
+    "sha256": "09f1675d17e0ab23d54b7a42d6f42b624640ffbd0191a84a7c31ebeb47319193",
+    "used": "load_org_map (org.Hs.eg.db accessions \u222a refseq)"
+  },
+  "command": ".venv/bin/python -I scripts/annotation_illumina_a0_classification.py --version v2",
+  "comparison_vs_reported_option_a_evidence": {
+    "discordant_distinct_present": {
+      "a0": 15,
+      "reported": 15
+    },
+    "discordant_platform": {
+      "illuminaHumanv3": {
+        "a0": 10,
+        "reported": 10
+      },
+      "illuminaHumanv4": {
+        "a0": 16,
+        "reported": 16
+      }
+    },
+    "discordant_present": {
+      "GSE63060": {
+        "a0": 9,
+        "reported": 9
+      },
+      "GSE63061": {
+        "a0": 15,
+        "reported": 15
+      }
+    },
+    "option_a_successor_genes_without_present_a0_probe": {
+      "GSE63060": {
+        "a0": 10,
+        "reported": 10
+      },
+      "GSE63061": {
+        "a0": 15,
+        "reported": 15
+      }
+    },
+    "replacement_derived_present_now_unmapped": {
+      "GSE63060": {
+        "a0": 45,
+        "reported": 45
+      },
+      "GSE63061": {
+        "a0": 41,
+        "reported": 41
+      }
+    }
+  },
+  "created_utc": "2026-10-18T17:52:39Z",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "a0_counts.tsv": "a68aa75080026e175cb148994c42f4fbc38d0a3c386a526dc12cb0b63887d625",
+      "a0_discordant_probes.tsv": "e5b99695ac5b600bba0157c1d9b673be5f20a513e43e5887d0b7c6faccb85958",
+      "a0_probe_classification.tsv": "6da6cf2c1d7d1911c17301d60c1f153f91856f405f7fde1faf6f553b3013ae7c"
+    },
+    "runs_compared": 2
+  },
+  "environment": {
+    "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+    "python": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]",
+    "sqlite": "3.51.0"
+  },
+  "equivalence": {
+    "identical": true,
+    "reference": "reports/annotation_audit/illumina_a0/v1",
+    "tables": {
+      "a0_counts.tsv": {
+        "identical": true,
+        "reference_sha256": "a68aa75080026e175cb148994c42f4fbc38d0a3c386a526dc12cb0b63887d625",
+        "sha256": "a68aa75080026e175cb148994c42f4fbc38d0a3c386a526dc12cb0b63887d625"
+      },
+      "a0_discordant_probes.tsv": {
+        "identical": true,
+        "reference_sha256": "e5b99695ac5b600bba0157c1d9b673be5f20a513e43e5887d0b7c6faccb85958",
+        "sha256": "e5b99695ac5b600bba0157c1d9b673be5f20a513e43e5887d0b7c6faccb85958"
+      },
+      "a0_probe_classification.tsv": {
+        "identical": true,
+        "reference_sha256": "6da6cf2c1d7d1911c17301d60c1f153f91856f405f7fde1faf6f553b3013ae7c",
+        "sha256": "6da6cf2c1d7d1911c17301d60c1f153f91856f405f7fde1faf6f553b3013ae7c"
+      }
+    }
+  },
+  "gene_history_used": false,
+  "generator_sha256": "990f33bd76de56731b73a4c55dfa8694289d41e0b862c97f5a01218f2a1bbdff",
+  "identity": {
+    "aggregate_sha256": "42eaf15b2223da78bfd559dfa44b7fe18b2e5442fd8bf4b0acb5e2688b7c16bb",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "fa51c7b9d10dd468fbeed8b2ad83b832eb8acc83adb828dc25361cbbc4359951",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 67,
+    "record_file": "code_identity.json",
+    "record_sha256": "36a844c39dcecc99d9c3d44b753e937954d7ea08671b334e23581570f4d7c85c"
+  },
+  "identity_verification": {
+    "environment_modules": 0,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/annotation_illumina_a0_classification.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "scripts/annotation_illumina_route_comparison.py": "09f1675d17e0ab23d54b7a42d6f42b624640ffbd0191a84a7c31ebeb47319193",
+        "scripts/c15_cohort_probe_presence.py": "60857f1078c18668b157f0d3a0b39b9495940e64bfee852477b5676aefe7c6b9",
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea",
+        "src/biomarker_project/gene_history_reconciliation.py": "f4c10e21be1c4b6e8d7e3d017eef6283ab727b3b3be9c31eae0b5548f85358b3"
+      },
+      "executed_files": 5,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 5,
+    "status": "PASS",
+    "verified_utc": "2026-10-18T17:52:39Z"
+  },
+  "inputs": {
+    "archives": {
+      "illuminaHumanv3.db_1.26.0.tar.gz": {
+        "manifest_sha256": "cea0c9cd155197154d57400cb3f18108e451cf26e714c39698d68e45cd503a1b",
+        "sha256": "cea0c9cd155197154d57400cb3f18108e451cf26e714c39698d68e45cd503a1b",
+        "version_file": "1.26.0"
+      },
+      "illuminaHumanv4.db_1.26.0.tar.gz": {
+        "manifest_sha256": "362848d6e78c7fa6206e1a4c68a4b68c1ea065267d550114837bc3b9d833ee85",
+        "sha256": "362848d6e78c7fa6206e1a4c68a4b68c1ea065267d550114837bc3b9d833ee85",
+        "version_file": "1.26.0"
+      },
+      "org.Hs.eg.db_3.23.1.tar.gz": {
+        "manifest_sha256": "470620665cf49d0319422731164f377e3e74253989f1d33a8a1d100cc3d49cfe",
+        "sha256": "470620665cf49d0319422731164f377e3e74253989f1d33a8a1d100cc3d49cfe",
+        "version_file": "3.23.1"
+      }
+    },
+    "comparison_only": {
+      "illumina_option_a/v1/illuminaHumanv3_probe_classification_PROVISIONAL.tsv": "8214b0078512282701525617f81872ce189004df663079e96157cda8fe279de4",
+      "illumina_option_a/v1/illuminaHumanv4_probe_classification_PROVISIONAL.tsv": "fc73bebe9b614759cced5dcf553084e87091e2959a41866eff277b0916175153"
+    },
+    "series_matrix": {
+      "GSE63060": {
+        "expected_ids": 38323,
+        "path": "data/raw/GSE63060/GSE63060_series_matrix.txt.gz",
+        "platform": "GPL6947",
+        "sha256": "342421d07105d786d623a4b86dc4a21b764da352e4facc7a032fbd36b0f19371"
+      },
+      "GSE63061": {
+        "expected_ids": 32049,
+        "path": "data/raw/GSE63061/GSE63061_series_matrix.txt.gz",
+        "platform": "GPL10558",
+        "sha256": "c6de1af5bd36bca3de0921d53051bdefd05666f6e94a6906a26c8cb461dd55f5"
+      }
+    }
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-18T17:52:39Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "v2",
+    "run_id": "56c060fa0b3c",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-18T17:52:26Z"
+  },
+  "output_sha256": {
+    "a0_counts.tsv": "a68aa75080026e175cb148994c42f4fbc38d0a3c386a526dc12cb0b63887d625",
+    "a0_discordant_probes.tsv": "e5b99695ac5b600bba0157c1d9b673be5f20a513e43e5887d0b7c6faccb85958",
+    "a0_probe_classification.tsv": "6da6cf2c1d7d1911c17301d60c1f153f91856f405f7fde1faf6f553b3013ae7c",
+    "code_identity.json": "36a844c39dcecc99d9c3d44b753e937954d7ea08671b334e23581570f4d7c85c"
+  },
+  "series_matrix_reader": {
+    "script": "scripts/c15_cohort_probe_presence.py",
+    "sha256": "60857f1078c18668b157f0d3a0b39b9495940e64bfee852477b5676aefe7c6b9"
+  },
+  "snapshot": {
+    "baseline_gene_ids": 193797,
+    "entrez_source_date": "2026-Mar18",
+    "org.Hs.eg.db": "3.23.1"
+  },
+  "status": "D6-G final A0 classification (Option A0, approved 2026-10-17, v7:609). Not an annotation pin; no package installed; no analysis authorized. D6-F/GPL570 and D19/GSE140829 out of scope.",
+  "validation": [
+    {
+      "check": "GSE63060: Series Matrix platform GPL6947",
+      "pass": true
+    },
+    {
+      "check": "GSE63060: Series Matrix IDs unique and = inspection count (38323)",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv3: every accession probe ID is a package probe",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv3: every probe classified once",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv3: present classes sum to present package IDs",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv3: A0 eligible == Option A eligible_direct",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv3: A0 multi-ID exclusions == Option A multiple_mappings_excluded",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv3: A0 no-package-gene == Option A no_assignment_in_package",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv3: A0 not-in-snapshot == all other single-gene Option A classes",
+      "pass": true
+    },
+    {
+      "check": "GSE63061: Series Matrix platform GPL10558",
+      "pass": true
+    },
+    {
+      "check": "GSE63061: Series Matrix IDs unique and = inspection count (32049)",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv4: every accession probe ID is a package probe",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv4: every probe classified once",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv4: present classes sum to present package IDs",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv4: A0 eligible == Option A eligible_direct",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv4: A0 multi-ID exclusions == Option A multiple_mappings_excluded",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv4: A0 no-package-gene == Option A no_assignment_in_package",
+      "pass": true
+    },
+    {
+      "check": "illuminaHumanv4: A0 not-in-snapshot == all other single-gene Option A classes",
+      "pass": true
+    }
+  ]
+}

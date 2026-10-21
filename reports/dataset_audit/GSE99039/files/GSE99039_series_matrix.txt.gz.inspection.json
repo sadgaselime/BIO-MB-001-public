@@ -1,0 +1,5780 @@
+{
+  "path": "data/raw/GSE99039/GSE99039_series_matrix.txt.gz",
+  "file_name": "GSE99039_series_matrix.txt.gz",
+  "status": "INSPECTED",
+  "format": "geo_series_matrix",
+  "compression": "gzip",
+  "size_bytes": 63827685,
+  "n_rows": 54675,
+  "n_columns": 559,
+  "delimiter": "\t",
+  "header_line_number": 78,
+  "feature_id_column": "ID_REF",
+  "annotation_columns": [],
+  "sample_columns": [
+    {
+      "column": "GSM2630758",
+      "column_index": 1,
+      "sample_id": "GSM2630758",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630759",
+      "column_index": 2,
+      "sample_id": "GSM2630759",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630760",
+      "column_index": 3,
+      "sample_id": "GSM2630760",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630761",
+      "column_index": 4,
+      "sample_id": "GSM2630761",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630762",
+      "column_index": 5,
+      "sample_id": "GSM2630762",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630763",
+      "column_index": 6,
+      "sample_id": "GSM2630763",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630764",
+      "column_index": 7,
+      "sample_id": "GSM2630764",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630765",
+      "column_index": 8,
+      "sample_id": "GSM2630765",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630766",
+      "column_index": 9,
+      "sample_id": "GSM2630766",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630767",
+      "column_index": 10,
+      "sample_id": "GSM2630767",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630768",
+      "column_index": 11,
+      "sample_id": "GSM2630768",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630769",
+      "column_index": 12,
+      "sample_id": "GSM2630769",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630770",
+      "column_index": 13,
+      "sample_id": "GSM2630770",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630771",
+      "column_index": 14,
+      "sample_id": "GSM2630771",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630772",
+      "column_index": 15,
+      "sample_id": "GSM2630772",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630773",
+      "column_index": 16,
+      "sample_id": "GSM2630773",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630774",
+      "column_index": 17,
+      "sample_id": "GSM2630774",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630775",
+      "column_index": 18,
+      "sample_id": "GSM2630775",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630776",
+      "column_index": 19,
+      "sample_id": "GSM2630776",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630777",
+      "column_index": 20,
+      "sample_id": "GSM2630777",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630778",
+      "column_index": 21,
+      "sample_id": "GSM2630778",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630779",
+      "column_index": 22,
+      "sample_id": "GSM2630779",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630780",
+      "column_index": 23,
+      "sample_id": "GSM2630780",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630781",
+      "column_index": 24,
+      "sample_id": "GSM2630781",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630782",
+      "column_index": 25,
+      "sample_id": "GSM2630782",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630783",
+      "column_index": 26,
+      "sample_id": "GSM2630783",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630784",
+      "column_index": 27,
+      "sample_id": "GSM2630784",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630785",
+      "column_index": 28,
+      "sample_id": "GSM2630785",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630786",
+      "column_index": 29,
+      "sample_id": "GSM2630786",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630787",
+      "column_index": 30,
+      "sample_id": "GSM2630787",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630788",
+      "column_index": 31,
+      "sample_id": "GSM2630788",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630789",
+      "column_index": 32,
+      "sample_id": "GSM2630789",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630790",
+      "column_index": 33,
+      "sample_id": "GSM2630790",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630791",
+      "column_index": 34,
+      "sample_id": "GSM2630791",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630792",
+      "column_index": 35,
+      "sample_id": "GSM2630792",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630793",
+      "column_index": 36,
+      "sample_id": "GSM2630793",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630794",
+      "column_index": 37,
+      "sample_id": "GSM2630794",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630795",
+      "column_index": 38,
+      "sample_id": "GSM2630795",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630796",
+      "column_index": 39,
+      "sample_id": "GSM2630796",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630797",
+      "column_index": 40,
+      "sample_id": "GSM2630797",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630798",
+      "column_index": 41,
+      "sample_id": "GSM2630798",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630799",
+      "column_index": 42,
+      "sample_id": "GSM2630799",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630800",
+      "column_index": 43,
+      "sample_id": "GSM2630800",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630801",
+      "column_index": 44,
+      "sample_id": "GSM2630801",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630802",
+      "column_index": 45,
+      "sample_id": "GSM2630802",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630803",
+      "column_index": 46,
+      "sample_id": "GSM2630803",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630804",
+      "column_index": 47,
+      "sample_id": "GSM2630804",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630805",
+      "column_index": 48,
+      "sample_id": "GSM2630805",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630806",
+      "column_index": 49,
+      "sample_id": "GSM2630806",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630807",
+      "column_index": 50,
+      "sample_id": "GSM2630807",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630808",
+      "column_index": 51,
+      "sample_id": "GSM2630808",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630809",
+      "column_index": 52,
+      "sample_id": "GSM2630809",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630810",
+      "column_index": 53,
+      "sample_id": "GSM2630810",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630811",
+      "column_index": 54,
+      "sample_id": "GSM2630811",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630812",
+      "column_index": 55,
+      "sample_id": "GSM2630812",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630813",
+      "column_index": 56,
+      "sample_id": "GSM2630813",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630814",
+      "column_index": 57,
+      "sample_id": "GSM2630814",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630815",
+      "column_index": 58,
+      "sample_id": "GSM2630815",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630816",
+      "column_index": 59,
+      "sample_id": "GSM2630816",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630817",
+      "column_index": 60,
+      "sample_id": "GSM2630817",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630818",
+      "column_index": 61,
+      "sample_id": "GSM2630818",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630819",
+      "column_index": 62,
+      "sample_id": "GSM2630819",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630820",
+      "column_index": 63,
+      "sample_id": "GSM2630820",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630821",
+      "column_index": 64,
+      "sample_id": "GSM2630821",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630822",
+      "column_index": 65,
+      "sample_id": "GSM2630822",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630823",
+      "column_index": 66,
+      "sample_id": "GSM2630823",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630824",
+      "column_index": 67,
+      "sample_id": "GSM2630824",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630825",
+      "column_index": 68,
+      "sample_id": "GSM2630825",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630826",
+      "column_index": 69,
+      "sample_id": "GSM2630826",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630827",
+      "column_index": 70,
+      "sample_id": "GSM2630827",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630828",
+      "column_index": 71,
+      "sample_id": "GSM2630828",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630829",
+      "column_index": 72,
+      "sample_id": "GSM2630829",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630830",
+      "column_index": 73,
+      "sample_id": "GSM2630830",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630831",
+      "column_index": 74,
+      "sample_id": "GSM2630831",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630832",
+      "column_index": 75,
+      "sample_id": "GSM2630832",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630833",
+      "column_index": 76,
+      "sample_id": "GSM2630833",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630834",
+      "column_index": 77,
+      "sample_id": "GSM2630834",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630835",
+      "column_index": 78,
+      "sample_id": "GSM2630835",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630836",
+      "column_index": 79,
+      "sample_id": "GSM2630836",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630837",
+      "column_index": 80,
+      "sample_id": "GSM2630837",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630838",
+      "column_index": 81,
+      "sample_id": "GSM2630838",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630839",
+      "column_index": 82,
+      "sample_id": "GSM2630839",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630840",
+      "column_index": 83,
+      "sample_id": "GSM2630840",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630841",
+      "column_index": 84,
+      "sample_id": "GSM2630841",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630842",
+      "column_index": 85,
+      "sample_id": "GSM2630842",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630843",
+      "column_index": 86,
+      "sample_id": "GSM2630843",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630844",
+      "column_index": 87,
+      "sample_id": "GSM2630844",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630845",
+      "column_index": 88,
+      "sample_id": "GSM2630845",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630846",
+      "column_index": 89,
+      "sample_id": "GSM2630846",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630847",
+      "column_index": 90,
+      "sample_id": "GSM2630847",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630848",
+      "column_index": 91,
+      "sample_id": "GSM2630848",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630849",
+      "column_index": 92,
+      "sample_id": "GSM2630849",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630850",
+      "column_index": 93,
+      "sample_id": "GSM2630850",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630851",
+      "column_index": 94,
+      "sample_id": "GSM2630851",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630852",
+      "column_index": 95,
+      "sample_id": "GSM2630852",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630853",
+      "column_index": 96,
+      "sample_id": "GSM2630853",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630854",
+      "column_index": 97,
+      "sample_id": "GSM2630854",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630855",
+      "column_index": 98,
+      "sample_id": "GSM2630855",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630856",
+      "column_index": 99,
+      "sample_id": "GSM2630856",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630857",
+      "column_index": 100,
+      "sample_id": "GSM2630857",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630858",
+      "column_index": 101,
+      "sample_id": "GSM2630858",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630859",
+      "column_index": 102,
+      "sample_id": "GSM2630859",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630860",
+      "column_index": 103,
+      "sample_id": "GSM2630860",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630861",
+      "column_index": 104,
+      "sample_id": "GSM2630861",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630862",
+      "column_index": 105,
+      "sample_id": "GSM2630862",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630863",
+      "column_index": 106,
+      "sample_id": "GSM2630863",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630864",
+      "column_index": 107,
+      "sample_id": "GSM2630864",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630865",
+      "column_index": 108,
+      "sample_id": "GSM2630865",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630866",
+      "column_index": 109,
+      "sample_id": "GSM2630866",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630867",
+      "column_index": 110,
+      "sample_id": "GSM2630867",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630868",
+      "column_index": 111,
+      "sample_id": "GSM2630868",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630869",
+      "column_index": 112,
+      "sample_id": "GSM2630869",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630870",
+      "column_index": 113,
+      "sample_id": "GSM2630870",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630871",
+      "column_index": 114,
+      "sample_id": "GSM2630871",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630872",
+      "column_index": 115,
+      "sample_id": "GSM2630872",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630873",
+      "column_index": 116,
+      "sample_id": "GSM2630873",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630874",
+      "column_index": 117,
+      "sample_id": "GSM2630874",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630875",
+      "column_index": 118,
+      "sample_id": "GSM2630875",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630876",
+      "column_index": 119,
+      "sample_id": "GSM2630876",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630877",
+      "column_index": 120,
+      "sample_id": "GSM2630877",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630878",
+      "column_index": 121,
+      "sample_id": "GSM2630878",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630879",
+      "column_index": 122,
+      "sample_id": "GSM2630879",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630880",
+      "column_index": 123,
+      "sample_id": "GSM2630880",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630881",
+      "column_index": 124,
+      "sample_id": "GSM2630881",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630882",
+      "column_index": 125,
+      "sample_id": "GSM2630882",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630883",
+      "column_index": 126,
+      "sample_id": "GSM2630883",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630884",
+      "column_index": 127,
+      "sample_id": "GSM2630884",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630885",
+      "column_index": 128,
+      "sample_id": "GSM2630885",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630886",
+      "column_index": 129,
+      "sample_id": "GSM2630886",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630887",
+      "column_index": 130,
+      "sample_id": "GSM2630887",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630888",
+      "column_index": 131,
+      "sample_id": "GSM2630888",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630889",
+      "column_index": 132,
+      "sample_id": "GSM2630889",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630890",
+      "column_index": 133,
+      "sample_id": "GSM2630890",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630891",
+      "column_index": 134,
+      "sample_id": "GSM2630891",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630892",
+      "column_index": 135,
+      "sample_id": "GSM2630892",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630893",
+      "column_index": 136,
+      "sample_id": "GSM2630893",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630894",
+      "column_index": 137,
+      "sample_id": "GSM2630894",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630895",
+      "column_index": 138,
+      "sample_id": "GSM2630895",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630896",
+      "column_index": 139,
+      "sample_id": "GSM2630896",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630897",
+      "column_index": 140,
+      "sample_id": "GSM2630897",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630898",
+      "column_index": 141,
+      "sample_id": "GSM2630898",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630899",
+      "column_index": 142,
+      "sample_id": "GSM2630899",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630900",
+      "column_index": 143,
+      "sample_id": "GSM2630900",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630901",
+      "column_index": 144,
+      "sample_id": "GSM2630901",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630902",
+      "column_index": 145,
+      "sample_id": "GSM2630902",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630903",
+      "column_index": 146,
+      "sample_id": "GSM2630903",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630904",
+      "column_index": 147,
+      "sample_id": "GSM2630904",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630905",
+      "column_index": 148,
+      "sample_id": "GSM2630905",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630906",
+      "column_index": 149,
+      "sample_id": "GSM2630906",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630907",
+      "column_index": 150,
+      "sample_id": "GSM2630907",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630908",
+      "column_index": 151,
+      "sample_id": "GSM2630908",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630909",
+      "column_index": 152,
+      "sample_id": "GSM2630909",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630910",
+      "column_index": 153,
+      "sample_id": "GSM2630910",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630911",
+      "column_index": 154,
+      "sample_id": "GSM2630911",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630912",
+      "column_index": 155,
+      "sample_id": "GSM2630912",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630913",
+      "column_index": 156,
+      "sample_id": "GSM2630913",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630914",
+      "column_index": 157,
+      "sample_id": "GSM2630914",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630915",
+      "column_index": 158,
+      "sample_id": "GSM2630915",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630916",
+      "column_index": 159,
+      "sample_id": "GSM2630916",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630917",
+      "column_index": 160,
+      "sample_id": "GSM2630917",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630918",
+      "column_index": 161,
+      "sample_id": "GSM2630918",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630919",
+      "column_index": 162,
+      "sample_id": "GSM2630919",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630920",
+      "column_index": 163,
+      "sample_id": "GSM2630920",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630921",
+      "column_index": 164,
+      "sample_id": "GSM2630921",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630922",
+      "column_index": 165,
+      "sample_id": "GSM2630922",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630923",
+      "column_index": 166,
+      "sample_id": "GSM2630923",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630924",
+      "column_index": 167,
+      "sample_id": "GSM2630924",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630925",
+      "column_index": 168,
+      "sample_id": "GSM2630925",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630926",
+      "column_index": 169,
+      "sample_id": "GSM2630926",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630927",
+      "column_index": 170,
+      "sample_id": "GSM2630927",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630928",
+      "column_index": 171,
+      "sample_id": "GSM2630928",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630929",
+      "column_index": 172,
+      "sample_id": "GSM2630929",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630930",
+      "column_index": 173,
+      "sample_id": "GSM2630930",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630931",
+      "column_index": 174,
+      "sample_id": "GSM2630931",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630932",
+      "column_index": 175,
+      "sample_id": "GSM2630932",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630933",
+      "column_index": 176,
+      "sample_id": "GSM2630933",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630934",
+      "column_index": 177,
+      "sample_id": "GSM2630934",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630935",
+      "column_index": 178,
+      "sample_id": "GSM2630935",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630936",
+      "column_index": 179,
+      "sample_id": "GSM2630936",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630937",
+      "column_index": 180,
+      "sample_id": "GSM2630937",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630938",
+      "column_index": 181,
+      "sample_id": "GSM2630938",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630939",
+      "column_index": 182,
+      "sample_id": "GSM2630939",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630940",
+      "column_index": 183,
+      "sample_id": "GSM2630940",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630941",
+      "column_index": 184,
+      "sample_id": "GSM2630941",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630942",
+      "column_index": 185,
+      "sample_id": "GSM2630942",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630943",
+      "column_index": 186,
+      "sample_id": "GSM2630943",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630944",
+      "column_index": 187,
+      "sample_id": "GSM2630944",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630945",
+      "column_index": 188,
+      "sample_id": "GSM2630945",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630946",
+      "column_index": 189,
+      "sample_id": "GSM2630946",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630947",
+      "column_index": 190,
+      "sample_id": "GSM2630947",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630948",
+      "column_index": 191,
+      "sample_id": "GSM2630948",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630949",
+      "column_index": 192,
+      "sample_id": "GSM2630949",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630950",
+      "column_index": 193,
+      "sample_id": "GSM2630950",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630951",
+      "column_index": 194,
+      "sample_id": "GSM2630951",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630952",
+      "column_index": 195,
+      "sample_id": "GSM2630952",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630953",
+      "column_index": 196,
+      "sample_id": "GSM2630953",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630954",
+      "column_index": 197,
+      "sample_id": "GSM2630954",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630955",
+      "column_index": 198,
+      "sample_id": "GSM2630955",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630956",
+      "column_index": 199,
+      "sample_id": "GSM2630956",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630957",
+      "column_index": 200,
+      "sample_id": "GSM2630957",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630958",
+      "column_index": 201,
+      "sample_id": "GSM2630958",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630959",
+      "column_index": 202,
+      "sample_id": "GSM2630959",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630960",
+      "column_index": 203,
+      "sample_id": "GSM2630960",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630961",
+      "column_index": 204,
+      "sample_id": "GSM2630961",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630962",
+      "column_index": 205,
+      "sample_id": "GSM2630962",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630963",
+      "column_index": 206,
+      "sample_id": "GSM2630963",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630964",
+      "column_index": 207,
+      "sample_id": "GSM2630964",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630965",
+      "column_index": 208,
+      "sample_id": "GSM2630965",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630966",
+      "column_index": 209,
+      "sample_id": "GSM2630966",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630967",
+      "column_index": 210,
+      "sample_id": "GSM2630967",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630968",
+      "column_index": 211,
+      "sample_id": "GSM2630968",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630969",
+      "column_index": 212,
+      "sample_id": "GSM2630969",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630970",
+      "column_index": 213,
+      "sample_id": "GSM2630970",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630971",
+      "column_index": 214,
+      "sample_id": "GSM2630971",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630972",
+      "column_index": 215,
+      "sample_id": "GSM2630972",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630973",
+      "column_index": 216,
+      "sample_id": "GSM2630973",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630974",
+      "column_index": 217,
+      "sample_id": "GSM2630974",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630975",
+      "column_index": 218,
+      "sample_id": "GSM2630975",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630976",
+      "column_index": 219,
+      "sample_id": "GSM2630976",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630977",
+      "column_index": 220,
+      "sample_id": "GSM2630977",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630978",
+      "column_index": 221,
+      "sample_id": "GSM2630978",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630979",
+      "column_index": 222,
+      "sample_id": "GSM2630979",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630980",
+      "column_index": 223,
+      "sample_id": "GSM2630980",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630981",
+      "column_index": 224,
+      "sample_id": "GSM2630981",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630982",
+      "column_index": 225,
+      "sample_id": "GSM2630982",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630983",
+      "column_index": 226,
+      "sample_id": "GSM2630983",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630984",
+      "column_index": 227,
+      "sample_id": "GSM2630984",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630985",
+      "column_index": 228,
+      "sample_id": "GSM2630985",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630986",
+      "column_index": 229,
+      "sample_id": "GSM2630986",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630987",
+      "column_index": 230,
+      "sample_id": "GSM2630987",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630988",
+      "column_index": 231,
+      "sample_id": "GSM2630988",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630989",
+      "column_index": 232,
+      "sample_id": "GSM2630989",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630990",
+      "column_index": 233,
+      "sample_id": "GSM2630990",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630991",
+      "column_index": 234,
+      "sample_id": "GSM2630991",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630992",
+      "column_index": 235,
+      "sample_id": "GSM2630992",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630993",
+      "column_index": 236,
+      "sample_id": "GSM2630993",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630994",
+      "column_index": 237,
+      "sample_id": "GSM2630994",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630995",
+      "column_index": 238,
+      "sample_id": "GSM2630995",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630996",
+      "column_index": 239,
+      "sample_id": "GSM2630996",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630997",
+      "column_index": 240,
+      "sample_id": "GSM2630997",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630998",
+      "column_index": 241,
+      "sample_id": "GSM2630998",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2630999",
+      "column_index": 242,
+      "sample_id": "GSM2630999",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631000",
+      "column_index": 243,
+      "sample_id": "GSM2631000",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631001",
+      "column_index": 244,
+      "sample_id": "GSM2631001",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631002",
+      "column_index": 245,
+      "sample_id": "GSM2631002",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631003",
+      "column_index": 246,
+      "sample_id": "GSM2631003",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631004",
+      "column_index": 247,
+      "sample_id": "GSM2631004",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631005",
+      "column_index": 248,
+      "sample_id": "GSM2631005",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631006",
+      "column_index": 249,
+      "sample_id": "GSM2631006",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631007",
+      "column_index": 250,
+      "sample_id": "GSM2631007",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631008",
+      "column_index": 251,
+      "sample_id": "GSM2631008",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631009",
+      "column_index": 252,
+      "sample_id": "GSM2631009",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631010",
+      "column_index": 253,
+      "sample_id": "GSM2631010",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631011",
+      "column_index": 254,
+      "sample_id": "GSM2631011",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631012",
+      "column_index": 255,
+      "sample_id": "GSM2631012",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631013",
+      "column_index": 256,
+      "sample_id": "GSM2631013",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631014",
+      "column_index": 257,
+      "sample_id": "GSM2631014",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631015",
+      "column_index": 258,
+      "sample_id": "GSM2631015",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631016",
+      "column_index": 259,
+      "sample_id": "GSM2631016",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631017",
+      "column_index": 260,
+      "sample_id": "GSM2631017",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631018",
+      "column_index": 261,
+      "sample_id": "GSM2631018",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631019",
+      "column_index": 262,
+      "sample_id": "GSM2631019",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631020",
+      "column_index": 263,
+      "sample_id": "GSM2631020",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631021",
+      "column_index": 264,
+      "sample_id": "GSM2631021",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631022",
+      "column_index": 265,
+      "sample_id": "GSM2631022",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631023",
+      "column_index": 266,
+      "sample_id": "GSM2631023",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631024",
+      "column_index": 267,
+      "sample_id": "GSM2631024",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631025",
+      "column_index": 268,
+      "sample_id": "GSM2631025",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631026",
+      "column_index": 269,
+      "sample_id": "GSM2631026",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631027",
+      "column_index": 270,
+      "sample_id": "GSM2631027",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631028",
+      "column_index": 271,
+      "sample_id": "GSM2631028",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631029",
+      "column_index": 272,
+      "sample_id": "GSM2631029",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631030",
+      "column_index": 273,
+      "sample_id": "GSM2631030",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631031",
+      "column_index": 274,
+      "sample_id": "GSM2631031",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631032",
+      "column_index": 275,
+      "sample_id": "GSM2631032",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631033",
+      "column_index": 276,
+      "sample_id": "GSM2631033",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631034",
+      "column_index": 277,
+      "sample_id": "GSM2631034",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631035",
+      "column_index": 278,
+      "sample_id": "GSM2631035",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631036",
+      "column_index": 279,
+      "sample_id": "GSM2631036",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631037",
+      "column_index": 280,
+      "sample_id": "GSM2631037",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631038",
+      "column_index": 281,
+      "sample_id": "GSM2631038",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631039",
+      "column_index": 282,
+      "sample_id": "GSM2631039",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631040",
+      "column_index": 283,
+      "sample_id": "GSM2631040",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631041",
+      "column_index": 284,
+      "sample_id": "GSM2631041",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631042",
+      "column_index": 285,
+      "sample_id": "GSM2631042",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631043",
+      "column_index": 286,
+      "sample_id": "GSM2631043",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631044",
+      "column_index": 287,
+      "sample_id": "GSM2631044",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631045",
+      "column_index": 288,
+      "sample_id": "GSM2631045",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631046",
+      "column_index": 289,
+      "sample_id": "GSM2631046",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631047",
+      "column_index": 290,
+      "sample_id": "GSM2631047",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631048",
+      "column_index": 291,
+      "sample_id": "GSM2631048",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631049",
+      "column_index": 292,
+      "sample_id": "GSM2631049",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631050",
+      "column_index": 293,
+      "sample_id": "GSM2631050",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631051",
+      "column_index": 294,
+      "sample_id": "GSM2631051",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631052",
+      "column_index": 295,
+      "sample_id": "GSM2631052",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631053",
+      "column_index": 296,
+      "sample_id": "GSM2631053",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631054",
+      "column_index": 297,
+      "sample_id": "GSM2631054",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631055",
+      "column_index": 298,
+      "sample_id": "GSM2631055",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631056",
+      "column_index": 299,
+      "sample_id": "GSM2631056",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631057",
+      "column_index": 300,
+      "sample_id": "GSM2631057",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631058",
+      "column_index": 301,
+      "sample_id": "GSM2631058",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631059",
+      "column_index": 302,
+      "sample_id": "GSM2631059",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631060",
+      "column_index": 303,
+      "sample_id": "GSM2631060",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631061",
+      "column_index": 304,
+      "sample_id": "GSM2631061",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631062",
+      "column_index": 305,
+      "sample_id": "GSM2631062",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631063",
+      "column_index": 306,
+      "sample_id": "GSM2631063",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631064",
+      "column_index": 307,
+      "sample_id": "GSM2631064",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631065",
+      "column_index": 308,
+      "sample_id": "GSM2631065",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631066",
+      "column_index": 309,
+      "sample_id": "GSM2631066",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631067",
+      "column_index": 310,
+      "sample_id": "GSM2631067",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631068",
+      "column_index": 311,
+      "sample_id": "GSM2631068",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631069",
+      "column_index": 312,
+      "sample_id": "GSM2631069",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631070",
+      "column_index": 313,
+      "sample_id": "GSM2631070",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631071",
+      "column_index": 314,
+      "sample_id": "GSM2631071",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631072",
+      "column_index": 315,
+      "sample_id": "GSM2631072",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631073",
+      "column_index": 316,
+      "sample_id": "GSM2631073",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631074",
+      "column_index": 317,
+      "sample_id": "GSM2631074",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631075",
+      "column_index": 318,
+      "sample_id": "GSM2631075",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631076",
+      "column_index": 319,
+      "sample_id": "GSM2631076",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631077",
+      "column_index": 320,
+      "sample_id": "GSM2631077",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631078",
+      "column_index": 321,
+      "sample_id": "GSM2631078",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631079",
+      "column_index": 322,
+      "sample_id": "GSM2631079",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631080",
+      "column_index": 323,
+      "sample_id": "GSM2631080",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631081",
+      "column_index": 324,
+      "sample_id": "GSM2631081",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631082",
+      "column_index": 325,
+      "sample_id": "GSM2631082",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631083",
+      "column_index": 326,
+      "sample_id": "GSM2631083",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631084",
+      "column_index": 327,
+      "sample_id": "GSM2631084",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631085",
+      "column_index": 328,
+      "sample_id": "GSM2631085",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631086",
+      "column_index": 329,
+      "sample_id": "GSM2631086",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631087",
+      "column_index": 330,
+      "sample_id": "GSM2631087",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631088",
+      "column_index": 331,
+      "sample_id": "GSM2631088",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631089",
+      "column_index": 332,
+      "sample_id": "GSM2631089",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631090",
+      "column_index": 333,
+      "sample_id": "GSM2631090",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631091",
+      "column_index": 334,
+      "sample_id": "GSM2631091",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631092",
+      "column_index": 335,
+      "sample_id": "GSM2631092",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631093",
+      "column_index": 336,
+      "sample_id": "GSM2631093",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631094",
+      "column_index": 337,
+      "sample_id": "GSM2631094",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631095",
+      "column_index": 338,
+      "sample_id": "GSM2631095",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631096",
+      "column_index": 339,
+      "sample_id": "GSM2631096",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631097",
+      "column_index": 340,
+      "sample_id": "GSM2631097",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631098",
+      "column_index": 341,
+      "sample_id": "GSM2631098",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631099",
+      "column_index": 342,
+      "sample_id": "GSM2631099",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631100",
+      "column_index": 343,
+      "sample_id": "GSM2631100",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631101",
+      "column_index": 344,
+      "sample_id": "GSM2631101",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631102",
+      "column_index": 345,
+      "sample_id": "GSM2631102",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631103",
+      "column_index": 346,
+      "sample_id": "GSM2631103",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631104",
+      "column_index": 347,
+      "sample_id": "GSM2631104",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631105",
+      "column_index": 348,
+      "sample_id": "GSM2631105",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631106",
+      "column_index": 349,
+      "sample_id": "GSM2631106",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631107",
+      "column_index": 350,
+      "sample_id": "GSM2631107",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631108",
+      "column_index": 351,
+      "sample_id": "GSM2631108",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631109",
+      "column_index": 352,
+      "sample_id": "GSM2631109",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631110",
+      "column_index": 353,
+      "sample_id": "GSM2631110",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631111",
+      "column_index": 354,
+      "sample_id": "GSM2631111",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631112",
+      "column_index": 355,
+      "sample_id": "GSM2631112",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631113",
+      "column_index": 356,
+      "sample_id": "GSM2631113",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631114",
+      "column_index": 357,
+      "sample_id": "GSM2631114",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631115",
+      "column_index": 358,
+      "sample_id": "GSM2631115",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631116",
+      "column_index": 359,
+      "sample_id": "GSM2631116",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631117",
+      "column_index": 360,
+      "sample_id": "GSM2631117",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631118",
+      "column_index": 361,
+      "sample_id": "GSM2631118",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631119",
+      "column_index": 362,
+      "sample_id": "GSM2631119",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631120",
+      "column_index": 363,
+      "sample_id": "GSM2631120",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631121",
+      "column_index": 364,
+      "sample_id": "GSM2631121",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631122",
+      "column_index": 365,
+      "sample_id": "GSM2631122",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631123",
+      "column_index": 366,
+      "sample_id": "GSM2631123",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631124",
+      "column_index": 367,
+      "sample_id": "GSM2631124",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631125",
+      "column_index": 368,
+      "sample_id": "GSM2631125",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631126",
+      "column_index": 369,
+      "sample_id": "GSM2631126",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631127",
+      "column_index": 370,
+      "sample_id": "GSM2631127",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631128",
+      "column_index": 371,
+      "sample_id": "GSM2631128",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631129",
+      "column_index": 372,
+      "sample_id": "GSM2631129",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631130",
+      "column_index": 373,
+      "sample_id": "GSM2631130",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631131",
+      "column_index": 374,
+      "sample_id": "GSM2631131",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631132",
+      "column_index": 375,
+      "sample_id": "GSM2631132",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631133",
+      "column_index": 376,
+      "sample_id": "GSM2631133",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631134",
+      "column_index": 377,
+      "sample_id": "GSM2631134",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631135",
+      "column_index": 378,
+      "sample_id": "GSM2631135",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631136",
+      "column_index": 379,
+      "sample_id": "GSM2631136",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631137",
+      "column_index": 380,
+      "sample_id": "GSM2631137",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631138",
+      "column_index": 381,
+      "sample_id": "GSM2631138",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631139",
+      "column_index": 382,
+      "sample_id": "GSM2631139",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631140",
+      "column_index": 383,
+      "sample_id": "GSM2631140",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631141",
+      "column_index": 384,
+      "sample_id": "GSM2631141",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631142",
+      "column_index": 385,
+      "sample_id": "GSM2631142",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631143",
+      "column_index": 386,
+      "sample_id": "GSM2631143",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631144",
+      "column_index": 387,
+      "sample_id": "GSM2631144",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631145",
+      "column_index": 388,
+      "sample_id": "GSM2631145",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631146",
+      "column_index": 389,
+      "sample_id": "GSM2631146",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631147",
+      "column_index": 390,
+      "sample_id": "GSM2631147",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631148",
+      "column_index": 391,
+      "sample_id": "GSM2631148",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631149",
+      "column_index": 392,
+      "sample_id": "GSM2631149",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631150",
+      "column_index": 393,
+      "sample_id": "GSM2631150",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631151",
+      "column_index": 394,
+      "sample_id": "GSM2631151",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631152",
+      "column_index": 395,
+      "sample_id": "GSM2631152",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631153",
+      "column_index": 396,
+      "sample_id": "GSM2631153",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631154",
+      "column_index": 397,
+      "sample_id": "GSM2631154",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631155",
+      "column_index": 398,
+      "sample_id": "GSM2631155",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631156",
+      "column_index": 399,
+      "sample_id": "GSM2631156",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631157",
+      "column_index": 400,
+      "sample_id": "GSM2631157",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631158",
+      "column_index": 401,
+      "sample_id": "GSM2631158",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631159",
+      "column_index": 402,
+      "sample_id": "GSM2631159",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631160",
+      "column_index": 403,
+      "sample_id": "GSM2631160",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631161",
+      "column_index": 404,
+      "sample_id": "GSM2631161",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631162",
+      "column_index": 405,
+      "sample_id": "GSM2631162",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631163",
+      "column_index": 406,
+      "sample_id": "GSM2631163",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631164",
+      "column_index": 407,
+      "sample_id": "GSM2631164",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631165",
+      "column_index": 408,
+      "sample_id": "GSM2631165",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631166",
+      "column_index": 409,
+      "sample_id": "GSM2631166",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631167",
+      "column_index": 410,
+      "sample_id": "GSM2631167",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631168",
+      "column_index": 411,
+      "sample_id": "GSM2631168",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631169",
+      "column_index": 412,
+      "sample_id": "GSM2631169",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631170",
+      "column_index": 413,
+      "sample_id": "GSM2631170",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631171",
+      "column_index": 414,
+      "sample_id": "GSM2631171",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631172",
+      "column_index": 415,
+      "sample_id": "GSM2631172",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631173",
+      "column_index": 416,
+      "sample_id": "GSM2631173",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631174",
+      "column_index": 417,
+      "sample_id": "GSM2631174",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631175",
+      "column_index": 418,
+      "sample_id": "GSM2631175",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631176",
+      "column_index": 419,
+      "sample_id": "GSM2631176",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631177",
+      "column_index": 420,
+      "sample_id": "GSM2631177",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631178",
+      "column_index": 421,
+      "sample_id": "GSM2631178",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631179",
+      "column_index": 422,
+      "sample_id": "GSM2631179",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631180",
+      "column_index": 423,
+      "sample_id": "GSM2631180",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631181",
+      "column_index": 424,
+      "sample_id": "GSM2631181",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631182",
+      "column_index": 425,
+      "sample_id": "GSM2631182",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631183",
+      "column_index": 426,
+      "sample_id": "GSM2631183",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631184",
+      "column_index": 427,
+      "sample_id": "GSM2631184",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631185",
+      "column_index": 428,
+      "sample_id": "GSM2631185",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631186",
+      "column_index": 429,
+      "sample_id": "GSM2631186",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631187",
+      "column_index": 430,
+      "sample_id": "GSM2631187",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631188",
+      "column_index": 431,
+      "sample_id": "GSM2631188",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631189",
+      "column_index": 432,
+      "sample_id": "GSM2631189",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631190",
+      "column_index": 433,
+      "sample_id": "GSM2631190",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631191",
+      "column_index": 434,
+      "sample_id": "GSM2631191",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631192",
+      "column_index": 435,
+      "sample_id": "GSM2631192",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631193",
+      "column_index": 436,
+      "sample_id": "GSM2631193",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631194",
+      "column_index": 437,
+      "sample_id": "GSM2631194",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631195",
+      "column_index": 438,
+      "sample_id": "GSM2631195",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631196",
+      "column_index": 439,
+      "sample_id": "GSM2631196",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631197",
+      "column_index": 440,
+      "sample_id": "GSM2631197",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631198",
+      "column_index": 441,
+      "sample_id": "GSM2631198",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631199",
+      "column_index": 442,
+      "sample_id": "GSM2631199",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631200",
+      "column_index": 443,
+      "sample_id": "GSM2631200",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631201",
+      "column_index": 444,
+      "sample_id": "GSM2631201",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631202",
+      "column_index": 445,
+      "sample_id": "GSM2631202",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631203",
+      "column_index": 446,
+      "sample_id": "GSM2631203",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631204",
+      "column_index": 447,
+      "sample_id": "GSM2631204",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631205",
+      "column_index": 448,
+      "sample_id": "GSM2631205",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631206",
+      "column_index": 449,
+      "sample_id": "GSM2631206",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631207",
+      "column_index": 450,
+      "sample_id": "GSM2631207",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631208",
+      "column_index": 451,
+      "sample_id": "GSM2631208",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631209",
+      "column_index": 452,
+      "sample_id": "GSM2631209",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631210",
+      "column_index": 453,
+      "sample_id": "GSM2631210",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631211",
+      "column_index": 454,
+      "sample_id": "GSM2631211",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631212",
+      "column_index": 455,
+      "sample_id": "GSM2631212",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631213",
+      "column_index": 456,
+      "sample_id": "GSM2631213",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631214",
+      "column_index": 457,
+      "sample_id": "GSM2631214",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631215",
+      "column_index": 458,
+      "sample_id": "GSM2631215",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631216",
+      "column_index": 459,
+      "sample_id": "GSM2631216",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631217",
+      "column_index": 460,
+      "sample_id": "GSM2631217",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631218",
+      "column_index": 461,
+      "sample_id": "GSM2631218",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631219",
+      "column_index": 462,
+      "sample_id": "GSM2631219",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631220",
+      "column_index": 463,
+      "sample_id": "GSM2631220",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631221",
+      "column_index": 464,
+      "sample_id": "GSM2631221",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631222",
+      "column_index": 465,
+      "sample_id": "GSM2631222",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631223",
+      "column_index": 466,
+      "sample_id": "GSM2631223",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631224",
+      "column_index": 467,
+      "sample_id": "GSM2631224",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631225",
+      "column_index": 468,
+      "sample_id": "GSM2631225",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631226",
+      "column_index": 469,
+      "sample_id": "GSM2631226",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631227",
+      "column_index": 470,
+      "sample_id": "GSM2631227",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631228",
+      "column_index": 471,
+      "sample_id": "GSM2631228",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631229",
+      "column_index": 472,
+      "sample_id": "GSM2631229",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631230",
+      "column_index": 473,
+      "sample_id": "GSM2631230",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631231",
+      "column_index": 474,
+      "sample_id": "GSM2631231",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631232",
+      "column_index": 475,
+      "sample_id": "GSM2631232",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631233",
+      "column_index": 476,
+      "sample_id": "GSM2631233",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631234",
+      "column_index": 477,
+      "sample_id": "GSM2631234",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631235",
+      "column_index": 478,
+      "sample_id": "GSM2631235",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631236",
+      "column_index": 479,
+      "sample_id": "GSM2631236",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631237",
+      "column_index": 480,
+      "sample_id": "GSM2631237",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631238",
+      "column_index": 481,
+      "sample_id": "GSM2631238",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631239",
+      "column_index": 482,
+      "sample_id": "GSM2631239",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631240",
+      "column_index": 483,
+      "sample_id": "GSM2631240",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631241",
+      "column_index": 484,
+      "sample_id": "GSM2631241",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631242",
+      "column_index": 485,
+      "sample_id": "GSM2631242",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631243",
+      "column_index": 486,
+      "sample_id": "GSM2631243",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631244",
+      "column_index": 487,
+      "sample_id": "GSM2631244",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631245",
+      "column_index": 488,
+      "sample_id": "GSM2631245",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631246",
+      "column_index": 489,
+      "sample_id": "GSM2631246",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631247",
+      "column_index": 490,
+      "sample_id": "GSM2631247",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631248",
+      "column_index": 491,
+      "sample_id": "GSM2631248",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631249",
+      "column_index": 492,
+      "sample_id": "GSM2631249",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631250",
+      "column_index": 493,
+      "sample_id": "GSM2631250",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631251",
+      "column_index": 494,
+      "sample_id": "GSM2631251",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631252",
+      "column_index": 495,
+      "sample_id": "GSM2631252",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631253",
+      "column_index": 496,
+      "sample_id": "GSM2631253",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631254",
+      "column_index": 497,
+      "sample_id": "GSM2631254",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631255",
+      "column_index": 498,
+      "sample_id": "GSM2631255",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631256",
+      "column_index": 499,
+      "sample_id": "GSM2631256",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631257",
+      "column_index": 500,
+      "sample_id": "GSM2631257",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631258",
+      "column_index": 501,
+      "sample_id": "GSM2631258",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631259",
+      "column_index": 502,
+      "sample_id": "GSM2631259",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631260",
+      "column_index": 503,
+      "sample_id": "GSM2631260",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631261",
+      "column_index": 504,
+      "sample_id": "GSM2631261",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631262",
+      "column_index": 505,
+      "sample_id": "GSM2631262",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631263",
+      "column_index": 506,
+      "sample_id": "GSM2631263",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631264",
+      "column_index": 507,
+      "sample_id": "GSM2631264",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631265",
+      "column_index": 508,
+      "sample_id": "GSM2631265",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631266",
+      "column_index": 509,
+      "sample_id": "GSM2631266",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631267",
+      "column_index": 510,
+      "sample_id": "GSM2631267",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631268",
+      "column_index": 511,
+      "sample_id": "GSM2631268",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631269",
+      "column_index": 512,
+      "sample_id": "GSM2631269",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631270",
+      "column_index": 513,
+      "sample_id": "GSM2631270",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631271",
+      "column_index": 514,
+      "sample_id": "GSM2631271",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631272",
+      "column_index": 515,
+      "sample_id": "GSM2631272",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631273",
+      "column_index": 516,
+      "sample_id": "GSM2631273",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631274",
+      "column_index": 517,
+      "sample_id": "GSM2631274",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631275",
+      "column_index": 518,
+      "sample_id": "GSM2631275",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631276",
+      "column_index": 519,
+      "sample_id": "GSM2631276",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631277",
+      "column_index": 520,
+      "sample_id": "GSM2631277",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631278",
+      "column_index": 521,
+      "sample_id": "GSM2631278",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631279",
+      "column_index": 522,
+      "sample_id": "GSM2631279",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631280",
+      "column_index": 523,
+      "sample_id": "GSM2631280",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631281",
+      "column_index": 524,
+      "sample_id": "GSM2631281",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631282",
+      "column_index": 525,
+      "sample_id": "GSM2631282",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631283",
+      "column_index": 526,
+      "sample_id": "GSM2631283",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631284",
+      "column_index": 527,
+      "sample_id": "GSM2631284",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631285",
+      "column_index": 528,
+      "sample_id": "GSM2631285",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631286",
+      "column_index": 529,
+      "sample_id": "GSM2631286",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631287",
+      "column_index": 530,
+      "sample_id": "GSM2631287",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631288",
+      "column_index": 531,
+      "sample_id": "GSM2631288",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631289",
+      "column_index": 532,
+      "sample_id": "GSM2631289",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631290",
+      "column_index": 533,
+      "sample_id": "GSM2631290",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631291",
+      "column_index": 534,
+      "sample_id": "GSM2631291",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631292",
+      "column_index": 535,
+      "sample_id": "GSM2631292",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631293",
+      "column_index": 536,
+      "sample_id": "GSM2631293",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631294",
+      "column_index": 537,
+      "sample_id": "GSM2631294",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631295",
+      "column_index": 538,
+      "sample_id": "GSM2631295",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631296",
+      "column_index": 539,
+      "sample_id": "GSM2631296",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631297",
+      "column_index": 540,
+      "sample_id": "GSM2631297",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631298",
+      "column_index": 541,
+      "sample_id": "GSM2631298",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631299",
+      "column_index": 542,
+      "sample_id": "GSM2631299",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631300",
+      "column_index": 543,
+      "sample_id": "GSM2631300",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631301",
+      "column_index": 544,
+      "sample_id": "GSM2631301",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631302",
+      "column_index": 545,
+      "sample_id": "GSM2631302",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631303",
+      "column_index": 546,
+      "sample_id": "GSM2631303",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631304",
+      "column_index": 547,
+      "sample_id": "GSM2631304",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631305",
+      "column_index": 548,
+      "sample_id": "GSM2631305",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631306",
+      "column_index": 549,
+      "sample_id": "GSM2631306",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631307",
+      "column_index": 550,
+      "sample_id": "GSM2631307",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631308",
+      "column_index": 551,
+      "sample_id": "GSM2631308",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631309",
+      "column_index": 552,
+      "sample_id": "GSM2631309",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631310",
+      "column_index": 553,
+      "sample_id": "GSM2631310",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631311",
+      "column_index": 554,
+      "sample_id": "GSM2631311",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631312",
+      "column_index": 555,
+      "sample_id": "GSM2631312",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631313",
+      "column_index": 556,
+      "sample_id": "GSM2631313",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631314",
+      "column_index": 557,
+      "sample_id": "GSM2631314",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    },
+    {
+      "column": "GSM2631315",
+      "column_index": 558,
+      "sample_id": "GSM2631315",
+      "measure": "value",
+      "derivation": "series-matrix column header (GSM accession)"
+    }
+  ],
+  "candidate_sample_ids": [
+    "GSM2630758",
+    "GSM2630759",
+    "GSM2630760",
+    "GSM2630761",
+    "GSM2630762",
+    "GSM2630763",
+    "GSM2630764",
+    "GSM2630765",
+    "GSM2630766",
+    "GSM2630767",
+    "GSM2630768",
+    "GSM2630769",
+    "GSM2630770",
+    "GSM2630771",
+    "GSM2630772",
+    "GSM2630773",
+    "GSM2630774",
+    "GSM2630775",
+    "GSM2630776",
+    "GSM2630777",
+    "GSM2630778",
+    "GSM2630779",
+    "GSM2630780",
+    "GSM2630781",
+    "GSM2630782",
+    "GSM2630783",
+    "GSM2630784",
+    "GSM2630785",
+    "GSM2630786",
+    "GSM2630787",
+    "GSM2630788",
+    "GSM2630789",
+    "GSM2630790",
+    "GSM2630791",
+    "GSM2630792",
+    "GSM2630793",
+    "GSM2630794",
+    "GSM2630795",
+    "GSM2630796",
+    "GSM2630797",
+    "GSM2630798",
+    "GSM2630799",
+    "GSM2630800",
+    "GSM2630801",
+    "GSM2630802",
+    "GSM2630803",
+    "GSM2630804",
+    "GSM2630805",
+    "GSM2630806",
+    "GSM2630807",
+    "GSM2630808",
+    "GSM2630809",
+    "GSM2630810",
+    "GSM2630811",
+    "GSM2630812",
+    "GSM2630813",
+    "GSM2630814",
+    "GSM2630815",
+    "GSM2630816",
+    "GSM2630817",
+    "GSM2630818",
+    "GSM2630819",
+    "GSM2630820",
+    "GSM2630821",
+    "GSM2630822",
+    "GSM2630823",
+    "GSM2630824",
+    "GSM2630825",
+    "GSM2630826",
+    "GSM2630827",
+    "GSM2630828",
+    "GSM2630829",
+    "GSM2630830",
+    "GSM2630831",
+    "GSM2630832",
+    "GSM2630833",
+    "GSM2630834",
+    "GSM2630835",
+    "GSM2630836",
+    "GSM2630837",
+    "GSM2630838",
+    "GSM2630839",
+    "GSM2630840",
+    "GSM2630841",
+    "GSM2630842",
+    "GSM2630843",
+    "GSM2630844",
+    "GSM2630845",
+    "GSM2630846",
+    "GSM2630847",
+    "GSM2630848",
+    "GSM2630849",
+    "GSM2630850",
+    "GSM2630851",
+    "GSM2630852",
+    "GSM2630853",
+    "GSM2630854",
+    "GSM2630855",
+    "GSM2630856",
+    "GSM2630857",
+    "GSM2630858",
+    "GSM2630859",
+    "GSM2630860",
+    "GSM2630861",
+    "GSM2630862",
+    "GSM2630863",
+    "GSM2630864",
+    "GSM2630865",
+    "GSM2630866",
+    "GSM2630867",
+    "GSM2630868",
+    "GSM2630869",
+    "GSM2630870",
+    "GSM2630871",
+    "GSM2630872",
+    "GSM2630873",
+    "GSM2630874",
+    "GSM2630875",
+    "GSM2630876",
+    "GSM2630877",
+    "GSM2630878",
+    "GSM2630879",
+    "GSM2630880",
+    "GSM2630881",
+    "GSM2630882",
+    "GSM2630883",
+    "GSM2630884",
+    "GSM2630885",
+    "GSM2630886",
+    "GSM2630887",
+    "GSM2630888",
+    "GSM2630889",
+    "GSM2630890",
+    "GSM2630891",
+    "GSM2630892",
+    "GSM2630893",
+    "GSM2630894",
+    "GSM2630895",
+    "GSM2630896",
+    "GSM2630897",
+    "GSM2630898",
+    "GSM2630899",
+    "GSM2630900",
+    "GSM2630901",
+    "GSM2630902",
+    "GSM2630903",
+    "GSM2630904",
+    "GSM2630905",
+    "GSM2630906",
+    "GSM2630907",
+    "GSM2630908",
+    "GSM2630909",
+    "GSM2630910",
+    "GSM2630911",
+    "GSM2630912",
+    "GSM2630913",
+    "GSM2630914",
+    "GSM2630915",
+    "GSM2630916",
+    "GSM2630917",
+    "GSM2630918",
+    "GSM2630919",
+    "GSM2630920",
+    "GSM2630921",
+    "GSM2630922",
+    "GSM2630923",
+    "GSM2630924",
+    "GSM2630925",
+    "GSM2630926",
+    "GSM2630927",
+    "GSM2630928",
+    "GSM2630929",
+    "GSM2630930",
+    "GSM2630931",
+    "GSM2630932",
+    "GSM2630933",
+    "GSM2630934",
+    "GSM2630935",
+    "GSM2630936",
+    "GSM2630937",
+    "GSM2630938",
+    "GSM2630939",
+    "GSM2630940",
+    "GSM2630941",
+    "GSM2630942",
+    "GSM2630943",
+    "GSM2630944",
+    "GSM2630945",
+    "GSM2630946",
+    "GSM2630947",
+    "GSM2630948",
+    "GSM2630949",
+    "GSM2630950",
+    "GSM2630951",
+    "GSM2630952",
+    "GSM2630953",
+    "GSM2630954",
+    "GSM2630955",
+    "GSM2630956",
+    "GSM2630957",
+    "GSM2630958",
+    "GSM2630959",
+    "GSM2630960",
+    "GSM2630961",
+    "GSM2630962",
+    "GSM2630963",
+    "GSM2630964",
+    "GSM2630965",
+    "GSM2630966",
+    "GSM2630967",
+    "GSM2630968",
+    "GSM2630969",
+    "GSM2630970",
+    "GSM2630971",
+    "GSM2630972",
+    "GSM2630973",
+    "GSM2630974",
+    "GSM2630975",
+    "GSM2630976",
+    "GSM2630977",
+    "GSM2630978",
+    "GSM2630979",
+    "GSM2630980",
+    "GSM2630981",
+    "GSM2630982",
+    "GSM2630983",
+    "GSM2630984",
+    "GSM2630985",
+    "GSM2630986",
+    "GSM2630987",
+    "GSM2630988",
+    "GSM2630989",
+    "GSM2630990",
+    "GSM2630991",
+    "GSM2630992",
+    "GSM2630993",
+    "GSM2630994",
+    "GSM2630995",
+    "GSM2630996",
+    "GSM2630997",
+    "GSM2630998",
+    "GSM2630999",
+    "GSM2631000",
+    "GSM2631001",
+    "GSM2631002",
+    "GSM2631003",
+    "GSM2631004",
+    "GSM2631005",
+    "GSM2631006",
+    "GSM2631007",
+    "GSM2631008",
+    "GSM2631009",
+    "GSM2631010",
+    "GSM2631011",
+    "GSM2631012",
+    "GSM2631013",
+    "GSM2631014",
+    "GSM2631015",
+    "GSM2631016",
+    "GSM2631017",
+    "GSM2631018",
+    "GSM2631019",
+    "GSM2631020",
+    "GSM2631021",
+    "GSM2631022",
+    "GSM2631023",
+    "GSM2631024",
+    "GSM2631025",
+    "GSM2631026",
+    "GSM2631027",
+    "GSM2631028",
+    "GSM2631029",
+    "GSM2631030",
+    "GSM2631031",
+    "GSM2631032",
+    "GSM2631033",
+    "GSM2631034",
+    "GSM2631035",
+    "GSM2631036",
+    "GSM2631037",
+    "GSM2631038",
+    "GSM2631039",
+    "GSM2631040",
+    "GSM2631041",
+    "GSM2631042",
+    "GSM2631043",
+    "GSM2631044",
+    "GSM2631045",
+    "GSM2631046",
+    "GSM2631047",
+    "GSM2631048",
+    "GSM2631049",
+    "GSM2631050",
+    "GSM2631051",
+    "GSM2631052",
+    "GSM2631053",
+    "GSM2631054",
+    "GSM2631055",
+    "GSM2631056",
+    "GSM2631057",
+    "GSM2631058",
+    "GSM2631059",
+    "GSM2631060",
+    "GSM2631061",
+    "GSM2631062",
+    "GSM2631063",
+    "GSM2631064",
+    "GSM2631065",
+    "GSM2631066",
+    "GSM2631067",
+    "GSM2631068",
+    "GSM2631069",
+    "GSM2631070",
+    "GSM2631071",
+    "GSM2631072",
+    "GSM2631073",
+    "GSM2631074",
+    "GSM2631075",
+    "GSM2631076",
+    "GSM2631077",
+    "GSM2631078",
+    "GSM2631079",
+    "GSM2631080",
+    "GSM2631081",
+    "GSM2631082",
+    "GSM2631083",
+    "GSM2631084",
+    "GSM2631085",
+    "GSM2631086",
+    "GSM2631087",
+    "GSM2631088",
+    "GSM2631089",
+    "GSM2631090",
+    "GSM2631091",
+    "GSM2631092",
+    "GSM2631093",
+    "GSM2631094",
+    "GSM2631095",
+    "GSM2631096",
+    "GSM2631097",
+    "GSM2631098",
+    "GSM2631099",
+    "GSM2631100",
+    "GSM2631101",
+    "GSM2631102",
+    "GSM2631103",
+    "GSM2631104",
+    "GSM2631105",
+    "GSM2631106",
+    "GSM2631107",
+    "GSM2631108",
+    "GSM2631109",
+    "GSM2631110",
+    "GSM2631111",
+    "GSM2631112",
+    "GSM2631113",
+    "GSM2631114",
+    "GSM2631115",
+    "GSM2631116",
+    "GSM2631117",
+    "GSM2631118",
+    "GSM2631119",
+    "GSM2631120",
+    "GSM2631121",
+    "GSM2631122",
+    "GSM2631123",
+    "GSM2631124",
+    "GSM2631125",
+    "GSM2631126",
+    "GSM2631127",
+    "GSM2631128",
+    "GSM2631129",
+    "GSM2631130",
+    "GSM2631131",
+    "GSM2631132",
+    "GSM2631133",
+    "GSM2631134",
+    "GSM2631135",
+    "GSM2631136",
+    "GSM2631137",
+    "GSM2631138",
+    "GSM2631139",
+    "GSM2631140",
+    "GSM2631141",
+    "GSM2631142",
+    "GSM2631143",
+    "GSM2631144",
+    "GSM2631145",
+    "GSM2631146",
+    "GSM2631147",
+    "GSM2631148",
+    "GSM2631149",
+    "GSM2631150",
+    "GSM2631151",
+    "GSM2631152",
+    "GSM2631153",
+    "GSM2631154",
+    "GSM2631155",
+    "GSM2631156",
+    "GSM2631157",
+    "GSM2631158",
+    "GSM2631159",
+    "GSM2631160",
+    "GSM2631161",
+    "GSM2631162",
+    "GSM2631163",
+    "GSM2631164",
+    "GSM2631165",
+    "GSM2631166",
+    "GSM2631167",
+    "GSM2631168",
+    "GSM2631169",
+    "GSM2631170",
+    "GSM2631171",
+    "GSM2631172",
+    "GSM2631173",
+    "GSM2631174",
+    "GSM2631175",
+    "GSM2631176",
+    "GSM2631177",
+    "GSM2631178",
+    "GSM2631179",
+    "GSM2631180",
+    "GSM2631181",
+    "GSM2631182",
+    "GSM2631183",
+    "GSM2631184",
+    "GSM2631185",
+    "GSM2631186",
+    "GSM2631187",
+    "GSM2631188",
+    "GSM2631189",
+    "GSM2631190",
+    "GSM2631191",
+    "GSM2631192",
+    "GSM2631193",
+    "GSM2631194",
+    "GSM2631195",
+    "GSM2631196",
+    "GSM2631197",
+    "GSM2631198",
+    "GSM2631199",
+    "GSM2631200",
+    "GSM2631201",
+    "GSM2631202",
+    "GSM2631203",
+    "GSM2631204",
+    "GSM2631205",
+    "GSM2631206",
+    "GSM2631207",
+    "GSM2631208",
+    "GSM2631209",
+    "GSM2631210",
+    "GSM2631211",
+    "GSM2631212",
+    "GSM2631213",
+    "GSM2631214",
+    "GSM2631215",
+    "GSM2631216",
+    "GSM2631217",
+    "GSM2631218",
+    "GSM2631219",
+    "GSM2631220",
+    "GSM2631221",
+    "GSM2631222",
+    "GSM2631223",
+    "GSM2631224",
+    "GSM2631225",
+    "GSM2631226",
+    "GSM2631227",
+    "GSM2631228",
+    "GSM2631229",
+    "GSM2631230",
+    "GSM2631231",
+    "GSM2631232",
+    "GSM2631233",
+    "GSM2631234",
+    "GSM2631235",
+    "GSM2631236",
+    "GSM2631237",
+    "GSM2631238",
+    "GSM2631239",
+    "GSM2631240",
+    "GSM2631241",
+    "GSM2631242",
+    "GSM2631243",
+    "GSM2631244",
+    "GSM2631245",
+    "GSM2631246",
+    "GSM2631247",
+    "GSM2631248",
+    "GSM2631249",
+    "GSM2631250",
+    "GSM2631251",
+    "GSM2631252",
+    "GSM2631253",
+    "GSM2631254",
+    "GSM2631255",
+    "GSM2631256",
+    "GSM2631257",
+    "GSM2631258",
+    "GSM2631259",
+    "GSM2631260",
+    "GSM2631261",
+    "GSM2631262",
+    "GSM2631263",
+    "GSM2631264",
+    "GSM2631265",
+    "GSM2631266",
+    "GSM2631267",
+    "GSM2631268",
+    "GSM2631269",
+    "GSM2631270",
+    "GSM2631271",
+    "GSM2631272",
+    "GSM2631273",
+    "GSM2631274",
+    "GSM2631275",
+    "GSM2631276",
+    "GSM2631277",
+    "GSM2631278",
+    "GSM2631279",
+    "GSM2631280",
+    "GSM2631281",
+    "GSM2631282",
+    "GSM2631283",
+    "GSM2631284",
+    "GSM2631285",
+    "GSM2631286",
+    "GSM2631287",
+    "GSM2631288",
+    "GSM2631289",
+    "GSM2631290",
+    "GSM2631291",
+    "GSM2631292",
+    "GSM2631293",
+    "GSM2631294",
+    "GSM2631295",
+    "GSM2631296",
+    "GSM2631297",
+    "GSM2631298",
+    "GSM2631299",
+    "GSM2631300",
+    "GSM2631301",
+    "GSM2631302",
+    "GSM2631303",
+    "GSM2631304",
+    "GSM2631305",
+    "GSM2631306",
+    "GSM2631307",
+    "GSM2631308",
+    "GSM2631309",
+    "GSM2631310",
+    "GSM2631311",
+    "GSM2631312",
+    "GSM2631313",
+    "GSM2631314",
+    "GSM2631315"
+  ],
+  "measurement_types": {
+    "value": 558
+  },
+  "duplicate_column_headers": [],
+  "empty_header_sample_columns": [],
+  "duplicate_sample_ids": [],
+  "n_unique_feature_ids": 54675,
+  "duplicate_feature_ids": {
+    "n_duplicated_ids": 0,
+    "n_rows_involved": 0,
+    "examples": {}
+  },
+  "missing_feature_ids": 0,
+  "missing_values": {
+    "total_missing_in_sample_columns": 0,
+    "n_sample_columns_with_missing": 0,
+    "top_columns_with_missing": {},
+    "non_numeric_tokens_in_sample_columns": 0,
+    "na_tokens_recognised": [
+      "",
+      "NA",
+      "N/A",
+      "NaN",
+      "nan",
+      "null",
+      "NULL",
+      "#N/A",
+      "-"
+    ]
+  },
+  "value_summary": {
+    "columns_summarised": 558,
+    "n_numeric_values": 30508650,
+    "n_missing_values": 0,
+    "n_non_numeric_tokens": 0,
+    "min": 1.455,
+    "max": 15.17,
+    "fraction_negative": 0.0,
+    "fraction_zero": 0.0,
+    "fraction_integer_valued": 0.00101869469806104,
+    "sampled_rows": 5000,
+    "sampling": "every 10th data row (deterministic)",
+    "pooled_quantiles_sampled": {
+      "0.0": 1.458,
+      "0.01": 2.013,
+      "0.25": 3.011,
+      "0.5": 4.258,
+      "0.75": 5.83,
+      "0.99": 10.191,
+      "1.0": 14.883
+    },
+    "per_sample_distribution": {
+      "median_of_sample_medians": 4.248,
+      "range_of_sample_medians": [
+        4.093999999999999,
+        4.562
+      ],
+      "sd_of_sample_quantiles_over_pooled_iqr": {
+        "q05": 0.0265187136446696,
+        "q25": 0.03790307481573321,
+        "q50": 0.023890227082672178,
+        "q75": 0.04798202974628954,
+        "q95": 0.09622883704524492
+      },
+      "note": "computed on sampled rows only; small values indicate near-identical per-sample distributions"
+    }
+  },
+  "metadata": {
+    "series": {
+      "Series_title": [
+        "A blood-based gene signature characterizing Idiopathic Parkinson's disease"
+      ],
+      "Series_geo_accession": [
+        "GSE99039"
+      ],
+      "Series_status": [
+        "Public on May 20 2017"
+      ],
+      "Series_submission_date": [
+        "May 17 2017"
+      ],
+      "Series_last_update_date": [
+        "Jul 25 2021"
+      ],
+      "Series_pubmed_id": [
+        "28916538"
+      ],
+      "Series_summary": [
+        "Establishing reliable biomarkers for assessing and validating clinical diagnosis at early prodromal stages of Parkinson\u2019s disease is crucial for developing therapies to slow or halt disease progression. Here, we present the largest study to date using whole blood gene expression profiling from over 500 individuals to identify an 87-gene blood-based signature. Our gene signature effectively differentiates between idiopathic PD patients and controls in both a validation cohort and an independent test cohort, and further highlights mitochondrial metabolism and ubiquitination/proteasomal degradation as potential pathways disrupted in Parkinson\u2019s disease."
+      ],
+      "Series_overall_design": [
+        "This repository contains the gene expression profiles collected in the GENEPARK consortium. The main study sought a classifier for IPD. These data contain 233 healthy controls, 205 IPD patients, and 48 patients with other neurodegenerative diseases (NDD). Other samples are available in the data and can be used for additional analyses. The largest class of these additional samples are 22 samples from genetic unaffected controls and 41 genetic PD patients."
+      ],
+      "Series_type": [
+        "Expression profiling by array"
+      ],
+      "Series_contributor": [
+        "David,,Amar",
+        "Ron,,Shamir",
+        "Borut,,Peterin",
+        "Christine,,Klein",
+        "Dimitri,,Krainc"
+      ],
+      "Series_sample_id": [
+        "GSM2630758 GSM2630759 GSM2630760 GSM2630761 GSM2630762 GSM2630763 GSM2630764 GSM2630765 GSM2630766 GSM2630767 GSM2630768 GSM2630769 GSM2630770 GSM2630771 GSM2630772 GSM2630773 GSM2630774 GSM2630775 GSM2630776 GSM2630777 GSM2630778 GSM2630779 GSM2630780 GSM2630781 GSM2630782 GSM2630783 GSM2630784 GSM2630785 GSM2630786 GSM2630787 GSM2630788 GSM2630789 GSM2630790 GSM2630791 GSM2630792 GSM2630793 GSM2630794 GSM2630795 GSM2630796 GSM2630797 GSM2630798 GSM2630799 GSM2630800 GSM2630801 GSM2630802 GSM2630803 GSM2630804 GSM2630805 GSM2630806 GSM2630807 GSM2630808 GSM2630809 GSM2630810 GSM2630811 GSM2630812 GSM2630813 GSM2630814 GSM2630815 GSM2630816 GSM2630817 GSM2630818 GSM2630819 GSM2630820 GSM2630821 GSM2630822 GSM2630823 GSM2630824 GSM2630825 GSM2630826 GSM2630827 GSM2630828 GSM2630829 GSM2630830 GSM2630831 GSM2630832 GSM2630833 GSM2630834 GSM2630835 GSM2630836 GSM2630837 GSM2630838 GSM2630839 GSM2630840 GSM2630841 GSM2630842 GSM2630843 GSM2630844 GSM2630845 GSM2630846 GSM2630847 GSM2630848 GSM2630849 GSM2630850 GSM2630851 GSM2630852 GSM2630853 GSM2630854 GSM2630855 GSM2630856 GSM2630857 GSM2630858 GSM2630859 GSM2630860 GSM2630861 GSM2630862 GSM2630863 GSM2630864 GSM2630865 GSM2630866 GSM2630867 GSM2630868 GSM2630869 GSM2630870 GSM2630871 GSM2630872 GSM2630873 GSM2630874 GSM2630875 GSM2630876 GSM2630877 GSM2630878 GSM2630879 GSM2630880 GSM2630881 GSM2630882 GSM2630883 GSM2630884 GSM2630885 GSM2630886 GSM2630887 GSM2630888 GSM2630889 GSM2630890 GSM2630891 GSM2630892 GSM2630893 GSM2630894 GSM2630895 GSM2630896 GSM2630897 GSM2630898 GSM2630899 GSM2630900 GSM2630901 GSM2630902 GSM2630903 GSM2630904 GSM2630905 GSM2630906 GSM2630907 GSM2630908 GSM2630909 GSM2630910 GSM2630911 GSM2630912 GSM2630913 GSM2630914 GSM2630915 GSM2630916 GSM2630917 GSM2630918 GSM2630919 GSM2630920 GSM2630921 GSM2630922 GSM2630923 GSM2630924 GSM2630925 GSM2630926 GSM2630927 GSM2630928 GSM2630929 GSM2630930 GSM2630931 GSM2630932 GSM2630933 GSM2630934 GSM2630935 GSM2630936 GSM2630937 GSM2630938 GSM2630939 GSM2630940 GSM2630941 GSM2630942 GSM2630943 GSM2630944 GSM2630945 GSM2630946 GSM2630947 GSM2630948 GSM2630949 GSM2630950 GSM2630951 GSM2630952 GSM2630953 GSM2630954 GSM2630955 GSM2630956 GSM2630957 GSM2630958 GSM2630959 GSM2630960 GSM2630961 GSM2630962 GSM2630963 GSM2630964 GSM2630965 GSM2630966 GSM2630967 GSM2630968 GSM2630969 GSM2630970 GSM2630971 GSM2630972 GSM2630973 GSM2630974 GSM2630975 GSM2630976 GSM2630977 GSM2630978 GSM2630979 GSM2630980 GSM2630981 GSM2630982 GSM2630983 GSM2630984 GSM2630985 GSM2630986 GSM2630987 GSM2630988 GSM2630989 GSM2630990 GSM2630991 GSM2630992 GSM2630993 GSM2630994 GSM2630995 GSM2630996 GSM2630997 GSM2630998 GSM2630999 GSM2631000 GSM2631001 GSM2631002 GSM2631003 GSM2631004 GSM2631005 GSM2631006 GSM2631007 GSM2631008 GSM2631009 GSM2631010 GSM2631011 GSM2631012 GSM2631013 GSM2631014 GSM2631015 GSM2631016 GSM2631017 GSM2631018 GSM2631019 GSM2631020 GSM2631021 GSM2631022 GSM2631023 GSM2631024 GSM2631025 GSM2631026 GSM2631027 GSM2631028 GSM2631029 GSM2631030 GSM2631031 GSM2631032 GSM2631033 GSM2631034 GSM2631035 GSM2631036 GSM2631037 GSM2631038 GSM2631039 GSM2631040 GSM2631041 GSM2631042 GSM2631043 GSM2631044 GSM2631045 GSM2631046 GSM2631047 GSM2631048 GSM2631049 GSM2631050 GSM2631051 GSM2631052 GSM2631053 GSM2631054 GSM2631055 GSM2631056 GSM2631057 GSM2631058 GSM2631059 GSM2631060 GSM2631061 GSM2631062 GSM2631063 GSM2631064 GSM2631065 GSM2631066 GSM2631067 GSM2631068 GSM2631069 GSM2631070 GSM2631071 GSM2631072 GSM2631073 GSM2631074 GSM2631075 GSM2631076 GSM2631077 GSM2631078 GSM2631079 GSM2631080 GSM2631081 GSM2631082 GSM2631083 GSM2631084 GSM2631085 GSM2631086 GSM2631087 GSM2631088 GSM2631089 GSM2631090 GSM2631091 GSM2631092 GSM2631093 GSM2631094 GSM2631095 GSM2631096 GSM2631097 GSM2631098 GSM2631099 GSM2631100 GSM2631101 GSM2631102 GSM2631103 GSM2631104 GSM2631105 GSM2631106 GSM2631107 GSM2631108 GSM2631109 GSM2631110 GSM2631111 GSM2631112 GSM2631113 GSM2631114 GSM2631115 GSM2631116 GSM2631117 GSM2631118 GSM2631119 GSM2631120 GSM2631121 GSM2631122 GSM2631123 GSM2631124 GSM2631125 GSM2631126 GSM2631127 GSM2631128 GSM2631129 GSM2631130 GSM2631131 GSM2631132 GSM2631133 GSM2631134 GSM2631135 GSM2631136 GSM2631137 GSM2631138 GSM2631139 GSM2631140 GSM2631141 GSM2631142 GSM2631143 GSM2631144 GSM2631145 GSM2631146 GSM2631147 GSM2631148 GSM2631149 GSM2631150 GSM2631151 GSM2631152 GSM2631153 GSM2631154 GSM2631155 GSM2631156 GSM2631157 GSM2631158 GSM2631159 GSM2631160 GSM2631161 GSM2631162 GSM2631163 GSM2631164 GSM2631165 GSM2631166 GSM2631167 GSM2631168 GSM2631169 GSM2631170 GSM2631171 GSM2631172 GSM2631173 GSM2631174 GSM2631175 GSM2631176 GSM2631177 GSM2631178 GSM2631179 GSM2631180 GSM2631181 GSM2631182 GSM2631183 GSM2631184 GSM2631185 GSM2631186 GSM2631187 GSM2631188 GSM2631189 GSM2631190 GSM2631191 GSM2631192 GSM2631193 GSM2631194 GSM2631195 GSM2631196 GSM2631197 GSM2631198 GSM2631199 GSM2631200 GSM2631201 GSM2631202 GSM2631203 GSM2631204 GSM2631205 GSM2631206 GSM2631207 GSM2631208 GSM2631209 GSM2631210 GSM2631211 GSM2631212 GSM2631213 GSM2631214 GSM2631215 GSM2631216 GSM2631217 GSM2631218 GSM2631219 GSM2631220 GSM2631221 GSM2631222 GSM2631223 GSM2631224 GSM2631225 GSM2631226 GSM2631227 GSM2631228 GSM2631229 GSM2631230 GSM2631231 GSM2631232 GSM2631233 GSM2631234 GSM2631235 GSM2631236 GSM2631237 GSM2631238 GSM2631239 GSM2631240 GSM2631241 GSM2631242 GSM2631243 GSM2631244 GSM2631245 GSM2631246 GSM2631247 GSM2631248 GSM2631249 GSM2631250 GSM2631251 GSM2631252 GSM2631253 GSM2631254 GSM2631255 GSM2631256 GSM2631257 GSM2631258 GSM2631259 GSM2631260 GSM2631261 GSM2631262 GSM2631263 GSM2631264 GSM2631265 GSM2631266 GSM2631267 GSM2631268 GSM2631269 GSM2631270 GSM2631271 GSM2631272 GSM2631273 GSM2631274 GSM2631275 GSM2631276 GSM2631277 GSM2631278 GSM2631279 GSM2631280 GSM2631281 GSM2631282 GSM2631283 GSM2631284 GSM2631285 GSM2631286 GSM2631287 GSM2631288 GSM2631289 GSM2631290 GSM2631291 GSM2631292 GSM2631293 GSM2631294 GSM2631295 GSM2631296 GSM2631297 GSM2631298 GSM2631299 GSM2631300 GSM2631301 GSM2631302 GSM2631303 GSM2631304 GSM2631305 GSM2631306 GSM2631307 GSM2631308 GSM2631309 GSM2631310 GSM2631311 GSM2631312 GSM2631313 GSM2631314 GSM2631315 "
+      ],
+      "Series_supplementary_file": [
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE99nnn/GSE99039/suppl/GSE99039_RAW.tar"
+      ],
+      "Series_platform_id": [
+        "GPL570"
+      ],
+      "Series_platform_taxid": [
+        "9606"
+      ],
+      "Series_sample_taxid": [
+        "9606"
+      ],
+      "Series_relation": [
+        "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA387280"
+      ]
+    },
+    "omitted_contact_fields": [
+      "Series_contact_address",
+      "Series_contact_city",
+      "Series_contact_country",
+      "Series_contact_department",
+      "Series_contact_email",
+      "Series_contact_institute",
+      "Series_contact_name",
+      "Series_contact_zip/postal_code"
+    ],
+    "sample_fields": [
+      "Sample_channel_count",
+      "Sample_characteristics_ch1",
+      "Sample_contact_address",
+      "Sample_contact_city",
+      "Sample_contact_country",
+      "Sample_contact_department",
+      "Sample_contact_email",
+      "Sample_contact_institute",
+      "Sample_contact_name",
+      "Sample_contact_zip/postal_code",
+      "Sample_data_processing",
+      "Sample_data_row_count",
+      "Sample_description",
+      "Sample_extract_protocol_ch1",
+      "Sample_geo_accession",
+      "Sample_hyb_protocol",
+      "Sample_label_ch1",
+      "Sample_label_protocol_ch1",
+      "Sample_last_update_date",
+      "Sample_molecule_ch1",
+      "Sample_organism_ch1",
+      "Sample_platform_id",
+      "Sample_scan_protocol",
+      "Sample_source_name_ch1",
+      "Sample_status",
+      "Sample_submission_date",
+      "Sample_supplementary_file",
+      "Sample_taxid_ch1",
+      "Sample_title",
+      "Sample_type"
+    ],
+    "sample_geo_accession": [
+      "GSM2630758",
+      "GSM2630759",
+      "GSM2630760",
+      "GSM2630761",
+      "GSM2630762",
+      "GSM2630763",
+      "GSM2630764",
+      "GSM2630765",
+      "GSM2630766",
+      "GSM2630767",
+      "GSM2630768",
+      "GSM2630769",
+      "GSM2630770",
+      "GSM2630771",
+      "GSM2630772",
+      "GSM2630773",
+      "GSM2630774",
+      "GSM2630775",
+      "GSM2630776",
+      "GSM2630777",
+      "GSM2630778",
+      "GSM2630779",
+      "GSM2630780",
+      "GSM2630781",
+      "GSM2630782",
+      "GSM2630783",
+      "GSM2630784",
+      "GSM2630785",
+      "GSM2630786",
+      "GSM2630787",
+      "GSM2630788",
+      "GSM2630789",
+      "GSM2630790",
+      "GSM2630791",
+      "GSM2630792",
+      "GSM2630793",
+      "GSM2630794",
+      "GSM2630795",
+      "GSM2630796",
+      "GSM2630797",
+      "GSM2630798",
+      "GSM2630799",
+      "GSM2630800",
+      "GSM2630801",
+      "GSM2630802",
+      "GSM2630803",
+      "GSM2630804",
+      "GSM2630805",
+      "GSM2630806",
+      "GSM2630807",
+      "GSM2630808",
+      "GSM2630809",
+      "GSM2630810",
+      "GSM2630811",
+      "GSM2630812",
+      "GSM2630813",
+      "GSM2630814",
+      "GSM2630815",
+      "GSM2630816",
+      "GSM2630817",
+      "GSM2630818",
+      "GSM2630819",
+      "GSM2630820",
+      "GSM2630821",
+      "GSM2630822",
+      "GSM2630823",
+      "GSM2630824",
+      "GSM2630825",
+      "GSM2630826",
+      "GSM2630827",
+      "GSM2630828",
+      "GSM2630829",
+      "GSM2630830",
+      "GSM2630831",
+      "GSM2630832",
+      "GSM2630833",
+      "GSM2630834",
+      "GSM2630835",
+      "GSM2630836",
+      "GSM2630837",
+      "GSM2630838",
+      "GSM2630839",
+      "GSM2630840",
+      "GSM2630841",
+      "GSM2630842",
+      "GSM2630843",
+      "GSM2630844",
+      "GSM2630845",
+      "GSM2630846",
+      "GSM2630847",
+      "GSM2630848",
+      "GSM2630849",
+      "GSM2630850",
+      "GSM2630851",
+      "GSM2630852",
+      "GSM2630853",
+      "GSM2630854",
+      "GSM2630855",
+      "GSM2630856",
+      "GSM2630857",
+      "GSM2630858",
+      "GSM2630859",
+      "GSM2630860",
+      "GSM2630861",
+      "GSM2630862",
+      "GSM2630863",
+      "GSM2630864",
+      "GSM2630865",
+      "GSM2630866",
+      "GSM2630867",
+      "GSM2630868",
+      "GSM2630869",
+      "GSM2630870",
+      "GSM2630871",
+      "GSM2630872",
+      "GSM2630873",
+      "GSM2630874",
+      "GSM2630875",
+      "GSM2630876",
+      "GSM2630877",
+      "GSM2630878",
+      "GSM2630879",
+      "GSM2630880",
+      "GSM2630881",
+      "GSM2630882",
+      "GSM2630883",
+      "GSM2630884",
+      "GSM2630885",
+      "GSM2630886",
+      "GSM2630887",
+      "GSM2630888",
+      "GSM2630889",
+      "GSM2630890",
+      "GSM2630891",
+      "GSM2630892",
+      "GSM2630893",
+      "GSM2630894",
+      "GSM2630895",
+      "GSM2630896",
+      "GSM2630897",
+      "GSM2630898",
+      "GSM2630899",
+      "GSM2630900",
+      "GSM2630901",
+      "GSM2630902",
+      "GSM2630903",
+      "GSM2630904",
+      "GSM2630905",
+      "GSM2630906",
+      "GSM2630907",
+      "GSM2630908",
+      "GSM2630909",
+      "GSM2630910",
+      "GSM2630911",
+      "GSM2630912",
+      "GSM2630913",
+      "GSM2630914",
+      "GSM2630915",
+      "GSM2630916",
+      "GSM2630917",
+      "GSM2630918",
+      "GSM2630919",
+      "GSM2630920",
+      "GSM2630921",
+      "GSM2630922",
+      "GSM2630923",
+      "GSM2630924",
+      "GSM2630925",
+      "GSM2630926",
+      "GSM2630927",
+      "GSM2630928",
+      "GSM2630929",
+      "GSM2630930",
+      "GSM2630931",
+      "GSM2630932",
+      "GSM2630933",
+      "GSM2630934",
+      "GSM2630935",
+      "GSM2630936",
+      "GSM2630937",
+      "GSM2630938",
+      "GSM2630939",
+      "GSM2630940",
+      "GSM2630941",
+      "GSM2630942",
+      "GSM2630943",
+      "GSM2630944",
+      "GSM2630945",
+      "GSM2630946",
+      "GSM2630947",
+      "GSM2630948",
+      "GSM2630949",
+      "GSM2630950",
+      "GSM2630951",
+      "GSM2630952",
+      "GSM2630953",
+      "GSM2630954",
+      "GSM2630955",
+      "GSM2630956",
+      "GSM2630957",
+      "GSM2630958",
+      "GSM2630959",
+      "GSM2630960",
+      "GSM2630961",
+      "GSM2630962",
+      "GSM2630963",
+      "GSM2630964",
+      "GSM2630965",
+      "GSM2630966",
+      "GSM2630967",
+      "GSM2630968",
+      "GSM2630969",
+      "GSM2630970",
+      "GSM2630971",
+      "GSM2630972",
+      "GSM2630973",
+      "GSM2630974",
+      "GSM2630975",
+      "GSM2630976",
+      "GSM2630977",
+      "GSM2630978",
+      "GSM2630979",
+      "GSM2630980",
+      "GSM2630981",
+      "GSM2630982",
+      "GSM2630983",
+      "GSM2630984",
+      "GSM2630985",
+      "GSM2630986",
+      "GSM2630987",
+      "GSM2630988",
+      "GSM2630989",
+      "GSM2630990",
+      "GSM2630991",
+      "GSM2630992",
+      "GSM2630993",
+      "GSM2630994",
+      "GSM2630995",
+      "GSM2630996",
+      "GSM2630997",
+      "GSM2630998",
+      "GSM2630999",
+      "GSM2631000",
+      "GSM2631001",
+      "GSM2631002",
+      "GSM2631003",
+      "GSM2631004",
+      "GSM2631005",
+      "GSM2631006",
+      "GSM2631007",
+      "GSM2631008",
+      "GSM2631009",
+      "GSM2631010",
+      "GSM2631011",
+      "GSM2631012",
+      "GSM2631013",
+      "GSM2631014",
+      "GSM2631015",
+      "GSM2631016",
+      "GSM2631017",
+      "GSM2631018",
+      "GSM2631019",
+      "GSM2631020",
+      "GSM2631021",
+      "GSM2631022",
+      "GSM2631023",
+      "GSM2631024",
+      "GSM2631025",
+      "GSM2631026",
+      "GSM2631027",
+      "GSM2631028",
+      "GSM2631029",
+      "GSM2631030",
+      "GSM2631031",
+      "GSM2631032",
+      "GSM2631033",
+      "GSM2631034",
+      "GSM2631035",
+      "GSM2631036",
+      "GSM2631037",
+      "GSM2631038",
+      "GSM2631039",
+      "GSM2631040",
+      "GSM2631041",
+      "GSM2631042",
+      "GSM2631043",
+      "GSM2631044",
+      "GSM2631045",
+      "GSM2631046",
+      "GSM2631047",
+      "GSM2631048",
+      "GSM2631049",
+      "GSM2631050",
+      "GSM2631051",
+      "GSM2631052",
+      "GSM2631053",
+      "GSM2631054",
+      "GSM2631055",
+      "GSM2631056",
+      "GSM2631057",
+      "GSM2631058",
+      "GSM2631059",
+      "GSM2631060",
+      "GSM2631061",
+      "GSM2631062",
+      "GSM2631063",
+      "GSM2631064",
+      "GSM2631065",
+      "GSM2631066",
+      "GSM2631067",
+      "GSM2631068",
+      "GSM2631069",
+      "GSM2631070",
+      "GSM2631071",
+      "GSM2631072",
+      "GSM2631073",
+      "GSM2631074",
+      "GSM2631075",
+      "GSM2631076",
+      "GSM2631077",
+      "GSM2631078",
+      "GSM2631079",
+      "GSM2631080",
+      "GSM2631081",
+      "GSM2631082",
+      "GSM2631083",
+      "GSM2631084",
+      "GSM2631085",
+      "GSM2631086",
+      "GSM2631087",
+      "GSM2631088",
+      "GSM2631089",
+      "GSM2631090",
+      "GSM2631091",
+      "GSM2631092",
+      "GSM2631093",
+      "GSM2631094",
+      "GSM2631095",
+      "GSM2631096",
+      "GSM2631097",
+      "GSM2631098",
+      "GSM2631099",
+      "GSM2631100",
+      "GSM2631101",
+      "GSM2631102",
+      "GSM2631103",
+      "GSM2631104",
+      "GSM2631105",
+      "GSM2631106",
+      "GSM2631107",
+      "GSM2631108",
+      "GSM2631109",
+      "GSM2631110",
+      "GSM2631111",
+      "GSM2631112",
+      "GSM2631113",
+      "GSM2631114",
+      "GSM2631115",
+      "GSM2631116",
+      "GSM2631117",
+      "GSM2631118",
+      "GSM2631119",
+      "GSM2631120",
+      "GSM2631121",
+      "GSM2631122",
+      "GSM2631123",
+      "GSM2631124",
+      "GSM2631125",
+      "GSM2631126",
+      "GSM2631127",
+      "GSM2631128",
+      "GSM2631129",
+      "GSM2631130",
+      "GSM2631131",
+      "GSM2631132",
+      "GSM2631133",
+      "GSM2631134",
+      "GSM2631135",
+      "GSM2631136",
+      "GSM2631137",
+      "GSM2631138",
+      "GSM2631139",
+      "GSM2631140",
+      "GSM2631141",
+      "GSM2631142",
+      "GSM2631143",
+      "GSM2631144",
+      "GSM2631145",
+      "GSM2631146",
+      "GSM2631147",
+      "GSM2631148",
+      "GSM2631149",
+      "GSM2631150",
+      "GSM2631151",
+      "GSM2631152",
+      "GSM2631153",
+      "GSM2631154",
+      "GSM2631155",
+      "GSM2631156",
+      "GSM2631157",
+      "GSM2631158",
+      "GSM2631159",
+      "GSM2631160",
+      "GSM2631161",
+      "GSM2631162",
+      "GSM2631163",
+      "GSM2631164",
+      "GSM2631165",
+      "GSM2631166",
+      "GSM2631167",
+      "GSM2631168",
+      "GSM2631169",
+      "GSM2631170",
+      "GSM2631171",
+      "GSM2631172",
+      "GSM2631173",
+      "GSM2631174",
+      "GSM2631175",
+      "GSM2631176",
+      "GSM2631177",
+      "GSM2631178",
+      "GSM2631179",
+      "GSM2631180",
+      "GSM2631181",
+      "GSM2631182",
+      "GSM2631183",
+      "GSM2631184",
+      "GSM2631185",
+      "GSM2631186",
+      "GSM2631187",
+      "GSM2631188",
+      "GSM2631189",
+      "GSM2631190",
+      "GSM2631191",
+      "GSM2631192",
+      "GSM2631193",
+      "GSM2631194",
+      "GSM2631195",
+      "GSM2631196",
+      "GSM2631197",
+      "GSM2631198",
+      "GSM2631199",
+      "GSM2631200",
+      "GSM2631201",
+      "GSM2631202",
+      "GSM2631203",
+      "GSM2631204",
+      "GSM2631205",
+      "GSM2631206",
+      "GSM2631207",
+      "GSM2631208",
+      "GSM2631209",
+      "GSM2631210",
+      "GSM2631211",
+      "GSM2631212",
+      "GSM2631213",
+      "GSM2631214",
+      "GSM2631215",
+      "GSM2631216",
+      "GSM2631217",
+      "GSM2631218",
+      "GSM2631219",
+      "GSM2631220",
+      "GSM2631221",
+      "GSM2631222",
+      "GSM2631223",
+      "GSM2631224",
+      "GSM2631225",
+      "GSM2631226",
+      "GSM2631227",
+      "GSM2631228",
+      "GSM2631229",
+      "GSM2631230",
+      "GSM2631231",
+      "GSM2631232",
+      "GSM2631233",
+      "GSM2631234",
+      "GSM2631235",
+      "GSM2631236",
+      "GSM2631237",
+      "GSM2631238",
+      "GSM2631239",
+      "GSM2631240",
+      "GSM2631241",
+      "GSM2631242",
+      "GSM2631243",
+      "GSM2631244",
+      "GSM2631245",
+      "GSM2631246",
+      "GSM2631247",
+      "GSM2631248",
+      "GSM2631249",
+      "GSM2631250",
+      "GSM2631251",
+      "GSM2631252",
+      "GSM2631253",
+      "GSM2631254",
+      "GSM2631255",
+      "GSM2631256",
+      "GSM2631257",
+      "GSM2631258",
+      "GSM2631259",
+      "GSM2631260",
+      "GSM2631261",
+      "GSM2631262",
+      "GSM2631263",
+      "GSM2631264",
+      "GSM2631265",
+      "GSM2631266",
+      "GSM2631267",
+      "GSM2631268",
+      "GSM2631269",
+      "GSM2631270",
+      "GSM2631271",
+      "GSM2631272",
+      "GSM2631273",
+      "GSM2631274",
+      "GSM2631275",
+      "GSM2631276",
+      "GSM2631277",
+      "GSM2631278",
+      "GSM2631279",
+      "GSM2631280",
+      "GSM2631281",
+      "GSM2631282",
+      "GSM2631283",
+      "GSM2631284",
+      "GSM2631285",
+      "GSM2631286",
+      "GSM2631287",
+      "GSM2631288",
+      "GSM2631289",
+      "GSM2631290",
+      "GSM2631291",
+      "GSM2631292",
+      "GSM2631293",
+      "GSM2631294",
+      "GSM2631295",
+      "GSM2631296",
+      "GSM2631297",
+      "GSM2631298",
+      "GSM2631299",
+      "GSM2631300",
+      "GSM2631301",
+      "GSM2631302",
+      "GSM2631303",
+      "GSM2631304",
+      "GSM2631305",
+      "GSM2631306",
+      "GSM2631307",
+      "GSM2631308",
+      "GSM2631309",
+      "GSM2631310",
+      "GSM2631311",
+      "GSM2631312",
+      "GSM2631313",
+      "GSM2631314",
+      "GSM2631315"
+    ],
+    "sample_title": [
+      "E7R_039a01",
+      "E7R_039a02",
+      "E7R_039a03",
+      "E7R_039a04",
+      "E7R_039a05",
+      "E7R_039a07",
+      "E7R_039a08",
+      "E7R_039a09",
+      "E7R_039a10",
+      "E7R_039a102",
+      "E7R_039a103",
+      "E7R_039a104",
+      "E7R_039a105",
+      "E7R_039a106",
+      "E7R_039a108",
+      "E7R_039a109",
+      "E7R_039a11",
+      "E7R_039a110",
+      "E7R_039a111",
+      "E7R_039a112",
+      "E7R_039a113",
+      "E7R_039a114",
+      "E7R_039a13",
+      "E7R_039a14",
+      "E7R_039a16",
+      "E7R_039a18",
+      "E7R_039a20",
+      "E7R_039a23",
+      "E7R_039a30",
+      "E7R_039a34",
+      "E7R_039a35",
+      "E7R_039a49",
+      "E7R_039a57",
+      "E7R_039a60",
+      "E7R_039a63",
+      "E7R_039a64",
+      "E7R_039a68",
+      "E7R_039a69",
+      "E7R_039a71",
+      "E7R_039a72",
+      "E7R_039a79",
+      "E7R_039a80",
+      "E7R_039a81",
+      "E7R_039a82",
+      "E7R_039a85",
+      "E7R_039a87",
+      "E7R_039a89",
+      "E7R_039a90",
+      "E7R_039a91",
+      "E7R_039a92",
+      "E7R_039a94",
+      "E7R_039a95",
+      "E7R_039a96",
+      "E7R_039a98",
+      "E7R_039a99",
+      "E8R_012a01",
+      "E8R_012a02",
+      "E8R_012a03",
+      "E8R_012a04_2",
+      "E8R_012a05",
+      "E8R_012a06",
+      "E8R_012a07",
+      "E8R_012a08",
+      "E8R_012a09",
+      "E8R_012a11",
+      "E8R_012a12",
+      "E8R_012a14",
+      "E8R_012a16",
+      "E8R_012a17_2",
+      "E8R_012a18",
+      "E8R_012a19",
+      "E8R_012a20",
+      "E8R_012a21",
+      "E8R_012a22",
+      "E8R_012a23",
+      "E8R_012a24",
+      "E8R_012a25",
+      "E8R_012a26",
+      "E8R_012a29",
+      "E8R_012a30",
+      "E8R_012a31",
+      "E8R_012a33",
+      "E8R_012a34",
+      "E8R_012a35",
+      "E8R_012a36",
+      "E8R_012a37",
+      "E8R_012a41",
+      "Neuro_Krainc_P01_A03_L2123_RPT",
+      "Neuro_Krainc_P01_A1_L2121",
+      "Neuro_Krainc_P01_A10_L2150",
+      "Neuro_Krainc_P01_A11_L2152_RPT",
+      "Neuro_Krainc_P01_A12_L2153",
+      "Neuro_Krainc_P01_A2_L2122",
+      "Neuro_Krainc_P01_A6_L2126",
+      "Neuro_Krainc_P01_A7_L2127",
+      "Neuro_Krainc_P01_B02_L3031_RPT",
+      "Neuro_Krainc_P01_B1_L2696",
+      "Neuro_Krainc_P01_B10_L3293",
+      "Neuro_Krainc_P01_B11_L3328",
+      "Neuro_Krainc_P01_B12_L3329",
+      "Neuro_Krainc_P01_B5_L3287",
+      "Neuro_Krainc_P01_B7_L3290_2",
+      "Neuro_Krainc_P01_B8_L3291",
+      "Neuro_Krainc_P01_B8_L3369",
+      "Neuro_Krainc_P01_C02_L3331_RPT",
+      "Neuro_Krainc_P01_C1_L3330",
+      "Neuro_Krainc_P01_C10_L3341",
+      "Neuro_Krainc_P01_C11_L3342",
+      "Neuro_Krainc_P01_C12_L3343",
+      "Neuro_Krainc_P01_C3_L3332",
+      "Neuro_Krainc_P01_C4_L3333",
+      "Neuro_Krainc_P01_C5_L3334",
+      "Neuro_Krainc_P01_C6_L3336",
+      "Neuro_Krainc_P01_C7_L3337_corr",
+      "Neuro_Krainc_P01_C9_L3339",
+      "Neuro_Krainc_P01_D1_L3344",
+      "Neuro_Krainc_P01_D10_L3358",
+      "Neuro_Krainc_P01_D11_L3359-2_RPT",
+      "Neuro_Krainc_P01_D12_L3361",
+      "Neuro_Krainc_P01_D2_L3345",
+      "Neuro_Krainc_P01_D3_L3346",
+      "Neuro_Krainc_P01_D5_L3349",
+      "Neuro_Krainc_P01_D6_L3350",
+      "Neuro_Krainc_P01_D7_L3355",
+      "Neuro_Krainc_P01_D8_L3356",
+      "Neuro_Krainc_P01_D9_L3357",
+      "Neuro_Krainc_P01_E1_L3362",
+      "Neuro_Krainc_P01_E11_L3372",
+      "Neuro_Krainc_P01_E12_L3373",
+      "Neuro_Krainc_P01_E3_L3364",
+      "Neuro_Krainc_P01_E6_L3367",
+      "Neuro_Krainc_P01_F1_L3374",
+      "Neuro_Krainc_P01_F12_L3452",
+      "Neuro_Krainc_P01_F2_L3375",
+      "Neuro_Krainc_P01_F3_L3376",
+      "Neuro_Krainc_P01_F5_L3378",
+      "Neuro_Krainc_P01_F6_L3379",
+      "Neuro_Krainc_P01_F7_L3381",
+      "Neuro_Krainc_P01_F8_L3382",
+      "Neuro_Krainc_P01_F9_L3384",
+      "Neuro_Krainc_P01_G02_L3454_RPT",
+      "Neuro_Krainc_P01_G10_L3462",
+      "Neuro_Krainc_P01_G12_L3464",
+      "Neuro_Krainc_P01_G3_L3455",
+      "Neuro_Krainc_P01_G4_L3456",
+      "Neuro_Krainc_P01_G5_L3457",
+      "Neuro_Krainc_P01_G6_L3458",
+      "Neuro_Krainc_P01_G7_L3459",
+      "Neuro_Krainc_P01_G8_L3460",
+      "Neuro_Krainc_P01_G9_L3461",
+      "Neuro_Krainc_P01_H1_L3472",
+      "Neuro_Krainc_P01_H10_L3500",
+      "Neuro_Krainc_P01_H11_L3501",
+      "Neuro_Krainc_P01_H2_L3473",
+      "Neuro_Krainc_P01_H3_L3478",
+      "Neuro_Krainc_P01_H4_L3479",
+      "Neuro_Krainc_P01_H6_L3481",
+      "Neuro_Krainc_P01_H7_L3484",
+      "Neuro_Krainc_P02_A01_L3503",
+      "Neuro_Krainc_P02_A02_L3504",
+      "Neuro_Krainc_P02_A05_L3507",
+      "Neuro_Krainc_P02_A06_L3508",
+      "Neuro_Krainc_P02_A07_L3509",
+      "Neuro_Krainc_P02_A09_L3512",
+      "Neuro_Krainc_P02_A10_L3513",
+      "Neuro_Krainc_P02_B02_L3517",
+      "Neuro_Krainc_P02_B03_L3518",
+      "Neuro_Krainc_P02_B05_L3520",
+      "Neuro_Krainc_P02_B09_L3600",
+      "Neuro_Krainc_P02_B10_L3601",
+      "Neuro_Krainc_P02_B11_L3602",
+      "Neuro_Krainc_P02_C01_L3604",
+      "Neuro_Krainc_P02_C02_L3605",
+      "Neuro_Krainc_P02_C08_L3715",
+      "Neuro_Krainc_P02_C11_L3718",
+      "Neuro_Krainc_P02_D02_B27",
+      "Neuro_Krainc_P02_D03_B28",
+      "Neuro_Krainc_P02_D04_B29",
+      "Neuro_Krainc_P02_D05_B32",
+      "Neuro_Krainc_P02_D06_B36",
+      "Neuro_Krainc_P02_E04_FRATRO8",
+      "Neuro_Krainc_P02_E05_FRATRO9",
+      "Neuro_Krainc_P02_E06_FRATRO10",
+      "Neuro_Krainc_P02_E07_FRATRO11",
+      "Neuro_Krainc_P02_E08_FRATRO13",
+      "Neuro_Krainc_P02_E09_FRATRO14",
+      "Neuro_Krainc_P02_E10_FRATRO15",
+      "Neuro_Krainc_P02_E12_FRATRO17-2_RPT",
+      "Neuro_Krainc_P02_F01_FRATRO18",
+      "Neuro_Krainc_P02_F02_FRATRO20",
+      "Neuro_Krainc_P02_F04_FRATRO22",
+      "Neuro_Krainc_P02_F05_FRATRO23_2",
+      "Neuro_Krainc_P02_F11_FRATRO31",
+      "Neuro_Krainc_P02_G01_FRATRO33",
+      "Neuro_Krainc_P02_G06_FRATRO38",
+      "Neuro_Krainc_P02_G07_FRATRO39",
+      "Neuro_Krainc_P02_G08_FRATRO40",
+      "Neuro_Krainc_P02_G10_FRATRO42",
+      "Neuro_Krainc_P02_G11_FRATRO43",
+      "Neuro_Krainc_P02_G12_FRATRO44",
+      "Neuro_Krainc_P02_H01_FRATRO45_1",
+      "Neuro_Krainc_P02_H02_FRATRO46",
+      "Neuro_Krainc_P02_H03_FRATRO47_2",
+      "Neuro_Krainc_P02_H04_FRATRO48",
+      "Neuro_Krainc_P02_H05_FRATRO49",
+      "Neuro_Krainc_P02_H06_FRATRO50",
+      "Neuro_Krainc_P02_H07_FRATRO51",
+      "Neuro_Krainc_P02_H08_FRATRO52",
+      "Neuro_Krainc_P02_H09_FRATRO53",
+      "Neuro_Krainc_P02_H10_FRATRO54",
+      "Neuro_Krainc_P02_H12_FRATRO56",
+      "Neuro_Krainc_P03_A01_FRATRO57",
+      "Neuro_Krainc_P03_A02_FRATRO58",
+      "Neuro_Krainc_P03_A03_FRATRO59",
+      "Neuro_Krainc_P03_A04_FRATRO60",
+      "Neuro_Krainc_P03_A05_FRATRO61",
+      "Neuro_Krainc_P03_A07_FRATRO63",
+      "Neuro_Krainc_P03_A08_FRATRO64",
+      "Neuro_Krainc_P03_A09_FRATRO065",
+      "Neuro_Krainc_P03_A10_FRATRO067",
+      "Neuro_Krainc_P03_A12_FRATRO071",
+      "Neuro_Krainc_P03_B01_FRATRO072",
+      "Neuro_Krainc_P03_B02_FRATRO073",
+      "Neuro_Krainc_P03_B03_FRATRO075",
+      "Neuro_Krainc_P03_B07_FRATRO085_RPT",
+      "Neuro_Krainc_P03_B08_FRATRO086",
+      "Neuro_Krainc_P03_B09_FRATRO087_1",
+      "Neuro_Krainc_P03_B10_FRATRO088",
+      "Neuro_Krainc_P03_B12_FRATRO090",
+      "Neuro_Krainc_P03_C02_FRATRO092_1",
+      "Neuro_Krainc_P03_C04_FRATRO094_2",
+      "Neuro_Krainc_P03_C05_FRATRO095",
+      "Neuro_Krainc_P03_C06_FRATRO096",
+      "Neuro_Krainc_P03_C07_FRATRO097",
+      "Neuro_Krainc_P03_C08_FRATRO098",
+      "Neuro_Krainc_P03_C09_FRATRO099",
+      "Neuro_Krainc_P03_C10_FRATRO100",
+      "Neuro_Krainc_P03_C11_FRATRO101",
+      "Neuro_Krainc_P03_C12_FRATRO102",
+      "Neuro_Krainc_P03_D01_FRATRO103",
+      "Neuro_Krainc_P03_D05_FRATRO107_2",
+      "Neuro_Krainc_P03_D06_FRATRO108",
+      "Neuro_Krainc_P03_D08_FRATRO110",
+      "Neuro_Krainc_P03_D10_FRATRO112",
+      "Neuro_Krainc_P03_D11_FRATRO113_2",
+      "Neuro_Krainc_P03_D12_FRATRO114",
+      "Neuro_Krainc_P03_E01_FRATRO115",
+      "Neuro_Krainc_P03_E02_FRATRO116",
+      "Neuro_Krainc_P03_E03_FRATRO117_1",
+      "Neuro_Krainc_P03_E04_FRATRO118",
+      "Neuro_Krainc_P03_E06_FRATRO120",
+      "Neuro_Krainc_P03_E11_FRATRO125",
+      "Neuro_Krainc_P03_E12_FRATRO126",
+      "Neuro_Krainc_P03_F03_FRATRO130",
+      "Neuro_Krainc_P03_F05_FRATRO132",
+      "Neuro_Krainc_P03_F07_FRATRO134",
+      "Neuro_Krainc_P03_F08_FRATRO135",
+      "Neuro_Krainc_P03_F10_FRATRO137",
+      "Neuro_Krainc_P03_F12_FRATRO139_1",
+      "Neuro_Krainc_P03_G02_FRATRO141",
+      "Neuro_Krainc_P03_G03_FRATRO143",
+      "Neuro_Krainc_P03_G04_FRATRO144",
+      "Neuro_Krainc_P03_G05_FRATRO145_RPT",
+      "Neuro_Krainc_P03_G06_FRATRO146",
+      "Neuro_Krainc_P03_G07_FRATRO147",
+      "Neuro_Krainc_P03_G08_FRATRO148",
+      "Neuro_Krainc_P03_G09_FRATRO149_3",
+      "Neuro_Krainc_P03_G10_FRATRO150",
+      "Neuro_Krainc_P03_G11_FRATRO152",
+      "Neuro_Krainc_P03_G12_FRATRO153",
+      "Neuro_Krainc_P03_H01_FRATRO154",
+      "Neuro_Krainc_P03_H02_FRATRO155",
+      "Neuro_Krainc_P03_H03_FRATRO158",
+      "Neuro_Krainc_P03_H04_FRATRO159",
+      "Neuro_Krainc_P03_H05_FRATRO160",
+      "Neuro_Krainc_P03_H06_FRATRO161",
+      "Neuro_Krainc_P03_H07_FRATRO162",
+      "Neuro_Krainc_P03_H08_FRATRO164",
+      "Neuro_Krainc_P03_H09_FRATRO165",
+      "Neuro_Krainc_P03_H10_FRATRO166",
+      "Neuro_Krainc_P03_H11_FRATRO167",
+      "Neuro_Krainc_P03_H12_FRATRO168",
+      "Neuro_Krainc_P04_A01_FRATRO169",
+      "Neuro_Krainc_P04_A02_FRATRO170",
+      "Neuro_Krainc_P04_A03_FRATRO171",
+      "Neuro_Krainc_P04_A04_FRATRO172",
+      "Neuro_Krainc_P04_A05_FRATRO173",
+      "Neuro_Krainc_P04_A06_FRATRO174",
+      "Neuro_Krainc_P04_A07_FRATRO175",
+      "Neuro_Krainc_P04_A08_FRATRO176",
+      "Neuro_Krainc_P04_A09_FRATRO177",
+      "Neuro_Krainc_P04_A10_FRATRO178_RPT",
+      "Neuro_Krainc_P04_A11_FRATRO179",
+      "Neuro_Krainc_P04_A12_FRATRO180",
+      "Neuro_Krainc_P04_B01_FRATRO181",
+      "Neuro_Krainc_P04_B02_FRATRO182",
+      "Neuro_Krainc_P04_B03_FRATRO183",
+      "Neuro_Krainc_P04_B04_FRATRO184",
+      "Neuro_Krainc_P04_B05_FRATRO185",
+      "Neuro_Krainc_P04_B07_FRATRO187",
+      "Neuro_Krainc_P04_B08_FRATRO188",
+      "Neuro_Krainc_P04_B09_FRATRO189",
+      "Neuro_Krainc_P04_B10_FRATRO190",
+      "Neuro_Krainc_P04_B11_FRATRO191",
+      "Neuro_Krainc_P04_C01_FRATRO193",
+      "Neuro_Krainc_P04_C02_FRATRO194",
+      "Neuro_Krainc_P04_C03_FRATRO195",
+      "Neuro_Krainc_P04_C05_FRATRO197",
+      "Neuro_Krainc_P04_C06_FRATRO198",
+      "Neuro_Krainc_P04_C07_FRATRO199",
+      "Neuro_Krainc_P04_C08_FRATRO200",
+      "Neuro_Krainc_P04_C09_FRATRO201",
+      "Neuro_Krainc_P04_C10_FRATRO202",
+      "Neuro_Krainc_P04_C11_FRATRO203_RPT",
+      "Neuro_Krainc_P04_C12_FRATRO204",
+      "Neuro_Krainc_P04_D01_FRATRO205",
+      "Neuro_Krainc_P04_D02_FRATRO206",
+      "Neuro_Krainc_P04_D03_FRATRO207",
+      "Neuro_Krainc_P04_D04_FRATRO208",
+      "Neuro_Krainc_P04_D05_FRATRO209",
+      "Neuro_Krainc_P04_D06_FRATRO210",
+      "Neuro_Krainc_P04_D07_FRATRO211",
+      "Neuro_Krainc_P04_D08_FRATRO212",
+      "Neuro_Krainc_P04_D09_FRATRO213",
+      "Neuro_Krainc_P04_D10_FRATRO214",
+      "Neuro_Krainc_P04_D11_FRATRO215",
+      "Neuro_Krainc_P04_D12_FRATRO216",
+      "Neuro_Krainc_P04_E01_FRATRO217",
+      "Neuro_Krainc_P04_E02_FRATRO218",
+      "Neuro_Krainc_P04_E03_FRATRO219",
+      "Neuro_Krainc_P04_E05_FRATRO221",
+      "Neuro_Krainc_P04_E06_FRATRO222",
+      "Neuro_Krainc_P04_E07_FRATRO224",
+      "Neuro_Krainc_P04_E08_FRATRO225",
+      "Neuro_Krainc_P04_E09_FRATRO226_2",
+      "Neuro_Krainc_P04_E10_FRATRO227",
+      "Neuro_Krainc_P04_E11_FRATRO228",
+      "Neuro_Krainc_P04_E12_FRATRO229",
+      "Neuro_Krainc_P04_F01_FRATRO230",
+      "Neuro_Krainc_P04_F02_FARTRO231_1",
+      "Neuro_Krainc_P04_F03_FRATRO232_2",
+      "Neuro_Krainc_P04_F04_FRATRO233_1",
+      "Neuro_Krainc_P04_F06_FRATRO235",
+      "Neuro_Krainc_P04_F07_FRATRO236",
+      "Neuro_Krainc_P04_F08_FRATRO237",
+      "Neuro_Krainc_P04_F09_FRATRO238",
+      "Neuro_Krainc_P04_F10_FRATRO239_1",
+      "Neuro_Krainc_P04_F11_FRATRO240",
+      "Neuro_Krainc_P04_F12_FRATRO241",
+      "Neuro_Krainc_P04_G01_FRATRO242",
+      "Neuro_Krainc_P04_G02_FRATRO243",
+      "Neuro_Krainc_P04_G03_FRATRO244",
+      "Neuro_Krainc_P04_G04_FRATRO245",
+      "Neuro_Krainc_P04_G05_FRATRO246",
+      "Neuro_Krainc_P04_G06_FRATRO247",
+      "Neuro_Krainc_P04_G07_FRATRO248_2",
+      "Neuro_Krainc_P04_G08_FRATRO249_1",
+      "Neuro_Krainc_P04_G09_FRATRO250_2",
+      "Neuro_Krainc_P04_G11_FRATRO252",
+      "Neuro_Krainc_P04_G12_FRATRO253",
+      "Neuro_Krainc_P04_H01_FRATRO254",
+      "Neuro_Krainc_P04_H02_FRATRO255",
+      "Neuro_Krainc_P04_H03_FRATRO256",
+      "Neuro_Krainc_P04_H04_FRATRO257",
+      "Neuro_Krainc_P04_H05_FRATRO258",
+      "Neuro_Krainc_P04_H06_FRATRO259",
+      "Neuro_Krainc_P04_H07_FRATRO260",
+      "Neuro_Krainc_P04_H08_FRATRO262_2",
+      "Neuro_Krainc_P04_H09_FRATRO264",
+      "Neuro_Krainc_P04_H11_FRATRO266_2",
+      "Neuro_Krainc_P04_H12_FRATRO268_2",
+      "Neuro_Krainc_P05_A01_FRATRO269",
+      "Neuro_Krainc_P05_A02_FRATRO270",
+      "Neuro_Krainc_P05_A04_FRATRO272",
+      "Neuro_Krainc_P05_A05_FRATRO273",
+      "Neuro_Krainc_P05_A07_FRATRO275",
+      "Neuro_Krainc_P05_A08_FRATRO277",
+      "Neuro_Krainc_P05_A11_FRATRO280",
+      "Neuro_Krainc_P05_A12_FRATRO282",
+      "Neuro_Krainc_P05_B04_FRATRO286",
+      "Neuro_Krainc_P05_B05_FRATRO287",
+      "Neuro_Krainc_P05_B06_FRATRO288",
+      "Neuro_Krainc_P05_B11_FRATRO294",
+      "Neuro_Krainc_P05_B12_FRATRO295",
+      "Neuro_Krainc_P05_C01_FRATRO296",
+      "Neuro_Krainc_P05_C06_FRATRO301",
+      "Neuro_Krainc_P05_C09_FRATRO304",
+      "Neuro_Krainc-2_P01_A03_L1767",
+      "Neuro_Krainc-2_P01_B01_L2616",
+      "Neuro_Krainc-2_P01_B06_L2697-2",
+      "Neuro_Krainc-2_P01_B08_L2761",
+      "Neuro_Krainc-2_P02_A06_L3360_01",
+      "Neuro_Krainc-2_P02_A08_L3675_01",
+      "Neuro_Krainc-2_P02_A09_L3676_01",
+      "Neuro_Krainc-2_P02_A10_L3687_01",
+      "Neuro_Krainc-2_P02_A11_L3692_01",
+      "Neuro_Krainc-2_P02_B01_L3680_01",
+      "Neuro_Krainc-2_P02_B02_L3674_01",
+      "Neuro_Krainc-2_P02_B03_L3681_01",
+      "Neuro_Krainc-2_P02_B07_L1341_01",
+      "Neuro_Krainc-2_P02_B08_L3667_01",
+      "Neuro_Krainc-2_P02_B10_L4020_01",
+      "Neuro_Krainc-2_P02_B12_L3684_01",
+      "Neuro_Krainc-2_P02_C01_L3653_01",
+      "Neuro_Krainc-2_P02_C02_L3685_01",
+      "Neuro_Krainc-2_P02_C03_L4026_01",
+      "Neuro_Krainc-2_P02_C04_L3682_01",
+      "Neuro_Krainc-2_P02_C07_L3657_01",
+      "Neuro_Krainc-2_P02_C09_L3666_01",
+      "Neuro_Krainc-2_P02_D01_L3671_01",
+      "Neuro_Krainc-2_P02_D04_L4028_01",
+      "Neuro_Krainc-2_P02_D07_L3655_01",
+      "Neuro_Krainc-2_P02_D08_L4029_01",
+      "Neuro_Krainc-2_P02_D10_L2899_01",
+      "Neuro_Krainc-2_P02_D11_L3699_01",
+      "Neuro_Krainc-2_P02_E09_L3058_01",
+      "Neuro_Krainc-2_P02_E12_L4032_01",
+      "Neuro_Krainc-2_P02_F01_L3665_01",
+      "Neuro_Krainc-2_P02_F05_L4022_01",
+      "Neuro_Krainc-2_P02_F06_L3656_01",
+      "Neuro_Krainc-2_P02_F08_L4031_01",
+      "Neuro_Krainc-2_P02_F09_FRATRO223",
+      "Neuro_Krainc-2_P02_F10_FRATRO306",
+      "Neuro_Krainc-2_P02_F12_FRATRO308_1",
+      "Neuro_Krainc-2_P02_G01_FRATRO309",
+      "Neuro_Krainc-2_P02_G02_FRATRO310",
+      "Neuro_Krainc-2_P02_G03_FRATRO311",
+      "Neuro_Krainc-2_P02_G04_FRATRO313",
+      "Neuro_Krainc-2_P02_G05_FRATRO314_2",
+      "Neuro_Krainc-2_P02_G06_FRATRO315",
+      "Neuro_Krainc-2_P02_G10_FRATRO319",
+      "Neuro_Krainc-2_P02_G11_FRATRO320",
+      "Neuro_Krainc-2_P02_H01_FRATRO322",
+      "Neuro_Krainc-2_P03_A01_FRA_TRO_335",
+      "Neuro_Krainc-2_P03_A04_FRA_TRO_338_01",
+      "Neuro_Krainc-2_P03_A05_FRA_TRO_339_01",
+      "Neuro_Krainc-2_P03_A06_FRA_TRO_340_01",
+      "Neuro_Krainc-2_P03_A07_FRA_TRO_341_01",
+      "Neuro_Krainc-2_P03_A08_FRA_TRO_342_01",
+      "Neuro_Krainc-2_P03_A09_FRA_TRO_343_01",
+      "Neuro_Krainc-2_P03_A10_FRA_TRO_344_01",
+      "Neuro_Krainc-2_P03_A11_FRA_TRO_345_01",
+      "Neuro_Krainc-2_P03_A12_FRA_TRO_346_01",
+      "Neuro_Krainc-2_P03_B01_FRA_TRO_347_01",
+      "Neuro_Krainc-2_P03_B03_FRA_TRO_349_01",
+      "Neuro_Krainc-2_P03_B05_FRA_TRO_351_01",
+      "Neuro_Krainc-2_P03_B09_FRA_TRO_355_01",
+      "Neuro_Krainc-2_P03_B12_FRA_TRO_359_01",
+      "Neuro_Krainc-2_P03_C02_FRA_TRO_361_01",
+      "Neuro_Krainc-2_P03_C04_FRA_TRO_363_01",
+      "E7R_037b04",
+      "E7R_037b05",
+      "E7R_037b06",
+      "E7R_037c16",
+      "E7R_037c17",
+      "E7R_037c23",
+      "E7R_037d06",
+      "E7R_037d12",
+      "E7R_039a100",
+      "E7R_039a43",
+      "E7R_039a47",
+      "E7R_039a53",
+      "E7R_039a61",
+      "E7R_039a66",
+      "E7R_039a86",
+      "E8R_012a10",
+      "E8R_012a15",
+      "E8R_012a28_2",
+      "Neuro_Krainc_P01_B9_L3292",
+      "Neuro_Krainc_P01_C8_L3338",
+      "Neuro_Krainc_P01_D4_L3348",
+      "Neuro_Krainc_P01_E4_L3365",
+      "Neuro_Krainc_P01_G1_L3453",
+      "Neuro_Krainc_P01_G11_L3463",
+      "Neuro_Krainc_P01_H8_L3493",
+      "Neuro_Krainc_P02_A04_L3506",
+      "Neuro_Krainc_P02_A08_L3510",
+      "Neuro_Krainc_P02_A11_L3514",
+      "Neuro_Krainc_P02_A12_L3515",
+      "Neuro_Krainc_P02_B01_L3516",
+      "Neuro_Krainc_P02_B04_L3519",
+      "Neuro_Krainc_P02_B06_L3521_2",
+      "Neuro_Krainc_P02_B07_L3522",
+      "Neuro_Krainc_P02_B12_L3603",
+      "Neuro_Krainc_P02_C03_L3651",
+      "Neuro_Krainc_P02_C04_L3652",
+      "Neuro_Krainc_P02_C05_L3712",
+      "Neuro_Krainc_P02_C06_L3713",
+      "Neuro_Krainc_P02_C07_L3714",
+      "Neuro_Krainc_P02_C09_L3716_2",
+      "Neuro_Krainc_P02_C10_L3717",
+      "Neuro_Krainc_P02_C12_L3731",
+      "Neuro_Krainc_P02_D01_B25_RPT",
+      "Neuro_Krainc_P02_D08_B45",
+      "Neuro_Krainc_P02_D09_B980",
+      "Neuro_Krainc_P02_E01_FRATRO5",
+      "Neuro_Krainc_P02_E02_FRATRO6_2",
+      "Neuro_Krainc_P02_E03_FRATRO7",
+      "Neuro_Krainc_P02_E11_FRATRO16",
+      "Neuro_Krainc_P02_F03_FRATRO21",
+      "Neuro_Krainc_P02_F06_FRATRO24",
+      "Neuro_Krainc_P02_F07_FRATRO26",
+      "Neuro_Krainc_P02_F08_FRATRO28",
+      "Neuro_Krainc_P02_F09_FRATRO29",
+      "Neuro_Krainc_P02_F10_FRATRO30",
+      "Neuro_Krainc_P02_F12_FRATRO32",
+      "Neuro_Krainc_P02_G02_FRATRO34",
+      "Neuro_Krainc_P02_G03_FRATRO35",
+      "Neuro_Krainc_P02_G04_FRATRO36",
+      "Neuro_Krainc_P02_G05_FRATRO37",
+      "Neuro_Krainc_P02_G09_FRATRO41",
+      "Neuro_Krainc_P02_H11_FRATRO55",
+      "Neuro_Krainc_P03_A06_FRATRO62",
+      "Neuro_Krainc_P03_B04_FRATRO077",
+      "Neuro_Krainc_P03_B06_FRATRO079",
+      "Neuro_Krainc_P03_C03_FRATRO093",
+      "Neuro_Krainc_P03_E07_FRATRO121",
+      "Neuro_Krainc_P03_E08_FRATRO122",
+      "Neuro_Krainc_P03_E09_FRATRO123",
+      "Neuro_Krainc_P03_E10_FRATRO124",
+      "Neuro_Krainc_P03_F01_FRATRO127",
+      "Neuro_Krainc_P03_F02_FRATRO129",
+      "Neuro_Krainc_P03_F04_FRATRO131",
+      "Neuro_Krainc_P03_F06_FRATRO133",
+      "Neuro_Krainc_P03_F09_FRATRO136",
+      "Neuro_Krainc_P04_B06_FRATRO186",
+      "Neuro_Krainc_P04_B12_FRATRO192",
+      "Neuro_Krainc_P04_E04_FRATRO220",
+      "Neuro_Krainc_P04_F05_FRATRO234_2",
+      "Neuro_Krainc_P04_G10_FRATRO251",
+      "Neuro_Krainc_P04_H10_FRATRO265",
+      "Neuro_Krainc_P05_A03_FRATRO271",
+      "Neuro_Krainc_P05_A06_FRATRO274",
+      "Neuro_Krainc_P05_A09_FRATRO278",
+      "Neuro_Krainc_P05_B01_FRATRO283",
+      "Neuro_Krainc_P05_B03_FRATRO285",
+      "Neuro_Krainc_P05_B09_FRATRO292",
+      "Neuro_Krainc_P05_B10_FRATRO293",
+      "Neuro_Krainc_P05_C03_FRATRO298",
+      "Neuro_Krainc_P05_C08_FRATRO303",
+      "Neuro_Krainc-2_P02_A07_L3663_01",
+      "Neuro_Krainc-2_P02_A12_L4021_01",
+      "Neuro_Krainc-2_P02_B06_L1342_01",
+      "Neuro_Krainc-2_P02_B09_L3686_01",
+      "Neuro_Krainc-2_P02_B11_L3669_01",
+      "Neuro_Krainc-2_P02_C05_L4106_01",
+      "Neuro_Krainc-2_P02_C06_L4025_01",
+      "Neuro_Krainc-2_P02_C08_L3654_01",
+      "Neuro_Krainc-2_P02_C10_L3700_01",
+      "Neuro_Krainc-2_P02_D02_L3872_01",
+      "Neuro_Krainc-2_P02_D05_L4105_01",
+      "Neuro_Krainc-2_P02_D09_L2872_01",
+      "Neuro_Krainc-2_P02_F02_L3668_01",
+      "Neuro_Krainc-2_P02_F03_L4104_01",
+      "Neuro_Krainc-2_P02_F04_L4027_01",
+      "Neuro_Krainc-2_P03_B10_FRA_TRO_357_01",
+      "Neuro_Krainc-2_P03_B11_FRA_TRO_358_01",
+      "Neuro_Krainc-2_P03_C01_FRA_TRO_360_01"
+    ],
+    "sample_data_processing": [
+      "Data were preprocessed using RMA. Then the data were log2 transformed and quantile normalized. RMA was selected as it produced better patient correlations than MAS5 and GC-RMA."
+    ],
+    "sample_characteristics_rows": 17,
+    "sample_platform_id": [
+      "GPL570"
+    ],
+    "table_begin_line": 77,
+    "table_end_line": 54754,
+    "header_matches_sample_geo_accession": true
+  },
+  "table_kind": "expression_matrix",
+  "limitations": [],
+  "error": null
+}

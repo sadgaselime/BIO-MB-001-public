@@ -1,0 +1,7 @@
+char:included in case -control study,diagnosis_raw,count,mean,median,min,max
+no,AD,96,78.2,79.0,59,88
+no,CTL,37,77.4,78.0,52,87
+no,MCI,41,78.8,79.0,63,90
+yes,AD,49,69.9,71.0,58,75
+yes,CTL,67,69.6,70.0,58,75
+yes,MCI,39,69.9,70.0,63,75

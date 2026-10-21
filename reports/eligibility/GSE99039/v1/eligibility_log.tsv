@@ -1,0 +1,559 @@
+gsm	array_barcode	participant_code	geo_status	r5_category	group	eligible_in_dataset_preqc	primary_contrast_preqc	age	gender	batch	rules
+GSM2630758	E7R_039a01	L3012	CONTROL	mapped	CONTROL	True	control		Female	01/15/08_L	R1;contrast:control
+GSM2630759	E7R_039a02	L2838	IPD	mapped	IPD	True	case:IPD		Male	01/15/08_L	R1;contrast:case:IPD
+GSM2630760	E7R_039a03	L2540	IPD	mapped	IPD	True	case:IPD		Female	01/15/08_L	R1;contrast:case:IPD
+GSM2630761	E7R_039a04	L3015	CONTROL	mapped	CONTROL	True	control		Female	01/15/08_L	R1;contrast:control
+GSM2630762	E7R_039a05	L2884	IPD	mapped	IPD	True	case:IPD		Female	01/16/08_L	R1;contrast:case:IPD
+GSM2630763	E7R_039a07	L2677	IPD	mapped	IPD	True	case:IPD		Female	01/16/08_L	R1;contrast:case:IPD
+GSM2630764	E7R_039a08	L2177	IPD	mapped	IPD	True	case:IPD		Male	01/16/08_L	R1;contrast:case:IPD
+GSM2630765	E7R_039a09	L2512	IPD	mapped	IPD	True	case:IPD		Male	01/16/08_L	R1;contrast:case:IPD
+GSM2630766	E7R_039a10	L2885	IPD	mapped	IPD	True	case:IPD		Male	01/16/08_L	R1;contrast:case:IPD
+GSM2630767	E7R_039a102	L3066	DRD	mapped	DRD	True			Female	02/22/08_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2630768	E7R_039a103	L3028	IPD	mapped	IPD	True	case:IPD		Female	02/22/08_L	R1;contrast:case:IPD
+GSM2630769	E7R_039a104	L3052	CONTROL	mapped	CONTROL	True	control		Female	02/22/08_L	R1;contrast:control
+GSM2630770	E7R_039a105	L3040	IPD	mapped	IPD	True	case:IPD		Male	02/22/08_L	R1;contrast:case:IPD
+GSM2630771	E7R_039a106	L3051	CONTROL	mapped	CONTROL	True	control		Female	02/22/08_L	R1;contrast:control
+GSM2630772	E7R_039a108	L3011	CONTROL	mapped	CONTROL	True	control		Male	02/22/08_L	R1;contrast:control
+GSM2630773	E7R_039a109	L128	IPD	mapped	IPD	True	case:IPD		Male	02/26/08_L	R1;contrast:case:IPD
+GSM2630774	E7R_039a11	L3004	CONTROL	mapped	CONTROL	True	control		Female	01/18/08_L	R1;contrast:control
+GSM2630775	E7R_039a110	L2573	CBD	mapped	CBD	True			Female	02/26/08_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2630776	E7R_039a111	L2647	MSA	mapped	MSA	True			Male	02/26/08_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2630777	E7R_039a112	L2870	CONTROL	mapped	CONTROL	True	control		Female	02/26/08_L	R1;contrast:control
+GSM2630778	E7R_039a113	L3016	CONTROL	mapped	CONTROL	True	control		Male	02/26/08_L	R1;contrast:control
+GSM2630779	E7R_039a114	L3019	CONTROL	mapped	CONTROL	True	control		Female	02/26/08_L	R1;contrast:control
+GSM2630780	E7R_039a13	L3002	CONTROL	mapped	CONTROL	True	control		Female	01/16/08_L	R1;contrast:control
+GSM2630781	E7R_039a14	L2528	IPD	mapped	IPD	True	case:IPD		Male	01/17/08_L	R1;contrast:case:IPD
+GSM2630782	E7R_039a16	L1703	GPD	mapped	GPD	True	case:GPD		Female	01/15/08_L	R1;contrast:case:GPD
+GSM2630783	E7R_039a18	L3009	CONTROL	mapped	CONTROL	True	control		Female	01/25/08_L	R1;contrast:control
+GSM2630784	E7R_039a20	L3014	CONTROL	mapped	CONTROL	True	control		Male	01/25/08_L	R1;contrast:control
+GSM2630785	E7R_039a23	L3001	CONTROL	mapped	CONTROL	True	control		Male	01/25/08_L	R1;contrast:control
+GSM2630786	E7R_039a30	L2151	GPD	mapped	GPD	True	case:GPD		Male	02/04/08_L	R1;contrast:case:GPD
+GSM2630787	E7R_039a34	L2133	CONTROL	mapped	CONTROL	True	control		Female	02/04/08_L	R1;contrast:control
+GSM2630788	E7R_039a35	L2132	CONTROL	mapped	CONTROL	True	control		Female	02/04/08_L	R1;contrast:control
+GSM2630789	E7R_039a49	L2135	CONTROL	mapped	CONTROL	True	control		Male	02/07/08_L	R1;contrast:control
+GSM2630790	E7R_039a57	L2134	CONTROL	mapped	CONTROL	True	control		Female	02/07/08_L	R1;contrast:control
+GSM2630791	E7R_039a60	L1370	IPD	mapped	IPD	True	case:IPD		Male	02/08/08_L	R1;contrast:case:IPD
+GSM2630792	E7R_039a63	L1500	Vascular dementia	mapped	Vascular dementia	True				02/08/08_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2630793	E7R_039a64	L3003	IPD	mapped	IPD	True	case:IPD		Male	02/08/08_L	R1;contrast:case:IPD
+GSM2630794	E7R_039a68	L1451	IPD	mapped	IPD	True	case:IPD		Male	02/08/08_L	R1;contrast:case:IPD
+GSM2630795	E7R_039a69	L2561	IPD	mapped	IPD	True	case:IPD		Female	02/08/08_L	R1;contrast:case:IPD
+GSM2630796	E7R_039a71	L2124	GPD	mapped	GPD	True	case:GPD		Female	02/08/08_L	R1;contrast:case:GPD
+GSM2630797	E7R_039a72	L2149	GPD	mapped	GPD	True	case:GPD		Female	02/08/08_L	R1;contrast:case:GPD
+GSM2630798	E7R_039a79	L3054	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Male	02/12/08_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2630799	E7R_039a80	L3068	CONTROL	mapped	CONTROL	True	control		Female	02/12/08_L	R1;contrast:control
+GSM2630800	E7R_039a81	L3064	CONTROL	mapped	CONTROL	True	control		Female	02/12/08_L	R1;contrast:control
+GSM2630801	E7R_039a82	L3030	IPD	mapped	IPD	True	case:IPD		Female	02/12/08_L	R1;contrast:case:IPD
+GSM2630802	E7R_039a85	L3039	IPD	mapped	IPD	True	case:IPD		Female	02/12/08_L	R1;contrast:case:IPD
+GSM2630803	E7R_039a87	L3013	CONTROL	mapped	CONTROL	True	control		Female	02/12/08_L	R1;contrast:control
+GSM2630804	E7R_039a89	L2833	IPD	mapped	IPD	True	case:IPD		Female	02/12/08_L	R1;contrast:case:IPD
+GSM2630805	E7R_039a90	L409	IPD	mapped	IPD	True	case:IPD		Male	02/12/08_L	R1;contrast:case:IPD
+GSM2630806	E7R_039a91	L3020	IPD	mapped	IPD	True	case:IPD		Male	02/12/08_L	R1;contrast:case:IPD
+GSM2630807	E7R_039a92	L3050	IPD	mapped	IPD	True	case:IPD		Female	02/12/08_L	R1;contrast:case:IPD
+GSM2630808	E7R_039a94	L2582	PSP	mapped	PSP	True			Female	02/22/08_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2630809	E7R_039a95	L3029	GPD	mapped	GPD	True	case:GPD		Female	02/22/08_L	R1;contrast:case:GPD
+GSM2630810	E7R_039a96	L3061	CONTROL	mapped	CONTROL	True	control		Female	02/22/08_L	R1;contrast:control
+GSM2630811	E7R_039a98	L3034	GPD	mapped	GPD	True	case:GPD		Male	02/22/08_L	R1;contrast:case:GPD
+GSM2630812	E7R_039a99	L3017	CONTROL	mapped	CONTROL	True	control		Male	02/22/08_L	R1;contrast:control
+GSM2630813	E8R_012a01	L3099	IPD	mapped	IPD	True	case:IPD		Male	05/16/08_L	R1;contrast:case:IPD
+GSM2630814	E8R_012a02	L3199	MSA	mapped	MSA	True			Female	05/16/08_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2630815	E8R_012a03	L3083	IPD	mapped	IPD	True	case:IPD		Male	05/16/08_L	R1;contrast:case:IPD
+GSM2630816	E8R_012a04_2	L3071	CONTROL	mapped	CONTROL	True	control		Female	06/19/08_L	R1;contrast:control
+GSM2630817	E8R_012a05	L3201	IPD	mapped	IPD	True	case:IPD		Female	05/16/08_L	R1;contrast:case:IPD
+GSM2630818	E8R_012a06	L3198	CONTROL	mapped	CONTROL	True	control		Female	05/16/08_L	R1;contrast:control
+GSM2630819	E8R_012a07	L3200	GPD	mapped	GPD	True	case:GPD		Female	05/16/08_L	R1;contrast:case:GPD
+GSM2630820	E8R_012a08	L3207	GPD	mapped	GPD	True	case:GPD		Female	05/16/08_L	R1;contrast:case:GPD
+GSM2630821	E8R_012a09	L3098	IPD	mapped	IPD	True	case:IPD		Female	05/16/08_L	R1;contrast:case:IPD
+GSM2630822	E8R_012a11	L3074	IPD	mapped	IPD	True	case:IPD		Male	05/16/08_L	R1;contrast:case:IPD
+GSM2630823	E8R_012a12	L3067	IPD	mapped	IPD	True	case:IPD		Female	05/16/08_L	R1;contrast:case:IPD
+GSM2630824	E8R_012a14	L3075	IPD	mapped	IPD	True	case:IPD		Female	05/27/08_L	R1;contrast:case:IPD
+GSM2630825	E8R_012a16	L3112	IPD	mapped	IPD	True	case:IPD		Female	05/27/08_L	R1;contrast:case:IPD
+GSM2630826	E8R_012a17_2	L3196	IPD	mapped	IPD	True	case:IPD		Female	05/29/08_L	R1;contrast:case:IPD
+GSM2630827	E8R_012a18	L3070	IPD	mapped	IPD	True	case:IPD		Female	05/27/08_L	R1;contrast:case:IPD
+GSM2630828	E8R_012a19	L3303	IPD	mapped	IPD	True	case:IPD		Male	05/27/08_L	R1;contrast:case:IPD
+GSM2630829	E8R_012a20	L3073	IPD	mapped	IPD	True	case:IPD		Male	05/27/08_L	R1;contrast:case:IPD
+GSM2630830	E8R_012a21	L3069	CONTROL	mapped	CONTROL	True	control		Female	05/27/08_L	R1;contrast:control
+GSM2630831	E8R_012a22	L3263	MSA	mapped	MSA	True			Male	05/27/08_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2630832	E8R_012a23	L3079	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Female	05/27/08_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2630833	E8R_012a24	L3085	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Female	05/27/08_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2630834	E8R_012a25	L3086	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Male	05/27/08_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2630835	E8R_012a26	L3222	IPD	mapped	IPD	True	case:IPD		Female	05/27/08_L	R1;contrast:case:IPD
+GSM2630836	E8R_012a29	L3097	PSP	mapped	PSP	True			Female	05/29/08_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2630837	E8R_012a30	L3261	IPD	mapped	IPD	True	case:IPD		Female	05/29/08_L	R1;contrast:case:IPD
+GSM2630838	E8R_012a31	L3203	IPD	mapped	IPD	True	case:IPD		Female	05/29/08_L	R1;contrast:case:IPD
+GSM2630839	E8R_012a33	L3260	IPD	mapped	IPD	True	case:IPD		Male	05/29/08_L	R1;contrast:case:IPD
+GSM2630840	E8R_012a34	L3082	CONTROL	mapped	CONTROL	True	control		Female	05/29/08_L	R1;contrast:control
+GSM2630841	E8R_012a35	L3301	IPD	mapped	IPD	True	case:IPD		Male	05/29/08_L	R1;contrast:case:IPD
+GSM2630842	E8R_012a36	L3077	IPD	mapped	IPD	True	case:IPD		Female	05/29/08_L	R1;contrast:case:IPD
+GSM2630843	E8R_012a37	L3084	CONTROL	mapped	CONTROL	True	control		Male	05/29/08_L	R1;contrast:control
+GSM2630844	E8R_012a41	L2125	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Male	05/29/08_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2630845	Neuro_Krainc_P01_A03_L2123_RPT	L2123	GPD	mapped	GPD	True	case:GPD		Male	09/16/09_L	R1;contrast:case:GPD
+GSM2630846	Neuro_Krainc_P01_A1_L2121	L2121	GPD	mapped	GPD	True	case:GPD		Male	08/28/09_L	R1;contrast:case:GPD
+GSM2630847	Neuro_Krainc_P01_A10_L2150	L2150	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Female	08/28/09_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2630848	Neuro_Krainc_P01_A11_L2152_RPT	L2152	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Male	09/16/09_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2630849	Neuro_Krainc_P01_A12_L2153	L2153	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Male	08/28/09_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2630850	Neuro_Krainc_P01_A2_L2122	L2122	GPD	mapped	GPD	True	case:GPD		Female	08/28/09_L	R1;contrast:case:GPD
+GSM2630851	Neuro_Krainc_P01_A6_L2126	L2126	GPD	mapped	GPD	True	case:GPD		Female	08/28/09_L	R1;contrast:case:GPD
+GSM2630852	Neuro_Krainc_P01_A7_L2127	L2127	GPD	mapped	GPD	True	case:GPD		Male	08/28/09_L	R1;contrast:case:GPD
+GSM2630853	Neuro_Krainc_P01_B02_L3031_RPT	L3031	CONTROL	mapped	CONTROL	True	control		Male	09/16/09_L	R1;contrast:control
+GSM2630854	Neuro_Krainc_P01_B1_L2696	L2696	IPD	mapped	IPD	True	case:IPD		Female	08/28/09_L	R1;contrast:case:IPD
+GSM2630855	Neuro_Krainc_P01_B10_L3293	L3293	CONTROL	mapped	CONTROL	True	control		Male	08/28/09_L	R1;contrast:control
+GSM2630856	Neuro_Krainc_P01_B11_L3328	L3328	IPD	mapped	IPD	True	case:IPD		Male	08/28/09_L	R1;contrast:case:IPD
+GSM2630857	Neuro_Krainc_P01_B12_L3329	L3329	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2630858	Neuro_Krainc_P01_B5_L3287	L3287	GPD	mapped	GPD	True	case:GPD		Male	08/28/09_L	R1;contrast:case:GPD
+GSM2630859	Neuro_Krainc_P01_B7_L3290_2	L3290	GPD	mapped	GPD	True	case:GPD		Male	08/28/09_L	R1;contrast:case:GPD
+GSM2630860	Neuro_Krainc_P01_B8_L3291	L3291	GPD	mapped	GPD	True	case:GPD		Female	08/28/09_L	R1;contrast:case:GPD
+GSM2630861	Neuro_Krainc_P01_B8_L3369	L3369	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2630862	Neuro_Krainc_P01_C02_L3331_RPT	L3331	IPD	mapped	IPD	True	case:IPD		Male	09/16/09_L	R1;contrast:case:IPD
+GSM2630863	Neuro_Krainc_P01_C1_L3330	L3330	CONTROL	mapped	CONTROL	True	control		Male	08/28/09_L	R1;contrast:control
+GSM2630864	Neuro_Krainc_P01_C10_L3341	L3341	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2630865	Neuro_Krainc_P01_C11_L3342	L3342	CONTROL	mapped	CONTROL	True	control		Male	08/28/09_L	R1;contrast:control
+GSM2630866	Neuro_Krainc_P01_C12_L3343	L3343	CONTROL	mapped	CONTROL	True	control		Male	08/28/09_L	R1;contrast:control
+GSM2630867	Neuro_Krainc_P01_C3_L3332	L3332	IPD	mapped	IPD	True	case:IPD		Male	08/28/09_L	R1;contrast:case:IPD
+GSM2630868	Neuro_Krainc_P01_C4_L3333	L3333	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2630869	Neuro_Krainc_P01_C5_L3334	L3334	CONTROL	mapped	CONTROL	True	control		Male	08/28/09_L	R1;contrast:control
+GSM2630870	Neuro_Krainc_P01_C6_L3336	L3336	IPD	mapped	IPD	True	case:IPD		Male	08/28/09_L	R1;contrast:case:IPD
+GSM2630871	Neuro_Krainc_P01_C7_L3337_corr	L3337	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2630872	Neuro_Krainc_P01_C9_L3339	L3339	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2630873	Neuro_Krainc_P01_D1_L3344	L3344	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2630874	Neuro_Krainc_P01_D10_L3358	L3358	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2630875	Neuro_Krainc_P01_D11_L3359-2_RPT	L3359	DRD	mapped	DRD	True			Female	09/16/09_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2630876	Neuro_Krainc_P01_D12_L3361	L3361	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2630877	Neuro_Krainc_P01_D2_L3345	L3345	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2630878	Neuro_Krainc_P01_D3_L3346	L3346	CONTROL	mapped	CONTROL	True	control		Male	08/28/09_L	R1;contrast:control
+GSM2630879	Neuro_Krainc_P01_D5_L3349	L3349	CONTROL	mapped	CONTROL	True	control		Male	08/28/09_L	R1;contrast:control
+GSM2630880	Neuro_Krainc_P01_D6_L3350	L3350	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2630881	Neuro_Krainc_P01_D7_L3355	L3355	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2630882	Neuro_Krainc_P01_D8_L3356	L3356	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2630883	Neuro_Krainc_P01_D9_L3357	L3357	CONTROL	mapped	CONTROL	True	control		Male	08/28/09_L	R1;contrast:control
+GSM2630884	Neuro_Krainc_P01_E1_L3362	L3362	CONTROL	mapped	CONTROL	True	control		Male	08/28/09_L	R1;contrast:control
+GSM2630885	Neuro_Krainc_P01_E11_L3372	L3372	CONTROL	mapped	CONTROL	True	control		Male	08/28/09_L	R1;contrast:control
+GSM2630886	Neuro_Krainc_P01_E12_L3373	L3373	IPD	mapped	IPD	True	case:IPD		Female	08/28/09_L	R1;contrast:case:IPD
+GSM2630887	Neuro_Krainc_P01_E3_L3364	L3364	GPD	mapped	GPD	True	case:GPD		Male	08/28/09_L	R1;contrast:case:GPD
+GSM2630888	Neuro_Krainc_P01_E6_L3367	L3367	CONTROL	mapped	CONTROL	True	control		Male	08/31/09_L	R1;contrast:control
+GSM2630889	Neuro_Krainc_P01_F1_L3374	L3374	PSP	mapped	PSP	True				08/28/09_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2630890	Neuro_Krainc_P01_F12_L3452	L3452	IPD	mapped	IPD	True	case:IPD		Male	08/28/09_L	R1;contrast:case:IPD
+GSM2630891	Neuro_Krainc_P01_F2_L3375	L3375	IPD	mapped	IPD	True	case:IPD		Male	08/28/09_L	R1;contrast:case:IPD
+GSM2630892	Neuro_Krainc_P01_F3_L3376	L3376	IPD	mapped	IPD	True	case:IPD		Male	08/28/09_L	R1;contrast:case:IPD
+GSM2630893	Neuro_Krainc_P01_F5_L3378	L3378	IPD	mapped	IPD	True	case:IPD		Male	08/28/09_L	R1;contrast:case:IPD
+GSM2630894	Neuro_Krainc_P01_F6_L3379	L3379	PSP	mapped	PSP	True			Male	08/28/09_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2630895	Neuro_Krainc_P01_F7_L3381	L3381	IPD	mapped	IPD	True	case:IPD		Female	08/28/09_L	R1;contrast:case:IPD
+GSM2630896	Neuro_Krainc_P01_F8_L3382	L3382	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2630897	Neuro_Krainc_P01_F9_L3384	L3384	CONTROL	mapped	CONTROL	True	control		Female	08/31/09_L	R1;contrast:control
+GSM2630898	Neuro_Krainc_P01_G02_L3454_RPT	L3454	IPD	mapped	IPD	True	case:IPD		Male	09/16/09_L	R1;contrast:case:IPD
+GSM2630899	Neuro_Krainc_P01_G10_L3462	L3462	CONTROL	mapped	CONTROL	True	control		Male	08/28/09_L	R1;contrast:control
+GSM2630900	Neuro_Krainc_P01_G12_L3464	L3464	IPD	mapped	IPD	True	case:IPD		Female	08/28/09_L	R1;contrast:case:IPD
+GSM2630901	Neuro_Krainc_P01_G3_L3455	L3455	IPD	mapped	IPD	True	case:IPD		Male	08/28/09_L	R1;contrast:case:IPD
+GSM2630902	Neuro_Krainc_P01_G4_L3456	L3456	IPD	mapped	IPD	True	case:IPD		Male	08/28/09_L	R1;contrast:case:IPD
+GSM2630903	Neuro_Krainc_P01_G5_L3457	L3457	IPD	mapped	IPD	True	case:IPD		Male	08/28/09_L	R1;contrast:case:IPD
+GSM2630904	Neuro_Krainc_P01_G6_L3458	L3458	IPD	mapped	IPD	True	case:IPD		Male	08/28/09_L	R1;contrast:case:IPD
+GSM2630905	Neuro_Krainc_P01_G7_L3459	L3459	CONTROL	mapped	CONTROL	True	control		Male	08/28/09_L	R1;contrast:control
+GSM2630906	Neuro_Krainc_P01_G8_L3460	L3460	CONTROL	mapped	CONTROL	True	control		Male	08/28/09_L	R1;contrast:control
+GSM2630907	Neuro_Krainc_P01_G9_L3461	L3461	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2630908	Neuro_Krainc_P01_H1_L3472	L3472	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2630909	Neuro_Krainc_P01_H10_L3500	L3500	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2630910	Neuro_Krainc_P01_H11_L3501	L3501	CONTROL	mapped	CONTROL	True	control		Male	08/28/09_L	R1;contrast:control
+GSM2630911	Neuro_Krainc_P01_H2_L3473	L3473	IPD	mapped	IPD	True	case:IPD		Female	08/28/09_L	R1;contrast:case:IPD
+GSM2630912	Neuro_Krainc_P01_H3_L3478	L3478	CONTROL	mapped	CONTROL	True	control		Male	08/28/09_L	R1;contrast:control
+GSM2630913	Neuro_Krainc_P01_H4_L3479	L3479	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2630914	Neuro_Krainc_P01_H6_L3481	L3481	IPD	mapped	IPD	True	case:IPD		Male	08/28/09_L	R1;contrast:case:IPD
+GSM2630915	Neuro_Krainc_P01_H7_L3484	L3484	IPD	mapped	IPD	True	case:IPD		Female	08/28/09_L	R1;contrast:case:IPD
+GSM2630916	Neuro_Krainc_P02_A01_L3503	L3503	CONTROL	mapped	CONTROL	True	control		Female	09/01/09_L	R1;contrast:control
+GSM2630917	Neuro_Krainc_P02_A02_L3504	L3504	CONTROL	mapped	CONTROL	True	control		Male	09/01/09_L	R1;contrast:control
+GSM2630918	Neuro_Krainc_P02_A05_L3507	L3507	IPD	mapped	IPD	True	case:IPD			09/01/09_L	R1;contrast:case:IPD
+GSM2630919	Neuro_Krainc_P02_A06_L3508	L3508	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED			09/01/09_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2630920	Neuro_Krainc_P02_A07_L3509	L3509	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Male	09/01/09_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2630921	Neuro_Krainc_P02_A09_L3512	L3512	IPD	mapped	IPD	True	case:IPD		Male	09/01/09_L	R1;contrast:case:IPD
+GSM2630922	Neuro_Krainc_P02_A10_L3513	L3513	CONTROL	mapped	CONTROL	True	control		Male	09/01/09_L	R1;contrast:control
+GSM2630923	Neuro_Krainc_P02_B02_L3517	L3517	CONTROL	mapped	CONTROL	True	control		Female	09/01/09_L	R1;contrast:control
+GSM2630924	Neuro_Krainc_P02_B03_L3518	L3518	CONTROL	mapped	CONTROL	True	control		Male	09/01/09_L	R1;contrast:control
+GSM2630925	Neuro_Krainc_P02_B05_L3520	L3520	CONTROL	mapped	CONTROL	True	control		Female	09/01/09_L	R1;contrast:control
+GSM2630926	Neuro_Krainc_P02_B09_L3600	L3600	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Male	09/01/09_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2630927	Neuro_Krainc_P02_B10_L3601	L3601	CONTROL	mapped	CONTROL	True	control		Female	09/01/09_L	R1;contrast:control
+GSM2630928	Neuro_Krainc_P02_B11_L3602	L3602	CONTROL	mapped	CONTROL	True	control		Female	09/01/09_L	R1;contrast:control
+GSM2630929	Neuro_Krainc_P02_C01_L3604	L3604	CONTROL	mapped	CONTROL	True	control		Female	09/01/09_L	R1;contrast:control
+GSM2630930	Neuro_Krainc_P02_C02_L3605	L3605	CONTROL	mapped	CONTROL	True	control		Female	09/01/09_L	R1;contrast:control
+GSM2630931	Neuro_Krainc_P02_C08_L3715	L3715	IPD	mapped	IPD	True	case:IPD		Male	09/01/09_L	R1;contrast:case:IPD
+GSM2630932	Neuro_Krainc_P02_C11_L3718	L3718	CONTROL	mapped	CONTROL	True	control		Female	09/01/09_L	R1;contrast:control
+GSM2630933	Neuro_Krainc_P02_D02_B27	B27	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Female	09/01/09_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2630934	Neuro_Krainc_P02_D03_B28	B28	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Female	09/01/09_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2630935	Neuro_Krainc_P02_D04_B29	B29	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Female	09/01/09_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2630936	Neuro_Krainc_P02_D05_B32	B32	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Male	09/01/09_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2630937	Neuro_Krainc_P02_D06_B36	B36	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Male	09/01/09_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2630938	Neuro_Krainc_P02_E04_FRATRO8	TRO8	IPD	mapped	IPD	True	case:IPD	72	Male	09/01/09_TRO	R1;contrast:case:IPD
+GSM2630939	Neuro_Krainc_P02_E05_FRATRO9	TRO9	IPD	mapped	IPD	True	case:IPD	65	Female	09/02/09_TRO	R1;contrast:case:IPD
+GSM2630940	Neuro_Krainc_P02_E06_FRATRO10	TRO10	IPD	mapped	IPD	True	case:IPD	58	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2630941	Neuro_Krainc_P02_E07_FRATRO11	TRO11	IPD	mapped	IPD	True	case:IPD	61	Male	09/01/09_TRO	R1;contrast:case:IPD
+GSM2630942	Neuro_Krainc_P02_E08_FRATRO13	TRO13	IPD	mapped	IPD	True	case:IPD	64	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2630943	Neuro_Krainc_P02_E09_FRATRO14	TRO14	MSA	mapped	MSA	True		76	Male	09/01/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2630944	Neuro_Krainc_P02_E10_FRATRO15	TRO15	IPD	mapped	IPD	True	case:IPD	61	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2630945	Neuro_Krainc_P02_E12_FRATRO17-2_RPT	TRO17	IPD	mapped	IPD	True	case:IPD	45	Female	09/16/09_TRO	R1;contrast:case:IPD
+GSM2630946	Neuro_Krainc_P02_F01_FRATRO18	TRO18	GPD	mapped	GPD	True	case:GPD	55	Male	09/01/09_TRO	R1;contrast:case:GPD
+GSM2630947	Neuro_Krainc_P02_F02_FRATRO20	TRO20	IPD	mapped	IPD	True	case:IPD	56	Male	09/01/09_TRO	R1;contrast:case:IPD
+GSM2630948	Neuro_Krainc_P02_F04_FRATRO22	TRO22	IPD	mapped	IPD	True	case:IPD	67	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2630949	Neuro_Krainc_P02_F05_FRATRO23_2	TRO23	IPD	mapped	IPD	True	case:IPD	54	Female	09/02/09_TRO	R1;contrast:case:IPD
+GSM2630950	Neuro_Krainc_P02_F11_FRATRO31	TRO31	IPD	mapped	IPD	True	case:IPD	75	Male	09/01/09_TRO	R1;contrast:case:IPD
+GSM2630951	Neuro_Krainc_P02_G01_FRATRO33	TRO33	IPD	mapped	IPD	True	case:IPD	63	Male	09/01/09_TRO	R1;contrast:case:IPD
+GSM2630952	Neuro_Krainc_P02_G06_FRATRO38	TRO38	HD	mapped	HD	True		50	Female	09/01/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2630953	Neuro_Krainc_P02_G07_FRATRO39	TRO39	HD	mapped	HD	True		54	Female	09/01/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2630954	Neuro_Krainc_P02_G08_FRATRO40	TRO40	HD	mapped	HD	True		60	Male	09/01/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2630955	Neuro_Krainc_P02_G10_FRATRO42	TRO42	GPD	mapped	GPD	True	case:GPD	36	Male	09/02/09_TRO	R1;contrast:case:GPD
+GSM2630956	Neuro_Krainc_P02_G11_FRATRO43	TRO43	IPD	mapped	IPD	True	case:IPD	71	Male	09/01/09_TRO	R1;contrast:case:IPD
+GSM2630957	Neuro_Krainc_P02_G12_FRATRO44	TRO44	IPD	mapped	IPD	True	case:IPD	67	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2630958	Neuro_Krainc_P02_H01_FRATRO45_1	TRO45	CONTROL	mapped	CONTROL	True	control	40	Female	09/01/09_TRO	R1;contrast:control
+GSM2630959	Neuro_Krainc_P02_H02_FRATRO46	TRO46	IPD	mapped	IPD	True	case:IPD	71	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2630960	Neuro_Krainc_P02_H03_FRATRO47_2	TRO47	IPD	mapped	IPD	True	case:IPD	70	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2630961	Neuro_Krainc_P02_H04_FRATRO48	TRO48	CONTROL	mapped	CONTROL	True	control	59	Male	09/02/09_TRO	R1;contrast:control
+GSM2630962	Neuro_Krainc_P02_H05_FRATRO49	TRO49	HD	mapped	HD	True		60	Female	09/01/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2630963	Neuro_Krainc_P02_H06_FRATRO50	TRO50	HD	mapped	HD	True		66	Female	09/01/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2630964	Neuro_Krainc_P02_H07_FRATRO51	TRO51	IPD	mapped	IPD	True	case:IPD	44	Male	09/01/09_TRO	R1;contrast:case:IPD
+GSM2630965	Neuro_Krainc_P02_H08_FRATRO52	TRO52	CONTROL	mapped	CONTROL	True	control	39	Female	09/01/09_TRO	R1;contrast:control
+GSM2630966	Neuro_Krainc_P02_H09_FRATRO53	TRO53	IPD	mapped	IPD	True	case:IPD	71	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2630967	Neuro_Krainc_P02_H10_FRATRO54	TRO54	IPD	mapped	IPD	True	case:IPD	80	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2630968	Neuro_Krainc_P02_H12_FRATRO56	TRO56	IPD	mapped	IPD	True	case:IPD	70	Male	09/01/09_TRO	R1;contrast:case:IPD
+GSM2630969	Neuro_Krainc_P03_A01_FRATRO57	TRO57	IPD	mapped	IPD	True	case:IPD	64	Male	08/20/09_TRO	R1;contrast:case:IPD
+GSM2630970	Neuro_Krainc_P03_A02_FRATRO58	TRO58	IPD	mapped	IPD	True	case:IPD	71	Male	08/20/09_TRO	R1;contrast:case:IPD
+GSM2630971	Neuro_Krainc_P03_A03_FRATRO59	TRO59	CONTROL	mapped	CONTROL	True	control	61	Female	08/20/09_TRO	R1;contrast:control
+GSM2630972	Neuro_Krainc_P03_A04_FRATRO60	TRO60	IPD	mapped	IPD	True	case:IPD	48	Male	08/20/09_TRO	R1;contrast:case:IPD
+GSM2630973	Neuro_Krainc_P03_A05_FRATRO61	TRO61	IPD	mapped	IPD	True	case:IPD	58	Male	08/20/09_TRO	R1;contrast:case:IPD
+GSM2630974	Neuro_Krainc_P03_A07_FRATRO63	TRO63	CONTROL	mapped	CONTROL	True	control	75	Male	08/20/09_TRO	R1;contrast:control
+GSM2630975	Neuro_Krainc_P03_A08_FRATRO64	TRO64	IPD	mapped	IPD	True	case:IPD	47	Female	08/20/09_TRO	R1;contrast:case:IPD
+GSM2630976	Neuro_Krainc_P03_A09_FRATRO065	TRO65	IPD	mapped	IPD	True	case:IPD	75	Female	08/25/09_TRO	R1;contrast:case:IPD
+GSM2630977	Neuro_Krainc_P03_A10_FRATRO067	TRO67	IPD	mapped	IPD	True	case:IPD	71	Female	08/25/09_TRO	R1;contrast:case:IPD
+GSM2630978	Neuro_Krainc_P03_A12_FRATRO071	TRO71	IPD	mapped	IPD	True	case:IPD	49	Male	09/02/09_TRO	R1;contrast:case:IPD
+GSM2630979	Neuro_Krainc_P03_B01_FRATRO072	TRO72	IPD	mapped	IPD	True	case:IPD	65	Female	08/25/09_TRO	R1;contrast:case:IPD
+GSM2630980	Neuro_Krainc_P03_B02_FRATRO073	TRO73	CONTROL	mapped	CONTROL	True	control	58	Female	08/25/09_TRO	R1;contrast:control
+GSM2630981	Neuro_Krainc_P03_B03_FRATRO075	TRO75	IPD	mapped	IPD	True	case:IPD	62	Female	08/25/09_TRO	R1;contrast:case:IPD
+GSM2630982	Neuro_Krainc_P03_B07_FRATRO085_RPT	TRO85	IPD	mapped	IPD	True	case:IPD	62	Male	09/16/09_TRO	R1;contrast:case:IPD
+GSM2630983	Neuro_Krainc_P03_B08_FRATRO086	TRO86	IPD	mapped	IPD	True	case:IPD	51	Female	08/25/09_TRO	R1;contrast:case:IPD
+GSM2630984	Neuro_Krainc_P03_B09_FRATRO087_1	TRO87	CONTROL	mapped	CONTROL	True	control	59	Female	08/25/09_TRO	R1;contrast:control
+GSM2630985	Neuro_Krainc_P03_B10_FRATRO088	TRO88	IPD	mapped	IPD	True	case:IPD	58	Female	08/25/09_TRO	R1;contrast:case:IPD
+GSM2630986	Neuro_Krainc_P03_B12_FRATRO090	TRO90	IPD	mapped	IPD	True	case:IPD	59	Male	08/25/09_TRO	R1;contrast:case:IPD
+GSM2630987	Neuro_Krainc_P03_C02_FRATRO092_1	TRO92	GPD	mapped	GPD	True	case:GPD	67	Male	08/25/09_TRO	R1;contrast:case:GPD
+GSM2630988	Neuro_Krainc_P03_C04_FRATRO094_2	TRO94	IPD	mapped	IPD	True	case:IPD	57	Male	08/25/09_TRO	R1;contrast:case:IPD
+GSM2630989	Neuro_Krainc_P03_C05_FRATRO095	TRO95	IPD	mapped	IPD	True	case:IPD	42	Male	08/25/09_TRO	R1;contrast:case:IPD
+GSM2630990	Neuro_Krainc_P03_C06_FRATRO096	TRO96	CONTROL	mapped	CONTROL	True	control	65	Female	08/25/09_TRO	R1;contrast:control
+GSM2630991	Neuro_Krainc_P03_C07_FRATRO097	TRO97	IPD	mapped	IPD	True	case:IPD	74	Female	08/25/09_TRO	R1;contrast:case:IPD
+GSM2630992	Neuro_Krainc_P03_C08_FRATRO098	TRO98	IPD	mapped	IPD	True	case:IPD	58	Female	08/25/09_TRO	R1;contrast:case:IPD
+GSM2630993	Neuro_Krainc_P03_C09_FRATRO099	TRO99	CONTROL	mapped	CONTROL	True	control	53	Male	08/25/09_TRO	R1;contrast:control
+GSM2630994	Neuro_Krainc_P03_C10_FRATRO100	TRO100	IPD	mapped	IPD	True	case:IPD	49	Female	08/25/09_TRO	R1;contrast:case:IPD
+GSM2630995	Neuro_Krainc_P03_C11_FRATRO101	TRO101	IPD	mapped	IPD	True	case:IPD	69	Male	08/25/09_TRO	R1;contrast:case:IPD
+GSM2630996	Neuro_Krainc_P03_C12_FRATRO102	TRO102	GPD	mapped	GPD	True	case:GPD	57	Male	08/25/09_TRO	R1;contrast:case:GPD
+GSM2630997	Neuro_Krainc_P03_D01_FRATRO103	TRO103	IPD	mapped	IPD	True	case:IPD	59	Male	08/25/09_TRO	R1;contrast:case:IPD
+GSM2630998	Neuro_Krainc_P03_D05_FRATRO107_2	TRO107	IPD	mapped	IPD	True	case:IPD	59	Female	08/25/09_TRO	R1;contrast:case:IPD
+GSM2630999	Neuro_Krainc_P03_D06_FRATRO108	TRO108	CONTROL	mapped	CONTROL	True	control	61	Female	08/25/09_TRO	R1;contrast:control
+GSM2631000	Neuro_Krainc_P03_D08_FRATRO110	TRO110	HD	mapped	HD	True		67	Male	08/25/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631001	Neuro_Krainc_P03_D10_FRATRO112	TRO112	CONTROL	mapped	CONTROL	True	control	39	Male	08/25/09_TRO	R1;contrast:control
+GSM2631002	Neuro_Krainc_P03_D11_FRATRO113_2	TRO113	IPD	mapped	IPD	True	case:IPD	49	Male	08/25/09_TRO	R1;contrast:case:IPD
+GSM2631003	Neuro_Krainc_P03_D12_FRATRO114	TRO114	IPD	mapped	IPD	True	case:IPD	69	Female	08/25/09_TRO	R1;contrast:case:IPD
+GSM2631004	Neuro_Krainc_P03_E01_FRATRO115	TRO115	IPD	mapped	IPD	True	case:IPD	67	Female	08/25/09_TRO	R1;contrast:case:IPD
+GSM2631005	Neuro_Krainc_P03_E02_FRATRO116	TRO116	CONTROL	mapped	CONTROL	True	control	59	Female	08/25/09_TRO	R1;contrast:control
+GSM2631006	Neuro_Krainc_P03_E03_FRATRO117_1	TRO117	IPD	mapped	IPD	True	case:IPD	60	Male	08/25/09_TRO	R1;contrast:case:IPD
+GSM2631007	Neuro_Krainc_P03_E04_FRATRO118	TRO118	IPD	mapped	IPD	True	case:IPD	64	Male	08/25/09_TRO	R1;contrast:case:IPD
+GSM2631008	Neuro_Krainc_P03_E06_FRATRO120	TRO120	IPD	mapped	IPD	True	case:IPD	71	Male	08/26/09_TRO	R1;contrast:case:IPD
+GSM2631009	Neuro_Krainc_P03_E11_FRATRO125	TRO125	IPD	mapped	IPD	True	case:IPD	54	Male	08/26/09_TRO	R1;contrast:case:IPD
+GSM2631010	Neuro_Krainc_P03_E12_FRATRO126	TRO126	CONTROL	mapped	CONTROL	True	control	63	Female	08/26/09_TRO	R1;contrast:control
+GSM2631011	Neuro_Krainc_P03_F03_FRATRO130	TRO130	CONTROL	mapped	CONTROL	True	control	57	Male	08/26/09_TRO	R1;contrast:control
+GSM2631012	Neuro_Krainc_P03_F05_FRATRO132	TRO132	CONTROL	mapped	CONTROL	True	control	71	Male	08/26/09_TRO	R1;contrast:control
+GSM2631013	Neuro_Krainc_P03_F07_FRATRO134	TRO134	IPD	mapped	IPD	True	case:IPD	69	Male	08/26/09_TRO	R1;contrast:case:IPD
+GSM2631014	Neuro_Krainc_P03_F08_FRATRO135	TRO135	IPD	mapped	IPD	True	case:IPD	60	Male	08/26/09_TRO	R1;contrast:case:IPD
+GSM2631015	Neuro_Krainc_P03_F10_FRATRO137	TRO137	CONTROL	mapped	CONTROL	True	control	51	Female	08/26/09_TRO	R1;contrast:control
+GSM2631016	Neuro_Krainc_P03_F12_FRATRO139_1	TRO139	CONTROL	mapped	CONTROL	True	control	70	Female	08/26/09_TRO	R1;contrast:control
+GSM2631017	Neuro_Krainc_P03_G02_FRATRO141	TRO141	CONTROL	mapped	CONTROL	True	control	58	Female	08/26/09_TRO	R1;contrast:control
+GSM2631018	Neuro_Krainc_P03_G03_FRATRO143	TRO143	GPD	mapped	GPD	True	case:GPD	47	Male	08/26/09_TRO	R1;contrast:case:GPD
+GSM2631019	Neuro_Krainc_P03_G04_FRATRO144	TRO144	IPD	mapped	IPD	True	case:IPD	60	Female	08/26/09_TRO	R1;contrast:case:IPD
+GSM2631020	Neuro_Krainc_P03_G05_FRATRO145_RPT	TRO145	CONTROL	mapped	CONTROL	True	control	60	Female	09/16/09_TRO	R1;contrast:control
+GSM2631021	Neuro_Krainc_P03_G06_FRATRO146	TRO146	IPD	mapped	IPD	True	case:IPD	49	Male	08/26/09_TRO	R1;contrast:case:IPD
+GSM2631022	Neuro_Krainc_P03_G07_FRATRO147	TRO147	CONTROL	mapped	CONTROL	True	control	50	Male	08/26/09_TRO	R1;contrast:control
+GSM2631023	Neuro_Krainc_P03_G08_FRATRO148	TRO148	CONTROL	mapped	CONTROL	True	control	62	Female	08/26/09_TRO	R1;contrast:control
+GSM2631024	Neuro_Krainc_P03_G09_FRATRO149_3	TRO149	CONTROL	mapped	CONTROL	True	control	58	Female	08/27/09_TRO	R1;contrast:control
+GSM2631025	Neuro_Krainc_P03_G10_FRATRO150	TRO150	CONTROL	mapped	CONTROL	True	control	65	Female	08/26/09_TRO	R1;contrast:control
+GSM2631026	Neuro_Krainc_P03_G11_FRATRO152	TRO152	CONTROL	mapped	CONTROL	True	control	71	Female	08/26/09_TRO	R1;contrast:control
+GSM2631027	Neuro_Krainc_P03_G12_FRATRO153	TRO153	CONTROL	mapped	CONTROL	True	control	62	Male	08/26/09_TRO	R1;contrast:control
+GSM2631028	Neuro_Krainc_P03_H01_FRATRO154	TRO154	CONTROL	mapped	CONTROL	True	control	82	Female	08/26/09_TRO	R1;contrast:control
+GSM2631029	Neuro_Krainc_P03_H02_FRATRO155	TRO155	CONTROL	mapped	CONTROL	True	control	58	Female	08/26/09_TRO	R1;contrast:control
+GSM2631030	Neuro_Krainc_P03_H03_FRATRO158	TRO158	IPD	mapped	IPD	True	case:IPD	52	Female	08/26/09_TRO	R1;contrast:case:IPD
+GSM2631031	Neuro_Krainc_P03_H04_FRATRO159	TRO159	CONTROL	mapped	CONTROL	True	control	79	Female	08/26/09_TRO	R1;contrast:control
+GSM2631032	Neuro_Krainc_P03_H05_FRATRO160	TRO160	CONTROL	mapped	CONTROL	True	control	57	Female	08/26/09_TRO	R1;contrast:control
+GSM2631033	Neuro_Krainc_P03_H06_FRATRO161	TRO161	CONTROL	mapped	CONTROL	True	control	60	Female	08/26/09_TRO	R1;contrast:control
+GSM2631034	Neuro_Krainc_P03_H07_FRATRO162	TRO162	HD	mapped	HD	True		65	Female	08/26/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631035	Neuro_Krainc_P03_H08_FRATRO164	TRO164	IPD	mapped	IPD	True	case:IPD	78	Female	08/26/09_TRO	R1;contrast:case:IPD
+GSM2631036	Neuro_Krainc_P03_H09_FRATRO165	TRO165	IPD	mapped	IPD	True	case:IPD	63	Female	08/26/09_TRO	R1;contrast:case:IPD
+GSM2631037	Neuro_Krainc_P03_H10_FRATRO166	TRO166	CONTROL	mapped	CONTROL	True	control	65	Female	08/26/09_TRO	R1;contrast:control
+GSM2631038	Neuro_Krainc_P03_H11_FRATRO167	TRO167	CONTROL	mapped	CONTROL	True	control	71	Female	08/26/09_TRO	R1;contrast:control
+GSM2631039	Neuro_Krainc_P03_H12_FRATRO168	TRO168	CONTROL	mapped	CONTROL	True	control	42	Female	08/26/09_TRO	R1;contrast:control
+GSM2631040	Neuro_Krainc_P04_A01_FRATRO169	TRO169	CONTROL	mapped	CONTROL	True	control	60	Female	09/03/09_TRO	R1;contrast:control
+GSM2631041	Neuro_Krainc_P04_A02_FRATRO170	TRO170	CONTROL	mapped	CONTROL	True	control	58	Female	09/03/09_TRO	R1;contrast:control
+GSM2631042	Neuro_Krainc_P04_A03_FRATRO171	TRO171	CONTROL	mapped	CONTROL	True	control	69	Female	09/03/09_TRO	R1;contrast:control
+GSM2631043	Neuro_Krainc_P04_A04_FRATRO172	TRO172	CONTROL	mapped	CONTROL	True	control	67	Male	09/03/09_TRO	R1;contrast:control
+GSM2631044	Neuro_Krainc_P04_A05_FRATRO173	TRO173	CONTROL	mapped	CONTROL	True	control	54	Female	09/03/09_TRO	R1;contrast:control
+GSM2631045	Neuro_Krainc_P04_A06_FRATRO174	TRO174	CONTROL	mapped	CONTROL	True	control	69	Female	09/03/09_TRO	R1;contrast:control
+GSM2631046	Neuro_Krainc_P04_A07_FRATRO175	TRO175	CONTROL	mapped	CONTROL	True	control	57	Female	09/03/09_TRO	R1;contrast:control
+GSM2631047	Neuro_Krainc_P04_A08_FRATRO176	TRO176	CONTROL	mapped	CONTROL	True	control	71	Female	09/03/09_TRO	R1;contrast:control
+GSM2631048	Neuro_Krainc_P04_A09_FRATRO177	TRO177	IPD	mapped	IPD	True	case:IPD	70	Female	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631049	Neuro_Krainc_P04_A10_FRATRO178_RPT	TRO178	CONTROL	mapped	CONTROL	True	control	59	Female	09/16/09_TRO	R1;contrast:control
+GSM2631050	Neuro_Krainc_P04_A11_FRATRO179	TRO179	IPD	mapped	IPD	True	case:IPD	58	Female	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631051	Neuro_Krainc_P04_A12_FRATRO180	TRO180	IPD	mapped	IPD	True	case:IPD	69	Male	09/04/09_TRO	R1;contrast:case:IPD
+GSM2631052	Neuro_Krainc_P04_B01_FRATRO181	TRO181	IPD	mapped	IPD	True	case:IPD	52	Female	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631053	Neuro_Krainc_P04_B02_FRATRO182	TRO182	IPD	mapped	IPD	True	case:IPD	73	Male	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631054	Neuro_Krainc_P04_B03_FRATRO183	TRO183	CONTROL	mapped	CONTROL	True	control	45	Female	09/03/09_TRO	R1;contrast:control
+GSM2631055	Neuro_Krainc_P04_B04_FRATRO184	TRO184	CONTROL	mapped	CONTROL	True	control	62	Male	09/03/09_TRO	R1;contrast:control
+GSM2631056	Neuro_Krainc_P04_B05_FRATRO185	TRO185	CONTROL	mapped	CONTROL	True	control	49	Female	09/03/09_TRO	R1;contrast:control
+GSM2631057	Neuro_Krainc_P04_B07_FRATRO187	TRO187	CONTROL	mapped	CONTROL	True	control	67	Female	09/03/09_TRO	R1;contrast:control
+GSM2631058	Neuro_Krainc_P04_B08_FRATRO188	TRO188	CONTROL	mapped	CONTROL	True	control	62	Female	09/03/09_TRO	R1;contrast:control
+GSM2631059	Neuro_Krainc_P04_B09_FRATRO189	TRO189	CONTROL	mapped	CONTROL	True	control	65	Female	09/03/09_TRO	R1;contrast:control
+GSM2631060	Neuro_Krainc_P04_B10_FRATRO190	TRO190	IPD	mapped	IPD	True	case:IPD	76	Male	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631061	Neuro_Krainc_P04_B11_FRATRO191	TRO191	CONTROL	mapped	CONTROL	True	control	60	Male	09/03/09_TRO	R1;contrast:control
+GSM2631062	Neuro_Krainc_P04_C01_FRATRO193	TRO193	GPD	mapped	GPD	True	case:GPD	45	Female	09/03/09_TRO	R1;contrast:case:GPD
+GSM2631063	Neuro_Krainc_P04_C02_FRATRO194	TRO194	GPD	mapped	GPD	True	case:GPD	39	Female	09/03/09_TRO	R1;contrast:case:GPD
+GSM2631064	Neuro_Krainc_P04_C03_FRATRO195	TRO195	CONTROL	mapped	CONTROL	True	control	72	Female	09/03/09_TRO	R1;contrast:control
+GSM2631065	Neuro_Krainc_P04_C05_FRATRO197	TRO197	CONTROL	mapped	CONTROL	True	control	55	Female	09/03/09_TRO	R1;contrast:control
+GSM2631066	Neuro_Krainc_P04_C06_FRATRO198	TRO198	IPD	mapped	IPD	True	case:IPD	64	Male	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631067	Neuro_Krainc_P04_C07_FRATRO199	TRO199	IPD	mapped	IPD	True	case:IPD	61	Female	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631068	Neuro_Krainc_P04_C08_FRATRO200	TRO200	CONTROL	mapped	CONTROL	True	control	63	Female	09/03/09_TRO	R1;contrast:control
+GSM2631069	Neuro_Krainc_P04_C09_FRATRO201	TRO201	GPD	mapped	GPD	True	case:GPD	69	Male	09/03/09_TRO	R1;contrast:case:GPD
+GSM2631070	Neuro_Krainc_P04_C10_FRATRO202	TRO202	CONTROL	mapped	CONTROL	True	control	72	Female	09/03/09_TRO	R1;contrast:control
+GSM2631071	Neuro_Krainc_P04_C11_FRATRO203_RPT	TRO203	IPD	mapped	IPD	True	case:IPD	64	Male	09/16/09_TRO	R1;contrast:case:IPD
+GSM2631072	Neuro_Krainc_P04_C12_FRATRO204	TRO204	CONTROL	mapped	CONTROL	True	control	69	Female	09/03/09_TRO	R1;contrast:control
+GSM2631073	Neuro_Krainc_P04_D01_FRATRO205	TRO205	CONTROL	mapped	CONTROL	True	control	67	Male	09/02/09_TRO	R1;contrast:control
+GSM2631074	Neuro_Krainc_P04_D02_FRATRO206	TRO206	CONTROL	mapped	CONTROL	True	control	56	Male	09/02/09_TRO	R1;contrast:control
+GSM2631075	Neuro_Krainc_P04_D03_FRATRO207	TRO207	CONTROL	mapped	CONTROL	True	control	70	Female	09/02/09_TRO	R1;contrast:control
+GSM2631076	Neuro_Krainc_P04_D04_FRATRO208	TRO208	CONTROL	mapped	CONTROL	True	control	61	Male	09/02/09_TRO	R1;contrast:control
+GSM2631077	Neuro_Krainc_P04_D05_FRATRO209	TRO209	CONTROL	mapped	CONTROL	True	control	62	Female	09/02/09_TRO	R1;contrast:control
+GSM2631078	Neuro_Krainc_P04_D06_FRATRO210	TRO210	IPD	mapped	IPD	True	case:IPD	73	Male	09/02/09_TRO	R1;contrast:case:IPD
+GSM2631079	Neuro_Krainc_P04_D07_FRATRO211	TRO211	CONTROL	mapped	CONTROL	True	control	67	Male	09/02/09_TRO	R1;contrast:control
+GSM2631080	Neuro_Krainc_P04_D08_FRATRO212	TRO212	CONTROL	mapped	CONTROL	True	control	58	Female	09/02/09_TRO	R1;contrast:control
+GSM2631081	Neuro_Krainc_P04_D09_FRATRO213	TRO213	CONTROL	mapped	CONTROL	True	control	63	Female	09/02/09_TRO	R1;contrast:control
+GSM2631082	Neuro_Krainc_P04_D10_FRATRO214	TRO214	CONTROL	mapped	CONTROL	True	control	57	Female	09/02/09_TRO	R1;contrast:control
+GSM2631083	Neuro_Krainc_P04_D11_FRATRO215	TRO215	CONTROL	mapped	CONTROL	True	control	60	Male	09/02/09_TRO	R1;contrast:control
+GSM2631084	Neuro_Krainc_P04_D12_FRATRO216	TRO216	CONTROL	mapped	CONTROL	True	control	59	Female	09/02/09_TRO	R1;contrast:control
+GSM2631085	Neuro_Krainc_P04_E01_FRATRO217	TRO217	CONTROL	mapped	CONTROL	True	control	63	Female	09/02/09_TRO	R1;contrast:control
+GSM2631086	Neuro_Krainc_P04_E02_FRATRO218	TRO218	HD	mapped	HD	True		65	Female	09/02/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631087	Neuro_Krainc_P04_E03_FRATRO219	TRO219	HD	mapped	HD	True		42	Female	09/02/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631088	Neuro_Krainc_P04_E05_FRATRO221	TRO221	HD	mapped	HD	True		39	Male	09/02/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631089	Neuro_Krainc_P04_E06_FRATRO222	TRO222	IPD	mapped	IPD	True	case:IPD	63	Female	09/02/09_TRO	R1;contrast:case:IPD
+GSM2631090	Neuro_Krainc_P04_E07_FRATRO224	TRO224	IPD	mapped	IPD	True	case:IPD	67	Female	09/02/09_TRO	R1;contrast:case:IPD
+GSM2631091	Neuro_Krainc_P04_E08_FRATRO225	TRO225	CONTROL	mapped	CONTROL	True	control	59	Female	09/02/09_TRO	R1;contrast:control
+GSM2631092	Neuro_Krainc_P04_E09_FRATRO226_2	TRO226	HD	mapped	HD	True		50	Female	09/02/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631093	Neuro_Krainc_P04_E10_FRATRO227	TRO227	HD	mapped	HD	True		58	Male	09/02/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631094	Neuro_Krainc_P04_E11_FRATRO228	TRO228	IPD	mapped	IPD	True	case:IPD	66	Male	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631095	Neuro_Krainc_P04_E12_FRATRO229	TRO229	IPD	mapped	IPD	True	case:IPD	60	Female	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631096	Neuro_Krainc_P04_F01_FRATRO230	TRO230	IPD	mapped	IPD	True	case:IPD	53	Male	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631097	Neuro_Krainc_P04_F02_FARTRO231_1	TRO231	IPD	mapped	IPD	True	case:IPD	66	Female	09/04/09_TRO	R1;contrast:case:IPD
+GSM2631098	Neuro_Krainc_P04_F03_FRATRO232_2	TRO232	HD	mapped	HD	True		55	Female	09/03/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631099	Neuro_Krainc_P04_F04_FRATRO233_1	TRO233	IPD	mapped	IPD	True	case:IPD	78	Female	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631100	Neuro_Krainc_P04_F06_FRATRO235	TRO235	CONTROL	mapped	CONTROL	True	control	70	Male	09/03/09_TRO	R1;contrast:control
+GSM2631101	Neuro_Krainc_P04_F07_FRATRO236	TRO236	CONTROL	mapped	CONTROL	True	control	65	Female	09/03/09_TRO	R1;contrast:control
+GSM2631102	Neuro_Krainc_P04_F08_FRATRO237	TRO237	CONTROL	mapped	CONTROL	True	control	67	Female	09/03/09_TRO	R1;contrast:control
+GSM2631103	Neuro_Krainc_P04_F09_FRATRO238	TRO238	CONTROL	mapped	CONTROL	True	control	67	Female	09/03/09_TRO	R1;contrast:control
+GSM2631104	Neuro_Krainc_P04_F10_FRATRO239_1	TRO239	IPD	mapped	IPD	True	case:IPD	69	Male	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631105	Neuro_Krainc_P04_F11_FRATRO240	TRO240	CONTROL	mapped	CONTROL	True	control	56	Male	09/03/09_TRO	R1;contrast:control
+GSM2631106	Neuro_Krainc_P04_F12_FRATRO241	TRO241	IPD	mapped	IPD	True	case:IPD	69	Female	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631107	Neuro_Krainc_P04_G01_FRATRO242	TRO242	IPD	mapped	IPD	True	case:IPD	77	Male	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631108	Neuro_Krainc_P04_G02_FRATRO243	TRO243	IPD	mapped	IPD	True	case:IPD	60	Male	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631109	Neuro_Krainc_P04_G03_FRATRO244	TRO244	CONTROL	mapped	CONTROL	True	control	58	Female	09/03/09_TRO	R1;contrast:control
+GSM2631110	Neuro_Krainc_P04_G04_FRATRO245	TRO245	CONTROL	mapped	CONTROL	True	control	69	Female	09/03/09_TRO	R1;contrast:control
+GSM2631111	Neuro_Krainc_P04_G05_FRATRO246	TRO246	CONTROL	mapped	CONTROL	True	control	61	Female	09/03/09_TRO	R1;contrast:control
+GSM2631112	Neuro_Krainc_P04_G06_FRATRO247	TRO247	CONTROL	mapped	CONTROL	True	control	58	Female	09/03/09_TRO	R1;contrast:control
+GSM2631113	Neuro_Krainc_P04_G07_FRATRO248_2	TRO248	HD	mapped	HD	True		42	Male	09/03/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631114	Neuro_Krainc_P04_G08_FRATRO249_1	TRO249	IPD	mapped	IPD	True	case:IPD	52	Female	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631115	Neuro_Krainc_P04_G09_FRATRO250_2	TRO250	IPD	mapped	IPD	True	case:IPD	63	Male	09/04/09_TRO	R1;contrast:case:IPD
+GSM2631116	Neuro_Krainc_P04_G11_FRATRO252	TRO252	CONTROL	mapped	CONTROL	True	control	60	Female	09/03/09_TRO	R1;contrast:control
+GSM2631117	Neuro_Krainc_P04_G12_FRATRO253	TRO253	IPD	mapped	IPD	True	case:IPD	50	Male	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631118	Neuro_Krainc_P04_H01_FRATRO254	TRO254	CONTROL	mapped	CONTROL	True	control	58	Male	09/03/09_TRO	R1;contrast:control
+GSM2631119	Neuro_Krainc_P04_H02_FRATRO255	TRO255	IPD	mapped	IPD	True	case:IPD	42	Female	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631120	Neuro_Krainc_P04_H03_FRATRO256	TRO256	IPD	mapped	IPD	True	case:IPD	59	Female	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631121	Neuro_Krainc_P04_H04_FRATRO257	TRO257	CONTROL	mapped	CONTROL	True	control	51	Male	09/03/09_TRO	R1;contrast:control
+GSM2631122	Neuro_Krainc_P04_H05_FRATRO258	TRO258	CONTROL	mapped	CONTROL	True	control	59	Male	09/03/09_TRO	R1;contrast:control
+GSM2631123	Neuro_Krainc_P04_H06_FRATRO259	TRO259	CONTROL	mapped	CONTROL	True	control	69	Female	09/03/09_TRO	R1;contrast:control
+GSM2631124	Neuro_Krainc_P04_H07_FRATRO260	TRO260	IPD	mapped	IPD	True	case:IPD	42	Female	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631125	Neuro_Krainc_P04_H08_FRATRO262_2	TRO262	CONTROL	mapped	CONTROL	True	control	79	Female	09/04/09_TRO	R1;contrast:control
+GSM2631126	Neuro_Krainc_P04_H09_FRATRO264	TRO264	CONTROL	mapped	CONTROL	True	control	66	Female	09/03/09_TRO	R1;contrast:control
+GSM2631127	Neuro_Krainc_P04_H11_FRATRO266_2	TRO266	IPD	mapped	IPD	True	case:IPD	39	Male	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631128	Neuro_Krainc_P04_H12_FRATRO268_2	TRO268	IPD	mapped	IPD	True	case:IPD	71	Male	09/03/09_TRO	R1;contrast:case:IPD
+GSM2631129	Neuro_Krainc_P05_A01_FRATRO269	TRO269	IPD	mapped	IPD	True	case:IPD	71	Male	09/02/09_TRO	R1;contrast:case:IPD
+GSM2631130	Neuro_Krainc_P05_A02_FRATRO270	TRO270	CONTROL	mapped	CONTROL	True	control	51	Female	09/02/09_TRO	R1;contrast:control
+GSM2631131	Neuro_Krainc_P05_A04_FRATRO272	TRO272	CONTROL	mapped	CONTROL	True	control	63	Female	09/02/09_TRO	R1;contrast:control
+GSM2631132	Neuro_Krainc_P05_A05_FRATRO273	TRO273	CONTROL	mapped	CONTROL	True	control	59	Female	09/02/09_TRO	R1;contrast:control
+GSM2631133	Neuro_Krainc_P05_A07_FRATRO275	TRO275	CONTROL	mapped	CONTROL	True	control	72	Female	09/02/09_TRO	R1;contrast:control
+GSM2631134	Neuro_Krainc_P05_A08_FRATRO277	TRO277	IPD	mapped	IPD	True	case:IPD	59	Male	09/02/09_TRO	R1;contrast:case:IPD
+GSM2631135	Neuro_Krainc_P05_A11_FRATRO280	TRO280	CONTROL	mapped	CONTROL	True	control	59	Male	09/02/09_TRO	R1;contrast:control
+GSM2631136	Neuro_Krainc_P05_A12_FRATRO282	TRO282	CONTROL	mapped	CONTROL	True	control	60	Female	09/02/09_TRO	R1;contrast:control
+GSM2631137	Neuro_Krainc_P05_B04_FRATRO286	TRO286	CONTROL	mapped	CONTROL	True	control	62	Female	09/02/09_TRO	R1;contrast:control
+GSM2631138	Neuro_Krainc_P05_B05_FRATRO287	TRO287	CONTROL	mapped	CONTROL	True	control	68	Female	09/02/09_TRO	R1;contrast:control
+GSM2631139	Neuro_Krainc_P05_B06_FRATRO288	TRO288	HD	mapped	HD	True		45	Female	09/02/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631140	Neuro_Krainc_P05_B11_FRATRO294	TRO294	CONTROL	mapped	CONTROL	True	control	64	Female	09/02/09_TRO	R1;contrast:control
+GSM2631141	Neuro_Krainc_P05_B12_FRATRO295	TRO295	GPD	mapped	GPD	True	case:GPD	50	Female	09/02/09_TRO	R1;contrast:case:GPD
+GSM2631142	Neuro_Krainc_P05_C01_FRATRO296	TRO296	CONTROL	mapped	CONTROL	True	control	58	Female	09/02/09_TRO	R1;contrast:control
+GSM2631143	Neuro_Krainc_P05_C06_FRATRO301	TRO301	CONTROL	mapped	CONTROL	True	control	35	Female	09/02/09_TRO	R1;contrast:control
+GSM2631144	Neuro_Krainc_P05_C09_FRATRO304	TRO304	IPD	mapped	IPD	True	case:IPD	65	Male	09/02/09_TRO	R1;contrast:case:IPD
+GSM2631145	Neuro_Krainc-2_P01_A03_L1767	L1767	DRD	mapped	DRD	True			Female	02/18/10_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631146	Neuro_Krainc-2_P01_B01_L2616	L2616	IPD	mapped	IPD	True	case:IPD		Male	02/18/10_L	R1;contrast:case:IPD
+GSM2631147	Neuro_Krainc-2_P01_B06_L2697-2	L2697	CBD	mapped	CBD	True			Female	02/18/10_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631148	Neuro_Krainc-2_P01_B08_L2761	L2761	IPD	mapped	IPD	True	case:IPD		Female	02/18/10_L	R1;contrast:case:IPD
+GSM2631149	Neuro_Krainc-2_P02_A06_L3360_01	L3360	CONTROL	mapped	CONTROL	True	control		Male	02/25/10_L	R1;contrast:control
+GSM2631150	Neuro_Krainc-2_P02_A08_L3675_01	L3675	IPD	mapped	IPD	True	case:IPD			02/25/10_L	R1;contrast:case:IPD
+GSM2631151	Neuro_Krainc-2_P02_A09_L3676_01	L3676	IPD	mapped	IPD	True	case:IPD			02/25/10_L	R1;contrast:case:IPD
+GSM2631152	Neuro_Krainc-2_P02_A10_L3687_01	L3687	CONTROL	mapped	CONTROL	True	control			02/25/10_L	R1;contrast:control
+GSM2631153	Neuro_Krainc-2_P02_A11_L3692_01	L3692	CONTROL	mapped	CONTROL	True	control			02/26/10_L	R1;contrast:control
+GSM2631154	Neuro_Krainc-2_P02_B01_L3680_01	L3680	IPD	mapped	IPD	True	case:IPD			02/25/10_L	R1;contrast:case:IPD
+GSM2631155	Neuro_Krainc-2_P02_B02_L3674_01	L3674	IPD	mapped	IPD	True	case:IPD			02/25/10_L	R1;contrast:case:IPD
+GSM2631156	Neuro_Krainc-2_P02_B03_L3681_01	L3681	IPD	mapped	IPD	True	case:IPD			02/25/10_L	R1;contrast:case:IPD
+GSM2631157	Neuro_Krainc-2_P02_B07_L1341_01	L1341	IPD	mapped	IPD	True	case:IPD			02/25/10_L	R1;contrast:case:IPD
+GSM2631158	Neuro_Krainc-2_P02_B08_L3667_01	L3667	CONTROL	mapped	CONTROL	True	control			02/25/10_L	R1;contrast:control
+GSM2631159	Neuro_Krainc-2_P02_B10_L4020_01	L4020	CONTROL	mapped	CONTROL	True	control			02/25/10_L	R1;contrast:control
+GSM2631160	Neuro_Krainc-2_P02_B12_L3684_01	L3684	IPD	mapped	IPD	True	case:IPD			02/25/10_L	R1;contrast:case:IPD
+GSM2631161	Neuro_Krainc-2_P02_C01_L3653_01	L3653	CONTROL	mapped	CONTROL	True	control			03/05/10_L	R1;contrast:control
+GSM2631162	Neuro_Krainc-2_P02_C02_L3685_01	L3685	CONTROL	mapped	CONTROL	True	control			03/05/10_L	R1;contrast:control
+GSM2631163	Neuro_Krainc-2_P02_C03_L4026_01	L4026	CONTROL	mapped	CONTROL	True	control			03/05/10_L	R1;contrast:control
+GSM2631164	Neuro_Krainc-2_P02_C04_L3682_01	L3682	IPD	mapped	IPD	True	case:IPD			03/05/10_L	R1;contrast:case:IPD
+GSM2631165	Neuro_Krainc-2_P02_C07_L3657_01	L3657	CONTROL	mapped	CONTROL	True	control			03/05/10_L	R1;contrast:control
+GSM2631166	Neuro_Krainc-2_P02_C09_L3666_01	L3666	IPD	mapped	IPD	True	case:IPD			03/05/10_L	R1;contrast:case:IPD
+GSM2631167	Neuro_Krainc-2_P02_D01_L3671_01	L3671	CONTROL	mapped	CONTROL	True	control			03/05/10_L	R1;contrast:control
+GSM2631168	Neuro_Krainc-2_P02_D04_L4028_01	L4028	IPD	mapped	IPD	True	case:IPD			03/05/10_L	R1;contrast:case:IPD
+GSM2631169	Neuro_Krainc-2_P02_D07_L3655_01	L3655	IPD	mapped	IPD	True	case:IPD			03/05/10_L	R1;contrast:case:IPD
+GSM2631170	Neuro_Krainc-2_P02_D08_L4029_01	L4029	IPD	mapped	IPD	True	case:IPD			03/05/10_L	R1;contrast:case:IPD
+GSM2631171	Neuro_Krainc-2_P02_D10_L2899_01	L2899	ATYPICAL_PD	mapped	ATYPICAL_PD	True			Male	03/05/10_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631172	Neuro_Krainc-2_P02_D11_L3699_01	L3699	CONTROL	mapped	CONTROL	True	control			03/05/10_L	R1;contrast:control
+GSM2631173	Neuro_Krainc-2_P02_E09_L3058_01	L3058	CONTROL	mapped	CONTROL	True	control		Female	03/05/10_L	R1;contrast:control
+GSM2631174	Neuro_Krainc-2_P02_E12_L4032_01	L4032	PSP	mapped	PSP	True				03/05/10_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631175	Neuro_Krainc-2_P02_F01_L3665_01	L3665	CONTROL	mapped	CONTROL	True	control			03/05/10_L	R1;contrast:control
+GSM2631176	Neuro_Krainc-2_P02_F05_L4022_01	L4022	CONTROL	mapped	CONTROL	True	control			03/05/10_L	R1;contrast:control
+GSM2631177	Neuro_Krainc-2_P02_F06_L3656_01	L3656	CONTROL	mapped	CONTROL	True	control			03/05/10_L	R1;contrast:control
+GSM2631178	Neuro_Krainc-2_P02_F08_L4031_01	L4031	IPD	mapped	IPD	True	case:IPD			03/05/10_L	R1;contrast:case:IPD
+GSM2631179	Neuro_Krainc-2_P02_F09_FRATRO223	TRO223	CONTROL	mapped	CONTROL	True	control	58	Male	03/05/10_TRO	R1;contrast:control
+GSM2631180	Neuro_Krainc-2_P02_F10_FRATRO306	TRO306	CONTROL	mapped	CONTROL	True	control	75	Female	03/05/10_TRO	R1;contrast:control
+GSM2631181	Neuro_Krainc-2_P02_F12_FRATRO308_1	TRO308	CONTROL	mapped	CONTROL	True	control	58	Male	03/05/10_TRO	R1;contrast:control
+GSM2631182	Neuro_Krainc-2_P02_G01_FRATRO309	TRO309	IPD	mapped	IPD	True	case:IPD	70	Male	03/05/10_TRO	R1;contrast:case:IPD
+GSM2631183	Neuro_Krainc-2_P02_G02_FRATRO310	TRO310	IPD	mapped	IPD	True	case:IPD	59	Male	03/05/10_TRO	R1;contrast:case:IPD
+GSM2631184	Neuro_Krainc-2_P02_G03_FRATRO311	TRO311	IPD	mapped	IPD	True	case:IPD	78	Male	03/05/10_TRO	R1;contrast:case:IPD
+GSM2631185	Neuro_Krainc-2_P02_G04_FRATRO313	TRO313	CONTROL	mapped	CONTROL	True	control	67	Female	03/05/10_TRO	R1;contrast:control
+GSM2631186	Neuro_Krainc-2_P02_G05_FRATRO314_2	TRO314	IPD	mapped	IPD	True	case:IPD	74	Female	03/05/10_TRO	R1;contrast:case:IPD
+GSM2631187	Neuro_Krainc-2_P02_G06_FRATRO315	TRO315	IPD	mapped	IPD	True	case:IPD	72	Female	03/05/10_TRO	R1;contrast:case:IPD
+GSM2631188	Neuro_Krainc-2_P02_G10_FRATRO319	TRO319	IPD	mapped	IPD	True	case:IPD	50	Female	03/05/10_TRO	R1;contrast:case:IPD
+GSM2631189	Neuro_Krainc-2_P02_G11_FRATRO320	TRO320	IPD	mapped	IPD	True	case:IPD	74	Female	03/05/10_TRO	R1;contrast:case:IPD
+GSM2631190	Neuro_Krainc-2_P02_H01_FRATRO322	TRO322	IPD	mapped	IPD	True	case:IPD	53	Female	03/05/10_TRO	R1;contrast:case:IPD
+GSM2631191	Neuro_Krainc-2_P03_A01_FRA_TRO_335	TRO335	CONTROL	mapped	CONTROL	True	control	57	Female	03/10/10_TRO	R1;contrast:control
+GSM2631192	Neuro_Krainc-2_P03_A04_FRA_TRO_338_01	TRO338	IPD	mapped	IPD	True	case:IPD	60	Female	03/10/10_TRO	R1;contrast:case:IPD
+GSM2631193	Neuro_Krainc-2_P03_A05_FRA_TRO_339_01	TRO339	GPD	mapped	GPD	True	case:GPD	42	Female	03/10/10_TRO	R1;contrast:case:GPD
+GSM2631194	Neuro_Krainc-2_P03_A06_FRA_TRO_340_01	TRO340	CONTROL	mapped	CONTROL	True	control	42	Male	03/10/10_TRO	R1;contrast:control
+GSM2631195	Neuro_Krainc-2_P03_A07_FRA_TRO_341_01	TRO341	CONTROL	mapped	CONTROL	True	control	49	Male	03/10/10_TRO	R1;contrast:control
+GSM2631196	Neuro_Krainc-2_P03_A08_FRA_TRO_342_01	TRO342	CONTROL	mapped	CONTROL	True	control	40	Male	03/10/10_TRO	R1;contrast:control
+GSM2631197	Neuro_Krainc-2_P03_A09_FRA_TRO_343_01	TRO343	CONTROL	mapped	CONTROL	True	control	43	Male	03/10/10_TRO	R1;contrast:control
+GSM2631198	Neuro_Krainc-2_P03_A10_FRA_TRO_344_01	TRO344	CONTROL	mapped	CONTROL	True	control	40	Male	03/10/10_TRO	R1;contrast:control
+GSM2631199	Neuro_Krainc-2_P03_A11_FRA_TRO_345_01	TRO345	MSA	mapped	MSA	True		81	Female	03/10/10_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631200	Neuro_Krainc-2_P03_A12_FRA_TRO_346_01	TRO346	IPD	mapped	IPD	True	case:IPD	51	Female	03/10/10_TRO	R1;contrast:case:IPD
+GSM2631201	Neuro_Krainc-2_P03_B01_FRA_TRO_347_01	TRO347	GPD	mapped	GPD	True	case:GPD	58	Female	03/10/10_TRO	R1;contrast:case:GPD
+GSM2631202	Neuro_Krainc-2_P03_B03_FRA_TRO_349_01	TRO349	GPD	mapped	GPD	True	case:GPD	42	Female	03/11/10_TRO	R1;contrast:case:GPD
+GSM2631203	Neuro_Krainc-2_P03_B05_FRA_TRO_351_01	TRO351	GPD	mapped	GPD	True	case:GPD	50	Female	03/10/10_TRO	R1;contrast:case:GPD
+GSM2631204	Neuro_Krainc-2_P03_B09_FRA_TRO_355_01	TRO355	MSA	mapped	MSA	True		75	Female	03/10/10_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631205	Neuro_Krainc-2_P03_B12_FRA_TRO_359_01	TRO359	GPD	mapped	GPD	True	case:GPD	62	Male	03/10/10_TRO	R1;contrast:case:GPD
+GSM2631206	Neuro_Krainc-2_P03_C02_FRA_TRO_361_01	TRO361	GPD	mapped	GPD	True	case:GPD	48	Male	03/10/10_TRO	R1;contrast:case:GPD
+GSM2631207	Neuro_Krainc-2_P03_C04_FRA_TRO_363_01	TRO363	GPD	mapped	GPD	True	case:GPD	66	Female	03/10/10_TRO	R1;contrast:case:GPD
+GSM2631208	E7R_037b04		HD_HD_BATCH	mapped	HD_HD_BATCH	True				01/09/08_L	R1;subject_id:missing(recorded);P1:outside_specificity_contrasts(descriptive)
+GSM2631209	E7R_037b05		HD_HD_BATCH	mapped	HD_HD_BATCH	True				01/09/08_L	R1;subject_id:missing(recorded);P1:outside_specificity_contrasts(descriptive)
+GSM2631210	E7R_037b06		HD_HD_BATCH	mapped	HD_HD_BATCH	True				01/15/08_L	R1;subject_id:missing(recorded);P1:outside_specificity_contrasts(descriptive)
+GSM2631211	E7R_037c16		HD_HD_BATCH	mapped	HD_HD_BATCH	True				01/17/08_L	R1;subject_id:missing(recorded);P1:outside_specificity_contrasts(descriptive)
+GSM2631212	E7R_037c17		HD_HD_BATCH	mapped	HD_HD_BATCH	True				01/18/08_L	R1;subject_id:missing(recorded);P1:outside_specificity_contrasts(descriptive)
+GSM2631213	E7R_037c23		HD_HD_BATCH	mapped	HD_HD_BATCH	True				01/17/08_L	R1;subject_id:missing(recorded);P1:outside_specificity_contrasts(descriptive)
+GSM2631214	E7R_037d06		HD_HD_BATCH	mapped	HD_HD_BATCH	True				01/16/08_L	R1;subject_id:missing(recorded);P1:outside_specificity_contrasts(descriptive)
+GSM2631215	E7R_037d12		HD_HD_BATCH	mapped	HD_HD_BATCH	True				01/18/08_L	R1;subject_id:missing(recorded);P1:outside_specificity_contrasts(descriptive)
+GSM2631216	E7R_039a100	L2585	PSP	mapped	PSP	True			Female	02/22/08_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631217	E7R_039a43	L2130	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Male	02/04/08_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2631218	E7R_039a47	L2128	GPD	mapped	GPD	True	case:GPD		Male	02/07/08_L	R1;contrast:case:GPD
+GSM2631219	E7R_039a53	L2131	ATYPICAL_PD	mapped	ATYPICAL_PD	True			Male	02/07/08_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631220	E7R_039a61	L2837	IPD	mapped	IPD	True	case:IPD		Male	02/08/08_L	R1;contrast:case:IPD
+GSM2631221	E7R_039a66	L1591	CONTROL	mapped	CONTROL	True	control		Male	02/08/08_L	R1;contrast:control
+GSM2631222	E7R_039a86	L3056	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Female	02/12/08_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2631223	E8R_012a10	L3078	PD_DEMENTIA	mapped	PD_DEMENTIA	True			Male	05/16/08_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631224	E8R_012a15	L3208	IPD	mapped	IPD	True	case:IPD		Male	05/27/08_L	R1;contrast:case:IPD
+GSM2631225	E8R_012a28_2	L3258	IPD	mapped	IPD	True	case:IPD		Male	06/19/08_L	R1;contrast:case:IPD
+GSM2631226	Neuro_Krainc_P01_B9_L3292	L3292	GPD	mapped	GPD	True	case:GPD		Male	08/28/09_L	R1;contrast:case:GPD
+GSM2631227	Neuro_Krainc_P01_C8_L3338	L3338	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2631228	Neuro_Krainc_P01_D4_L3348	L3348	GPD	mapped	GPD	True	case:GPD		Male	08/28/09_L	R1;contrast:case:GPD
+GSM2631229	Neuro_Krainc_P01_E4_L3365	L3365	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Female	08/28/09_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2631230	Neuro_Krainc_P01_G1_L3453	L3453	CONTROL	mapped	CONTROL	True	control		Male	08/28/09_L	R1;contrast:control
+GSM2631231	Neuro_Krainc_P01_G11_L3463	L3463	CONTROL	mapped	CONTROL	True	control		Female	08/28/09_L	R1;contrast:control
+GSM2631232	Neuro_Krainc_P01_H8_L3493	L3493	CONTROL	mapped	CONTROL	True	control		Male	08/28/09_L	R1;contrast:control
+GSM2631233	Neuro_Krainc_P02_A04_L3506	L3506	PD_DEMENTIA	mapped	PD_DEMENTIA	True			Male	09/01/09_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631234	Neuro_Krainc_P02_A08_L3510	L3510	CONTROL	mapped	CONTROL	True	control		Male	09/01/09_L	R1;contrast:control
+GSM2631235	Neuro_Krainc_P02_A11_L3514	L3514	CONTROL	mapped	CONTROL	True	control		Female	09/01/09_L	R1;contrast:control
+GSM2631236	Neuro_Krainc_P02_A12_L3515	L3515	CONTROL	mapped	CONTROL	True	control		Female	09/01/09_L	R1;contrast:control
+GSM2631237	Neuro_Krainc_P02_B01_L3516	L3516	CONTROL	mapped	CONTROL	True	control		Male	09/01/09_L	R1;contrast:control
+GSM2631238	Neuro_Krainc_P02_B04_L3519	L3519	CONTROL	mapped	CONTROL	True	control		Female	09/01/09_L	R1;contrast:control
+GSM2631239	Neuro_Krainc_P02_B06_L3521_2	L3521	CONTROL	mapped	CONTROL	True	control		Female	09/01/09_L	R1;contrast:control
+GSM2631240	Neuro_Krainc_P02_B07_L3522	L3522	CONTROL	mapped	CONTROL	True	control		Male	09/01/09_L	R1;contrast:control
+GSM2631241	Neuro_Krainc_P02_B12_L3603	L3603	CONTROL	mapped	CONTROL	True	control		Female	09/01/09_L	R1;contrast:control
+GSM2631242	Neuro_Krainc_P02_C03_L3651	L3651	CONTROL	mapped	CONTROL	True	control		Male	09/01/09_L	R1;contrast:control
+GSM2631243	Neuro_Krainc_P02_C04_L3652	L3652	CONTROL	mapped	CONTROL	True	control		Female	09/01/09_L	R1;contrast:control
+GSM2631244	Neuro_Krainc_P02_C05_L3712	L3712	IPD	mapped	IPD	True	case:IPD		Male	09/02/09_L	R1;contrast:case:IPD
+GSM2631245	Neuro_Krainc_P02_C06_L3713	L3713	IPD	mapped	IPD	True	case:IPD		Male	09/01/09_L	R1;contrast:case:IPD
+GSM2631246	Neuro_Krainc_P02_C07_L3714	L3714	IPD	mapped	IPD	True	case:IPD		Male	09/01/09_L	R1;contrast:case:IPD
+GSM2631247	Neuro_Krainc_P02_C09_L3716_2	L3716	IPD	mapped	IPD	True	case:IPD		Male	09/01/09_L	R1;contrast:case:IPD
+GSM2631248	Neuro_Krainc_P02_C10_L3717	L3717	CONTROL	mapped	CONTROL	True	control		Male	09/01/09_L	R1;contrast:control
+GSM2631249	Neuro_Krainc_P02_C12_L3731	L3731	IPD	mapped	IPD	True	case:IPD		Female	09/01/09_L	R1;contrast:case:IPD
+GSM2631250	Neuro_Krainc_P02_D01_B25_RPT	B25	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED		Male	09/16/09_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2631251	Neuro_Krainc_P02_D08_B45	B45	GPD	mapped	GPD	True	case:GPD		Male	09/01/09_L	R1;contrast:case:GPD
+GSM2631252	Neuro_Krainc_P02_D09_B980	B980	CONTROL	mapped	CONTROL	True	control		Female	09/01/09_L	R1;contrast:control
+GSM2631253	Neuro_Krainc_P02_E01_FRATRO5	TRO5	IPD	mapped	IPD	True	case:IPD	58	Male	09/01/09_TRO	R1;contrast:case:IPD
+GSM2631254	Neuro_Krainc_P02_E02_FRATRO6_2	TRO6	IPD	mapped	IPD	True	case:IPD	54	Male	09/01/09_TRO	R1;contrast:case:IPD
+GSM2631255	Neuro_Krainc_P02_E03_FRATRO7	TRO7	GPD	mapped	GPD	True	case:GPD	49	Male	09/01/09_TRO	R1;contrast:case:GPD
+GSM2631256	Neuro_Krainc_P02_E11_FRATRO16	TRO16	IPD	mapped	IPD	True	case:IPD	63	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2631257	Neuro_Krainc_P02_F03_FRATRO21	TRO21	IPD	mapped	IPD	True	case:IPD	57	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2631258	Neuro_Krainc_P02_F06_FRATRO24	TRO24	IPD	mapped	IPD	True	case:IPD	42	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2631259	Neuro_Krainc_P02_F07_FRATRO26	TRO26	IPD	mapped	IPD	True	case:IPD	67	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2631260	Neuro_Krainc_P02_F08_FRATRO28	TRO28	IPD	mapped	IPD	True	case:IPD	54	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2631261	Neuro_Krainc_P02_F09_FRATRO29	TRO29	IPD	mapped	IPD	True	case:IPD	74	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2631262	Neuro_Krainc_P02_F10_FRATRO30	TRO30	IPD	mapped	IPD	True	case:IPD	66	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2631263	Neuro_Krainc_P02_F12_FRATRO32	TRO32	IPD	mapped	IPD	True	case:IPD	47	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2631264	Neuro_Krainc_P02_G02_FRATRO34	TRO34	IPD	mapped	IPD	True	case:IPD	71	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2631265	Neuro_Krainc_P02_G03_FRATRO35	TRO35	IPD	mapped	IPD	True	case:IPD	70	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2631266	Neuro_Krainc_P02_G04_FRATRO36	TRO36	IPD	mapped	IPD	True	case:IPD	67	Male	09/01/09_TRO	R1;contrast:case:IPD
+GSM2631267	Neuro_Krainc_P02_G05_FRATRO37	TRO37	IPD	mapped	IPD	True	case:IPD	69	Female	09/01/09_TRO	R1;contrast:case:IPD
+GSM2631268	Neuro_Krainc_P02_G09_FRATRO41	TRO41	IPD	mapped	IPD	True	case:IPD	77	Male	09/02/09_TRO	R1;contrast:case:IPD
+GSM2631269	Neuro_Krainc_P02_H11_FRATRO55	TRO55	IPD	mapped	IPD	True	case:IPD	70	Male	09/02/09_TRO	R1;contrast:case:IPD
+GSM2631270	Neuro_Krainc_P03_A06_FRATRO62	TRO62	HD	mapped	HD	True		54	Male	08/20/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631271	Neuro_Krainc_P03_B04_FRATRO077	TRO77	IPD	mapped	IPD	True	case:IPD	62	Female	08/25/09_TRO	R1;contrast:case:IPD
+GSM2631272	Neuro_Krainc_P03_B06_FRATRO079	TRO79	CONTROL	mapped	CONTROL	True	control	74	Male	08/25/09_TRO	R1;contrast:control
+GSM2631273	Neuro_Krainc_P03_C03_FRATRO093	TRO93	CONTROL	mapped	CONTROL	True	control	52	Male	08/25/09_TRO	R1;contrast:control
+GSM2631274	Neuro_Krainc_P03_E07_FRATRO121	TRO121	CONTROL	mapped	CONTROL	True	control	78	Female	08/26/09_TRO	R1;contrast:control
+GSM2631275	Neuro_Krainc_P03_E08_FRATRO122	TRO122	CONTROL	mapped	CONTROL	True	control	74	Male	08/26/09_TRO	R1;contrast:control
+GSM2631276	Neuro_Krainc_P03_E09_FRATRO123	TRO123	CONTROL	mapped	CONTROL	True	control	70	Female	08/26/09_TRO	R1;contrast:control
+GSM2631277	Neuro_Krainc_P03_E10_FRATRO124	TRO124	CONTROL	mapped	CONTROL	True	control	69	Female	08/26/09_TRO	R1;contrast:control
+GSM2631278	Neuro_Krainc_P03_F01_FRATRO127	TRO127	CONTROL	mapped	CONTROL	True	control	75	Male	08/26/09_TRO	R1;contrast:control
+GSM2631279	Neuro_Krainc_P03_F02_FRATRO129	TRO129	CONTROL	mapped	CONTROL	True	control	62	Female	08/26/09_TRO	R1;contrast:control
+GSM2631280	Neuro_Krainc_P03_F04_FRATRO131	TRO131	CONTROL	mapped	CONTROL	True	control	62	Female	08/26/09_TRO	R1;contrast:control
+GSM2631281	Neuro_Krainc_P03_F06_FRATRO133	TRO133	CONTROL	mapped	CONTROL	True	control	78	Male	08/26/09_TRO	R1;contrast:control
+GSM2631282	Neuro_Krainc_P03_F09_FRATRO136	TRO136	GPD	mapped	GPD	True	case:GPD	42	Female	08/27/09_TRO	R1;contrast:case:GPD
+GSM2631283	Neuro_Krainc_P04_B06_FRATRO186	TRO186	CONTROL	mapped	CONTROL	True	control	61	Female	09/03/09_TRO	R1;contrast:control
+GSM2631284	Neuro_Krainc_P04_B12_FRATRO192	TRO192	CONTROL	mapped	CONTROL	True	control	61	Female	09/03/09_TRO	R1;contrast:control
+GSM2631285	Neuro_Krainc_P04_E04_FRATRO220	TRO220	HD	mapped	HD	True		49	Female	09/02/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631286	Neuro_Krainc_P04_F05_FRATRO234_2	TRO234	HD	mapped	HD	True		36	Male	09/03/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631287	Neuro_Krainc_P04_G10_FRATRO251	TRO251	CONTROL	mapped	CONTROL	True	control	63	Female	09/03/09_TRO	R1;contrast:control
+GSM2631288	Neuro_Krainc_P04_H10_FRATRO265	TRO265	HD	mapped	HD	True		30	Male	09/03/09_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631289	Neuro_Krainc_P05_A03_FRATRO271	TRO271	CONTROL	mapped	CONTROL	True	control	62	Female	09/02/09_TRO	R1;contrast:control
+GSM2631290	Neuro_Krainc_P05_A06_FRATRO274	TRO274	IPD	mapped	IPD	True	case:IPD	47	Male	09/02/09_TRO	R1;contrast:case:IPD
+GSM2631291	Neuro_Krainc_P05_A09_FRATRO278	TRO278	IPD	mapped	IPD	True	case:IPD	63	Male	09/02/09_TRO	R1;contrast:case:IPD
+GSM2631292	Neuro_Krainc_P05_B01_FRATRO283	TRO283	GPD	mapped	GPD	True	case:GPD	63	Female	09/03/09_TRO	R1;contrast:case:GPD
+GSM2631293	Neuro_Krainc_P05_B03_FRATRO285	TRO285	IPD	mapped	IPD	True	case:IPD	66	Male	09/02/09_TRO	R1;contrast:case:IPD
+GSM2631294	Neuro_Krainc_P05_B09_FRATRO292	TRO292	GPD	mapped	GPD	True	case:GPD	48	Male	09/02/09_TRO	R1;contrast:case:GPD
+GSM2631295	Neuro_Krainc_P05_B10_FRATRO293	TRO293	CONTROL	mapped	CONTROL	True	control	60	Female	09/02/09_TRO	R1;contrast:control
+GSM2631296	Neuro_Krainc_P05_C03_FRATRO298	TRO298	IPD	mapped	IPD	True	case:IPD	67	Male	09/02/09_TRO	R1;contrast:case:IPD
+GSM2631297	Neuro_Krainc_P05_C08_FRATRO303	TRO303	IPD	mapped	IPD	True	case:IPD	50	Male	09/02/09_TRO	R1;contrast:case:IPD
+GSM2631298	Neuro_Krainc-2_P02_A07_L3663_01	L3663	CONTROL	mapped	CONTROL	True	control			02/25/10_L	R1;contrast:control
+GSM2631299	Neuro_Krainc-2_P02_A12_L4021_01	L4021	MSA	mapped	MSA	True				02/25/10_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631300	Neuro_Krainc-2_P02_B06_L1342_01	L1342	CONTROL	mapped	CONTROL	True	control			02/25/10_L	R1;contrast:control
+GSM2631301	Neuro_Krainc-2_P02_B09_L3686_01	L3686	CONTROL	mapped	CONTROL	True	control			02/25/10_L	R1;contrast:control
+GSM2631302	Neuro_Krainc-2_P02_B11_L3669_01	L3669	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED			02/25/10_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2631303	Neuro_Krainc-2_P02_C05_L4106_01	L4106	DRD-DYT5	mapped	DRD-DYT5	True				03/05/10_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631304	Neuro_Krainc-2_P02_C06_L4025_01	L4025	CONTROL	mapped	CONTROL	True	control			03/05/10_L	R1;contrast:control
+GSM2631305	Neuro_Krainc-2_P02_C08_L3654_01	L3654	CONTROL	mapped	CONTROL	True	control			03/05/10_L	R1;contrast:control
+GSM2631306	Neuro_Krainc-2_P02_C10_L3700_01	L3700	CONTROL	mapped	CONTROL	True	control			03/05/10_L	R1;contrast:control
+GSM2631307	Neuro_Krainc-2_P02_D02_L3872_01	L3872	GENETIC_UNAFFECTED	mapped	GENETIC_UNAFFECTED	True	case:GENETIC_UNAFFECTED			03/05/10_L	R1;contrast:case:GENETIC_UNAFFECTED
+GSM2631308	Neuro_Krainc-2_P02_D05_L4105_01	L4105	DRD-DYT5	mapped	DRD-DYT5	True				03/05/10_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631309	Neuro_Krainc-2_P02_D09_L2872_01	L2872	ATYPICAL_PD	mapped	ATYPICAL_PD	True			Male	03/05/10_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631310	Neuro_Krainc-2_P02_F02_L3668_01	L3668	CONTROL	mapped	CONTROL	True	control			03/05/10_L	R1;contrast:control
+GSM2631311	Neuro_Krainc-2_P02_F03_L4104_01	L4104	DRD-DYT5	mapped	DRD-DYT5	True				03/05/10_L	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631312	Neuro_Krainc-2_P02_F04_L4027_01	L4027	CONTROL	mapped	CONTROL	True	control			03/05/10_L	R1;contrast:control
+GSM2631313	Neuro_Krainc-2_P03_B10_FRA_TRO_357_01	TRO357	PSP	mapped	PSP	True		63	Male	03/10/10_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631314	Neuro_Krainc-2_P03_B11_FRA_TRO_358_01	TRO358	PSP	mapped	PSP	True		76	Male	03/10/10_TRO	R1;P1:outside_specificity_contrasts(descriptive)
+GSM2631315	Neuro_Krainc-2_P03_C01_FRA_TRO_360_01	TRO360	MSA	mapped	MSA	True		66	Male	03/10/10_TRO	R1;P1:outside_specificity_contrasts(descriptive)

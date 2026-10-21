@@ -1,0 +1,244 @@
+{
+  "status": "Decision support only; no mapping policy approved",
+  "sources": {
+    "tarballs": {
+      "illuminaHumanv3.db_1.26.0.tar.gz": {
+        "path": "/Users/sadgasalim/Documents/BIO-MB-001/reference/bioconductor_3.23/illuminaHumanv3.db_1.26.0.tar.gz",
+        "bytes": 6455664,
+        "md5": "7d9e7534f0b60f0e3e7473e545ef373d",
+        "sha256": "cea0c9cd155197154d57400cb3f18108e451cf26e714c39698d68e45cd503a1b"
+      },
+      "illuminaHumanv4.db_1.26.0.tar.gz": {
+        "path": "/Users/sadgasalim/Documents/BIO-MB-001/reference/bioconductor_3.23/illuminaHumanv4.db_1.26.0.tar.gz",
+        "bytes": 6705381,
+        "md5": "42d554559ac0106dc71317ffaf466421",
+        "sha256": "362848d6e78c7fa6206e1a4c68a4b68c1ea065267d550114837bc3b9d833ee85"
+      },
+      "lumiHumanIDMapping_1.10.1.tar.gz": {
+        "path": "/Users/sadgasalim/Documents/BIO-MB-001/reference/bioconductor_3.23/lumiHumanIDMapping_1.10.1.tar.gz",
+        "bytes": 27559728,
+        "md5": "007e5aa2f1596cc08d888ba6dce7148a",
+        "sha256": "6414e94a243eea6a126e582a68fadd41798bb5fccc03fcc99380a01f40634948"
+      }
+    },
+    "option_a_outputs": {
+      "illuminaHumanv3_probe_classification_PROVISIONAL.tsv": {
+        "path": "/Users/sadgasalim/Documents/BIO-MB-001/reports/annotation_audit/illumina_option_a/v1/illuminaHumanv3_probe_classification_PROVISIONAL.tsv",
+        "bytes": 3022167,
+        "md5": "e2d6694ec8ad9b2694af60ad718bf59d",
+        "sha256": "8214b0078512282701525617f81872ce189004df663079e96157cda8fe279de4"
+      },
+      "illuminaHumanv4_probe_classification_PROVISIONAL.tsv": {
+        "path": "/Users/sadgasalim/Documents/BIO-MB-001/reports/annotation_audit/illumina_option_a/v1/illuminaHumanv4_probe_classification_PROVISIONAL.tsv",
+        "bytes": 2959585,
+        "md5": "b7a4b77bf680838e8beebcd8c4db10a7",
+        "sha256": "fc73bebe9b614759cced5dcf553084e87091e2959a41866eff277b0916175153"
+      },
+      "lumi_HT12_v4_R2_probe_classification_PROVISIONAL.tsv": {
+        "path": "/Users/sadgasalim/Documents/BIO-MB-001/reports/annotation_audit/illumina_option_a/v1/lumi_HT12_v4_R2_probe_classification_PROVISIONAL.tsv",
+        "bytes": 3102437,
+        "md5": "29c4226c9519a0bc17f00ffe21c00665",
+        "sha256": "cd8edfd1016c1bf8f45a70a18cfda4c649c8b3e75fe55b9f23a3f138132fd739"
+      }
+    },
+    "option_a_manifest": {
+      "path": "/Users/sadgasalim/Documents/BIO-MB-001/reports/annotation_audit/illumina_option_a/v1/counts_manifest_PROVISIONAL.json",
+      "bytes": 8614,
+      "md5": "067492b9798737cb2b6679a3616bbb9e",
+      "sha256": "38c799d7eb1d57d81a5e78102a9ebfe66e47c6ef45f4454fd6c0acbaf1c6e86f"
+    },
+    "org_hs_eg_db_retained": false
+  },
+  "missing_source": {
+    "file": "org.Hs.eg.db_3.23.1.tar.gz",
+    "bytes": 103790170,
+    "md5_published": "813be1921e7bc08c1348dbce9d244d0a",
+    "sha256_recorded_2026_10_12": "470620665cf49d0319422731164f377e3e74253989f1d33a8a1d100cc3d49cfe",
+    "url": "https://bioconductor.org/packages/3.23/data/annotation/src/contrib/org.Hs.eg.db_3.23.1.tar.gz"
+  },
+  "metrics": [
+    {
+      "platform": "illuminaHumanv3",
+      "cohort": "GSE63060",
+      "probes_total": 49576,
+      "single_gene_probes": 29551,
+      "multi_gene_probes": 1175,
+      "no_gene_in_package": 18850,
+      "option_a": {
+        "eligible": 29489,
+        "eligible_direct": 29430,
+        "eligible_via_replacement": 59,
+        "no_replacement": 62,
+        "unexplained": 0,
+        "pct_eligible_of_all_probes": "59.48%",
+        "pct_eligible_of_single_gene_probes": "99.79%",
+        "distinct_genes": 19226,
+        "genes_with_more_than_one_probe": 6554,
+        "collision_probes": 43,
+        "collision_successor_genes": 28,
+        "collision_source_genes": 30
+      },
+      "accession_route_inputs": {
+        "probes_with_accession": 31857,
+        "pct_of_all_probes": "64.26%",
+        "single_gene_probes_with_accession": 29551,
+        "pct_of_single_gene_probes": "100.00%",
+        "option_a_eligible_probes_with_accession": 29489,
+        "accession_values": 57382,
+        "probes_with_more_than_one_accession": 12377,
+        "accessions_with_version_suffix": 0,
+        "accession_prefixes": {
+          "NM_": 50296,
+          "NR_": 4534,
+          "XM_": 1113,
+          "XR_": 1439
+        },
+        "accession_probe_ids_not_in_option_a_table": 0
+      },
+      "accession_route_assignments": "NOT COMPUTED: org.Hs.eg.db 3.23.1 not retained"
+    },
+    {
+      "platform": "illuminaHumanv4",
+      "cohort": "GSE63061",
+      "probes_total": 48107,
+      "single_gene_probes": 34160,
+      "multi_gene_probes": 1726,
+      "no_gene_in_package": 12221,
+      "option_a": {
+        "eligible": 34038,
+        "eligible_direct": 33962,
+        "eligible_via_replacement": 76,
+        "no_replacement": 122,
+        "unexplained": 0,
+        "pct_eligible_of_all_probes": "70.75%",
+        "pct_eligible_of_single_gene_probes": "99.64%",
+        "distinct_genes": 20926,
+        "genes_with_more_than_one_probe": 7678,
+        "collision_probes": 50,
+        "collision_successor_genes": 32,
+        "collision_source_genes": 35
+      },
+      "accession_route_inputs": {
+        "probes_with_accession": 37881,
+        "pct_of_all_probes": "78.74%",
+        "single_gene_probes_with_accession": 34160,
+        "pct_of_single_gene_probes": "100.00%",
+        "option_a_eligible_probes_with_accession": 34038,
+        "accession_values": 68113,
+        "probes_with_more_than_one_accession": 14399,
+        "accessions_with_version_suffix": 0,
+        "accession_prefixes": {
+          "NM_": 56375,
+          "NR_": 7477,
+          "XM_": 2043,
+          "XR_": 2218
+        },
+        "accession_probe_ids_not_in_option_a_table": 0
+      },
+      "accession_route_assignments": "NOT COMPUTED: org.Hs.eg.db 3.23.1 not retained"
+    },
+    {
+      "platform": "lumi HT-12 v4 R2",
+      "cohort": "GSE140829 applicability unverified (D19)",
+      "probes_total": 47323,
+      "single_gene_probes": 43960,
+      "multi_gene_probes": 0,
+      "no_gene_in_package": 3363,
+      "option_a": {
+        "eligible": 37491,
+        "eligible_direct": 35731,
+        "eligible_via_replacement": 1760,
+        "no_replacement": 6468,
+        "unexplained": 1,
+        "pct_eligible_of_all_probes": "79.22%",
+        "pct_eligible_of_single_gene_probes": "85.28%",
+        "distinct_genes": 23743,
+        "genes_with_more_than_one_probe": 8600,
+        "collision_probes": 1165,
+        "collision_successor_genes": 783,
+        "collision_source_genes": 892
+      },
+      "accession_route_inputs": {
+        "probes_with_accession": 47323,
+        "pct_of_all_probes": "100.00%",
+        "single_gene_probes_with_accession": 43960,
+        "pct_of_single_gene_probes": "100.00%",
+        "option_a_eligible_probes_with_accession": 37491,
+        "accession_values": 47323,
+        "probes_with_more_than_one_accession": 0,
+        "accessions_with_version_suffix": 0,
+        "accession_prefixes": {
+          "GenBank (no prefix)": 3311,
+          "NM_": 29183,
+          "NR_": 1960,
+          "XM_": 10355,
+          "XR_": 2514
+        },
+        "accession_probe_ids_not_in_option_a_table": 0
+      },
+      "accession_route_assignments": "NOT COMPUTED: org.Hs.eg.db 3.23.1 not retained"
+    }
+  ],
+  "validation": {
+    "status": "OK",
+    "checks": [
+      {
+        "check": "illuminaHumanv3: Option A classes sum to probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: single + multi + none = probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: eligible <= single-gene probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: every accession probe ID exists in the Option A table",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: Option A classes sum to probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: single + multi + none = probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: eligible <= single-gene probes",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: every accession probe ID exists in the Option A table",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: Option A classes sum to probes",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: single + multi + none = probes",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: eligible <= single-gene probes",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: every accession probe ID exists in the Option A table",
+        "status": "OK"
+      }
+    ]
+  },
+  "determinism": {
+    "runs_compared": 2,
+    "identical": true,
+    "output_sha256": {
+      "route_comparison_metrics.tsv": "101ae71f20808fed031e85830efd0c52363599405043a5fb43b61cbc88a2fbcb",
+      "REPORT.md": "30efae75118e02337a1a90978686ade2a45811b72b089460b928a7320801bff0"
+    }
+  },
+  "command": "python scripts/annotation_illumina_route_comparison.py --version v1"
+}

@@ -1,0 +1,112 @@
+{
+  "command": ".venv/bin/python -I scripts/discovery_prep_gse63060.py --version v1",
+  "created_utc": "2026-10-18T19:18:18Z",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "c2_duplicate_review_log.json": "08e1bdbd8716d28ca25f718925baf851b5c9d9739bc84b2055a2b812281c7fa0",
+      "identifiability_checks.json": "a24c033253f605600879bd17f516d586c42dcd744d978b37c5639522b58d56aa",
+      "m1_group_by_chip.tsv": "a3256b07fccbe147cb820d606d213c6ba7842a148b56950eaead20527f613ea7",
+      "m7_chip_by_site.tsv": "e359d8995afd616b85b3eabf319dfae03b47f79e06c37b2b44884f8d60460509",
+      "m8_age_sex_by_chip_group.tsv": "0857717b58f939d83adf0213def50eec4bc6378c79889619fb0827d66c971701",
+      "m8_age_sex_by_group.tsv": "eef1f2032756638432ec4ff8d5f1662381f5755547fec862c080b135ba548df9",
+      "primary_population_log.tsv": "ea2a4c899a6e1f06a0683e3d41008a4ce9a44171417dc9c387cb93ca879d4fb5",
+      "selection_table_G3.tsv": "4e42c852216ce62e58c9311cc1763781c769ffa1a55b491897998a906c67831f"
+    },
+    "runs_compared": 2
+  },
+  "equivalence": null,
+  "identifiability_decision": "PROCEED",
+  "identity": {
+    "aggregate_sha256": "a9e971359f89cd01d30a091c079acb36f5e5c02a50af546e5608b2fda63393f9",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "fa51c7b9d10dd468fbeed8b2ad83b832eb8acc83adb828dc25361cbbc4359951",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 79,
+    "record_file": "code_identity.json",
+    "record_sha256": "208634fea41a74fcb3086a337824a4c880718c9478dd827a6cbf4a0ddf2b6393"
+  },
+  "identity_verification": {
+    "environment_modules": 410,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/discovery_prep_gse63060.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea"
+      },
+      "executed_files": 2,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 4,
+    "status": "PASS",
+    "verified_utc": "2026-10-18T19:18:18Z"
+  },
+  "inputs": {
+    "a0_probe_classification_sha256": "6da6cf2c1d7d1911c17301d60c1f153f91856f405f7fde1faf6f553b3013ae7c",
+    "exclusion_list_sha256": "28cf7aac65bc86b9416b853646708bd1c7531d7846eb3d85a35fb89ae6261e8d",
+    "reports/annotation_audit/annotation_pin/v1": "d48309e7f900f5434e592317b32fa8c09ed2661b2da470f7e7662ef12bebe930",
+    "reports/eligibility/GSE63060/v1": "7b3a97e20f69624794fddd91f4c6cb00710a74ad7d0cb157c5ebde1fb0a728d8",
+    "reports/qc_stage_a/GSE63060/v1": "22d1c6f8a3eb96889518fec12a750e3a40d6bdd208cbc3536b582b8026ecb1a3",
+    "reports/qc_stage_b/GSE63060/v1": "69d8d1829873a1cecb319a938680ef93af8cdcf0543fc5ecf879547608738ef5",
+    "sap_sha256": "8606c447de32ff775c78ab682bca94ba101238bfce6e680242069fbf0181687e"
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-18T19:18:18Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "prep_v1",
+    "run_id": "5fbe933dfcfe",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-18T19:18:17Z"
+  },
+  "output_sha256": {
+    "c2_duplicate_review_log.json": "08e1bdbd8716d28ca25f718925baf851b5c9d9739bc84b2055a2b812281c7fa0",
+    "code_identity.json": "208634fea41a74fcb3086a337824a4c880718c9478dd827a6cbf4a0ddf2b6393",
+    "identifiability_checks.json": "a24c033253f605600879bd17f516d586c42dcd744d978b37c5639522b58d56aa",
+    "m1_group_by_chip.tsv": "a3256b07fccbe147cb820d606d213c6ba7842a148b56950eaead20527f613ea7",
+    "m7_chip_by_site.tsv": "e359d8995afd616b85b3eabf319dfae03b47f79e06c37b2b44884f8d60460509",
+    "m8_age_sex_by_chip_group.tsv": "0857717b58f939d83adf0213def50eec4bc6378c79889619fb0827d66c971701",
+    "m8_age_sex_by_group.tsv": "eef1f2032756638432ec4ff8d5f1662381f5755547fec862c080b135ba548df9",
+    "primary_population_log.tsv": "ea2a4c899a6e1f06a0683e3d41008a4ce9a44171417dc9c387cb93ca879d4fb5",
+    "selection_table_G3.tsv": "4e42c852216ce62e58c9311cc1763781c769ffa1a55b491897998a906c67831f"
+  },
+  "status": "Tier B steps 6\u20139 for GSE63060. Identifiability decision: PROCEED. No expression read; no model fitted.",
+  "stop_reasons": [],
+  "validation": [
+    {
+      "check": "primary population is 145 AD + 60 CTL (approved list)",
+      "pass": true
+    },
+    {
+      "check": "complete covariates (R2-COV) for every primary array",
+      "pass": true
+    },
+    {
+      "check": "C2 step complete",
+      "pass": true
+    },
+    {
+      "check": "G3 table: 25,305 eligible present probes over 17,425 genes (A0 counts)",
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Pre-edit copies taken 2026-10-19 before recording PI approvals (explicit PI instruction "I approve both"):
+Set A - GSE63061 exclusion-list approval as rule-applied (edits A1-A7);
+Set B - GSE63061 descriptive methods (edits B-e1 to B-e4).
+Sources: reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md, reports/phase3b/v7/DECISIONS_REQUIRED_BEFORE_SAP_APPROVAL.md
+Post-edit SHA-256:
+5fbe9fbce4cb2b2222d7b2f02b420e603cca38393b1ad6595c1f3245aa50a7af  reports/phase3b/v7/DECISIONS_REQUIRED_BEFORE_SAP_APPROVAL.md
+cf91703aebfcc128fda8c0de0be7416dd777fbab85972e098e68e6a4532c5a79  reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md
+465fed18b3374094c8835184db5fb1f4f2a79742e69ded0582716546507b0d7b  scripts/validation_gse63061.py
+1807aa8dc6f979fc3e46a88be942b06d2b5537cef7c26972a3eb12b975b392c7  R/validation_stats.R
+35168fd4bf648d841b3331b5788a46264fe2591b7df6edfe0c4fa120fe736854  tests/test_validation_gse63061.py
+Line/pipe counts unchanged: SAP 661/825, brief 309/643. Edited SAP lines 5, 68, 69, 83, 105, 588, 597, 625; brief lines 56, 123. No lock-quoted line edited. Code copies under code/ are pre-update (validation runner written 2026-10-19, never run on real data).

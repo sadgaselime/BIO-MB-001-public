@@ -1,0 +1,305 @@
+# BIO-MB-001 dataset configuration (Phase 1: dataset auditing)
+#
+# All accession-specific knowledge lives in this file. Code must not hard-code
+# accession-specific assumptions.
+#
+# IMPORTANT
+# - expected_counts are REFERENCE values (reported in GEO / literature / the project
+#   brief). The audit compares observed counts against them; it never forces,
+#   trims or pads data to match them.
+# - label_map entries were written after inspecting the GEO sample records on
+#   2026-10-09. Any label that appears later and is not listed here is reported
+#   as UNMAPPED (unexpected) rather than silently assigned to a group.
+# - No credentials or secrets belong in this file.
+
+schema_version: 1
+
+project:
+  id: BIO-MB-001
+  title: Reproducible Blood-Based Molecular Biomarkers of Neurodegenerative Disease
+  ad_analysis_title: >-
+    Reproducible Blood-Based Molecular Features of Alzheimer's Disease:
+    Cross-Cohort Replication and Neurodegenerative Disease Specificity
+  primary_disease: Alzheimer's disease (AD)
+  primary_comparison: AD versus healthy controls
+  comparator_disease: Parkinson's disease (PD)
+  phase: "1 - project setup and automated dataset auditing"
+
+settings:
+  geo_query_url: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi
+  geo_files_base_url: https://ftp.ncbi.nlm.nih.gov/geo/series
+  http_timeout_seconds: 60
+  max_retries: 3
+  retry_backoff_seconds: 5
+  polite_delay_seconds: 0.4      # pause between requests to respect NCBI servers
+  max_download_mb: 400           # files larger than this are SKIPPED_TOO_LARGE
+  user_agent: "BIO-MB-001-dataset-audit/0.1 (academic reproducibility audit; python-requests)"
+  inspection_sample_rows: 5000   # rows sampled (deterministically) for value-distribution checks
+  concordance_max_features: 2000 # features compared when checking two matrices for identical values
+  min_download_kb_per_s: 20      # a transfer averaging less than this after the stall window is aborted (resumable)
+  stall_window_seconds: 120
+
+# Controlled vocabulary for canonical diagnostic groups used by label maps.
+canonical_groups:
+  AD: Alzheimer's disease
+  MCI: Mild cognitive impairment
+  HC: Healthy / cognitively normal control
+  PD: Idiopathic Parkinson's disease
+  PD_GENETIC: Genetic (monogenic) Parkinson's disease - kept separate from PD
+  GENETIC_UNAFFECTED: Genetically at-risk but unaffected individual - kept separate from HC
+  OTHER_NEURO: Other neurological / neurodegenerative diagnosis (definition requires scientific review)
+  AMBIGUOUS: Label is a transition, borderline or non-specific category - requires review
+
+datasets:
+
+  - accession: GSE63060
+    role: provisional_primary_ad_discovery
+    role_description: Provisional primary AD discovery cohort (AddNeuroMed batch 1).
+    analysis_tier: primary_candidate
+    modality: expression_microarray
+    technology: Illumina BeadArray
+    platform:
+      id: GPL6947
+      name: Illumina HumanHT-12 V3.0 expression beadchip
+    landing_page: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63060
+    related_accessions: [GSE63061, GSE63063]
+    independence:
+      status: UNRESOLVED
+      note: >-
+        Same AddNeuroMed SuperSeries (GSE63063) as GSE63061. Participant overlap with
+        GSE63061 has not been excluded.
+    expected_counts:
+      source: GEO series record as reported in the BIO-MB-001 brief
+      total: 329
+      groups: {AD: 145, MCI: 80, HC: 104}
+    phenotype:
+      diagnosis_field: "char:status"
+      label_map: {AD: AD, CTL: HC, MCI: MCI}
+      participant_id_field: description
+      fields_of_interest: ["char:age", "char:gender", "char:ethnicity", "char:included in case -control study"]
+    files:
+      - {name: GSE63060_series_matrix.txt.gz, location: matrix, retrieve: true, sample_id_field: geo_accession}
+      - {name: GSE63060_normalized.txt.gz, location: suppl, retrieve: true, sample_id_field: title}
+      - {name: GSE63060_non-normalized.txt.gz, location: suppl, retrieve: true, sample_id_field: title}
+      - {name: GSE63060_RAW.tar, location: suppl, retrieve: true}
+      - {name: filelist.txt, location: suppl, retrieve: true}
+    reported_leads:
+      - id: GSE63060-LEAD-1
+        description: >-
+          A published analysis of this cohort reports excluding outlier samples.
+        source: BIO-MB-001 brief (primary citation to be added by the PI)
+        sample_ids: []   # populate from the publication; IDs are CHECKED, never auto-excluded
+      - id: GSE63060-LEAD-2
+        description: >-
+          A separate published report describes possible expression/phenotype
+          sample-ID mismatches in this series.
+        source: BIO-MB-001 brief (primary citation to be added by the PI)
+        sample_ids: []
+
+  - accession: GSE63061
+    role: related_cohort_consistency_candidate
+    role_description: >-
+      Related-cohort consistency / replication candidate (AddNeuroMed batch 2). NOT an
+      independent external validation cohort.
+    analysis_tier: secondary_candidate
+    modality: expression_microarray
+    technology: Illumina BeadArray
+    platform:
+      id: GPL10558
+      name: Illumina HumanHT-12 V4.0 expression beadchip
+    landing_page: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63061
+    related_accessions: [GSE63060, GSE63063]
+    independence:
+      status: UNRESOLVED
+      note: Same AddNeuroMed SuperSeries as GSE63060; possible participant overlap.
+    expected_counts:
+      source: GEO series record as reported in the BIO-MB-001 brief
+      total: 388
+      groups: {}
+    phenotype:
+      diagnosis_field: "char:status"
+      label_map: {AD: AD, CTL: HC, MCI: MCI}
+      ambiguous_labels: ["borderline MCI", "MCI to CTL", "CTL to AD", "OTHER"]
+      participant_id_field: description
+      fields_of_interest: ["char:age", "char:gender", "char:ethnicity", "char:included in case -control study"]
+    files:
+      - {name: GSE63061_series_matrix.txt.gz, location: matrix, retrieve: true, sample_id_field: geo_accession}
+      - {name: GSE63061_normalized.txt.gz, location: suppl, retrieve: true, sample_id_field: title}
+      - {name: GSE63061_non-normalized.txt.gz, location: suppl, retrieve: true, sample_id_field: title}
+      - {name: GSE63061_RAW.tar, location: suppl, retrieve: true}
+      - {name: filelist.txt, location: suppl, retrieve: true}
+    reported_leads: []
+
+  - accession: GSE140829
+    role: potential_external_ad_validation
+    role_description: Potential external AD validation cohort (whole blood).
+    analysis_tier: validation_candidate
+    modality: expression_microarray
+    technology: Illumina BeadArray
+    platform:
+      id: GPL15988
+      name: Illumina HumanHT-12 v4 (as reported)
+    landing_page: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE140829
+    related_accessions: []
+    independence:
+      status: UNRESOLVED
+      note: >-
+        A separate GEO accession does not prove participant-level independence from
+        the AddNeuroMed series. Requires verification from study documentation.
+    expected_counts:
+      source: GEO series record as reported in the BIO-MB-001 brief
+      total: 587
+      groups: {AD: 204, MCI: 134, HC: 249}
+    phenotype:
+      diagnosis_field: "char:diagnosis"
+      label_map: {AD: AD, MCI: MCI, Control: HC}
+      fields_of_interest: ["char:age_at_draw", "char:Sex", "char:apoe_status", "char:batch", "char:connectivity_zscore"]
+    files:
+      - {name: GSE140829_series_matrix.txt.gz, location: matrix, retrieve: true, sample_id_field: geo_accession}
+      - name: GSE140829_final_normalized_data.txt.gz
+        location: suppl
+        retrieve: true
+        sample_id_field: title
+        sample_id_regex: '(\d+_[A-Z])'   # barcode embedded in titles such as "Whole blood, AD, 5872617031_A [ad_mci]"
+      - name: GSE140829_raw_data.txt.gz
+        location: suppl
+        retrieve: true
+        sample_id_field: title
+        sample_id_regex: '(\d+_[A-Z])'
+    reported_leads: []
+
+  - accession: GSE99039
+    role: pd_neurodegeneration_specificity_candidate
+    role_description: PD and neurodegeneration specificity analysis candidate.
+    analysis_tier: specificity_candidate
+    modality: expression_microarray
+    technology: Affymetrix 3' IVT array
+    platform:
+      id: GPL570
+      name: Affymetrix Human Genome U133 Plus 2.0 Array
+    landing_page: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE99039
+    related_accessions: []
+    independence:
+      status: UNRESOLVED
+      note: Different platform from the AD cohorts; raw intensities must never be combined across platforms.
+    expected_counts:
+      source: BIO-MB-001 brief (main groups only; genetic PD and unaffected carriers reported separately)
+      total: null
+      groups: {HC: 233, PD: 205, OTHER_NEURO: 48}
+    phenotype:
+      diagnosis_field: "char:disease label"
+      label_map:
+        CONTROL: HC
+        IPD: PD
+        GPD: PD_GENETIC
+        GENETIC_UNAFFECTED: GENETIC_UNAFFECTED
+        HD: OTHER_NEURO
+        PSP: OTHER_NEURO
+        MSA: OTHER_NEURO
+        CBD: OTHER_NEURO
+        DRD: OTHER_NEURO
+        DRD-DYT5: OTHER_NEURO
+        ATYPICAL_PD: OTHER_NEURO
+        PD_DEMENTIA: OTHER_NEURO
+        Vascular dementia: OTHER_NEURO
+      ambiguous_labels: ["HD_HD_BATCH"]
+      participant_id_field: "char:subject_id"
+      fields_of_interest: ["char:Sex", "char:age at exam", "char:batch", "char:learning set", "char:genetic (mutated pd genes)", "char:moca score"]
+    files:
+      - {name: GSE99039_series_matrix.txt.gz, location: matrix, retrieve: true, sample_id_field: geo_accession}
+      - {name: filelist.txt, location: suppl, retrieve: true}
+      - {name: GSE99039_RAW.tar, location: suppl, retrieve: true}   # ~2.3 GB: expected SKIPPED_TOO_LARGE under default limit
+    reported_leads: []
+
+  - accession: GSE165082
+    role: optional_exploratory_pd_rnaseq
+    role_description: Optional exploratory PD RNA-seq dataset. Exploratory until the 26-vs-30 discrepancy is explained.
+    analysis_tier: exploratory
+    modality: expression_rnaseq
+    technology: RNA sequencing
+    platform:
+      id: null          # not specified in the brief; the audit records the observed platform
+      name: null
+    landing_page: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE165082
+    related_accessions: [GSE165081, GSE165083]
+    independence:
+      status: NOT_APPLICABLE
+      note: Exploratory PD dataset; not used for AD replication.
+    expected_counts:
+      source: GEO sample list (26) and study description (30 participants) as reported in the brief
+      total: 26
+      groups: {}
+      described_participants: 30
+    phenotype:
+      diagnosis_field: "char:group"
+      label_map: {PD: PD, Control: HC}
+    files:
+      - {name: GSE165082_series_matrix.txt.gz, location: matrix, retrieve: true, sample_id_field: geo_accession}
+      - {name: GSE165082_PD-CC.counts.txt.gz, location: suppl, retrieve: true, sample_id_field: title}
+    reported_leads:
+      - id: GSE165082-LEAD-1
+        kind: count_discrepancy
+        description: GEO lists 26 samples whereas the study description refers to 30 participants.
+        source: BIO-MB-001 brief
+
+  - accession: GSE165081
+    role: optional_future_methylation_extension
+    role_description: >-
+      Optional future DNA-methylation extension. NOT transcriptomic validation and never
+      merged with RNA-seq expression matrices.
+    analysis_tier: future_extension
+    modality: methylation_array
+    technology: Illumina Infinium methylation array
+    platform:
+      id: null
+      name: null
+    landing_page: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE165081
+    related_accessions: [GSE165082, GSE165083]
+    independence:
+      status: NOT_APPLICABLE
+      note: Same participants as GSE165082 are expected (different modality); correspondence unverified.
+    expected_counts:
+      source: GEO sample list (28) and study description (30 participants) as reported in the brief
+      total: 28
+      groups: {}
+      described_participants: 30
+    phenotype:
+      diagnosis_field: "char:group"
+      label_map: {PD: PD, Control: HC}
+    files:
+      - {name: GSE165081_Sample_Sheet.PD-CN.csv.gz, location: suppl, retrieve: true, sample_id_field: title}  # Sample_Name == GEO title (e.g. MAYO_011)
+      - {name: GSE165081_detP.csv.gz, location: suppl, retrieve: true, sample_id_field: title}
+      - {name: filelist.txt, location: suppl, retrieve: true}
+      # Large methylation matrices are intentionally not retrieved in Phase 1:
+      - {name: GSE165081_RAW.tar, location: suppl, retrieve: false}
+      - {name: GSE165081_M.csv.gz, location: suppl, retrieve: false}
+      - {name: GSE165081_series_matrix.txt.gz, location: matrix, retrieve: false}
+    reported_leads:
+      - id: GSE165081-LEAD-1
+        kind: count_discrepancy
+        description: GEO lists 28 methylation samples whereas the study description refers to 30 participants.
+        source: BIO-MB-001 brief
+
+# Cross-dataset identifier comparisons. A shared identifier is flagged as POSSIBLE
+# overlap; an absence of shared identifiers does NOT prove independence.
+overlap_checks:
+  - id: ADDNEUROMED-PARTICIPANT-CODES
+    datasets: [GSE63060, GSE63061]
+    field: description
+    note: Compares participant-style codes in GSM descriptions across AddNeuroMed batches.
+  - id: ADDNEUROMED-ARRAY-BARCODES
+    datasets: [GSE63060, GSE63061]
+    field: title
+    note: Compares array barcodes (chip_position) across batches.
+  - id: AD-COHORTS-ARRAY-BARCODES
+    datasets: [GSE63060, GSE63061, GSE140829]
+    field: title
+    id_regex: '(\d+_[A-Z])'
+    note: Shared array barcodes would indicate re-deposited hybridizations.
+  - id: PD-STUDY-RNA-VS-METHYLATION
+    datasets: [GSE165082, GSE165081]
+    field: title
+    id_regex: '(\d{3})'
+    note: >-
+      Numeric participant codes (e.g. 011_PD vs MAYO_011). Matching numbers are a lead for
+      participant correspondence across modalities, not proof.

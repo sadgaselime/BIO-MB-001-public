@@ -1,0 +1,43 @@
+== renv
+== BiocManager
+4a5,11
+> RemoteType: standard
+> RemoteRef: BiocManager
+> RemotePkgRef: BiocManager
+> RemoteRepos: https://cloud.r-project.org
+> RemoteReposName: CRAN
+> RemotePkgPlatform: aarch64-apple-darwin23
+> RemoteSha: 1.30.27
+== statmod
+5a6,12
+> RemoteType: standard
+> RemoteRef: statmod
+> RemotePkgRef: statmod
+> RemoteRepos: https://cloud.r-project.org
+> RemoteReposName: CRAN
+> RemotePkgPlatform: aarch64-apple-darwin23
+> RemoteSha: 1.5.2
+== limma
+3a4,6
+> Packaged: 2026-08-10 05:17:24 UTC; root
+> Built: R 4.6.1; aarch64-apple-darwin23; 2026-08-10 05:21:49 UTC; unix
+> RemoteType: bioconductor
+7,8d9
+< Packaged: 2026-08-10 05:17:24 UTC; root
+< Built: R 4.6.1; aarch64-apple-darwin23; 2026-08-10 05:21:49 UTC; unix
+== BiocVersion
+2,6c2,9
+< Depends: R (>= 4.6.0)
+< git_last_commit: 252d7c8
+< Repository: Bioconductor 3.23
+< Packaged: 2025-10-30 20:16:05 UTC; biocbuild
+< Built: R 4.6.1; ; 2026-10-12 11:50:38 UTC; unix
+---
+> Depends: R (>= 4.4.0)
+> Repository: https://bioc.r-universe.dev
+> Packaged: 2026-03-01 08:31:08 UTC; root
+> Built: R 4.6.0; ; 2026-03-01 08:32:25 UTC; unix
+> RemoteType: repository
+> RemoteUrl: https://github.com/bioc/BiocVersion
+> RemoteRef: HEAD
+> RemoteSha: 252d7c8f03a39a9b83f6de7e9dbf9a5ee6584365

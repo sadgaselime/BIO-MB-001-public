@@ -1,0 +1,8 @@
+group,n,male,female,mean_age
+"AD, code letter A",97,30.0,67.0,75.24
+"AD, code letter M",37,14.0,23.0,75.03
+"AD, LND site (no letter)",11,2.0,9.0,78.09
+all GEO AD,145,46.0,99.0,75.4
+Lunnon 2013 MCIc (paper),41,14.0,27.0,75.0
+"Lunnon 2013 AD (paper, training+validation)",104,32.0,72.0,75.4
+"GEO samples aged <65 (both papers state <65 excluded): {'AD': 10, 'CTL': 8, 'MCI': 3}",21,,,

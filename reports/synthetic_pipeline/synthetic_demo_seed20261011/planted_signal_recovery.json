@@ -1,0 +1,15 @@
+{
+  "note": "Evaluation against the planted synthetic truth; meaningful only for this simulation.",
+  "fdr_level": 0.05,
+  "n_features": 2014,
+  "n_planted_group_features": 50,
+  "n_called_q_below_level": 52,
+  "true_positives": 50,
+  "false_positives": 2,
+  "observed_false_discovery_proportion": 0.038461538461538464,
+  "sensitivity": 1.0,
+  "true_positives_with_correct_sign": 50,
+  "planted_effects_inside_ci": 47,
+  "null_features_ci_covering_zero": 1868,
+  "n_null_features": 1964
+}

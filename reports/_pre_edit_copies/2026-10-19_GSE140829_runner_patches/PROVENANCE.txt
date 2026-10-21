@@ -1,0 +1,1 @@
+Pre-edit copies 2026-10-19: GSE140829 configuration patches (approved D19-1/D11/eligibility rules) and ML CORES 7 -> 3 (PI choice 'Restart, 3 workers' after memory thrashing).

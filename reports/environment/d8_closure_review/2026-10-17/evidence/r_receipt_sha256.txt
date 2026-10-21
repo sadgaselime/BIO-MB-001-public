@@ -1,0 +1,2 @@
+fa6b1dad15ff14061d7a9348b24d8aacf9ac6fd9518c9ee1f8d1407a21a8dae6  /var/db/receipts/org.R-project.R.fw.pkg.bom
+af36cf2fc6298c64cb6436ad7a741ae380e4fd07833da883b2c8171b1c51cdc0  /var/db/receipts/org.R-project.R.fw.pkg.plist

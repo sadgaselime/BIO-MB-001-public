@@ -1,0 +1,62 @@
+{
+  "authorization": "PI instruction 2026-10-18 in the project session: 'okay proceed', given in reply to the proposal to create reports/annotation_audit/annotation_pin/v1 from the verified v2 artifacts (gpl570_option_a/v2, illumina_a0/v2, c15_cohort_probe_presence/v2). Authorizes this pin only; no analysis.",
+  "command": ".venv/bin/python -I scripts/annotation_pin.py --version v1 --authorization <recorded>",
+  "equivalence": null,
+  "identity": {
+    "aggregate_sha256": "42eaf15b2223da78bfd559dfa44b7fe18b2e5442fd8bf4b0acb5e2688b7c16bb",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "fa51c7b9d10dd468fbeed8b2ad83b832eb8acc83adb828dc25361cbbc4359951",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 67,
+    "record_file": "code_identity.json",
+    "record_sha256": "7000fa6a12bcade9e35021f007647227176a491f73014b2883520eaa5b6cd55f"
+  },
+  "identity_verification": {
+    "environment_modules": 0,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/annotation_pin.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea"
+      },
+      "executed_files": 2,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 4,
+    "status": "PASS",
+    "verified_utc": "2026-10-18T17:58:10Z"
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-18T17:58:10Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "v1",
+    "run_id": "aade8040c54f",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-18T17:58:10Z"
+  },
+  "output_sha256": {
+    "annotation_pin_record.json": "cde8ccd7d87b3622227a1b174599c4786fa94906159707fc4e498c72f3253a67",
+    "code_identity.json": "7000fa6a12bcade9e35021f007647227176a491f73014b2883520eaa5b6cd55f"
+  },
+  "status": "Annotation pin record (Tier B step 2). Pins the listed artifacts only; approves no analysis."
+}

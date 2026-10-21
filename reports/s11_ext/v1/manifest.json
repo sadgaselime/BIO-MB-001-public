@@ -1,0 +1,110 @@
+{
+  "command": ".venv/bin/python -I scripts/s11_ext.py --version v1",
+  "created_utc": "2026-10-21T12:18:46Z",
+  "determinism": {
+    "identical": true,
+    "output_sha256": {
+      "GSE140829__c_a_per_gene.tsv": "830698122d2efbe1565f10b301e9ec303df9b660e1003b55b62987a6381a5fa7",
+      "GSE140829__cell_scores.tsv": "96df0c750293a87f91d7f73989e6c00e0528fbd05b65e372a176042d77215f5e",
+      "GSE99039_GENETIC_UNAFFECTED__per_gene.tsv": "f914b141cce928fb168bbbdf3f64ab8c01a7c3c07e75b82cb4e29a0184ae6139",
+      "GSE99039_GPD__per_gene.tsv": "5a2c6f4269004c1aee32b6531b243953f7d956a95622540835da3ac284537a2d",
+      "GSE99039_IPD__per_gene.tsv": "bbd7dd298ff34922a18be0d6c6672808387360c78fd4c481c8599ac4f567799f",
+      "s11_ext_summary.json": "d81d005894449aa661466e2ad35d690e3e77ed4f25955d89bbe16ce59d3ba297"
+    },
+    "runs_compared": 2
+  },
+  "equivalence": null,
+  "identity": {
+    "aggregate_sha256": "a65b9abed7a614df5a448b98c1aad29070f53ae685aac7ca65fb7cf92a53869b",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "1498fa48e9cfe38ee5a3e52416460a179e31105d4d5be111a4ec025ed16180d5",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 109,
+    "record_file": "code_identity.json",
+    "record_sha256": "5a22090419ed60d20ce0da617b92a707bce0b97d24b0de51eca12ab046853080"
+  },
+  "identity_verification": {
+    "environment_modules": 410,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/s11_ext.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "scripts/discovery_fit_gse63060.py": "36533e4d775027e75afc4bce5d49dc330d4097ac1bb5057f3096ba6b64e48da7",
+        "scripts/discovery_prep_gse63060.py": "6929d3e138372175af5f873bc99d4b591a7717eeb77208a5081ad3491dd4fdf1",
+        "scripts/s11_cell_composition_gse63060.py": "8b8bc4dc92b85dc0a0169502cd9b0647d3750364c4f3234de8579af9a68e79dd",
+        "scripts/specificity_gse99039.py": "a28c9f3da154b2b2b82c118d044daa46a7cfab088807fd98219c378ed4c384fa",
+        "scripts/validation_gse140829.py": "7ae731df1c72ad632bc1da84623362dd551741ab36db8a713fa70ac986e71e5d",
+        "scripts/validation_gse63061.py": "465fed18b3374094c8835184db5fb1f4f2a79742e69ded0582716546507b0d7b",
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea",
+        "src/biomarker_project/differential_expression.py": "3525cdefd3274e19e0d8a5bc9f937bca6c817c4f5933b87dac2df4c75612925a",
+        "src/biomarker_project/expression_adjudication.py": "266f14367cdd295e4f51e95569636ca4fdf8e12ec27f67685c3e7328db597e82",
+        "src/biomarker_project/limma_backend.py": "0031b76cda1129e7cd35a2b7357f2c8b0fd9788ecdea590766cfa872352e7350"
+      },
+      "executed_files": 11,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 7,
+    "status": "PASS",
+    "verified_utc": "2026-10-21T12:18:46Z"
+  },
+  "inputs": {
+    "data/raw/GSE140829/GSE140829_series_matrix.txt.gz": "be4f08a2cb01fe912a764df66fd654dec70d9e1ecd36bded00b675b27e7f83f3",
+    "data/raw/GSE99039/GSE99039_series_matrix.txt.gz": "197b7272a8a5040c2843cbefd44f8bd43e9b7820562732d5b1ffd30841bfcb50",
+    "reference/mcpcounter_6b85a67/genes.txt": "408f6c5d02c8f9bd2f1599c598367881853520934f8ce398a4886a8b296922bb",
+    "reports/specificity/GSE99039/v1": "80547b4d02d011664a083459c54838cea8275333aa943b6a0bb6729d278804ee",
+    "reports/validation/GSE140829/v1": "0180790f06df4cd79229bd61327262b285fc227a53e033430c1af44f93208594",
+    "sap_sha256": "fdcdffa023e8cf17009b2becc1bf8903a4360deda99741eee67e0ce8e7bfb187"
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-21T12:18:46Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "v1",
+    "run_id": "5a1a4a82052b",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-21T12:02:46Z"
+  },
+  "output_sha256": {
+    "GSE140829__c_a_per_gene.tsv": "830698122d2efbe1565f10b301e9ec303df9b660e1003b55b62987a6381a5fa7",
+    "GSE140829__cell_scores.tsv": "96df0c750293a87f91d7f73989e6c00e0528fbd05b65e372a176042d77215f5e",
+    "GSE99039_GENETIC_UNAFFECTED__per_gene.tsv": "f914b141cce928fb168bbbdf3f64ab8c01a7c3c07e75b82cb4e29a0184ae6139",
+    "GSE99039_GPD__per_gene.tsv": "5a2c6f4269004c1aee32b6531b243953f7d956a95622540835da3ac284537a2d",
+    "GSE99039_IPD__per_gene.tsv": "bbd7dd298ff34922a18be0d6c6672808387360c78fd4c481c8599ac4f567799f",
+    "code_identity.json": "5a22090419ed60d20ce0da617b92a707bce0b97d24b0de51eca12ab046853080",
+    "s11_ext_summary.json": "d81d005894449aa661466e2ad35d690e3e77ed4f25955d89bbe16ce59d3ba297"
+  },
+  "r_environment": {
+    "found_BiocManager": "1.30.27",
+    "found_R": "4.6.1",
+    "found_bioc": "3.23",
+    "found_limma": "3.68.5",
+    "found_renv": "1.3.1",
+    "found_statmod": "1.5.2",
+    "pinned_BiocManager": "1.30.27",
+    "pinned_R": "4.6.1",
+    "pinned_bioc": "3.23",
+    "pinned_limma": "3.68.5",
+    "pinned_renv": "1.3.1",
+    "pinned_statmod": "1.5.2"
+  },
+  "status": "S11-ext: POST HOC (approved 2026-10-21 after the GSE140829 and GSE99039 results); family B; never replaces a primary result. The SAP remains a proposed draft."
+}

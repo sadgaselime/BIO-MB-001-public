@@ -1,0 +1,14 @@
+accession,group,paper_location,paper_n,geo_flagged_n,n_matches,paper_mean_age,geo_mean_age,paper_sd_age,geo_sd_age,paper_female_male,geo_female_male,sex_split_matches
+GSE63060,CTL,Methods text (batch 1 Control = 67),67,67,True,,69.61,,4.15,,41/26,
+GSE63060,MCI,Methods text (batch 1 MCI = 39),39,39,True,,69.9,,3.15,,24/15,
+GSE63060,AD,Methods text (batch 1 AD = 49),49,49,True,,69.88,,4.44,,34/15,
+GSE63060,CTL,"Table 1, batch 1 'Control MCI'",67,67,True,69.6,69.61,4.2,4.15,41/26,41/26,True
+GSE63060,MCI,"Table 1, batch 1 'MCI'",39,39,True,70.0,69.9,3.3,3.15,24/15,24/15,True
+GSE63060,CTL,"Table 1, batch 1 'Control AD'",64,67,False,70.2,69.61,3.7,4.15,41/23,41/26,False
+GSE63060,AD,"Table 1, batch 1 'AD'",49,49,True,69.8,69.88,4.4,4.44,34/15,34/15,True
+GSE63061,CTL,Methods text (batch 2 Control = 72),72,72,True,,70.75,,2.85,,45/27,
+GSE63061,MCI,Methods text (batch 2 MCI = 30),30,30,True,,69.5,,4.54,,22/8,
+GSE63061,AD,Methods text (batch 2 AD = 40),40,40,True,,69.82,,4.39,,23/17,
+GSE63061,CTL,"Table 1, batch 2 'Control MCI' and 'Control AD'",71,72,False,70.8,70.75,2.9,2.85,44/27,45/27,False
+GSE63061,MCI,"Table 1, batch 2 'MCI'",31,30,False,69.5,69.5,4.5,4.54,23/8,22/8,False
+GSE63061,AD,"Table 1, batch 2 'AD'",40,40,True,69.9,69.82,4.3,4.39,23/17,23/17,True

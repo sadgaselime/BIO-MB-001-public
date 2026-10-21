@@ -1,0 +1,141 @@
+sample_id,group,analysed,rule,reason,tier,r8_category,r9_outcome,candidate_tiers,flags,d18_review,exclusion_applied
+SYN-S0001,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0002,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0003,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0004,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0005,AD,True,,,,discordant_two_axis,passed,Q1,,False,False
+SYN-S0006,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0007,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0008,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0009,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0010,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0011,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0012,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0013,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0014,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0015,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0016,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0017,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0018,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0019,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0020,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0021,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0022,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0023,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0024,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0025,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0026,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0027,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0028,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0029,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0030,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0031,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0032,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0033,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0034,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0035,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0036,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0037,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0038,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0039,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0040,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0041,AD,True,,,,concordant_two_axis,flagged,,F1(k=3),False,False
+SYN-S0042,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0043,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0044,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0045,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0046,AD,True,,,,concordant_two_axis,flagged,,F1(k=3),False,False
+SYN-S0047,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0048,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0049,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0050,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0051,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0052,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0053,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0054,AD,True,,,,concordant_two_axis,flagged,,F1(k=3),False,False
+SYN-S0055,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0056,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0057,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0058,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0059,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0060,AD,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0061,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0062,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0063,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0064,CTL,True,,,,concordant_two_axis,flagged,,F1(k=3),False,False
+SYN-S0065,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0066,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0067,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0068,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0069,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0070,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0071,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0072,CTL,True,,,,concordant_two_axis,flagged,,F1(k=3),False,False
+SYN-S0073,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0074,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0075,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0076,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0077,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0078,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0079,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0080,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0081,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0082,CTL,True,,,,concordant_two_axis,flagged,,F1(k=3),False,False
+SYN-S0083,CTL,True,,,,concordant_two_axis,flagged,,F1(k=3),False,False
+SYN-S0084,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0085,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0086,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0087,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0088,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0089,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0090,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0091,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0092,CTL,True,,,,concordant_two_axis,flagged,,F1(k=3),False,False
+SYN-S0093,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0094,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0095,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0096,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0097,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0098,CTL,True,,,,discordant_two_axis,passed,Q1,,False,False
+SYN-S0099,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0100,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0101,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0102,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0103,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0104,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0105,CTL,True,,,,discordant_two_axis,passed,Q1,,False,False
+SYN-S0106,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0107,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0108,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0109,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0110,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0111,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0112,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0113,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0114,CTL,True,,,,concordant_two_axis,flagged,,F1(k=3),False,False
+SYN-S0115,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0116,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0117,CTL,True,,,,concordant_two_axis,flagged,,F1(k=3),False,False
+SYN-S0118,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0119,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0120,CTL,True,,,,concordant_two_axis,passed,,,False,False
+SYN-S0121,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False
+SYN-S0122,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False
+SYN-S0123,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False
+SYN-S0124,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False
+SYN-S0125,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False
+SYN-S0126,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False
+SYN-S0127,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,flagged,,F1(k=3),False,False
+SYN-S0128,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False
+SYN-S0129,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False
+SYN-S0130,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False
+SYN-S0131,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False
+SYN-S0132,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False
+SYN-S0133,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False
+SYN-S0134,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False
+SYN-S0135,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False
+SYN-S0136,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False
+SYN-S0137,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False
+SYN-S0138,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False
+SYN-S0139,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False
+SYN-S0140,MCI,False,contrast_label_restriction,label not in contrast AD vs CTL,P1 (non-contrast label),concordant_two_axis,passed,,,False,False

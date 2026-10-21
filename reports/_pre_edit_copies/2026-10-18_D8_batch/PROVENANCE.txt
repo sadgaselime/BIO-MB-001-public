@@ -1,0 +1,7 @@
+Pre-edit copies for the BIO-MB-001 D8 decision and implementation batch (explicit PI instruction, 2026-10-18).
+Copied 2026-10-17T20:0xZ UTC (2026-10-18 local), before any change, with cp -p / cp -Rp.
+canonical/STATISTICAL_ANALYSIS_PLAN_DRAFT.md      pre-edit SHA-256 a51437993c89485c674f9c011b09f3776b6b095a0106213ec51c99433cbb3b60
+canonical/DECISIONS_REQUIRED_BEFORE_SAP_APPROVAL.md pre-edit SHA-256 a5870e8884a0dd887ae44a6a9dbc56775399a5db17a1e560c904d781cb09c6ac
+biocversion_library/BiocVersion/  copy of renv/library/macos/R-4.6/aarch64-apple-darwin23/BiocVersion (source-built 2026-10-12; diff -r identical before install)
+Rollback: replace the live file or directory with the copy here and verify against SHA256SUMS.
+See reports/environment/d8_closure_review/2026-10-18/D8_EXECUTION_REPORT.md.

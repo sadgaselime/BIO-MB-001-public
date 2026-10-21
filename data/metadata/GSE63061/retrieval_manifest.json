@@ -1,0 +1,430 @@
+{
+  "files": {
+    "GPL10558_platform_brief.soft.txt": {
+      "current": {
+        "available_locally": true,
+        "error": null,
+        "finished_at": "2026-10-09T14:08:09+00:00",
+        "integrity": null,
+        "local_size": 3690658,
+        "name": "GPL10558_platform_brief.soft.txt",
+        "network_used": false,
+        "notes": [
+          "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+        ],
+        "path": "GPL10558_platform_brief.soft.txt",
+        "remote_last_modified": null,
+        "remote_size": null,
+        "resumed": false,
+        "sha256": "52a808fe0f2a92a7581ab957551c79d887fda8a067f1b9c4c9ad6a55bdc0a3b0",
+        "started_at": "2026-10-09T14:08:09+00:00",
+        "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+        "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL10558&targ=self&form=text&view=brief"
+      },
+      "history": [
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:24:10+00:00",
+          "integrity": null,
+          "local_size": 3690658,
+          "name": "GPL10558_platform_brief.soft.txt",
+          "network_used": true,
+          "notes": [],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/metadata/GSE63061/GPL10558_platform_brief.soft.txt",
+          "remote_last_modified": null,
+          "remote_size": 3690658,
+          "resumed": false,
+          "sha256": "52a808fe0f2a92a7581ab957551c79d887fda8a067f1b9c4c9ad6a55bdc0a3b0",
+          "started_at": "2026-10-09T13:24:08+00:00",
+          "status": "DOWNLOADED",
+          "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL10558&targ=self&form=text&view=brief"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:30:37+00:00",
+          "integrity": null,
+          "local_size": 3690658,
+          "name": "GPL10558_platform_brief.soft.txt",
+          "network_used": false,
+          "notes": [
+            "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/metadata/GSE63061/GPL10558_platform_brief.soft.txt",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "52a808fe0f2a92a7581ab957551c79d887fda8a067f1b9c4c9ad6a55bdc0a3b0",
+          "started_at": "2026-10-09T13:30:37+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL10558&targ=self&form=text&view=brief"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:35:02+00:00",
+          "integrity": null,
+          "local_size": 3690658,
+          "name": "GPL10558_platform_brief.soft.txt",
+          "network_used": false,
+          "notes": [
+            "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/metadata/GSE63061/GPL10558_platform_brief.soft.txt",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "52a808fe0f2a92a7581ab957551c79d887fda8a067f1b9c4c9ad6a55bdc0a3b0",
+          "started_at": "2026-10-09T13:35:02+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL10558&targ=self&form=text&view=brief"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:38:02+00:00",
+          "integrity": null,
+          "local_size": 3690658,
+          "name": "GPL10558_platform_brief.soft.txt",
+          "network_used": false,
+          "notes": [
+            "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/metadata/GSE63061/GPL10558_platform_brief.soft.txt",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "52a808fe0f2a92a7581ab957551c79d887fda8a067f1b9c4c9ad6a55bdc0a3b0",
+          "started_at": "2026-10-09T13:38:02+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL10558&targ=self&form=text&view=brief"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:39:52+00:00",
+          "integrity": null,
+          "local_size": 3690658,
+          "name": "GPL10558_platform_brief.soft.txt",
+          "network_used": false,
+          "notes": [
+            "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/metadata/GSE63061/GPL10558_platform_brief.soft.txt",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "52a808fe0f2a92a7581ab957551c79d887fda8a067f1b9c4c9ad6a55bdc0a3b0",
+          "started_at": "2026-10-09T13:39:52+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL10558&targ=self&form=text&view=brief"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T14:08:09+00:00",
+          "integrity": null,
+          "local_size": 3690658,
+          "name": "GPL10558_platform_brief.soft.txt",
+          "network_used": false,
+          "notes": [
+            "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+          ],
+          "path": "GPL10558_platform_brief.soft.txt",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "52a808fe0f2a92a7581ab957551c79d887fda8a067f1b9c4c9ad6a55bdc0a3b0",
+          "started_at": "2026-10-09T14:08:09+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL10558&targ=self&form=text&view=brief"
+        }
+      ]
+    },
+    "GSE63061_samples_brief.soft.txt": {
+      "current": {
+        "available_locally": true,
+        "error": null,
+        "finished_at": "2026-10-09T14:08:09+00:00",
+        "integrity": null,
+        "local_size": 692754,
+        "name": "GSE63061_samples_brief.soft.txt",
+        "network_used": false,
+        "notes": [
+          "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+        ],
+        "path": "GSE63061_samples_brief.soft.txt",
+        "remote_last_modified": null,
+        "remote_size": null,
+        "resumed": false,
+        "sha256": "44a5941ee162606637994963e76ee3dcc9cc77f1a9eb53743e6fff5cbcc103a6",
+        "started_at": "2026-10-09T14:08:09+00:00",
+        "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+        "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63061&targ=gsm&form=text&view=brief"
+      },
+      "history": [
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:24:07+00:00",
+          "integrity": null,
+          "local_size": 692754,
+          "name": "GSE63061_samples_brief.soft.txt",
+          "network_used": true,
+          "notes": [],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/metadata/GSE63061/GSE63061_samples_brief.soft.txt",
+          "remote_last_modified": null,
+          "remote_size": 692754,
+          "resumed": false,
+          "sha256": "44a5941ee162606637994963e76ee3dcc9cc77f1a9eb53743e6fff5cbcc103a6",
+          "started_at": "2026-10-09T13:23:53+00:00",
+          "status": "DOWNLOADED",
+          "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63061&targ=gsm&form=text&view=brief"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:30:37+00:00",
+          "integrity": null,
+          "local_size": 692754,
+          "name": "GSE63061_samples_brief.soft.txt",
+          "network_used": false,
+          "notes": [
+            "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/metadata/GSE63061/GSE63061_samples_brief.soft.txt",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "44a5941ee162606637994963e76ee3dcc9cc77f1a9eb53743e6fff5cbcc103a6",
+          "started_at": "2026-10-09T13:30:37+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63061&targ=gsm&form=text&view=brief"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:35:02+00:00",
+          "integrity": null,
+          "local_size": 692754,
+          "name": "GSE63061_samples_brief.soft.txt",
+          "network_used": false,
+          "notes": [
+            "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/metadata/GSE63061/GSE63061_samples_brief.soft.txt",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "44a5941ee162606637994963e76ee3dcc9cc77f1a9eb53743e6fff5cbcc103a6",
+          "started_at": "2026-10-09T13:35:02+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63061&targ=gsm&form=text&view=brief"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:38:02+00:00",
+          "integrity": null,
+          "local_size": 692754,
+          "name": "GSE63061_samples_brief.soft.txt",
+          "network_used": false,
+          "notes": [
+            "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/metadata/GSE63061/GSE63061_samples_brief.soft.txt",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "44a5941ee162606637994963e76ee3dcc9cc77f1a9eb53743e6fff5cbcc103a6",
+          "started_at": "2026-10-09T13:38:02+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63061&targ=gsm&form=text&view=brief"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:39:52+00:00",
+          "integrity": null,
+          "local_size": 692754,
+          "name": "GSE63061_samples_brief.soft.txt",
+          "network_used": false,
+          "notes": [
+            "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/metadata/GSE63061/GSE63061_samples_brief.soft.txt",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "44a5941ee162606637994963e76ee3dcc9cc77f1a9eb53743e6fff5cbcc103a6",
+          "started_at": "2026-10-09T13:39:52+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63061&targ=gsm&form=text&view=brief"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T14:08:09+00:00",
+          "integrity": null,
+          "local_size": 692754,
+          "name": "GSE63061_samples_brief.soft.txt",
+          "network_used": false,
+          "notes": [
+            "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+          ],
+          "path": "GSE63061_samples_brief.soft.txt",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "44a5941ee162606637994963e76ee3dcc9cc77f1a9eb53743e6fff5cbcc103a6",
+          "started_at": "2026-10-09T14:08:09+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63061&targ=gsm&form=text&view=brief"
+        }
+      ]
+    },
+    "GSE63061_series_brief.soft.txt": {
+      "current": {
+        "available_locally": true,
+        "error": null,
+        "finished_at": "2026-10-09T14:08:09+00:00",
+        "integrity": null,
+        "local_size": 14214,
+        "name": "GSE63061_series_brief.soft.txt",
+        "network_used": false,
+        "notes": [
+          "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+        ],
+        "path": "GSE63061_series_brief.soft.txt",
+        "remote_last_modified": null,
+        "remote_size": null,
+        "resumed": false,
+        "sha256": "be727cae86a54516c97c02419cdfc9afdc8905dcb80496d599376b79e67a7a31",
+        "started_at": "2026-10-09T14:08:09+00:00",
+        "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+        "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63061&targ=self&form=text&view=brief"
+      },
+      "history": [
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:23:53+00:00",
+          "integrity": null,
+          "local_size": 14214,
+          "name": "GSE63061_series_brief.soft.txt",
+          "network_used": true,
+          "notes": [],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/metadata/GSE63061/GSE63061_series_brief.soft.txt",
+          "remote_last_modified": null,
+          "remote_size": 14214,
+          "resumed": false,
+          "sha256": "be727cae86a54516c97c02419cdfc9afdc8905dcb80496d599376b79e67a7a31",
+          "started_at": "2026-10-09T13:23:53+00:00",
+          "status": "DOWNLOADED",
+          "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63061&targ=self&form=text&view=brief"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:30:37+00:00",
+          "integrity": null,
+          "local_size": 14214,
+          "name": "GSE63061_series_brief.soft.txt",
+          "network_used": false,
+          "notes": [
+            "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/metadata/GSE63061/GSE63061_series_brief.soft.txt",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "be727cae86a54516c97c02419cdfc9afdc8905dcb80496d599376b79e67a7a31",
+          "started_at": "2026-10-09T13:30:37+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63061&targ=self&form=text&view=brief"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:35:02+00:00",
+          "integrity": null,
+          "local_size": 14214,
+          "name": "GSE63061_series_brief.soft.txt",
+          "network_used": false,
+          "notes": [
+            "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/metadata/GSE63061/GSE63061_series_brief.soft.txt",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "be727cae86a54516c97c02419cdfc9afdc8905dcb80496d599376b79e67a7a31",
+          "started_at": "2026-10-09T13:35:02+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63061&targ=self&form=text&view=brief"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:38:02+00:00",
+          "integrity": null,
+          "local_size": 14214,
+          "name": "GSE63061_series_brief.soft.txt",
+          "network_used": false,
+          "notes": [
+            "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/metadata/GSE63061/GSE63061_series_brief.soft.txt",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "be727cae86a54516c97c02419cdfc9afdc8905dcb80496d599376b79e67a7a31",
+          "started_at": "2026-10-09T13:38:02+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63061&targ=self&form=text&view=brief"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T13:39:52+00:00",
+          "integrity": null,
+          "local_size": 14214,
+          "name": "GSE63061_series_brief.soft.txt",
+          "network_used": false,
+          "notes": [
+            "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+          ],
+          "path": "/Users/sadgasalim/Library/Application Support/Claude/scratch-workspaces/d8e4890b-8e25-42da-b05c-7c4130933c49/f5863a4f-ae6a-4052-bc09-5219afcf5117/scratch-2026-10-09-dffdf7/BIO-MB-001/data/metadata/GSE63061/GSE63061_series_brief.soft.txt",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "be727cae86a54516c97c02419cdfc9afdc8905dcb80496d599376b79e67a7a31",
+          "started_at": "2026-10-09T13:39:52+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63061&targ=self&form=text&view=brief"
+        },
+        {
+          "available_locally": true,
+          "error": null,
+          "finished_at": "2026-10-09T14:08:09+00:00",
+          "integrity": null,
+          "local_size": 14214,
+          "name": "GSE63061_series_brief.soft.txt",
+          "network_used": false,
+          "notes": [
+            "existing metadata snapshot re-used (use --refresh-metadata to re-query GEO)"
+          ],
+          "path": "GSE63061_series_brief.soft.txt",
+          "remote_last_modified": null,
+          "remote_size": null,
+          "resumed": false,
+          "sha256": "be727cae86a54516c97c02419cdfc9afdc8905dcb80496d599376b79e67a7a31",
+          "started_at": "2026-10-09T14:08:09+00:00",
+          "status": "REUSED_VERIFIED_AGAINST_MANIFEST",
+          "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63061&targ=self&form=text&view=brief"
+        }
+      ]
+    }
+  }
+}

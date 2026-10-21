@@ -1,0 +1,5 @@
+renv project_files=77 rebuilt_files=77 differing_paths: none
+BiocManager project_files=27 rebuilt_files=27 differing_paths: ./DESCRIPTION ./Meta/package.rds 
+statmod project_files=27 rebuilt_files=27 differing_paths: ./DESCRIPTION ./Meta/package.rds 
+limma project_files=32 rebuilt_files=32 differing_paths: ./DESCRIPTION ./Meta/package.rds 
+BiocVersion project_files=16 rebuilt_files=16 differing_paths: ./DESCRIPTION ./Meta/Rd.rds ./Meta/features.rds ./Meta/hsearch.rds ./Meta/links.rds ./Meta/nsInfo.rds ./Meta/package.rds ./help/BiocVersion.rdb ./help/BiocVersion.rdx ./help/aliases.rds ./help/paths.rds 

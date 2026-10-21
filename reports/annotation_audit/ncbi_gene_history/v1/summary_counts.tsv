@@ -1,0 +1,32 @@
+package	view	class	n_ids
+illuminaHumanv3	viewA	discontinued_no_replacement	53
+illuminaHumanv3	viewA	present_in_baseline	19913
+illuminaHumanv3	viewA	replaced_successor_in_baseline	45
+illuminaHumanv3	viewB	discontinued_no_replacement	53
+illuminaHumanv3	viewB	present_in_baseline_no_history	19913
+illuminaHumanv3	viewB	replaced_successor_in_baseline	45
+illuminaHumanv4	viewA	discontinued_no_replacement	87
+illuminaHumanv4	viewA	present_in_baseline	21602
+illuminaHumanv4	viewA	replaced_successor_in_baseline	59
+illuminaHumanv4	viewB	discontinued_no_replacement	87
+illuminaHumanv4	viewB	present_in_baseline_discontinued_in_history	1
+illuminaHumanv4	viewB	present_in_baseline_no_history	21601
+illuminaHumanv4	viewB	replaced_successor_in_baseline	59
+hgu133plus2	viewA	discontinued_no_replacement	48
+hgu133plus2	viewA	present_in_baseline	22167
+hgu133plus2	viewA	replaced_successor_in_baseline	36
+hgu133plus2	viewB	discontinued_no_replacement	48
+hgu133plus2	viewB	present_in_baseline_discontinued_in_history	2
+hgu133plus2	viewB	present_in_baseline_no_history	22165
+hgu133plus2	viewB	replaced_successor_in_baseline	36
+lumi HT-12 v4 R2	viewA	chain_ends_no_replacement	410
+lumi HT-12 v4 R2	viewA	discontinued_no_replacement	5414
+lumi HT-12 v4 R2	viewA	present_in_baseline	23331
+lumi HT-12 v4 R2	viewA	replaced_successor_in_baseline	1344
+lumi HT-12 v4 R2	viewA	unexplained_absent_no_history	1
+lumi HT-12 v4 R2	viewB	chain_ends_no_replacement	410
+lumi HT-12 v4 R2	viewB	discontinued_no_replacement	5414
+lumi HT-12 v4 R2	viewB	present_in_baseline_discontinued_in_history	2
+lumi HT-12 v4 R2	viewB	present_in_baseline_no_history	23329
+lumi HT-12 v4 R2	viewB	replaced_successor_in_baseline	1344
+lumi HT-12 v4 R2	viewB	unexplained_absent_no_history	1

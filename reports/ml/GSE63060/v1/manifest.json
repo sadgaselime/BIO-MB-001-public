@@ -1,0 +1,131 @@
+{
+  "command": ".venv/bin/python -I scripts/ml_gse63060.py --version v1",
+  "cores": 3,
+  "created_utc": "2026-10-20T07:35:49Z",
+  "determinism": {
+    "final_model_recomputed": true,
+    "first_permutations_recomputed": 3,
+    "identical": true,
+    "observed_cv_recomputed": true,
+    "output_sha256": {
+      "delong_auc_averaged.tsv": "3b6a2c7651aea933e68b9dfbe81f2cb45ab96ecfb15550b75424655269fa4f99",
+      "delong_auc_differences_averaged.tsv": "3df8c69d8eef58073ded297a9ba4690b7a678a24df95f94205aa65a739e14614",
+      "final_model_coefficients.tsv": "e4f7f18e73795610d598abb676608dc2ad6edee291e4a9bfcf35be35cc239e51",
+      "final_model_settings.tsv": "765b5debbd69dfd2d3b3973042a40daf67835e887f853202c25436af65f320bb",
+      "fold_choices.tsv": "edd29b510ea60f8dd19d8e4b2764df58b8e5dc97febe1b316f6bd6751b07fcad",
+      "ml_summary.json": "dbff69692b38f295c0228ed80360b80f2c82d95e7b38ae5fd2eec2caec562c19",
+      "oof_predictions.tsv": "f04beb4578c679037f43b83f3deec3a4c1d9f3bab894d4d776a0c8ec258e038d",
+      "oof_predictions_averaged.tsv": "901eafad666b235ea818c23fa74bf4436c655356f3b2ba835eda8adfa0adadc7",
+      "permutation_null.tsv": "a63d6b29a98374d32d0e26843d1b6ab9e64e8256959bcf50704183654005098d",
+      "repeat_metrics.tsv": "4464c7dc895f0c3d04c3751a9335bfcd6af4f54b98aac6eba328aa2f09573f8d",
+      "sex_chromosome_genes_removed.tsv": "a36cc57d468f70f807d227f77a5c0f3c9ab8e1efbf040e07274ca3966313317f"
+    }
+  },
+  "equivalence": null,
+  "glmnet_pin": "5.1",
+  "identity": {
+    "aggregate_sha256": "1d944d41607016519a67971efeb31a4fd24541d263f5e95db926e4126bd08057",
+    "dirty": true,
+    "environment_records": {
+      "renv.lock": "1498fa48e9cfe38ee5a3e52416460a179e31105d4d5be111a4ec025ed16180d5",
+      "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+      "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+      "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+    },
+    "git_head": "f4d781001a91eb6c571dcb19364f4b4437c59a0d",
+    "n_files": 96,
+    "record_file": "code_identity.json",
+    "record_sha256": "b2721e552a8c8b0d69338afa10fa98848edb07cac25ce1a457a71e282d282a67"
+  },
+  "identity_verification": {
+    "environment_modules": 410,
+    "executed_code": {
+      "bootstrap": [
+        "scripts/_executed_code.py",
+        "scripts/ml_gse63060.py"
+      ],
+      "bootstrap_files": 2,
+      "executed": {
+        "scripts/discovery_fit_gse63060.py": "36533e4d775027e75afc4bce5d49dc330d4097ac1bb5057f3096ba6b64e48da7",
+        "src/biomarker_project/__init__.py": "5b6fc851ef3db59d53b5a9a138df893d295277798be21d88ca61030e6917adc1",
+        "src/biomarker_project/code_identity.py": "fc7adcdd807beffca10b0b81149d5688efef29b07d676201eaf18bcfb706daea",
+        "src/biomarker_project/differential_expression.py": "3525cdefd3274e19e0d8a5bc9f937bca6c817c4f5933b87dac2df4c75612925a",
+        "src/biomarker_project/expression_adjudication.py": "266f14367cdd295e4f51e95569636ca4fdf8e12ec27f67685c3e7328db597e82",
+        "src/biomarker_project/limma_backend.py": "0031b76cda1129e7cd35a2b7357f2c8b0fd9788ecdea590766cfa872352e7350",
+        "src/biomarker_project/qc_r8.py": "d971ff8aec990fbe01c9c202048c846e6ee15d66dcb3998d242e28fd6ab28032"
+      },
+      "executed_files": 7,
+      "tracked": true
+    },
+    "informational": [
+      {
+        "informational": true,
+        "type": "git_status_changed"
+      }
+    ],
+    "project_modules": 8,
+    "status": "PASS",
+    "verified_utc": "2026-10-20T07:35:50Z"
+  },
+  "inputs": {
+    "data/raw/GSE63060/GSE63060_series_matrix.txt.gz": "342421d07105d786d623a4b86dc4a21b764da352e4facc7a032fbd36b0f19371",
+    "renv.lock": "1498fa48e9cfe38ee5a3e52416460a179e31105d4d5be111a4ec025ed16180d5",
+    "reports/discovery/GSE63060/prep_v1/manifest.json": "fcc71f7c82d557b5c4e9ab0ffd15aa7b590b655fecd4c0c74f9408ff5736fb53",
+    "reports/planning/ML_PROTOCOL_DRAFT_2026-10-19.md": "fb4f7881c7245d3b4b6bd856f33bd8d90e4ab6a0e239b9b5f52d07a35373ef98",
+    "sap_sha256": "88f950d6a699f16cdf5f76ee4090668d0135b30790279a3e62f516e16fc83adc"
+  },
+  "lifecycle": {
+    "finalized_utc": "2026-10-20T07:35:50Z",
+    "interpreter": {
+      "executable": "/Users/sadgasalim/Documents/BIO-MB-001/.venv/bin/python",
+      "isolated": true,
+      "prefix": "/Users/sadgasalim/Documents/BIO-MB-001/.venv",
+      "version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]"
+    },
+    "out_dir": "v1",
+    "run_id": "7cd753d7ac44",
+    "schema": "bio-mb-001/run-lifecycle/v1",
+    "started_utc": "2026-10-19T15:18:51Z"
+  },
+  "output_sha256": {
+    "code_identity.json": "b2721e552a8c8b0d69338afa10fa98848edb07cac25ce1a457a71e282d282a67",
+    "delong_auc_averaged.tsv": "3b6a2c7651aea933e68b9dfbe81f2cb45ab96ecfb15550b75424655269fa4f99",
+    "delong_auc_differences_averaged.tsv": "3df8c69d8eef58073ded297a9ba4690b7a678a24df95f94205aa65a739e14614",
+    "final_model_coefficients.tsv": "e4f7f18e73795610d598abb676608dc2ad6edee291e4a9bfcf35be35cc239e51",
+    "final_model_settings.tsv": "765b5debbd69dfd2d3b3973042a40daf67835e887f853202c25436af65f320bb",
+    "fold_choices.tsv": "edd29b510ea60f8dd19d8e4b2764df58b8e5dc97febe1b316f6bd6751b07fcad",
+    "ml_summary.json": "dbff69692b38f295c0228ed80360b80f2c82d95e7b38ae5fd2eec2caec562c19",
+    "oof_predictions.tsv": "f04beb4578c679037f43b83f3deec3a4c1d9f3bab894d4d776a0c8ec258e038d",
+    "oof_predictions_averaged.tsv": "901eafad666b235ea818c23fa74bf4436c655356f3b2ba835eda8adfa0adadc7",
+    "permutation_null.tsv": "a63d6b29a98374d32d0e26843d1b6ab9e64e8256959bcf50704183654005098d",
+    "repeat_metrics.tsv": "4464c7dc895f0c3d04c3751a9335bfcd6af4f54b98aac6eba328aa2f09573f8d",
+    "sex_chromosome_genes_removed.tsv": "a36cc57d468f70f807d227f77a5c0f3c9ab8e1efbf040e07274ca3966313317f"
+  },
+  "settings": {
+    "alpha_en": 0.5,
+    "b2_genes": 200,
+    "kgrid": "50,100,200",
+    "n_inner": 5,
+    "n_lambda": 60,
+    "n_outer": 5,
+    "n_perm": 200,
+    "n_repeats": 20,
+    "seed": 20261019,
+    "use_sex": "true"
+  },
+  "status": "Exploratory ML (approved protocol, v7:603): GSE63060 nested chip-grouped CV, permutation null and frozen final model. Not applied to any other cohort by this run. The SAP remains a proposed draft.",
+  "validation": [
+    {
+      "check": "population is 205 arrays, 145 AD (approved)",
+      "pass": true
+    },
+    {
+      "check": "G3 matrix has 17,425 genes before sex-gene removal",
+      "pass": true
+    },
+    {
+      "check": "complete age and sex",
+      "pass": true
+    }
+  ]
+}

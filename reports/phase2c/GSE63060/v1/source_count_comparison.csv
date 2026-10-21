@@ -1,0 +1,12 @@
+source,accession,quantity,source_value,local_geo_value,agrees
+Patel 2020 Table 1 (before QC),GSE63060,AD male/female,46/99,46/99,True
+Patel 2020 Table 1 (before QC),GSE63060,control male/female,42/62,42/62,True
+Patel 2020 Table 1 (before QC),GSE63060,AD + control samples,249,249,True
+Patel 2020 Table 1 (before QC),GSE63061,AD male/female,51/81,54/85,False
+Patel 2020 Table 1 (before QC),GSE63061,control male/female,55/87,53/81,False
+Patel 2020 Table 1 (before QC),GSE63061,AD + control samples,274,273,False
+Lunnon 2013 abstract,GSE63060,AD,104,145,False
+Lunnon 2013 abstract,GSE63060,CTL,104,104,True
+Lunnon 2013 abstract,GSE63060,MCI,118,80,False
+Lunnon 2013 abstract,GSE63060,AD excluding MCI-coded AD,104,108,False
+Lunnon 2013 abstract,GSE63060,MCI including MCI-coded AD,118,117,False

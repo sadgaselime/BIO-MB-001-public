@@ -1,0 +1,201 @@
+{
+  "approved_choices": {
+    "D12": "C-c; C-a; C-b descriptive",
+    "D13": "equivalence not used; no Q2; Holm across the three contrasts; same GPL570 coverage; GU descriptive; no replicated-genes-only",
+    "D15": "q < 0.05; cap 200; per-direction coverage 50% and min(5)",
+    "D16": "S1\u2013S16 (\u00a75.3) + S-R8m",
+    "D20": "O1 + X1; W1; C-c one-sided with L_c; C-a q < 0.05; covariates locked"
+  },
+  "cohort": "GSE63060",
+  "d8_environment_record_hashes": {
+    "renv.lock": "fa51c7b9d10dd468fbeed8b2ad83b832eb8acc83adb828dc25361cbbc4359951",
+    "reports/environment/d8_environment_capture/v1/conda_explicit_base.txt": "52e2e785b7e7c92a0435beab3476fbb7966047ea920ad9bfcd15a1cd5b3eb731",
+    "reports/environment/python_lock/v2/manifest.json": "9620fe560f9666f4723eaddc8ab78016337ef6d8e461b2b62d74bb83f0f6728c",
+    "reports/environment/python_lock/v2/requirements.hashes.macos-arm64-cp313.txt": "a57412d37dc67120489bf1095f98ceebdeccf9448780535c9586c818538d131b"
+  },
+  "identity_records_of_contained_outputs": {
+    "reports/annotation_audit/annotation_pin/v1": {
+      "aggregate_sha256": "42eaf15b2223da78bfd559dfa44b7fe18b2e5442fd8bf4b0acb5e2688b7c16bb",
+      "record_sha256": "7000fa6a12bcade9e35021f007647227176a491f73014b2883520eaa5b6cd55f"
+    },
+    "reports/annotation_audit/illumina_a0/v2": {
+      "aggregate_sha256": "42eaf15b2223da78bfd559dfa44b7fe18b2e5442fd8bf4b0acb5e2688b7c16bb",
+      "record_sha256": "36a844c39dcecc99d9c3d44b753e937954d7ea08671b334e23581570f4d7c85c"
+    },
+    "reports/discovery/GSE63060/fit_v1": {
+      "aggregate_sha256": "ff5e0eb22c9e4d59c22ae791b8e94d8540be244abcf738b670671d48bfc40a3e",
+      "record_sha256": "9063ae6982d62fa22f2a1da0ca0ecc69d3d91de1d39f93b5baafe5b6aa5f2bac"
+    },
+    "reports/discovery/GSE63060/prep_v1": {
+      "aggregate_sha256": "a9e971359f89cd01d30a091c079acb36f5e5c02a50af546e5608b2fda63393f9",
+      "record_sha256": "208634fea41a74fcb3086a337824a4c880718c9478dd827a6cbf4a0ddf2b6393"
+    },
+    "reports/duplicate_review/GSE63060/c1_v1": {
+      "aggregate_sha256": "a7e84340d08f738336a6d5e6a12d13ae40241ecdbbe1ceed4e920386b0d3ec16",
+      "record_sha256": "6ce5d2187bceb06116dbb3676c62ef1f561fe8e95123b3d12546a51ac771047a"
+    },
+    "reports/eligibility/GSE63060/v1": {
+      "aggregate_sha256": "731d8b251ec347c6ff9020b38316fe37135de4a4495e51e7e740491e8a12ccd0",
+      "record_sha256": "a484d1053d40dc08299c28089b43408e29a6af68340413ce6ad526099a3f779a"
+    },
+    "reports/qc_stage_a/GSE63060/v1": {
+      "aggregate_sha256": "559b82ee8dd2fef63c2b80a94574119ca242b58740596c91240462a14f9b5d86",
+      "record_sha256": "03c1a663878156b2a84ab212b4bb5219384793ced5d8b6ef1314f3df6f478d9d"
+    },
+    "reports/qc_stage_b/GSE63060/v1": {
+      "aggregate_sha256": "231b97a78de97f74b0397ecbeba345631ad382b7a2fa8102557cac5e8dc12f84",
+      "record_sha256": "9f8353e0123f5d9e3fb042f144f6469bdc0b04390afa8d457958652092130555"
+    }
+  },
+  "item_1_gene_level_unit": {
+    "D6_option": "G3 (mean of eligible probes; deposited scale)",
+    "S8_alternative": "G1",
+    "T_GSE63060": {
+      "path": "reports/discovery/GSE63060/prep_v1/selection_table_G3.tsv",
+      "sha256": "4e42c852216ce62e58c9311cc1763781c769ffa1a55b491897998a906c67831f"
+    }
+  },
+  "item_2_annotation": {
+    "GSE140829": "D19 unresolved: unmapped until resolved",
+    "mapping": "D6-G A0 (GPL6947/GPL10558), D6-F Option A (GPL570); Entrez only; multi-mapped excluded",
+    "pin_record": "reports/annotation_audit/annotation_pin/v1/annotation_pin_record.json",
+    "pin_record_sha256": "cde8ccd7d87b3622227a1b174599c4786fa94906159707fc4e498c72f3253a67",
+    "validation_feature_rule": "none (D17 Option A)"
+  },
+  "item_3_signature_table": {
+    "path": "signature.tsv",
+    "selection_rule": "q < 0.05; q asc, |beta| desc, |t| desc, Entrez asc; cap 200; no coverage restriction (D15)",
+    "sha256": "9ca4310ce634b536f5acdfb942d89daa3fc319721d39812fc026af8c41242975"
+  },
+  "item_4_counts": {
+    "eligible_genes_q_lt_0.05": 1401,
+    "locked_down_in_AD": 172,
+    "locked_genes": 200,
+    "locked_up_in_AD": 28,
+    "low_gene_count_label": false,
+    "symbols_missing": 0
+  },
+  "items_5_6_7_specifications": {
+    "1_D6_register_row": {
+      "file": "reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "609-609",
+      "sha256": "3b372bfd6786ccc587f2e6f47b3a850233de62929c4f63dbfd236369fbc0b43e"
+    },
+    "1_freezing_rule_v7_3_2": {
+      "file": "reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "191-205",
+      "sha256": "58e5a909ee2b3e49421172ab391ac00699ff12cb2f5c6e377150f21614ae8852"
+    },
+    "1_model_families_v7_3_3": {
+      "file": "reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "206-248",
+      "sha256": "bdd86c9ea13b8d2252f545effec17d7acbd62f73def897ce542f06d36ae3d82e"
+    },
+    "2_mapping_feature_presence_v6_8_2": {
+      "file": "reports/phase3b/v6/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "479-489",
+      "sha256": "cf932e30d175e8e36e108bf490e4e0a105606806b15746b663b7d61468d50298"
+    },
+    "5_C-a_v7_4_4": {
+      "file": "reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "323-335",
+      "note": "v6 \u00a78.6 (C-a) and v6 \u00a78.8 (multiplicity) are replaced by v7 \u00a74 (v7 \u00a70.1) and are not included.",
+      "sha256": "27d4efbc0abbfdcf65f3655caf9742b35785784cea21018120c3adfbef35f437"
+    },
+    "5_C-b_v6_8_7": {
+      "file": "reports/phase3b/v6/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "569-574",
+      "sha256": "a907769f3672ba522336cfdd478619e8c996470949fbaf425d8f4aa75d9e0b89"
+    },
+    "5_C-c_v6_8_5": {
+      "file": "reports/phase3b/v6/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "524-543",
+      "sha256": "c32cb95d298f292a6906edbc62c3f77da6ed9b928130a0664d3cd5914ebd2983"
+    },
+    "5_D12_register_row": {
+      "file": "reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "615-615",
+      "sha256": "0ff1f864e6e1ae8543e004961c7b05ab1216782eb8edac5d6a98b7e529cf55d2"
+    },
+    "5_D15_register_row": {
+      "file": "reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "618-618",
+      "sha256": "e13b0707c39fd6ef200f8d1b6302b307103bfbccaeeb54882eece194357a0186"
+    },
+    "5_D20_register_row": {
+      "file": "reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "623-623",
+      "sha256": "45e87c4b8b690fe7d88f912e9450c0a14475da7a8602f5d9fa84fea1c9739324"
+    },
+    "5_GSE63061_correlation_v7_4_5": {
+      "file": "reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "336-344",
+      "sha256": "0e433c43ef86a77e0bc586149c6f7102cfd8d773bddfe44fa009a302743998ba"
+    },
+    "5_claim_families_v7_4_2": {
+      "file": "reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "289-300",
+      "sha256": "cbbb6783e531c15f1f0a4e0688f63cd927f698df7388cf7a4f9011f9d33bb616"
+    },
+    "5_covariates_v7_4_1": {
+      "file": "reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "251-288",
+      "sha256": "fae4beb6546f96bf57f083eae5127c9c14fcc25ab5a40d9648e652ea4bf1c9c0"
+    },
+    "5_magnitude_v6_8_9": {
+      "file": "reports/phase3b/v6/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "582-605",
+      "sha256": "90e1aa87f3d7077a9ab2e3fe71512a60f059cb398f2ee58aacb9322485f0daa9"
+    },
+    "5_measurability_v6_8_3": {
+      "file": "reports/phase3b/v6/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "490-499",
+      "sha256": "3cc7546cd881c8d74a286fa9f8449a44cca1a2d41bb5e2ffe5c4c715b591b02d"
+    },
+    "5_score_weighting_coverage_v6_8_4": {
+      "file": "reports/phase3b/v6/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "500-523",
+      "sha256": "8d09f8a9ed141f66da3e0bab56a4d04c48145a83080abe9651d43719ee053e00"
+    },
+    "6_D13_register_row": {
+      "file": "reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "616-616",
+      "sha256": "f79794d2316bf0e39a55297a9bd8002e534f918c35fb8acc7cf58b58b9b461d4"
+    },
+    "6_specificity_v6_9_1_to_9_6": {
+      "file": "reports/phase3b/v6/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "608-655",
+      "sha256": "d3267924e7f3db59bf99f520626ec9579851bd4b2a9128f52266a07a0cf5b326"
+    },
+    "6_without_delta_v7_8_1_8_2": {
+      "file": "reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "492-518",
+      "sha256": "07388c69b3e58ffa442ed465764efc9bd25f1df2c83734dee586bfefe52f96f7"
+    },
+    "7_D16_register_row": {
+      "file": "reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "619-619",
+      "sha256": "ed9c74f47b796dca3250de95d227dfa974bc524a3646276fa6be27e5c5aa91d9"
+    },
+    "7_precedence_and_sets_v7_5": {
+      "file": "reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "345-415",
+      "sha256": "465ac12922160f92d6f06bdba52d3c735b93f20b85565d2c4c7586ad540820db"
+    },
+    "7_sensitivity_definitions_v6_10_1": {
+      "file": "reports/phase3b/v6/STATISTICAL_ANALYSIS_PLAN_DRAFT.md",
+      "lines": "685-714",
+      "note": "v7 \u00a70.1 maps v6 \u00a710.1 as replaced by v7 \u00a75; v7 \u00a75 restates the general rules and sample sets but not the S1\u2013S16 designs, so this table is included as the only text naming them.",
+      "sha256": "4dfdc3cf6eb2a099ee1ca7765593f5df26457a8b7816512c8ace0eb23dc89807"
+    }
+  },
+  "primary_fit_reference": {
+    "gene_level_results_sha256": "5773dcc12820add4bcdf84c9fd66e8c42dbebc439a7f4875d284f2534f73bfb9"
+  },
+  "schema": "bio-mb-001/signature-lock/v1",
+  "source_files_sha256": {
+    "reports/phase3b/v6/STATISTICAL_ANALYSIS_PLAN_DRAFT.md": "e060703879ae8697d375d141f209c09ce3c4c37ba928237bab3552803e79fad0",
+    "reports/phase3b/v7/STATISTICAL_ANALYSIS_PLAN_DRAFT.md": "585245ba41bdded0ef45b30f3aca9465307b16e590041ee642e69a69f39c85dd"
+  },
+  "status": "SIGNATURE LOCK (Tier B step 11). Written before any validation or specificity expression is modelled against diagnosis. The same lock governs every cohort (v7 \u00a77). The SAP remains a proposed draft (not approved, not frozen)."
+}

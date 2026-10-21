@@ -1,0 +1,26 @@
+{
+  "retrieved_at": "2026-10-09T13:35:59+00:00",
+  "entries": [
+    {
+      "location": "matrix",
+      "name": "GSE99039_series_matrix.txt.gz",
+      "size_label": "61M",
+      "modified": "2026-07-27 04:45",
+      "configured": true
+    },
+    {
+      "location": "suppl",
+      "name": "GSE99039_RAW.tar",
+      "size_label": "2.3G",
+      "modified": "2021-07-24 09:04",
+      "configured": true
+    },
+    {
+      "location": "suppl",
+      "name": "filelist.txt",
+      "size_label": "46K",
+      "modified": "2019-02-10 20:17",
+      "configured": true
+    }
+  ]
+}

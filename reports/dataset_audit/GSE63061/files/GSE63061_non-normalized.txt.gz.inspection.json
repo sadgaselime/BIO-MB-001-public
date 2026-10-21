@@ -1,0 +1,3195 @@
+{
+  "path": "data/raw/GSE63061/GSE63061_non-normalized.txt.gz",
+  "file_name": "GSE63061_non-normalized.txt.gz",
+  "status": "INSPECTED",
+  "format": "delimited_text",
+  "compression": "gzip",
+  "size_bytes": 31288958,
+  "n_rows": 47323,
+  "n_columns": 389,
+  "delimiter": "\t",
+  "header_line_number": 1,
+  "feature_id_column": "IND_ID",
+  "annotation_columns": [],
+  "sample_columns": [
+    {
+      "column": "7196843081_A",
+      "column_index": 1,
+      "sample_id": "7196843081_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843081_B",
+      "column_index": 2,
+      "sample_id": "7196843081_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843081_C",
+      "column_index": 3,
+      "sample_id": "7196843081_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843081_D",
+      "column_index": 4,
+      "sample_id": "7196843081_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843081_E",
+      "column_index": 5,
+      "sample_id": "7196843081_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843081_F",
+      "column_index": 6,
+      "sample_id": "7196843081_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843081_G",
+      "column_index": 7,
+      "sample_id": "7196843081_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843081_H",
+      "column_index": 8,
+      "sample_id": "7196843081_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843081_I",
+      "column_index": 9,
+      "sample_id": "7196843081_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843081_J",
+      "column_index": 10,
+      "sample_id": "7196843081_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843081_K",
+      "column_index": 11,
+      "sample_id": "7196843081_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843081_L",
+      "column_index": 12,
+      "sample_id": "7196843081_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843052_A",
+      "column_index": 13,
+      "sample_id": "7196843052_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843052_B",
+      "column_index": 14,
+      "sample_id": "7196843052_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843052_C",
+      "column_index": 15,
+      "sample_id": "7196843052_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843052_D",
+      "column_index": 16,
+      "sample_id": "7196843052_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843052_E",
+      "column_index": 17,
+      "sample_id": "7196843052_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843052_F",
+      "column_index": 18,
+      "sample_id": "7196843052_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843052_G",
+      "column_index": 19,
+      "sample_id": "7196843052_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843052_H",
+      "column_index": 20,
+      "sample_id": "7196843052_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843052_I",
+      "column_index": 21,
+      "sample_id": "7196843052_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843052_J",
+      "column_index": 22,
+      "sample_id": "7196843052_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843052_K",
+      "column_index": 23,
+      "sample_id": "7196843052_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843052_L",
+      "column_index": 24,
+      "sample_id": "7196843052_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843090_A",
+      "column_index": 25,
+      "sample_id": "7196843090_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843090_B",
+      "column_index": 26,
+      "sample_id": "7196843090_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843090_C",
+      "column_index": 27,
+      "sample_id": "7196843090_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843090_D",
+      "column_index": 28,
+      "sample_id": "7196843090_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843090_E",
+      "column_index": 29,
+      "sample_id": "7196843090_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843090_F",
+      "column_index": 30,
+      "sample_id": "7196843090_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843090_G",
+      "column_index": 31,
+      "sample_id": "7196843090_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843090_H",
+      "column_index": 32,
+      "sample_id": "7196843090_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843090_I",
+      "column_index": 33,
+      "sample_id": "7196843090_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843090_J",
+      "column_index": 34,
+      "sample_id": "7196843090_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843090_K",
+      "column_index": 35,
+      "sample_id": "7196843090_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843090_L",
+      "column_index": 36,
+      "sample_id": "7196843090_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814051_A",
+      "column_index": 37,
+      "sample_id": "7964814051_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814051_B",
+      "column_index": 38,
+      "sample_id": "7964814051_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814051_C",
+      "column_index": 39,
+      "sample_id": "7964814051_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814051_D",
+      "column_index": 40,
+      "sample_id": "7964814051_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814051_F",
+      "column_index": 41,
+      "sample_id": "7964814051_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814051_G",
+      "column_index": 42,
+      "sample_id": "7964814051_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814051_H",
+      "column_index": 43,
+      "sample_id": "7964814051_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814051_I",
+      "column_index": 44,
+      "sample_id": "7964814051_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814051_J",
+      "column_index": 45,
+      "sample_id": "7964814051_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814051_K",
+      "column_index": 46,
+      "sample_id": "7964814051_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814051_L",
+      "column_index": 47,
+      "sample_id": "7964814051_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843066_A",
+      "column_index": 48,
+      "sample_id": "7196843066_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843066_B",
+      "column_index": 49,
+      "sample_id": "7196843066_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843066_D",
+      "column_index": 50,
+      "sample_id": "7196843066_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843066_E",
+      "column_index": 51,
+      "sample_id": "7196843066_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843066_F",
+      "column_index": 52,
+      "sample_id": "7196843066_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843066_G",
+      "column_index": 53,
+      "sample_id": "7196843066_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843066_H",
+      "column_index": 54,
+      "sample_id": "7196843066_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843066_I",
+      "column_index": 55,
+      "sample_id": "7196843066_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843066_K",
+      "column_index": 56,
+      "sample_id": "7196843066_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843066_L",
+      "column_index": 57,
+      "sample_id": "7196843066_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843035_A",
+      "column_index": 58,
+      "sample_id": "7196843035_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843035_B",
+      "column_index": 59,
+      "sample_id": "7196843035_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843035_C",
+      "column_index": 60,
+      "sample_id": "7196843035_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843035_D",
+      "column_index": 61,
+      "sample_id": "7196843035_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843035_E",
+      "column_index": 62,
+      "sample_id": "7196843035_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843035_F",
+      "column_index": 63,
+      "sample_id": "7196843035_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843035_G",
+      "column_index": 64,
+      "sample_id": "7196843035_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843035_H",
+      "column_index": 65,
+      "sample_id": "7196843035_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843035_I",
+      "column_index": 66,
+      "sample_id": "7196843035_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843035_J",
+      "column_index": 67,
+      "sample_id": "7196843035_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843035_K",
+      "column_index": 68,
+      "sample_id": "7196843035_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843035_L",
+      "column_index": 69,
+      "sample_id": "7196843035_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931018_A",
+      "column_index": 70,
+      "sample_id": "7348931018_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931018_B",
+      "column_index": 71,
+      "sample_id": "7348931018_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931018_C",
+      "column_index": 72,
+      "sample_id": "7348931018_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931018_D",
+      "column_index": 73,
+      "sample_id": "7348931018_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931018_E",
+      "column_index": 74,
+      "sample_id": "7348931018_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931018_F",
+      "column_index": 75,
+      "sample_id": "7348931018_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931018_G",
+      "column_index": 76,
+      "sample_id": "7348931018_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931018_H",
+      "column_index": 77,
+      "sample_id": "7348931018_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931018_J",
+      "column_index": 78,
+      "sample_id": "7348931018_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931018_K",
+      "column_index": 79,
+      "sample_id": "7348931018_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931018_L",
+      "column_index": 80,
+      "sample_id": "7348931018_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843072_A",
+      "column_index": 81,
+      "sample_id": "7196843072_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843072_B",
+      "column_index": 82,
+      "sample_id": "7196843072_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843072_D",
+      "column_index": 83,
+      "sample_id": "7196843072_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843072_E",
+      "column_index": 84,
+      "sample_id": "7196843072_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843072_F",
+      "column_index": 85,
+      "sample_id": "7196843072_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843072_G",
+      "column_index": 86,
+      "sample_id": "7196843072_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843072_H",
+      "column_index": 87,
+      "sample_id": "7196843072_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843072_I",
+      "column_index": 88,
+      "sample_id": "7196843072_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843072_J",
+      "column_index": 89,
+      "sample_id": "7196843072_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843072_K",
+      "column_index": 90,
+      "sample_id": "7196843072_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843072_L",
+      "column_index": 91,
+      "sample_id": "7196843072_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843053_A",
+      "column_index": 92,
+      "sample_id": "7196843053_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843053_B",
+      "column_index": 93,
+      "sample_id": "7196843053_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843053_C",
+      "column_index": 94,
+      "sample_id": "7196843053_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843053_D",
+      "column_index": 95,
+      "sample_id": "7196843053_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843053_E",
+      "column_index": 96,
+      "sample_id": "7196843053_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843053_F",
+      "column_index": 97,
+      "sample_id": "7196843053_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843053_G",
+      "column_index": 98,
+      "sample_id": "7196843053_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843053_H",
+      "column_index": 99,
+      "sample_id": "7196843053_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843053_I",
+      "column_index": 100,
+      "sample_id": "7196843053_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843053_J",
+      "column_index": 101,
+      "sample_id": "7196843053_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843053_K",
+      "column_index": 102,
+      "sample_id": "7196843053_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843053_L",
+      "column_index": 103,
+      "sample_id": "7196843053_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843073_A",
+      "column_index": 104,
+      "sample_id": "7196843073_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843073_B",
+      "column_index": 105,
+      "sample_id": "7196843073_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843073_C",
+      "column_index": 106,
+      "sample_id": "7196843073_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843073_D",
+      "column_index": 107,
+      "sample_id": "7196843073_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843073_E",
+      "column_index": 108,
+      "sample_id": "7196843073_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843073_F",
+      "column_index": 109,
+      "sample_id": "7196843073_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843073_G",
+      "column_index": 110,
+      "sample_id": "7196843073_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843073_H",
+      "column_index": 111,
+      "sample_id": "7196843073_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843073_I",
+      "column_index": 112,
+      "sample_id": "7196843073_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843073_J",
+      "column_index": 113,
+      "sample_id": "7196843073_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843073_K",
+      "column_index": 114,
+      "sample_id": "7196843073_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843073_L",
+      "column_index": 115,
+      "sample_id": "7196843073_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843032_A",
+      "column_index": 116,
+      "sample_id": "7196843032_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843032_B",
+      "column_index": 117,
+      "sample_id": "7196843032_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843032_C",
+      "column_index": 118,
+      "sample_id": "7196843032_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843032_D",
+      "column_index": 119,
+      "sample_id": "7196843032_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843032_E",
+      "column_index": 120,
+      "sample_id": "7196843032_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843032_F",
+      "column_index": 121,
+      "sample_id": "7196843032_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843032_G",
+      "column_index": 122,
+      "sample_id": "7196843032_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843032_H",
+      "column_index": 123,
+      "sample_id": "7196843032_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843032_I",
+      "column_index": 124,
+      "sample_id": "7196843032_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843032_J",
+      "column_index": 125,
+      "sample_id": "7196843032_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843032_K",
+      "column_index": 126,
+      "sample_id": "7196843032_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843032_L",
+      "column_index": 127,
+      "sample_id": "7196843032_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843063_A",
+      "column_index": 128,
+      "sample_id": "7196843063_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843063_B",
+      "column_index": 129,
+      "sample_id": "7196843063_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843063_C",
+      "column_index": 130,
+      "sample_id": "7196843063_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843063_D",
+      "column_index": 131,
+      "sample_id": "7196843063_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843063_E",
+      "column_index": 132,
+      "sample_id": "7196843063_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843063_F",
+      "column_index": 133,
+      "sample_id": "7196843063_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843063_G",
+      "column_index": 134,
+      "sample_id": "7196843063_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843063_H",
+      "column_index": 135,
+      "sample_id": "7196843063_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843063_I",
+      "column_index": 136,
+      "sample_id": "7196843063_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843063_J",
+      "column_index": 137,
+      "sample_id": "7196843063_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843063_L",
+      "column_index": 138,
+      "sample_id": "7196843063_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931019_A",
+      "column_index": 139,
+      "sample_id": "7348931019_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931019_B",
+      "column_index": 140,
+      "sample_id": "7348931019_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931019_C",
+      "column_index": 141,
+      "sample_id": "7348931019_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931019_D",
+      "column_index": 142,
+      "sample_id": "7348931019_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931019_E",
+      "column_index": 143,
+      "sample_id": "7348931019_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931019_F",
+      "column_index": 144,
+      "sample_id": "7348931019_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931019_G",
+      "column_index": 145,
+      "sample_id": "7348931019_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931019_H",
+      "column_index": 146,
+      "sample_id": "7348931019_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931019_I",
+      "column_index": 147,
+      "sample_id": "7348931019_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931019_J",
+      "column_index": 148,
+      "sample_id": "7348931019_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931019_K",
+      "column_index": 149,
+      "sample_id": "7348931019_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931019_L",
+      "column_index": 150,
+      "sample_id": "7348931019_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814041_A",
+      "column_index": 151,
+      "sample_id": "7964814041_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814041_B",
+      "column_index": 152,
+      "sample_id": "7964814041_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814041_C",
+      "column_index": 153,
+      "sample_id": "7964814041_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814041_D",
+      "column_index": 154,
+      "sample_id": "7964814041_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814041_E",
+      "column_index": 155,
+      "sample_id": "7964814041_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814041_F",
+      "column_index": 156,
+      "sample_id": "7964814041_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814041_G",
+      "column_index": 157,
+      "sample_id": "7964814041_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814041_H",
+      "column_index": 158,
+      "sample_id": "7964814041_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814041_I",
+      "column_index": 159,
+      "sample_id": "7964814041_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814041_J",
+      "column_index": 160,
+      "sample_id": "7964814041_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814041_K",
+      "column_index": 161,
+      "sample_id": "7964814041_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814041_L",
+      "column_index": 162,
+      "sample_id": "7964814041_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280031_A",
+      "column_index": 163,
+      "sample_id": "7943280031_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280031_B",
+      "column_index": 164,
+      "sample_id": "7943280031_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280031_C",
+      "column_index": 165,
+      "sample_id": "7943280031_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280031_D",
+      "column_index": 166,
+      "sample_id": "7943280031_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280031_E",
+      "column_index": 167,
+      "sample_id": "7943280031_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280031_F",
+      "column_index": 168,
+      "sample_id": "7943280031_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280031_G",
+      "column_index": 169,
+      "sample_id": "7943280031_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280031_H",
+      "column_index": 170,
+      "sample_id": "7943280031_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280031_I",
+      "column_index": 171,
+      "sample_id": "7943280031_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280031_J",
+      "column_index": 172,
+      "sample_id": "7943280031_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280031_K",
+      "column_index": 173,
+      "sample_id": "7943280031_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280031_L",
+      "column_index": 174,
+      "sample_id": "7943280031_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843068_A",
+      "column_index": 175,
+      "sample_id": "7196843068_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843068_B",
+      "column_index": 176,
+      "sample_id": "7196843068_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843068_C",
+      "column_index": 177,
+      "sample_id": "7196843068_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843068_D",
+      "column_index": 178,
+      "sample_id": "7196843068_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843068_E",
+      "column_index": 179,
+      "sample_id": "7196843068_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843068_F",
+      "column_index": 180,
+      "sample_id": "7196843068_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843068_G",
+      "column_index": 181,
+      "sample_id": "7196843068_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843068_H",
+      "column_index": 182,
+      "sample_id": "7196843068_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843068_I",
+      "column_index": 183,
+      "sample_id": "7196843068_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843068_J",
+      "column_index": 184,
+      "sample_id": "7196843068_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843068_K",
+      "column_index": 185,
+      "sample_id": "7196843068_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843068_L",
+      "column_index": 186,
+      "sample_id": "7196843068_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843062_A",
+      "column_index": 187,
+      "sample_id": "7196843062_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843062_B",
+      "column_index": 188,
+      "sample_id": "7196843062_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843062_C",
+      "column_index": 189,
+      "sample_id": "7196843062_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843062_D",
+      "column_index": 190,
+      "sample_id": "7196843062_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843062_E",
+      "column_index": 191,
+      "sample_id": "7196843062_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843062_F",
+      "column_index": 192,
+      "sample_id": "7196843062_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843062_G",
+      "column_index": 193,
+      "sample_id": "7196843062_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843062_H",
+      "column_index": 194,
+      "sample_id": "7196843062_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843062_I",
+      "column_index": 195,
+      "sample_id": "7196843062_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843062_J",
+      "column_index": 196,
+      "sample_id": "7196843062_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843062_K",
+      "column_index": 197,
+      "sample_id": "7196843062_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843062_L",
+      "column_index": 198,
+      "sample_id": "7196843062_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835090_A",
+      "column_index": 199,
+      "sample_id": "7196835090_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835090_B",
+      "column_index": 200,
+      "sample_id": "7196835090_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835090_C",
+      "column_index": 201,
+      "sample_id": "7196835090_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835090_E",
+      "column_index": 202,
+      "sample_id": "7196835090_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835090_F",
+      "column_index": 203,
+      "sample_id": "7196835090_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835090_G",
+      "column_index": 204,
+      "sample_id": "7196835090_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835090_I",
+      "column_index": 205,
+      "sample_id": "7196835090_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835090_J",
+      "column_index": 206,
+      "sample_id": "7196835090_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835090_K",
+      "column_index": 207,
+      "sample_id": "7196835090_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814028_A",
+      "column_index": 208,
+      "sample_id": "7964814028_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814028_B",
+      "column_index": 209,
+      "sample_id": "7964814028_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814028_C",
+      "column_index": 210,
+      "sample_id": "7964814028_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814028_D",
+      "column_index": 211,
+      "sample_id": "7964814028_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814028_E",
+      "column_index": 212,
+      "sample_id": "7964814028_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814028_F",
+      "column_index": 213,
+      "sample_id": "7964814028_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814028_G",
+      "column_index": 214,
+      "sample_id": "7964814028_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814028_H",
+      "column_index": 215,
+      "sample_id": "7964814028_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814028_I",
+      "column_index": 216,
+      "sample_id": "7964814028_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814028_J",
+      "column_index": 217,
+      "sample_id": "7964814028_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814028_K",
+      "column_index": 218,
+      "sample_id": "7964814028_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814028_L",
+      "column_index": 219,
+      "sample_id": "7964814028_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843036_A",
+      "column_index": 220,
+      "sample_id": "7196843036_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843036_B",
+      "column_index": 221,
+      "sample_id": "7196843036_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843036_C",
+      "column_index": 222,
+      "sample_id": "7196843036_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843036_D",
+      "column_index": 223,
+      "sample_id": "7196843036_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843036_E",
+      "column_index": 224,
+      "sample_id": "7196843036_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843036_G",
+      "column_index": 225,
+      "sample_id": "7196843036_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843036_H",
+      "column_index": 226,
+      "sample_id": "7196843036_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843036_I",
+      "column_index": 227,
+      "sample_id": "7196843036_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843036_J",
+      "column_index": 228,
+      "sample_id": "7196843036_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843036_K",
+      "column_index": 229,
+      "sample_id": "7196843036_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843036_L",
+      "column_index": 230,
+      "sample_id": "7196843036_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843054_A",
+      "column_index": 231,
+      "sample_id": "7196843054_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843054_B",
+      "column_index": 232,
+      "sample_id": "7196843054_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843054_C",
+      "column_index": 233,
+      "sample_id": "7196843054_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843054_D",
+      "column_index": 234,
+      "sample_id": "7196843054_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843054_E",
+      "column_index": 235,
+      "sample_id": "7196843054_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843054_F",
+      "column_index": 236,
+      "sample_id": "7196843054_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843054_G",
+      "column_index": 237,
+      "sample_id": "7196843054_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843054_H",
+      "column_index": 238,
+      "sample_id": "7196843054_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843054_I",
+      "column_index": 239,
+      "sample_id": "7196843054_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843054_J",
+      "column_index": 240,
+      "sample_id": "7196843054_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843054_K",
+      "column_index": 241,
+      "sample_id": "7196843054_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843054_L",
+      "column_index": 242,
+      "sample_id": "7196843054_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843065_A",
+      "column_index": 243,
+      "sample_id": "7196843065_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843065_B",
+      "column_index": 244,
+      "sample_id": "7196843065_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843065_C",
+      "column_index": 245,
+      "sample_id": "7196843065_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843065_D",
+      "column_index": 246,
+      "sample_id": "7196843065_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843065_E",
+      "column_index": 247,
+      "sample_id": "7196843065_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843065_F",
+      "column_index": 248,
+      "sample_id": "7196843065_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843065_G",
+      "column_index": 249,
+      "sample_id": "7196843065_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843065_H",
+      "column_index": 250,
+      "sample_id": "7196843065_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843065_I",
+      "column_index": 251,
+      "sample_id": "7196843065_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843065_J",
+      "column_index": 252,
+      "sample_id": "7196843065_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843065_K",
+      "column_index": 253,
+      "sample_id": "7196843065_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843065_L",
+      "column_index": 254,
+      "sample_id": "7196843065_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931015_A",
+      "column_index": 255,
+      "sample_id": "7348931015_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931015_B",
+      "column_index": 256,
+      "sample_id": "7348931015_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931015_C",
+      "column_index": 257,
+      "sample_id": "7348931015_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931015_D",
+      "column_index": 258,
+      "sample_id": "7348931015_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931015_F",
+      "column_index": 259,
+      "sample_id": "7348931015_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931015_G",
+      "column_index": 260,
+      "sample_id": "7348931015_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931015_H",
+      "column_index": 261,
+      "sample_id": "7348931015_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931015_I",
+      "column_index": 262,
+      "sample_id": "7348931015_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931015_J",
+      "column_index": 263,
+      "sample_id": "7348931015_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931015_K",
+      "column_index": 264,
+      "sample_id": "7348931015_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931015_L",
+      "column_index": 265,
+      "sample_id": "7348931015_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931005_A",
+      "column_index": 266,
+      "sample_id": "7348931005_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931005_B",
+      "column_index": 267,
+      "sample_id": "7348931005_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931005_C",
+      "column_index": 268,
+      "sample_id": "7348931005_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931005_D",
+      "column_index": 269,
+      "sample_id": "7348931005_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931005_E",
+      "column_index": 270,
+      "sample_id": "7348931005_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931005_F",
+      "column_index": 271,
+      "sample_id": "7348931005_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931005_G",
+      "column_index": 272,
+      "sample_id": "7348931005_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931005_H",
+      "column_index": 273,
+      "sample_id": "7348931005_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931005_J",
+      "column_index": 274,
+      "sample_id": "7348931005_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931005_K",
+      "column_index": 275,
+      "sample_id": "7348931005_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931005_L",
+      "column_index": 276,
+      "sample_id": "7348931005_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843007_A",
+      "column_index": 277,
+      "sample_id": "7196843007_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843007_B",
+      "column_index": 278,
+      "sample_id": "7196843007_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843007_C",
+      "column_index": 279,
+      "sample_id": "7196843007_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843007_D",
+      "column_index": 280,
+      "sample_id": "7196843007_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843007_E",
+      "column_index": 281,
+      "sample_id": "7196843007_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843007_G",
+      "column_index": 282,
+      "sample_id": "7196843007_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843007_H",
+      "column_index": 283,
+      "sample_id": "7196843007_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843007_I",
+      "column_index": 284,
+      "sample_id": "7196843007_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843007_J",
+      "column_index": 285,
+      "sample_id": "7196843007_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843007_K",
+      "column_index": 286,
+      "sample_id": "7196843007_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843007_L",
+      "column_index": 287,
+      "sample_id": "7196843007_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843091_A",
+      "column_index": 288,
+      "sample_id": "7196843091_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843091_B",
+      "column_index": 289,
+      "sample_id": "7196843091_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843091_C",
+      "column_index": 290,
+      "sample_id": "7196843091_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843091_D",
+      "column_index": 291,
+      "sample_id": "7196843091_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843091_E",
+      "column_index": 292,
+      "sample_id": "7196843091_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843091_F",
+      "column_index": 293,
+      "sample_id": "7196843091_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843091_G",
+      "column_index": 294,
+      "sample_id": "7196843091_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843091_H",
+      "column_index": 295,
+      "sample_id": "7196843091_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843091_I",
+      "column_index": 296,
+      "sample_id": "7196843091_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843091_J",
+      "column_index": 297,
+      "sample_id": "7196843091_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843091_K",
+      "column_index": 298,
+      "sample_id": "7196843091_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843091_L",
+      "column_index": 299,
+      "sample_id": "7196843091_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814064_A",
+      "column_index": 300,
+      "sample_id": "7964814064_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814064_B",
+      "column_index": 301,
+      "sample_id": "7964814064_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814064_C",
+      "column_index": 302,
+      "sample_id": "7964814064_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814064_D",
+      "column_index": 303,
+      "sample_id": "7964814064_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814064_E",
+      "column_index": 304,
+      "sample_id": "7964814064_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814064_F",
+      "column_index": 305,
+      "sample_id": "7964814064_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814064_G",
+      "column_index": 306,
+      "sample_id": "7964814064_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814064_H",
+      "column_index": 307,
+      "sample_id": "7964814064_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814064_I",
+      "column_index": 308,
+      "sample_id": "7964814064_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814064_J",
+      "column_index": 309,
+      "sample_id": "7964814064_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814064_K",
+      "column_index": 310,
+      "sample_id": "7964814064_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7964814064_L",
+      "column_index": 311,
+      "sample_id": "7964814064_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835071_A",
+      "column_index": 312,
+      "sample_id": "7196835071_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835071_B",
+      "column_index": 313,
+      "sample_id": "7196835071_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835071_C",
+      "column_index": 314,
+      "sample_id": "7196835071_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835071_D",
+      "column_index": 315,
+      "sample_id": "7196835071_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835071_E",
+      "column_index": 316,
+      "sample_id": "7196835071_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835071_F",
+      "column_index": 317,
+      "sample_id": "7196835071_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835071_G",
+      "column_index": 318,
+      "sample_id": "7196835071_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835071_H",
+      "column_index": 319,
+      "sample_id": "7196835071_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835071_I",
+      "column_index": 320,
+      "sample_id": "7196835071_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835071_J",
+      "column_index": 321,
+      "sample_id": "7196835071_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835071_K",
+      "column_index": 322,
+      "sample_id": "7196835071_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196835071_L",
+      "column_index": 323,
+      "sample_id": "7196835071_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931014_B",
+      "column_index": 324,
+      "sample_id": "7348931014_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931014_C",
+      "column_index": 325,
+      "sample_id": "7348931014_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931014_D",
+      "column_index": 326,
+      "sample_id": "7348931014_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931014_E",
+      "column_index": 327,
+      "sample_id": "7348931014_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931014_F",
+      "column_index": 328,
+      "sample_id": "7348931014_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931014_G",
+      "column_index": 329,
+      "sample_id": "7348931014_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931014_I",
+      "column_index": 330,
+      "sample_id": "7348931014_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280008_A",
+      "column_index": 331,
+      "sample_id": "7943280008_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280008_B",
+      "column_index": 332,
+      "sample_id": "7943280008_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280008_C",
+      "column_index": 333,
+      "sample_id": "7943280008_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280008_E",
+      "column_index": 334,
+      "sample_id": "7943280008_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280008_F",
+      "column_index": 335,
+      "sample_id": "7943280008_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280008_G",
+      "column_index": 336,
+      "sample_id": "7943280008_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280008_H",
+      "column_index": 337,
+      "sample_id": "7943280008_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280008_I",
+      "column_index": 338,
+      "sample_id": "7943280008_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280008_J",
+      "column_index": 339,
+      "sample_id": "7943280008_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280008_K",
+      "column_index": 340,
+      "sample_id": "7943280008_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7943280008_L",
+      "column_index": 341,
+      "sample_id": "7943280008_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931007_A",
+      "column_index": 342,
+      "sample_id": "7348931007_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931007_B",
+      "column_index": 343,
+      "sample_id": "7348931007_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931007_C",
+      "column_index": 344,
+      "sample_id": "7348931007_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931007_D",
+      "column_index": 345,
+      "sample_id": "7348931007_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931007_E",
+      "column_index": 346,
+      "sample_id": "7348931007_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931007_F",
+      "column_index": 347,
+      "sample_id": "7348931007_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931007_G",
+      "column_index": 348,
+      "sample_id": "7348931007_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931007_H",
+      "column_index": 349,
+      "sample_id": "7348931007_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931007_I",
+      "column_index": 350,
+      "sample_id": "7348931007_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931007_J",
+      "column_index": 351,
+      "sample_id": "7348931007_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931007_K",
+      "column_index": 352,
+      "sample_id": "7348931007_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931007_L",
+      "column_index": 353,
+      "sample_id": "7348931007_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843076_A",
+      "column_index": 354,
+      "sample_id": "7196843076_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843076_B",
+      "column_index": 355,
+      "sample_id": "7196843076_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843076_C",
+      "column_index": 356,
+      "sample_id": "7196843076_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843076_E",
+      "column_index": 357,
+      "sample_id": "7196843076_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843076_F",
+      "column_index": 358,
+      "sample_id": "7196843076_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843076_G",
+      "column_index": 359,
+      "sample_id": "7196843076_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843076_H",
+      "column_index": 360,
+      "sample_id": "7196843076_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843076_I",
+      "column_index": 361,
+      "sample_id": "7196843076_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843076_J",
+      "column_index": 362,
+      "sample_id": "7196843076_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843076_K",
+      "column_index": 363,
+      "sample_id": "7196843076_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843076_L",
+      "column_index": 364,
+      "sample_id": "7196843076_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843069_A",
+      "column_index": 365,
+      "sample_id": "7196843069_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843069_B",
+      "column_index": 366,
+      "sample_id": "7196843069_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843069_C",
+      "column_index": 367,
+      "sample_id": "7196843069_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843069_D",
+      "column_index": 368,
+      "sample_id": "7196843069_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843069_E",
+      "column_index": 369,
+      "sample_id": "7196843069_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843069_F",
+      "column_index": 370,
+      "sample_id": "7196843069_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843069_G",
+      "column_index": 371,
+      "sample_id": "7196843069_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843069_H",
+      "column_index": 372,
+      "sample_id": "7196843069_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843069_I",
+      "column_index": 373,
+      "sample_id": "7196843069_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843069_J",
+      "column_index": 374,
+      "sample_id": "7196843069_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843069_K",
+      "column_index": 375,
+      "sample_id": "7196843069_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7196843069_L",
+      "column_index": 376,
+      "sample_id": "7196843069_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931013_A",
+      "column_index": 377,
+      "sample_id": "7348931013_A",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931013_B",
+      "column_index": 378,
+      "sample_id": "7348931013_B",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931013_C",
+      "column_index": 379,
+      "sample_id": "7348931013_C",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931013_D",
+      "column_index": 380,
+      "sample_id": "7348931013_D",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931013_E",
+      "column_index": 381,
+      "sample_id": "7348931013_E",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931013_F",
+      "column_index": 382,
+      "sample_id": "7348931013_F",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931013_G",
+      "column_index": 383,
+      "sample_id": "7348931013_G",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931013_H",
+      "column_index": 384,
+      "sample_id": "7348931013_H",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931013_I",
+      "column_index": 385,
+      "sample_id": "7348931013_I",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931013_J",
+      "column_index": 386,
+      "sample_id": "7348931013_J",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931013_K",
+      "column_index": 387,
+      "sample_id": "7348931013_K",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "7348931013_L",
+      "column_index": 388,
+      "sample_id": "7348931013_L",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    }
+  ],
+  "candidate_sample_ids": [
+    "7196843081_A",
+    "7196843081_B",
+    "7196843081_C",
+    "7196843081_D",
+    "7196843081_E",
+    "7196843081_F",
+    "7196843081_G",
+    "7196843081_H",
+    "7196843081_I",
+    "7196843081_J",
+    "7196843081_K",
+    "7196843081_L",
+    "7196843052_A",
+    "7196843052_B",
+    "7196843052_C",
+    "7196843052_D",
+    "7196843052_E",
+    "7196843052_F",
+    "7196843052_G",
+    "7196843052_H",
+    "7196843052_I",
+    "7196843052_J",
+    "7196843052_K",
+    "7196843052_L",
+    "7196843090_A",
+    "7196843090_B",
+    "7196843090_C",
+    "7196843090_D",
+    "7196843090_E",
+    "7196843090_F",
+    "7196843090_G",
+    "7196843090_H",
+    "7196843090_I",
+    "7196843090_J",
+    "7196843090_K",
+    "7196843090_L",
+    "7964814051_A",
+    "7964814051_B",
+    "7964814051_C",
+    "7964814051_D",
+    "7964814051_F",
+    "7964814051_G",
+    "7964814051_H",
+    "7964814051_I",
+    "7964814051_J",
+    "7964814051_K",
+    "7964814051_L",
+    "7196843066_A",
+    "7196843066_B",
+    "7196843066_D",
+    "7196843066_E",
+    "7196843066_F",
+    "7196843066_G",
+    "7196843066_H",
+    "7196843066_I",
+    "7196843066_K",
+    "7196843066_L",
+    "7196843035_A",
+    "7196843035_B",
+    "7196843035_C",
+    "7196843035_D",
+    "7196843035_E",
+    "7196843035_F",
+    "7196843035_G",
+    "7196843035_H",
+    "7196843035_I",
+    "7196843035_J",
+    "7196843035_K",
+    "7196843035_L",
+    "7348931018_A",
+    "7348931018_B",
+    "7348931018_C",
+    "7348931018_D",
+    "7348931018_E",
+    "7348931018_F",
+    "7348931018_G",
+    "7348931018_H",
+    "7348931018_J",
+    "7348931018_K",
+    "7348931018_L",
+    "7196843072_A",
+    "7196843072_B",
+    "7196843072_D",
+    "7196843072_E",
+    "7196843072_F",
+    "7196843072_G",
+    "7196843072_H",
+    "7196843072_I",
+    "7196843072_J",
+    "7196843072_K",
+    "7196843072_L",
+    "7196843053_A",
+    "7196843053_B",
+    "7196843053_C",
+    "7196843053_D",
+    "7196843053_E",
+    "7196843053_F",
+    "7196843053_G",
+    "7196843053_H",
+    "7196843053_I",
+    "7196843053_J",
+    "7196843053_K",
+    "7196843053_L",
+    "7196843073_A",
+    "7196843073_B",
+    "7196843073_C",
+    "7196843073_D",
+    "7196843073_E",
+    "7196843073_F",
+    "7196843073_G",
+    "7196843073_H",
+    "7196843073_I",
+    "7196843073_J",
+    "7196843073_K",
+    "7196843073_L",
+    "7196843032_A",
+    "7196843032_B",
+    "7196843032_C",
+    "7196843032_D",
+    "7196843032_E",
+    "7196843032_F",
+    "7196843032_G",
+    "7196843032_H",
+    "7196843032_I",
+    "7196843032_J",
+    "7196843032_K",
+    "7196843032_L",
+    "7196843063_A",
+    "7196843063_B",
+    "7196843063_C",
+    "7196843063_D",
+    "7196843063_E",
+    "7196843063_F",
+    "7196843063_G",
+    "7196843063_H",
+    "7196843063_I",
+    "7196843063_J",
+    "7196843063_L",
+    "7348931019_A",
+    "7348931019_B",
+    "7348931019_C",
+    "7348931019_D",
+    "7348931019_E",
+    "7348931019_F",
+    "7348931019_G",
+    "7348931019_H",
+    "7348931019_I",
+    "7348931019_J",
+    "7348931019_K",
+    "7348931019_L",
+    "7964814041_A",
+    "7964814041_B",
+    "7964814041_C",
+    "7964814041_D",
+    "7964814041_E",
+    "7964814041_F",
+    "7964814041_G",
+    "7964814041_H",
+    "7964814041_I",
+    "7964814041_J",
+    "7964814041_K",
+    "7964814041_L",
+    "7943280031_A",
+    "7943280031_B",
+    "7943280031_C",
+    "7943280031_D",
+    "7943280031_E",
+    "7943280031_F",
+    "7943280031_G",
+    "7943280031_H",
+    "7943280031_I",
+    "7943280031_J",
+    "7943280031_K",
+    "7943280031_L",
+    "7196843068_A",
+    "7196843068_B",
+    "7196843068_C",
+    "7196843068_D",
+    "7196843068_E",
+    "7196843068_F",
+    "7196843068_G",
+    "7196843068_H",
+    "7196843068_I",
+    "7196843068_J",
+    "7196843068_K",
+    "7196843068_L",
+    "7196843062_A",
+    "7196843062_B",
+    "7196843062_C",
+    "7196843062_D",
+    "7196843062_E",
+    "7196843062_F",
+    "7196843062_G",
+    "7196843062_H",
+    "7196843062_I",
+    "7196843062_J",
+    "7196843062_K",
+    "7196843062_L",
+    "7196835090_A",
+    "7196835090_B",
+    "7196835090_C",
+    "7196835090_E",
+    "7196835090_F",
+    "7196835090_G",
+    "7196835090_I",
+    "7196835090_J",
+    "7196835090_K",
+    "7964814028_A",
+    "7964814028_B",
+    "7964814028_C",
+    "7964814028_D",
+    "7964814028_E",
+    "7964814028_F",
+    "7964814028_G",
+    "7964814028_H",
+    "7964814028_I",
+    "7964814028_J",
+    "7964814028_K",
+    "7964814028_L",
+    "7196843036_A",
+    "7196843036_B",
+    "7196843036_C",
+    "7196843036_D",
+    "7196843036_E",
+    "7196843036_G",
+    "7196843036_H",
+    "7196843036_I",
+    "7196843036_J",
+    "7196843036_K",
+    "7196843036_L",
+    "7196843054_A",
+    "7196843054_B",
+    "7196843054_C",
+    "7196843054_D",
+    "7196843054_E",
+    "7196843054_F",
+    "7196843054_G",
+    "7196843054_H",
+    "7196843054_I",
+    "7196843054_J",
+    "7196843054_K",
+    "7196843054_L",
+    "7196843065_A",
+    "7196843065_B",
+    "7196843065_C",
+    "7196843065_D",
+    "7196843065_E",
+    "7196843065_F",
+    "7196843065_G",
+    "7196843065_H",
+    "7196843065_I",
+    "7196843065_J",
+    "7196843065_K",
+    "7196843065_L",
+    "7348931015_A",
+    "7348931015_B",
+    "7348931015_C",
+    "7348931015_D",
+    "7348931015_F",
+    "7348931015_G",
+    "7348931015_H",
+    "7348931015_I",
+    "7348931015_J",
+    "7348931015_K",
+    "7348931015_L",
+    "7348931005_A",
+    "7348931005_B",
+    "7348931005_C",
+    "7348931005_D",
+    "7348931005_E",
+    "7348931005_F",
+    "7348931005_G",
+    "7348931005_H",
+    "7348931005_J",
+    "7348931005_K",
+    "7348931005_L",
+    "7196843007_A",
+    "7196843007_B",
+    "7196843007_C",
+    "7196843007_D",
+    "7196843007_E",
+    "7196843007_G",
+    "7196843007_H",
+    "7196843007_I",
+    "7196843007_J",
+    "7196843007_K",
+    "7196843007_L",
+    "7196843091_A",
+    "7196843091_B",
+    "7196843091_C",
+    "7196843091_D",
+    "7196843091_E",
+    "7196843091_F",
+    "7196843091_G",
+    "7196843091_H",
+    "7196843091_I",
+    "7196843091_J",
+    "7196843091_K",
+    "7196843091_L",
+    "7964814064_A",
+    "7964814064_B",
+    "7964814064_C",
+    "7964814064_D",
+    "7964814064_E",
+    "7964814064_F",
+    "7964814064_G",
+    "7964814064_H",
+    "7964814064_I",
+    "7964814064_J",
+    "7964814064_K",
+    "7964814064_L",
+    "7196835071_A",
+    "7196835071_B",
+    "7196835071_C",
+    "7196835071_D",
+    "7196835071_E",
+    "7196835071_F",
+    "7196835071_G",
+    "7196835071_H",
+    "7196835071_I",
+    "7196835071_J",
+    "7196835071_K",
+    "7196835071_L",
+    "7348931014_B",
+    "7348931014_C",
+    "7348931014_D",
+    "7348931014_E",
+    "7348931014_F",
+    "7348931014_G",
+    "7348931014_I",
+    "7943280008_A",
+    "7943280008_B",
+    "7943280008_C",
+    "7943280008_E",
+    "7943280008_F",
+    "7943280008_G",
+    "7943280008_H",
+    "7943280008_I",
+    "7943280008_J",
+    "7943280008_K",
+    "7943280008_L",
+    "7348931007_A",
+    "7348931007_B",
+    "7348931007_C",
+    "7348931007_D",
+    "7348931007_E",
+    "7348931007_F",
+    "7348931007_G",
+    "7348931007_H",
+    "7348931007_I",
+    "7348931007_J",
+    "7348931007_K",
+    "7348931007_L",
+    "7196843076_A",
+    "7196843076_B",
+    "7196843076_C",
+    "7196843076_E",
+    "7196843076_F",
+    "7196843076_G",
+    "7196843076_H",
+    "7196843076_I",
+    "7196843076_J",
+    "7196843076_K",
+    "7196843076_L",
+    "7196843069_A",
+    "7196843069_B",
+    "7196843069_C",
+    "7196843069_D",
+    "7196843069_E",
+    "7196843069_F",
+    "7196843069_G",
+    "7196843069_H",
+    "7196843069_I",
+    "7196843069_J",
+    "7196843069_K",
+    "7196843069_L",
+    "7348931013_A",
+    "7348931013_B",
+    "7348931013_C",
+    "7348931013_D",
+    "7348931013_E",
+    "7348931013_F",
+    "7348931013_G",
+    "7348931013_H",
+    "7348931013_I",
+    "7348931013_J",
+    "7348931013_K",
+    "7348931013_L"
+  ],
+  "measurement_types": {
+    "value": 388
+  },
+  "duplicate_column_headers": [],
+  "empty_header_sample_columns": [],
+  "duplicate_sample_ids": [],
+  "n_unique_feature_ids": 47323,
+  "duplicate_feature_ids": {
+    "n_duplicated_ids": 0,
+    "n_rows_involved": 0,
+    "examples": {}
+  },
+  "missing_feature_ids": 0,
+  "missing_values": {
+    "total_missing_in_sample_columns": 0,
+    "n_sample_columns_with_missing": 0,
+    "top_columns_with_missing": {},
+    "non_numeric_tokens_in_sample_columns": 0,
+    "na_tokens_recognised": [
+      "",
+      "NA",
+      "N/A",
+      "NaN",
+      "nan",
+      "null",
+      "NULL",
+      "#N/A",
+      "-"
+    ]
+  },
+  "value_summary": {
+    "columns_summarised": 388,
+    "n_numeric_values": 18361324,
+    "n_missing_values": 0,
+    "n_non_numeric_tokens": 0,
+    "min": 54.3,
+    "max": 24659.4,
+    "fraction_negative": 0.0,
+    "fraction_zero": 0.0,
+    "fraction_integer_valued": 0.09995292278487111,
+    "sampled_rows": 5112,
+    "sampling": "every 9th data row (deterministic)",
+    "pooled_quantiles_sampled": {
+      "0.0": 56.3,
+      "0.01": 69.5,
+      "0.25": 79.5,
+      "0.5": 85.4,
+      "0.75": 99.8,
+      "0.99": 1860.5,
+      "1.0": 21064.2
+    },
+    "per_sample_distribution": {
+      "median_of_sample_medians": 84.8,
+      "range_of_sample_medians": [
+        67.6,
+        130.7
+      ],
+      "sd_of_sample_quantiles_over_pooled_iqr": {
+        "q05": 0.24851951192181018,
+        "q25": 0.2906362919485945,
+        "q50": 0.3608759918739035,
+        "q75": 0.9160809115690036,
+        "q95": 10.09582130637405
+      },
+      "note": "computed on sampled rows only; small values indicate near-identical per-sample distributions"
+    }
+  },
+  "metadata": {
+    "feature_id_column_index": 0
+  },
+  "table_kind": "expression_matrix",
+  "limitations": [],
+  "error": null
+}

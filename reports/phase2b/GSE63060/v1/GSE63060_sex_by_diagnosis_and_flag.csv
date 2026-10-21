@@ -1,0 +1,7 @@
+char:included in case -control study,diagnosis_raw,Female,Male
+no,AD,65,31
+no,CTL,21,16
+no,MCI,15,26
+yes,AD,34,15
+yes,CTL,41,26
+yes,MCI,24,15

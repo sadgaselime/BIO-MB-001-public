@@ -1,0 +1,57 @@
+side,source,original_id,normalized_id,status,duplicate_count,geo_accession,diagnosis_raw,diagnosis_canonical,diagnosis_status
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_011,MAYO_011,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_012,MAYO_012,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_015,MAYO_015,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_016,MAYO_016,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_022,MAYO_022,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_024,MAYO_024,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_028,MAYO_028,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_031,MAYO_031,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_045,MAYO_045,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_046,MAYO_046,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_048,MAYO_048,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_049,MAYO_049,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_050,MAYO_050,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_051,MAYO_051,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_021,MAYO_021,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_023,MAYO_023,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_025,MAYO_025,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_026,MAYO_026,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_027,MAYO_027,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_029,MAYO_029,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_030,MAYO_030,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_036,MAYO_036,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_038,MAYO_038,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_039,MAYO_039,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_040,MAYO_040,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_041,MAYO_041,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_043,MAYO_043,matched,1,,,,
+sample_sheet,GSE165081_Sample_Sheet.PD-CN.csv.gz,MAYO_047,MAYO_047,matched,1,,,,
+phenotype,GEO sample records (GSE165081),MAYO_011,MAYO_011,matched,1,GSM5025781,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_012,MAYO_012,matched,1,GSM5025782,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_015,MAYO_015,matched,1,GSM5025783,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_016,MAYO_016,matched,1,GSM5025784,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_021,MAYO_021,matched,1,GSM5025785,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_022,MAYO_022,matched,1,GSM5025786,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_023,MAYO_023,matched,1,GSM5025787,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_024,MAYO_024,matched,1,GSM5025788,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_025,MAYO_025,matched,1,GSM5025789,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_026,MAYO_026,matched,1,GSM5025790,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_027,MAYO_027,matched,1,GSM5025791,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_028,MAYO_028,matched,1,GSM5025792,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_029,MAYO_029,matched,1,GSM5025793,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_030,MAYO_030,matched,1,GSM5025794,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_031,MAYO_031,matched,1,GSM5025795,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_036,MAYO_036,matched,1,GSM5025796,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_038,MAYO_038,matched,1,GSM5025797,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_039,MAYO_039,matched,1,GSM5025798,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_040,MAYO_040,matched,1,GSM5025799,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_041,MAYO_041,matched,1,GSM5025800,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_043,MAYO_043,matched,1,GSM5025801,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_045,MAYO_045,matched,1,GSM5025802,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_046,MAYO_046,matched,1,GSM5025803,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_047,MAYO_047,matched,1,GSM5025804,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_048,MAYO_048,matched,1,GSM5025805,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_049,MAYO_049,matched,1,GSM5025806,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_050,MAYO_050,matched,1,GSM5025807,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165081),MAYO_051,MAYO_051,matched,1,GSM5025808,PD,PD,MAPPED

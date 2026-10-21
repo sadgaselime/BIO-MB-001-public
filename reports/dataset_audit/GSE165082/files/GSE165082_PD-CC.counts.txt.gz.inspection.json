@@ -1,0 +1,299 @@
+{
+  "path": "data/raw/GSE165082/GSE165082_PD-CC.counts.txt.gz",
+  "file_name": "GSE165082_PD-CC.counts.txt.gz",
+  "status": "INSPECTED",
+  "format": "delimited_text",
+  "compression": "gzip",
+  "size_bytes": 1181704,
+  "n_rows": 63677,
+  "n_columns": 27,
+  "delimiter": "\t",
+  "header_line_number": 1,
+  "feature_id_column": "Geneid",
+  "annotation_columns": [],
+  "sample_columns": [
+    {
+      "column": "011_PD",
+      "column_index": 1,
+      "sample_id": "011_PD",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "012_PD",
+      "column_index": 2,
+      "sample_id": "012_PD",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "015_PD",
+      "column_index": 3,
+      "sample_id": "015_PD",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "016_PD",
+      "column_index": 4,
+      "sample_id": "016_PD",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "022_PD",
+      "column_index": 5,
+      "sample_id": "022_PD",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "024_PD",
+      "column_index": 6,
+      "sample_id": "024_PD",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "028_PD",
+      "column_index": 7,
+      "sample_id": "028_PD",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "031_PD",
+      "column_index": 8,
+      "sample_id": "031_PD",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "045_PD",
+      "column_index": 9,
+      "sample_id": "045_PD",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "049_PD",
+      "column_index": 10,
+      "sample_id": "049_PD",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "050_PD",
+      "column_index": 11,
+      "sample_id": "050_PD",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "051_PD",
+      "column_index": 12,
+      "sample_id": "051_PD",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "021_CC",
+      "column_index": 13,
+      "sample_id": "021_CC",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "023_CC",
+      "column_index": 14,
+      "sample_id": "023_CC",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "025_CC",
+      "column_index": 15,
+      "sample_id": "025_CC",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "026_CC",
+      "column_index": 16,
+      "sample_id": "026_CC",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "027_CC",
+      "column_index": 17,
+      "sample_id": "027_CC",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "029_CC",
+      "column_index": 18,
+      "sample_id": "029_CC",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "030_CC",
+      "column_index": 19,
+      "sample_id": "030_CC",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "036_CC",
+      "column_index": 20,
+      "sample_id": "036_CC",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "038_CC",
+      "column_index": 21,
+      "sample_id": "038_CC",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "039_CC",
+      "column_index": 22,
+      "sample_id": "039_CC",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "040_CC",
+      "column_index": 23,
+      "sample_id": "040_CC",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "041_CC",
+      "column_index": 24,
+      "sample_id": "041_CC",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "043_CC",
+      "column_index": 25,
+      "sample_id": "043_CC",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    },
+    {
+      "column": "047_CC",
+      "column_index": 26,
+      "sample_id": "047_CC",
+      "measure": "value",
+      "derivation": "column header used verbatim"
+    }
+  ],
+  "candidate_sample_ids": [
+    "011_PD",
+    "012_PD",
+    "015_PD",
+    "016_PD",
+    "022_PD",
+    "024_PD",
+    "028_PD",
+    "031_PD",
+    "045_PD",
+    "049_PD",
+    "050_PD",
+    "051_PD",
+    "021_CC",
+    "023_CC",
+    "025_CC",
+    "026_CC",
+    "027_CC",
+    "029_CC",
+    "030_CC",
+    "036_CC",
+    "038_CC",
+    "039_CC",
+    "040_CC",
+    "041_CC",
+    "043_CC",
+    "047_CC"
+  ],
+  "measurement_types": {
+    "value": 26
+  },
+  "duplicate_column_headers": [],
+  "empty_header_sample_columns": [],
+  "duplicate_sample_ids": [],
+  "n_unique_feature_ids": 63677,
+  "duplicate_feature_ids": {
+    "n_duplicated_ids": 0,
+    "n_rows_involved": 0,
+    "examples": {}
+  },
+  "missing_feature_ids": 0,
+  "missing_values": {
+    "total_missing_in_sample_columns": 0,
+    "n_sample_columns_with_missing": 0,
+    "top_columns_with_missing": {},
+    "non_numeric_tokens_in_sample_columns": 0,
+    "na_tokens_recognised": [
+      "",
+      "NA",
+      "N/A",
+      "NaN",
+      "nan",
+      "null",
+      "NULL",
+      "#N/A",
+      "-"
+    ]
+  },
+  "value_summary": {
+    "columns_summarised": 26,
+    "n_numeric_values": 1655602,
+    "n_missing_values": 0,
+    "n_non_numeric_tokens": 0,
+    "min": 0.0,
+    "max": 12835229.0,
+    "fraction_negative": 0.0,
+    "fraction_zero": 0.6584360250833232,
+    "fraction_integer_valued": 1.0,
+    "sampled_rows": 5000,
+    "sampling": "every 12th data row (deterministic)",
+    "pooled_quantiles_sampled": {
+      "0.0": 0.0,
+      "0.01": 0.0,
+      "0.25": 0.0,
+      "0.5": 0.0,
+      "0.75": 6.0,
+      "0.99": 4190.049999999974,
+      "1.0": 264325.0
+    },
+    "per_sample_distribution": {
+      "median_of_sample_medians": 0.0,
+      "range_of_sample_medians": [
+        0.0,
+        0.0
+      ],
+      "sd_of_sample_quantiles_over_pooled_iqr": {
+        "q05": 0.0,
+        "q25": 0.0,
+        "q50": 0.0,
+        "q75": 0.43039513670755175,
+        "q95": 40.50816328132961
+      },
+      "note": "computed on sampled rows only; small values indicate near-identical per-sample distributions"
+    }
+  },
+  "metadata": {
+    "feature_id_column_index": 0
+  },
+  "table_kind": "expression_matrix",
+  "limitations": [],
+  "error": null
+}

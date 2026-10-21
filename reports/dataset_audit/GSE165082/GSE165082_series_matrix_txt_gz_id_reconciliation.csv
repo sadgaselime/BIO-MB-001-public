@@ -1,0 +1,53 @@
+side,source,original_id,normalized_id,status,duplicate_count,geo_accession,diagnosis_raw,diagnosis_canonical,diagnosis_status
+expression,GSE165082_series_matrix.txt.gz,GSM5025809,GSM5025809,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025810,GSM5025810,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025811,GSM5025811,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025812,GSM5025812,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025813,GSM5025813,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025814,GSM5025814,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025815,GSM5025815,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025816,GSM5025816,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025817,GSM5025817,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025818,GSM5025818,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025819,GSM5025819,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025820,GSM5025820,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025821,GSM5025821,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025822,GSM5025822,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025823,GSM5025823,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025824,GSM5025824,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025825,GSM5025825,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025826,GSM5025826,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025827,GSM5025827,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025828,GSM5025828,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025829,GSM5025829,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025830,GSM5025830,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025831,GSM5025831,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025832,GSM5025832,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025833,GSM5025833,matched,1,,,,
+expression,GSE165082_series_matrix.txt.gz,GSM5025834,GSM5025834,matched,1,,,,
+phenotype,GEO sample records (GSE165082),GSM5025809,GSM5025809,matched,1,GSM5025809,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025810,GSM5025810,matched,1,GSM5025810,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025811,GSM5025811,matched,1,GSM5025811,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025812,GSM5025812,matched,1,GSM5025812,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025813,GSM5025813,matched,1,GSM5025813,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025814,GSM5025814,matched,1,GSM5025814,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025815,GSM5025815,matched,1,GSM5025815,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025816,GSM5025816,matched,1,GSM5025816,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025817,GSM5025817,matched,1,GSM5025817,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025818,GSM5025818,matched,1,GSM5025818,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025819,GSM5025819,matched,1,GSM5025819,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025820,GSM5025820,matched,1,GSM5025820,PD,PD,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025821,GSM5025821,matched,1,GSM5025821,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025822,GSM5025822,matched,1,GSM5025822,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025823,GSM5025823,matched,1,GSM5025823,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025824,GSM5025824,matched,1,GSM5025824,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025825,GSM5025825,matched,1,GSM5025825,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025826,GSM5025826,matched,1,GSM5025826,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025827,GSM5025827,matched,1,GSM5025827,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025828,GSM5025828,matched,1,GSM5025828,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025829,GSM5025829,matched,1,GSM5025829,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025830,GSM5025830,matched,1,GSM5025830,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025831,GSM5025831,matched,1,GSM5025831,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025832,GSM5025832,matched,1,GSM5025832,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025833,GSM5025833,matched,1,GSM5025833,Control,HC,MAPPED
+phenotype,GEO sample records (GSE165082),GSM5025834,GSM5025834,matched,1,GSM5025834,Control,HC,MAPPED

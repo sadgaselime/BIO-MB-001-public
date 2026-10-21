@@ -1,0 +1,62 @@
+{
+  "retrieved_for": "BIO-MB-001 Phase 2B v2",
+  "sources": [
+    {
+      "file": "PMC4561473_fulltext_jats.xml",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=4561473&retmode=xml",
+      "what": "Full text (JATS XML) of Sood S et al., Genome Biol 2015;16:185, PMCID PMC4561473, DOI 10.1186/s13059-015-0750-x",
+      "license": "CC BY 4.0 (stated in the article)",
+      "sha256": "1452c1f3f6b2b11f637044a21ef78091327559373bc6d2b239fa5b91d2c63746",
+      "bytes": 200058,
+      "retrieved_at_utc": "2026-10-09T14:52:56+00:00"
+    },
+    {
+      "file": "pubmed_26343147.xml",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26343147&retmode=xml",
+      "what": "PubMed record used to resolve PMID 26343147 (cited by GSE63060/GSE63061) to PMC4561473",
+      "license": "NCBI PubMed metadata",
+      "sha256": "dac41f35be6209a8849ecfde73fdb6ebc7e946a07736d084d32735688ef67384",
+      "bytes": 55313,
+      "retrieved_at_utc": "2026-10-09T14:52:41+00:00"
+    },
+    {
+      "file": "13059_2015_750_MOESM1_ESM.xlsx",
+      "source_url": "https://static-content.springer.com/esm/art%3A10.1186%2Fs13059-015-0750-x/MediaObjects/13059_2015_750_MOESM1_ESM.xlsx",
+      "what": "Additional file 1 of the article (six tabs); PMC 'bin' URLs returned HTML pages, so the publisher's copy was used",
+      "license": "CC BY 4.0 (article supplementary material)",
+      "sha256": "2dc5c58628fd6c91d5b36422db43ef0f5fe8444e77bdaa229f21c25f1d962437",
+      "bytes": 227266,
+      "retrieved_at_utc": "2026-10-09T14:56:09+00:00"
+    },
+    {
+      "file": "GSE63063_series_brief.soft.txt",
+      "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63063&targ=self&form=text&view=brief",
+      "what": "GEO SuperSeries record (parent of GSE63060/GSE63061)",
+      "license": "NCBI GEO public record",
+      "sha256": "e85e708c47e943d81691eb50ace949b8fbd0944f060c4e54576f6f691198c911",
+      "bytes": 24252,
+      "retrieved_at_utc": "2026-10-09T14:56:40+00:00"
+    }
+  ],
+  "checked_not_stored": [
+    {
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4592294/",
+      "finding": "URL supplied in the task resolves to an unrelated article ('Second-hand smoke exposure higher for kids and teens'); not the AddNeuroMed publication",
+      "sha256_of_response": "ea8a8f389f52bd41e299721977300a6e01d5cd844b9d020bf2d6f3364e5b8918",
+      "retrieved_at_utc": "2026-10-09T14:52:27+00:00"
+    },
+    {
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/4561473/bin/13059_2015_750_MOESM1_ESM.xlsx",
+      "finding": "returned an HTML page (HTTP 200), not the spreadsheet",
+      "sha256_of_response": "df3bd639b1b3c8d2e6a0612bf4eb0a6efd6b27873c978bc69e69bb83654e8b91"
+    },
+    {
+      "source_url": "Additional files 2-4 (ULSAM table S1 DOCX; Figures S1-S2 PDF)",
+      "finding": "not retrieved: by their published descriptions they contain no AddNeuroMed sample information"
+    },
+    {
+      "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63060|GSE63061 (series records)",
+      "finding": "re-queried; byte-identical to the local snapshots in data/metadata (no change since 2026-10-09)"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+deposited_group	ambiguous	concordant_two_axis	discordant_two_axis	unassessable	undocumented_ambiguous_recorded_missing	flagged	passed
+ATYPICAL_PD	0	2	1	0	0	0	3
+CBD	0	2	0	0	0	0	2
+CONTROL	11	197	4	17	4	4	229
+DRD	0	3	0	0	0	1	2
+DRD-DYT5	0	0	0	3	0	0	3
+GENETIC_UNAFFECTED	0	19	0	3	0	1	21
+GPD	1	39	1	0	0	1	40
+HD	2	16	1	0	0	1	18
+HD_HD_BATCH	0	0	0	8	0	0	8
+IPD	13	170	8	14	0	2	203
+MSA	0	7	0	1	0	0	8
+PD_DEMENTIA	0	2	0	0	0	0	2
+PSP	0	6	0	2	0	0	8
+Vascular dementia	0	0	0	1	0	0	1

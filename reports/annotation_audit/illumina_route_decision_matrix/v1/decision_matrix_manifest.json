@@ -1,0 +1,177 @@
+{
+  "status": "Assessment only; no Illumina mapping policy selected or approved; D17 and D19 unchanged",
+  "inputs_sha256": {
+    "reference/bioconductor_3.23/download_manifest.json": "be6325084aef83d39e1fe5637d1a94c911ed02325b8afd4b1a8d126cea471653",
+    "reports/annotation_audit/illumina_option_a/v1/counts_manifest_PROVISIONAL.json": "38c799d7eb1d57d81a5e78102a9ebfe66e47c6ef45f4454fd6c0acbaf1c6e86f",
+    "reports/annotation_audit/illumina_option_a/v1/illuminaHumanv3_probe_classification_PROVISIONAL.tsv": "8214b0078512282701525617f81872ce189004df663079e96157cda8fe279de4",
+    "reports/annotation_audit/illumina_option_a/v1/illuminaHumanv4_probe_classification_PROVISIONAL.tsv": "fc73bebe9b614759cced5dcf553084e87091e2959a41866eff277b0916175153",
+    "reports/annotation_audit/illumina_option_a/v1/lumi_HT12_v4_R2_probe_classification_PROVISIONAL.tsv": "cd8edfd1016c1bf8f45a70a18cfda4c649c8b3e75fe55b9f23a3f138132fd739",
+    "reports/annotation_audit/illumina_route_comparison/v3/REPORT.md": "0b21a7a42878acc0a6163376e95c1d0bcdc35818cb9dc6e666fa95faa5a76906",
+    "reports/annotation_audit/illumina_route_comparison/v3/comparison_manifest.json": "f3c58d207446e0de2a180e8b04ecdada485ad00ac4e3f1718bf9c7e567955628",
+    "reports/annotation_audit/illumina_route_comparison/v3/metric_reconciliation_probes.tsv": "d345ff888498ebce676af7de0941bf5512bfa12e73a31b00f55d3f14b1f3f3b0",
+    "reports/annotation_audit/illumina_route_comparison/v3/route_comparison_metrics.tsv": "d693ab9d653e37a6307e1ddf91433504bedb1589c3ade3f00f39bc6209dacc4e",
+    "reports/annotation_audit/ncbi_gene_history/v1/reconciliation_manifest.json": "42746d098c2d3a5b42c6788b08d38ab373097c545ff1b263dfdc36bbf6101492",
+    "scripts/annotation_illumina_route_comparison.py": "09f1675d17e0ab23d54b7a42d6f42b624640ffbd0191a84a7c31ebeb47319193"
+  },
+  "package_metadata": {
+    "illuminaHumanv3.db_1.26.0.tar.gz": {
+      "EGSOURCEDATE": "2015-Mar17",
+      "EGSOURCENAME": "Entrez Gene",
+      "CHIPNAME": "HumanHT12v3"
+    },
+    "illuminaHumanv4.db_1.26.0.tar.gz": {
+      "EGSOURCEDATE": "2015-Mar17",
+      "EGSOURCENAME": "Entrez Gene",
+      "CHIPNAME": "HumanHT12v4"
+    },
+    "lumiHumanIDMapping_1.10.1.tar.gz": {
+      "REFSEQ VERSION": "not recorded"
+    },
+    "org.Hs.eg.db_3.23.1.tar.gz": {
+      "EGSOURCEDATE": "2026-Mar18",
+      "EGSOURCENAME": "Entrez Gene"
+    }
+  },
+  "definitions": {
+    "option_a": "package Entrez IDs + approved gene-history procedure (cutoff 20260318)",
+    "accession_route": "unversioned accession match to org.Hs.eg.db 3.23.1; unique match only",
+    "M1": "same-probe agreement vs post-gene-history Option A gene",
+    "M2": "agreement vs package's original Entrez ID",
+    "probe_denominator": "all probes of the platform table",
+    "gene_counts": "distinct current Entrez IDs; successor and historical source genes counted separately",
+    "statuses": [
+      "decisive",
+      "supportive",
+      "unresolved"
+    ],
+    "advantages": [
+      "Option A",
+      "accession route",
+      "neither",
+      "not determinable"
+    ],
+    "weighting": "none"
+  },
+  "validation": {
+    "status": "OK",
+    "checks": [
+      {
+        "check": "illuminaHumanv3: recomputed accession unique probes equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: recomputed accession distinct genes equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: recomputed accession classes equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: recomputed M1 both / concordant / discordant equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: recomputed M1/M2 reconciliation equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: recomputed gene overlap equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: recomputed M2 same / different equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv3: metric_reconciliation_probes.tsv transitions equal v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: recomputed accession unique probes equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: recomputed accession distinct genes equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: recomputed accession classes equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: recomputed M1 both / concordant / discordant equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: recomputed M1/M2 reconciliation equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: recomputed gene overlap equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: recomputed M2 same / different equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "illuminaHumanv4: metric_reconciliation_probes.tsv transitions equal v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: recomputed accession unique probes equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: recomputed accession distinct genes equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: recomputed accession classes equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: recomputed M1 both / concordant / discordant equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: recomputed M1/M2 reconciliation equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: recomputed gene overlap equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: recomputed M2 same / different equals v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "lumi HT-12 v4 R2: metric_reconciliation_probes.tsv transitions equal v3 manifest",
+        "status": "OK"
+      },
+      {
+        "check": "every platform has every criterion",
+        "status": "OK"
+      },
+      {
+        "check": "statuses and advantages use the allowed vocabularies",
+        "status": "OK"
+      },
+      {
+        "check": "no criterion is marked decisive without justification",
+        "status": "OK"
+      }
+    ]
+  },
+  "determinism": {
+    "runs_compared": 2,
+    "identical": true,
+    "output_sha256": {
+      "DECISION_MATRIX.md": "19ff46b8d4531e9000f2810f7fb98b71894450acc917df589af9296a72ef6ae9",
+      "decision_matrix.tsv": "4471726cf51d8c1e2ed278cb695c8d43fb344b51e7164a7bbc2794c36b0b166f"
+    }
+  },
+  "command": "python scripts/annotation_illumina_route_decision_matrix.py --version v1"
+}
